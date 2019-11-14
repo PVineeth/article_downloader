@@ -1,0 +1,1071 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1875389214005203</prism:url><dc:identifier>doi:10.1016/j.phpro.2014.10.045</dc:identifier><eid>1-s2.0-S1875389214005203</eid><prism:doi>10.1016/j.phpro.2014.10.045</prism:doi><pii>S1875-3892(14)00520-3</pii><dc:title>Low Temperature Optical Investigations of the Iron-chalcogenide Superconductor Fe1.03Se0.5Te0.5 Under High Pressure </dc:title><prism:publicationName>Physics Procedia</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>18753892</prism:issn><prism:volume>54</prism:volume><prism:startingPage>107</prism:startingPage><prism:endingPage>112</prism:endingPage><prism:pageRange>107-112</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2014-12-31</prism:coverDate><prism:coverDisplayDate>2014</prism:coverDisplayDate><prism:copyright>Copyright © 2014 The Authors. Published by Elsevier B.V.</prism:copyright><prism:publisher>The Authors. Published by Elsevier B.V.</prism:publisher><prism:issueName>International Conference on Magnetic Materials and Applications, MagMA-2013</prism:issueName><dc:creator>Malavi, Pallavi S.</dc:creator><dc:creator>Karmakar, S.</dc:creator><dc:creator>Patel, N.N.</dc:creator><dc:creator>Sharma, S.M.</dc:creator><dc:description>
+               Abstract
+               
+                  We report an infrared study on the optimally Te-doped iron-chalcogenide superconductor, Fe1.03Se0.5Te0.5 as a function of pressure at various low temperatures down to 115K. The evolution with pressure and temperature of the mid-IR reflectance spectra shows that by increasing pressure the mid-IR absorption band associated with magnetic order reduces its intensity before it vanishes at 2GPa. However, overall low temperature reflectance spectral in the mid-IR range indicates drastic changes in the electronic configuration of the system at all pressures up to 5GPa below 120K. Far IR reflectance measurements at various high pressures show dramatic changes of the IR phonon spectra indicating structural transition below this temperature. Thus our study suggests that structural modification may not be the only parameter establishing the magnetic order in this system.
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/3.0/</openaccessUserLicense><dcterms:subject>FeSe Superconductor</dcterms:subject><dcterms:subject>IR Reflectance</dcterms:subject><dcterms:subject>High pressure</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1875389214005203" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1875389214005203" rel="scidir"/></coredata><scopus-id>84923093259</scopus-id><scopus-eid>2-s2.0-84923093259</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84923093259" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>277348</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291690</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Physics Procedia</xocs:srctitle>
+      <xocs:normalized-srctitle>PHYSICSPROCEDIA</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20141118">2014-11-18</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20141118">2014-11-18</xocs:available-online-date>
+      <xocs:ew-transaction-id>2014-11-17T16:50:26</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1875389214005203</xocs:eid>
+      <xocs:pii-formatted>S1875-3892(14)00520-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1875389214005203</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.phpro.2014.10.045</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1875389214X0009X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150515">2015-05-15T07:17:21.465287-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20140101</xocs:date-search-begin>
+      <xocs:date-search-end>20141231</xocs:date-search-end>
+      <xocs:year-nav>2014</xocs:year-nav>
+      <xocs:indexeddate epoch="1416297666">2014-11-18T08:01:06.256176Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1875-3892</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>18753892</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>54</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>54</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 54</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>19</xocs:sort-order>
+      <xocs:first-fp>107</xocs:first-fp>
+      <xocs:last-lp>112</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>107</xocs:first-page>
+         <xocs:last-page>112</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2014</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2014</xocs:cover-date-text>
+      <xocs:cover-date-start>2014-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2014-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2014</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>International Conference on Magnetic Materials and Applications, MagMA-2013</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>Perumal</ce:given-name>
+                     <ce:surname>Alagarsamy</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>Subramanian</ce:given-name>
+                     <ce:surname>Pandian</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>Ananthakrishnan</ce:given-name>
+                     <ce:surname>Srinivasan</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2014 The Authors. Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>LOWTEMPERATUREOPTICALINVESTIGATIONSIRONCHALCOGENIDESUPERCONDUCTORFE103SE05TE05UNDERHIGHPRESSURE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MALAVI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>P</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>HSU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>14262</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>IMAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>177005</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>BENDELE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>087003</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>MIZUGUCHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>152505</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>MIYOSHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>093703</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0030">
+            <xocs:ref-normalized-surname>OKABE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>205119</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0035">
+            <xocs:ref-normalized-surname>MOON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>057003</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0040">
+            <xocs:ref-normalized-surname>KUMAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>095002</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0045">
+            <xocs:ref-normalized-surname>PIETOSA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>265701</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0050">
+            <xocs:ref-normalized-surname>KARMAKAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>381</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0055">
+            <xocs:ref-normalized-surname>MAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4673</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0060">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>11</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0065"/>
+         <xocs:ref-info refid="oref0070"/>
+         <xocs:ref-info refid="sbref0075">
+            <xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>257005</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0080"/>
+         <xocs:ref-info refid="sbref0085">
+            <xocs:ref-normalized-surname>HANCOCK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>014523</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0090"/>
+         <xocs:ref-info refid="sbref0095">
+            <xocs:ref-normalized-surname>CHENFANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>224509</xocs:ref-first-fp>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MALAVIX2014X107</xocs:refkey3>
+         <xocs:refkey4lp>MALAVIX2014X107X112</xocs:refkey4lp>
+         <xocs:refkey4ai>MALAVIX2014X107XP</xocs:refkey4ai>
+         <xocs:refkey5>MALAVIX2014X107X112XP</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2014-11-17T12:59:10Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/3.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/PROC_UNBOUNDED_ESWaived">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1875-3892(14)00520-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1875389214005203</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1875389214005203</xocs:eid>
+         <xocs:doi>10.1016/j.phpro.2014.10.045</xocs:doi>
+         <xocs:cid>277348</xocs:cid>
+         <xocs:timestamp>2014-11-18T02:01:06.256176-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2014-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2014-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1875389214005203-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1875389214005203/MAIN/application/pdf/821f54593f5eb2c1fe84d02536646672/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1875389214005203/MAIN/application/pdf/821f54593f5eb2c1fe84d02536646672/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>594898</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1875389214005203-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1875389214005203/PREVIEW/image/png/b7af554c44668389a02cbc89fa60d673/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1875389214005203/PREVIEW/image/png/b7af554c44668389a02cbc89fa60d673/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>47572</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext> Physics Procedia   54  ( 2014 )  107 â€“ 112  Available online at www.sciencedirect.com 1875-3892  2014 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license  (http://creativecommons.org/licenses/by-nc-nd/3.0/). Peer-review under responsibility of Department of Physics, Indian Institute of Technology Guwahati doi: 10.1016/j.phpro.2014.10.045  ScienceDirect International Conference on Magnetic Materials and Applications, MagMA 2013  Low temperature optical investigations of the iron-chalcogenide  superconductor Fe 1.03 Se 0.5 Te 0.5  under high pressure   Pallavi S. Malavi, S. Karmakar*, N. N. Patel and S. M. Sharma   HP&amp;SRPD, Bhabha Atomic Research Centre, Trombay, Mumbai 400085, India  Abstract  We report an infrared study on the optimally Te-doped iron-chalcogenide superconductor, Fe 1.03 Se 0.5 Te 0.5  as a  function of pressure at various low temperatures down to 115K. The evolution with pressure and temperature of  the mid-IR reflectance spectra shows that by increasing pressure the mid-IR absorption band associated with  magnetic order reduces its intensity before it vanishes at 2 GPa. However, overall low temperature reflectance  spectral in the mid-IR range indicates drastic changes in the electronic configuration of the system at all  pressures up to 5 GPa below 120K. Far IR reflectance measurements at various high pressures show dramatic  changes of the IR phonon spectra indicating structural transition below this temperature. Thus our study suggests  that structural modification may not be the only parameter establishing the magnetic order in this system.     Â© 2014 The Authors. Published by Elsevier B.V.  Selection and peer-review under responsibility of Department of Physics, Indian Institute of Technology Guwahati.  Keywords: FeSe Superconductor, IR Reflectance, High pressure  1. Introduction  Discovery of superconductivity in iron-chalcogenides, with the layered anti-PbO tetragonal structure at room  temperature, has raised considerable interest in studying these compounds in more detail because of their simplest  crystal structure among various iron-based superconductors (F. C. Hsu et al. 2008). Interestingly, although Ä®-     * Corresponding author. Tel.: +91-22-25591663; fax: +91-22-25505296.  E-mail address: sdak@barc.gov.in   2014 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license  (http://creativecommons.org/licenses/by-nc-nd/3.0/). Peer-review under responsibility of Department of Physics, Indian Institute of Technology Guwahati 108   Pallavi S. Malavi et al. /  Physics Procedia  54 ( 2014 )  107 â€“ 112  FeSe exhibits spin-fluctuation driven superconducting ground state (with Tc ~9K), unlike other iron-based  superconductors (FeSCs), at ambient pressure no long range magnetic order is established at low temperature (T.  Imai et al. 2009). However moderate amount of external pressure drives the system into a state where static  magnetic order is realized (M. Bendele et al. 2010).  Structurally, due to the absence of alkali ions or charge- reservoir layers between the Fe 2 Se 2  superconducting layers, the system is found to be very much compressible  and a strong correlation is noticed between the structural parameters and superconducting transition  temperature.(Y. Mizuguchi et al. 2008, K. Miyoshi et al. 2009, H. Okabe et al. 2010).  Recent observation of the  structural distortion in Te-doped FeSe compounds and the correlated change in the superconducting transition  temperature T c  has stimulated interest to the detailed investigations of the structural and electronic properties of  this compound under high pressure. Although, various theoretical investigations have predicted chalcogen height  dependent change in magnetic order and electronic properties in Te-doped FeSe compounds (C. Y. Moon et al.  2009, J. Kumar et al. 2012), no experimental report is available for the pressure effect of the magnetic order in  these compounds. However, the temperature dependence of magnetic susceptibility has been studied by J.Pietosa  et al. 2012 where clear SDW transition is observed at ambient and 1 GPa with no change of transition  temperature.    In the present work, we report on synchrotron based infrared investigation on the optimally Te-doped iron- chalcogenide superconductor Fe 1.03 Se 0.5 Te 0.5  as a function of pressure at various low temperatures above and  below the SDW transition temperature (120K). Mid-IR reflectance spectral analysis, particularly the absorption  band associated with the magnetic transition and the changes of the far IR phononic spectra suggest that structural  modification may not be the only parameter establishing the magnetic order in this system.      (a)                                                                                    (b)    Fig 1. (a) Crystal structure of tetragonal Fe 1.03 Se 0.5 Te 0.5    (b) Temperature dependence of magnetic susceptibility in the field  cooled (FC) (open circle) and zero-field cooled (ZFC) (open square) scheme, in a magnetic field of 10 Oe.    2. Experimental  Polycrystalline Fe 1.03 Se 0.5 Te 0.5  has been prepared by the solid state reaction method. Stoichiometric amounts  of Fe (99.9%), Se (99.5%) and Te (99.5%) are mixed, and the pressed powder of this mixture are sealed in an  evacuated quartz tube and heated at 700Â°C for 24 hr. Structural characterization by x-ray diffraction  measurements on as-grown sample shows a mixture of tetragonal (Ä®-phase) and hexagonal (NiAs type È•-phase).  No trace of excess Fe was detected. Magnetic susceptibility measurement was performed using a SQUID  magnetometer (Quantum Design) under an external magnetic field of 10 Oe and the onset superconducting T c   was found to be ~13.5 K. A clear feature for the SDW like AFM transition is observed at ~120 K. A small  positive overall susceptibility above the superconducting transition temperature is due to the presence of  paramagnetic hexagonal phase. In order to study the pressure dependence of the superconducting Tc and the  magnetic transition temperature, resistance measurement has been performed using a miniature DAC in the  temperature range 2 - 300K. A quasi-four probe resistance measurement technique with in-situ ruby pressure   Pallavi S. Malavi et al. /  Physics Procedia  54 ( 2014 )  107 â€“ 112 109 measurement was employed. The details of the DAC preparation, resistance measurement and sample pressure  determination technique have been described elsewhere (S. Karmakar 2013).     Pressure dependent reflectance measurements were performed with a moissanite anvil cell (MAC) at the  SISSI beamline of Elettra synchrotron facility, with the help of an IR microscope (Hyperion) equipped with  liquid nitrogen cooled HgCdTe (MCT) detector and liquid helium cooled Bolometer and coupled to a Bruker  IFS66v interferometer. For low temperature measurements, MAC was mounted inside a N 2 -flow microscope  cryostat from Oxford, allowing cooling the MAC down to ~100K. A thin pallet of finely ground sample was  placed in the gasket hole (of diameter 200 micron), which was then filled with dry KCl as pressure medium. In  the mid-IR range, the reflectance at the sample-moissanite interface was measured in the wide frequency range  (700 - 12000 cm -1 ). However, due to strong infrared absorption of the moissanite, sample reflectance can only be  recorded in the frequency range 2700-7000 cm -1 . In the far-IR region, reflectance is measured in the frequency  range 250-700 cm -1 . As the absorption band due to the AFM (SDW) magnetic ordering appears within the above  mid-IR range, the magnetic transition has clearly been probed by this study. At each pressure, the intensity of  light, I(Ï‰), reflected from the sample surface is measured and normalized with the light intensity, I 0 (Ï‰), reflected  from the external face of moissanite window, to obtain a quantity r(Ï‰)=I s (Ï‰)/I 0 (Ï‰). At the end of the pressure run,  another measurement is performed on the open moissanite surface [I m (Ï‰),I m0 (Ï‰)] by removing the sample. The  ratio R(Ï‰)=I m (Ï‰)/I m0 (Ï‰) is assumed to be pressure independent. The reflectance R s-m (Ï‰) at the sample-moissanite  interface is thus obtained from the equation R s-m (Ï‰)=[r(Ï‰)/R(Ï‰)]*R m , where R m =[{n m -1}/{n m +1}]^2 and n m   being the real refractive index of moissanite in air. For this experiment, pressure inside the DAC was monitored  with the in-situ ruby luminescence method (Mao et al. 1986).  3. Results and Discussion                                Fig. 2 shows temperature dependence of resistance at 0.3 and 3.5GPa. The sharp drop in resistance at 120K is  ascribed to formation of SDW order. Fig. 3(a,c-f) presents the mid-infrared reflectance spectra at temperatures  below and above the magnetic transition temperatures (T m ~120K) from the sample-moissanite interface, R s-m , at  various high pressures. At 0.1 GPa, full mid-IR reflectance spectra is shown. Below 2600 cm -1  strong IR  absorption of the moissanite crystal prevents the measurement of true sample reflectance (Z. Liu et al. 2004). For  the measurements at low pressures, sufficient initial pressure was applied to make the sample in good contact  with the moissanite surface. The reflectance spectra R s-m  is fitted with Drude Lorentz oscillators [applying f-sum  rule for auto rescaling] [Equations 1, 2] (Kuzmany 2009) and the optical conductivity at two temperatures have  been plotted in figure 3(b).    Fig.2. Temperature dependent resistance at two different  pressures. T c  indicates the superconducting transition  temperature. T m  is magnetic transition temperature. For  sake of clarity, two resistance plots have been shifted  arbitrarily.    22 0 1 22 222 2 1 0 2 222 2 1 () () ()() () ()() m ii tot i ii m ii tot i ii ff F GG fG F G Ï‰Ï‰ ÎµÏ‰ Îµ Ï‰Ï‰ Ï‰ ÎµÏ‰ Ï‰Ï‰ Ï‰ âˆž = = ÂªÂº âˆ’ =+ + Â«Â» âˆ’+ Â¬Â¼ = âˆ’+ Â¦ Â¦ ---------------------------(1)      ---------------------------(2)  110   Pallavi S. Malavi et al. /  Physics Procedia  54 ( 2014 )  107 â€“ 112      Low frequency Drude extrapolation has been performed with our room temperature measurements in a diamond  anvil cell at lowest pressure. (P. S. Malavi et al.2013).    In Fig. 3(a), we see that with decreasing temperature, below the magnetic transition at 120 K, a new peak  emerges at 3000 cm -1 , which is associated with the magnetic ordering. This feature was first observed in FeAs  based superconductors below the SDW transition by Hu et al 2008. Fig. 3(b) shows the fitted optical conductivity  based on the DL fitting of the reflectance spectra. Apart from the broad high energy oscillator at 4500 cm -1 , a  new absorption band at 3000 cm -1  due to magnetic origin is apparent. With increasing pressure this band in the  reflectance spectra decreases in intensity and vanishes at 2 GPa.  However, in the low temperature reflectance  spectra at all pressures in this investigation, a sudden spectral change is noticed. Also anomalous temperature  dependence of the energy (È¦) and intensity (oscillator strength) of the high energy oscillator at 4500cm -1  was  noticed below 130K along with the decrease in the intensity of magnetic feature at 1 GPa. This electronic change  indicates a low temperature structural change below 130K causing the changes in magnetic order.    In order to understand the origin of these mid-IR spectral changes, we have also investigated this compound in  the FIR region. Fig. 4 shows the FIR reflectance spectra at two pressures (2 GPa and 3 GPa) at various low  temperatures. Although the magnetic order vanishes at these pressures, the emergence of a new phonon peak at  around 500 cm -1  at both the pressures at the lowest temperature clearly indicates structural transition below  120K. The phonon mode at 500 cm -1  in the high temperature tetragonal phase starts softening with lowering  temperature indicating instability of the structure below 120K. This agrees with the reported low temperature  structural transition (P4/nmmÃ† Cmma) in this compound.  Also  intensity  of  the  corresponding  mode  in  low   Fig 3. (a,c-f) Mid-IR reflectance at the  moissanite-sample interface at various low  temperatures and high pressures. A typical DL- fit is shown for the lowest pressure spectra (b)  Fitted optical conductivity at the lowest  pressure data.  Pallavi S. Malavi et al. /  Physics Procedia  54 ( 2014 )  107 â€“ 112 111     temperature (orthorhombic) phase has increased significantly.     The structural phase transition around 120K significantly affects the phonon frequencies as previously  observed in SmFeAsO and SrFe 2 As 2  (C. Marini et al. 2008, Hanckock et al.2010). It is widely believed that  structural distortion is driven by the magnetic instability (T. Yildrim 2008, C. Fang et. al. 2008) but our results  show that this is not true at high pressures, as with increase in pressure we observe that structural transition  occurs irrespective of SDW order in the system.    4. Conclusions  Infrared spectroscopic measurements on Fe 1.03 Se 0.5 Te 0.5  have been carried out at high pressure below magnetic  ordering temperature. A mid-IR absorption band at ~3000 cm -1  has been identified as of magnetic (SDW like)  origin. Upon increasing pressure this peak vanishes above ~2 GPa, indicating pressure-induced suppression of  the magnetic order. However, the mid IR spectral change and the IR phonon anomaly below 120K prominently  indicate the structural transition at least up to 5 GPa (the highest pressure of this investigation). Our study  suggests that structural modification may not be the only parameter establishing the magnetic order in this  system.  Acknowledgements  We acknowledge the Elettra Synchrotron facility for the provision of the beamtime. We like to acknowledge  H. Bhatt, Debjani Karmakar (BARC) and A. Peruchhi (Elettra) for their help in sample characterization and  various high pressure measurements. Financial supports by Department of Science and Technology (Government  of India) and ICTP (Italy) is also gratefully acknowledged.   References  F.C. Hsu, J.Y. Luo, K.W. Yeh, T.K. Chen, T.W. Huang, P. M. Wu, Y.C. Lee, Y.L. Huang, Y.Y. Chu,  D.C. Yan, M. K. Wu, 2008,  Superconductivity in the PbO-type structure Ä®-FeSe , Proc. Natl. Acad. Sci., 105, 14262.  T. Imai, K. Ahilan, F. L. Ning, T. M. McQueen, R. J. Cava, 2009, Why Does Undoped FeSe Become a High-Tc Superconductor under  Pressure? Phys. Rev. Lett., 102, 177005.   M. Bendele, A. Amato, K. Conder, M. Elender, H. Keller, H.-H. Klauss, H. Luetkens, E. Pomjakushina, A. Raselli, and R. Khasanov,  2010,  Pressure Induced Static Magnetic Order in Superconducting FeSe 1-x Phys. Rev.  Lett., 104, 087003.  Fig.4. (a,b) Far-IR reflectance at the moissanite-sample  interface at various low temperatures and high pressures.  112   Pallavi S. Malavi et al. /  Physics Procedia  54 ( 2014 )  107 â€“ 112   Y. Mizuguchi, F. Tomioka, S. Tsuda, T. Yamaguchi, Y. Takano, 2008, Superconductivity at 27 K in tetragonal FeSe under high pressure,  Appl. Phys. Lett., 93,152505.   K. Miyoshi, Y. Takaichi, E. Mutou, K. Fujiwara, J. Takeuchi,  2009, Anomalous Pressure Dependence of the Superconducting Transition  Temperature in FeSe 1-x   Studied by DC Magnetic Measurements, J. Phys. Soc. Jpn., Vol. 78, No. 9, 093703.  H. Okabe, N. Takeshita, K. Horigane, T. Muranaka, J. Akimitsu, 2010, Pressure-induced high-T c  superconducting phase in FeSe: Correlation  between anion height and Tc, Phys. Rev. B, 81, 205119.  C. Y. Moon and H. J. Choi, Chalcogen-Height Dependent Magnetic Interactions and Magnetic Order Switching in FeSe x Te 1-x,  2010, Phys.  Rev.  Lett., 104, 057003.  J. Kumar, S. Auluck, P. K. Ahluwalia, and V. P. S. Awana, 2012, Chalcogen height dependence of magnetism and Fermiology in   FeT ex Se 1-x,   Superconductor. Science and.  Technology, 25,  095002.  J Pietosa, D J Gawryluk, R Puzniak, A Wisniewski, J Fink-Finowicki, M Kozlowski, M Berkowski, 2012, Pressure-induced enhancement of   the superconducting properties of single-crystalline FeTe0.5Se0.5,  J. Phys.: Condens. Matter,  24, 265701.  S. Karmakar, 2013, High Pressure Research, 33, 381.  H. Mao, J. Xu, and P. Bell, Calibration of the ruby pressure gauge to 800 kbar under quasi-hydrostatic conditions, 1986, J. Geophys. Res., 91,  4673.  Z Liu, J Xu, HP Scott, Q Williams, H Mao, R. Hemely, 2004, Moissanite (SiC) as windows and anvils for high-pressure infrared  spectroscopy,  Review of scientific instruments, 75,11.  H. Kuzmany, 2009, Springer-Verlag, in 'Solid-State Spectroscopyâ€™, Ch. 6.  P. S. Malavi, S. Karmakar, N. Patel,S. M. Sharma, 2013,  arXiv: Cond-Mat 1308.3367.  W. Z. Hu, J. Dong, G. Li, Z. Li, P. Zheng, G. F. Chen, J. L. Luo, and N. L. Wang, 2008, Origin of the Spin DensityWave Instability in  AFe 2 As 2  (A =Ba,  Sr) as Revealed by Optical Spectroscopy,  Phys. Rev. Lett 101, 257005.  C. Marini, C. Mirri, G. Profeta, S. Lupi, D. Di Castro, R. Sopracase, P. Postorino, P. Calvani, A. Perucchi, S. Massidda, G. M. Tropeano, M.  Putti, A. Martinelli, A. Palenzona and P. Dore,  2008, The optical phonon spectrum of SmFeAsO, arXiv:0810.2176v1 [cond-mat.supr- con].  J. N. Hancock, S. I. Mirzaei, J. Gillett, S. E. Sebastian, J. Teyssier, R. Viennois, E. Giannini, D. van der Marel, 2010, Strong coupling to  magnetic  fluctuations in the charge dynamics of iron-based superconductors, Phy. Rev. B 82,014523.  T. Yildirim,  2009, Frustrated magnetic interactions, giant magnetoâ€“elastic coupling, and magnetic phonons in ironâ€“pnictides Physica C 469,   425â€“441.  Chen Fang, Hong Yao, Wei-Feng Tsai, JiangPing Hu, Steven A. Kivelson,2008, Theory of electron nematic order in LaFeAsO , Phy.  Rev.  B, 77,  224509.  er establishing the magnetic order in this  system.  Acknowledgements  We acknowledge the Elettra Synchrotron facility for the provision of the beamtime. We like to acknowledge  H. Bhatt, Debjani Karmakar (BARC) and A. Peruchhi (Elettra) for their help in sample characterization and  various high pressure measurements. Financial supports by Department of Science and Technology (Government  of India) and ICTP (Italy) is also gratefully acknowledged.   References  F.C. Hsu, J.Y. Luo, K.W. Yeh, T.K. Chen, T.W. Huang, P. M. Wu, Y.C. Lee, Y.L. Huang, Y.Y. Chu,  D.C. Yan, M. K. Wu, 2008,  Superconductivity in the PbO-type structure Ä®-FeSe , Proc. Natl. Acad. Sci., 105, 14262.  T. Imai, K. Ahilan, F. L. Ning, T. M. McQueen, R. J. Cava, 2009, Why Does Undoped FeSe Become a High-Tc Superconductor under  Pressure? Phys. Rev. Lett., 102, 177005.   M. Bendele, A. Amato, K. Conder, M. Elender, H. Keller, H.-H. Klauss, H. Luetkens, E. Pomjakushina, A. Raselli, and R. Khasanov,  2010,  Pressure Induced Static Magnetic Order in Superconducting FeSe 1-x Phys. Rev.  Lett., 104, 087003.  Fig.4. (a,b) Far-IR reflectance at the moissanite-sample  interface at various low temperatures and high pressures.  112   Pallavi S. Malavi et al. /  Physics Procedia  54 ( 2014 )  107 â€“ 112   Y. Mizuguchi, F. Tomioka, S. Tsuda, T. Yamaguchi, Y. Takano, 2008, Superconductivity at 27 K in tetragonal FeSe under high pressure,  Appl. Phys. Lett., 93,152505.   K. Miyoshi, Y. Takaichi, E. Mutou, K. Fujiwara, J. Takeuchi,  2009, Anomalous Pressure Dependence of the Superconducting Transition  Temperature in FeSe 1-x   Studied by DC Magnetic Measurements, J. Phys. Soc. Jpn., Vol. 78, No. 9, 093703.  H. Okabe, N. Takeshita, K. Horigane, T. Muranaka, J. Akimitsu, 2010, Pressure-induced high-T c  superconducting phase in FeSe: Correlation  between anion height and Tc, Phys. Rev. B, 81, 205119.  C. Y. Moon and H. J. Choi, Chalcogen-Height Dependent Magnetic Interactions and Magnetic Order Switching in FeSe x Te 1-x,  2010, Phys.  Rev.  Lett., 104, 057003.  J. Kumar, S. Auluck, P. K. Ahluwalia, and V. P. S. Awana, 2012, Chalcogen height dependence of magnetism and Fermiology in   FeT ex Se 1-x,   Superconductor. Science and.  Technology, 25,  095002.  J Pietosa, D J Gawryluk, R Puzniak, A Wisniewski, J Fink-Finowicki, M Kozlowski, M Berkowski, 2012, Pressure-induced enhancement of   the superconducting properties of single-crystalline FeTe0.5Se0.5,  J. Phys.: Condens. Matter,  24, 265701.  S. Karmakar, 2013, High Pressure Research, 33, 381.  H. Mao, J. Xu, and P. Bell, Calibration of the ruby pressure gauge to 800 kbar under quasi-hydrostatic conditions, 1986, J. Geophys.</xocs:rawtext>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.2" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>PHPRO</jid>
+            <aid>4245</aid>
+            <ce:pii>S1875-3892(14)00520-3</ce:pii>
+            <ce:doi>10.1016/j.phpro.2014.10.045</ce:doi>
+            <ce:copyright type="other" year="2014">The Authors</ce:copyright>
+         </item-info>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para id="npar0005" view="all">Peer-review under responsibility of Department of Physics, Indian Institute of Technology Guwahati.</ce:note-para>
+            </ce:article-footnote>
+            <ce:title id="tit0005">Low Temperature Optical Investigations of the Iron-chalcogenide Superconductor Fe<ce:inf loc="post">1.03</ce:inf>Se<ce:inf loc="post">0.5</ce:inf>Te<ce:inf loc="post">0.5</ce:inf> Under High Pressure</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005">
+                  <ce:given-name>Pallavi S.</ce:given-name>
+                  <ce:surname>Malavi</ce:surname>
+               </ce:author>
+               <ce:author id="aut0010">
+                  <ce:given-name>S.</ce:given-name>
+                  <ce:surname>Karmakar</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  <ce:e-address id="eadd0005" type="email">sdak@barc.gov.in</ce:e-address>
+               </ce:author>
+               <ce:author id="aut0015">
+                  <ce:given-name>N.N.</ce:given-name>
+                  <ce:surname>Patel</ce:surname>
+               </ce:author>
+               <ce:author id="aut0020">
+                  <ce:given-name>S.M.</ce:given-name>
+                  <ce:surname>Sharma</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:textfn>HP&amp;SRPD, Bhabha Atomic Research Centre, Trombay, Mumbai 400085, India</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +91-22-25591663; fax: +91-22-25505296.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract id="abs0005" view="all" class="author">
+               <ce:section-title id="sect0005">Abstract</ce:section-title>
+               <ce:abstract-sec id="abst0005" view="all">
+                  <ce:simple-para id="spar0005" view="all">We report an infrared study on the optimally Te-doped iron-chalcogenide superconductor, Fe<ce:inf loc="post">1.03</ce:inf>Se<ce:inf loc="post">0.5</ce:inf>Te<ce:inf loc="post">0.5</ce:inf> as a function of pressure at various low temperatures down to 115K. The evolution with pressure and temperature of the mid-IR reflectance spectra shows that by increasing pressure the mid-IR absorption band associated with magnetic order reduces its intensity before it vanishes at 2<ce:hsp sp="0.25"/>GPa. However, overall low temperature reflectance spectral in the mid-IR range indicates drastic changes in the electronic configuration of the system at all pressures up to 5<ce:hsp sp="0.25"/>GPa below 120K. Far IR reflectance measurements at various high pressures show dramatic changes of the IR phonon spectra indicating structural transition below this temperature. Thus our study suggests that structural modification may not be the only parameter establishing the magnetic order in this system.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0010">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>FeSe Superconductor</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>IR Reflectance</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>High pressure</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0020">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.C.</ce:given-name>
+                                 <ce:surname>Hsu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.W.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.C.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.L.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                                 <ce:surname>Chu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.C.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.K.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Superconductivity in the PbO-type structure α-FeSe</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Natl. Acad. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>105</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>14262</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Imai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Ahilan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.L.</ce:given-name>
+                                 <ce:surname>Ning</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.M.</ce:given-name>
+                                 <ce:surname>McQueen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Cava</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Why Does Undoped FeSe Become a High-T<ce:inf loc="post">c</ce:inf> Superconductor under Pressure?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>177005</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Bendele</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Amato</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Conder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Elender</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Keller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.-H.</ce:given-name>
+                                 <ce:surname>Klauss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Luetkens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Pomjakushina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Raselli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Khasanov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pressure Induced Static Magnetic Order in Superconducting FeSe<ce:inf loc="post">1-x</ce:inf>Phys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rev. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>087003</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Mizuguchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Tomioka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Tsuda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yamaguchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Takano</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Superconductivity at 27 K in tetragonal FeSe under high pressure</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>93</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>152505</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Miyoshi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Takaichi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Mutou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Fujiwara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Takeuchi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anomalous Pressure Dependence of the Superconducting Transition Temperature in FeSe<ce:inf loc="post">1-x</ce:inf> Studied by DC Magnetic Measurements</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Soc. Jpn.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>9</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>093703</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Okabe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Takeshita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Horigane</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Muranaka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Akimitsu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pressure-induced high-T<ce:inf loc="post">c</ce:inf> superconducting phase in FeSe: Correlation between anion height and T<ce:inf loc="post">c</ce:inf>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>81</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>205119</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.Y.</ce:given-name>
+                                 <ce:surname>Moon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chalcogen-Height Dependent Magnetic Interactions and Magnetic Order Switching in FeSe<ce:inf loc="post">x</ce:inf>Te<ce:inf loc="post">1-x</ce:inf>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>057003</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Auluck</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Ahluwalia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.P.S.</ce:given-name>
+                                 <ce:surname>Awana</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chalcogen height dependence of magnetism and Fermiology in FeT<ce:inf loc="post">ex</ce:inf>Se<ce:inf loc="post">1-x</ce:inf>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Superconductor. Science and. Technology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>095002</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Pietosa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Gawryluk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Puzniak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Wisniewski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Fink-Finowicki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kozlowski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Berkowski</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pressure-induced enhancement of the superconducting properties of single-crystalline FeTe<ce:inf loc="post">0.5</ce:inf>Se<ce:inf loc="post">0.5</ce:inf>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys.: Condens. Matter</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>265701</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Karmakar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>High Pressure Research</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>381</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Mao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Bell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Calibration of the ruby pressure gauge to 800 kbar under quasi-hydrostatic conditions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Geophys. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>91</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4673</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.P.</ce:given-name>
+                                 <ce:surname>Scott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Williams</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Mao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Hemely</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Moissanite (SiC) as windows and anvils for high-pressure infrared spectroscopy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Review of scientific instruments</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>75</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>11</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0065">
+                     <ce:label>[13]</ce:label>
+                     <ce:other-ref id="oref0065">
+                        <ce:textref>H. Kuzmany, 2009, Springer-Verlag, in ‘Solid-State Spectroscopy’, Ch. 6.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0070">
+                     <ce:label>[14]</ce:label>
+                     <ce:other-ref id="oref0070">
+                        <ce:textref>P. S. Malavi, S. Karmakar, N. Patel,S. M. Sharma, 2013, arXiv: Cond-Mat 1308.3367.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.Z.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.F.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Origin of the Spin DensityWave Instability in AFe<ce:inf loc="post">2</ce:inf>As<ce:inf loc="post">2</ce:inf> (A =Ba, Sr) as Revealed by Optical Spectroscopy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Lett</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>101</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>257005</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0080">
+                     <ce:label>[16]</ce:label>
+                     <ce:other-ref id="oref0080">
+                        <ce:textref>C. Marini, C. Mirri, G. Profeta, S. Lupi, D. Di Castro, R. Sopracase, P. Postorino, P. Calvani, A. Perucchi, S. Massidda, G.M. Tropeano, M. Putti, A. Martinelli, A. Palenzona and P. Dore, 2008, The optical phonon spectrum of SmFeAsO, arXiv:0810.2176v1 [cond-mat.supr-con].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.N.</ce:given-name>
+                                 <ce:surname>Hancock</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.I.</ce:given-name>
+                                 <ce:surname>Mirzaei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Gillett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.E.</ce:given-name>
+                                 <ce:surname>Sebastian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Teyssier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Viennois</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Giannini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>van der Marel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Strong coupling to magnetic fluctuations in the charge dynamics of iron-based superconductors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phy. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>014523</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0090">
+                     <ce:label>[18]</ce:label>
+                     <ce:other-ref id="oref0090">
+                        <ce:textref>T. Yildirim, 2009, Frustrated magnetic interactions, giant magneto–elastic coupling, and magnetic phonons in iron–pnictides Physica C 469, 425-441.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Chen Fang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Hong Yao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Wei-Feng Tsai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>JiangPing Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Steven</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Kivelson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Theory of electron nematic order in LaFeAsO</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phy. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>77</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>224509</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

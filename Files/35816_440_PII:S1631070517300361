@@ -1,0 +1,1989 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1631070517300361</prism:url><dc:identifier>doi:10.1016/j.crhy.2017.05.003</dc:identifier><eid>1-s2.0-S1631070517300361</eid><prism:doi>10.1016/j.crhy.2017.05.003</prism:doi><pii>S1631-0705(17)30036-1</pii><dc:title>Chalcogenide glasses and glass-ceramics: Transparent materials in the infrared for dual applications </dc:title><prism:publicationName>Comptes Rendus Physique</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>
+               Prix Lamb de l'Académie des sciences 2016
+            </pubType><prism:issn>16310705</prism:issn><prism:volume>18</prism:volume><prism:issueIdentifier>5-6</prism:issueIdentifier><prism:startingPage>314</prism:startingPage><prism:endingPage>322</prism:endingPage><prism:pageRange>314-322</prism:pageRange><prism:number>5-6</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2017-06-30</prism:coverDate><prism:coverDisplayDate>May–June 2017</prism:coverDisplayDate><prism:copyright>© 2017 Académie des sciences. Published by Elsevier Masson SAS.</prism:copyright><prism:publisher>Académie des sciences. Published by Elsevier Masson SAS.</prism:publisher><prism:issueName>2016 Prizes of the French Academy of Sciences /Prix 2016 de l’Académie des sciences</prism:issueName><dc:creator>Calvez, Laurent</dc:creator><dc:description>
+               Abstract
+               
+                  In this paper are described the different research activities that led to the awarding of the Lamb prize by the French Academy of Sciences in order to promote research work on the national defense of France. This research concerns the development of infrared materials for night vision and the development of thermal imagers useful for defense, but also for civilian applications. The contribution has been particularly innovative in different sectors: broadening of chalcogenide glasses window of transparency, IR glass-ceramics with high thermomechanical properties, and the design of a new way of synthesis of these materials by a mechanical process.
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>Académie des Sciences</openaccessSponsorName><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Glass</dcterms:subject><dcterms:subject>Glass-ceramics</dcterms:subject><dcterms:subject>Chalcogenide</dcterms:subject><dcterms:subject>Infrared</dcterms:subject><dcterms:subject>Synthesis</dcterms:subject><dcterms:subject>Verre</dcterms:subject><dcterms:subject>Vitrocéramique</dcterms:subject><dcterms:subject>Chalcogénure</dcterms:subject><dcterms:subject>Infrarouge</dcterms:subject><dcterms:subject>Synthèse</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1631070517300361" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1631070517300361" rel="scidir"/></coredata><objects><object ref="gr001" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="112" size="10822">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr001.sml?httpAccept=%2A%2F%2A</object><object ref="gr002" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="51" size="10820">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr002.sml?httpAccept=%2A%2F%2A</object><object ref="gr004" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="116" size="10277">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr004.sml?httpAccept=%2A%2F%2A</object><object ref="gr005" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="157" size="11449">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr005.sml?httpAccept=%2A%2F%2A</object><object ref="gr006" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="66" size="6704">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr006.sml?httpAccept=%2A%2F%2A</object><object ref="gr007" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="135" size="14066">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr007.sml?httpAccept=%2A%2F%2A</object><object ref="gr008" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="73" size="8589">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr008.sml?httpAccept=%2A%2F%2A</object><object ref="gr009" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="112" size="10997">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr009.sml?httpAccept=%2A%2F%2A</object><object ref="gr010" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="82" size="7744">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr010.sml?httpAccept=%2A%2F%2A</object><object ref="gr011" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="103" size="17535">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr011.sml?httpAccept=%2A%2F%2A</object><object ref="gr003" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="146" size="6087">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr003.sml?httpAccept=%2A%2F%2A</object><object ref="gr003" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="308" height="206" size="9322">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr003.gif?httpAccept=%2A%2F%2A</object><object ref="gr001" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="467" height="238" size="42806">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr001.jpg?httpAccept=%2A%2F%2A</object><object ref="gr002" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="664" height="154" size="29962">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr002.jpg?httpAccept=%2A%2F%2A</object><object ref="gr004" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="546" height="288" size="31439">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr004.jpg?httpAccept=%2A%2F%2A</object><object ref="gr005" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="507" height="363" size="45418">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr005.jpg?httpAccept=%2A%2F%2A</object><object ref="gr006" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="721" height="218" size="47719">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr006.jpg?httpAccept=%2A%2F%2A</object><object ref="gr007" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="525" height="323" size="65755">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr007.jpg?httpAccept=%2A%2F%2A</object><object ref="gr008" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="641" height="213" size="36041">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr008.jpg?httpAccept=%2A%2F%2A</object><object ref="gr009" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="529" height="271" size="41778">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr009.jpg?httpAccept=%2A%2F%2A</object><object ref="gr010" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="722" height="271" size="48599">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr010.jpg?httpAccept=%2A%2F%2A</object><object ref="gr011" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="489" height="229" size="26293">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr011.jpg?httpAccept=%2A%2F%2A</object><object ref="gr003" category="high" type="IMAGE-HIGH-RES" multimediatype="GIF image file" mimetype="image/gif" width="2732" height="1827" size="43885">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr003_lrg.gif?httpAccept=%2A%2F%2A</object><object ref="gr001" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1242" height="634" size="152235">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr001_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr002" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1764" height="410" size="115079">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr002_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr004" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1450" height="765" size="114423">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr004_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr005" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1348" height="965" size="169117">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr005_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr006" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1916" height="580" size="199036">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr006_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr007" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1395" height="858" size="334016">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr007_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr008" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2838" height="942" size="412332">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr008_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr009" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1407" height="720" size="164938">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr009_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr010" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1919" height="721" size="210558">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr010_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr011" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1299" height="608" size="107142">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-gr011_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="16" height="14" size="161">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-si1.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="65" height="14" size="276">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="15" height="13" size="150">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="69" height="10" size="273">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-si5.gif?httpAccept=%2A%2F%2A</object><object ref="si6" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="91" height="10" size="325">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-si6.gif?httpAccept=%2A%2F%2A</object><object ref="si7" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="97" height="10" size="316">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-si7.gif?httpAccept=%2A%2F%2A</object><object ref="si8" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="117" height="10" size="373">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-si8.gif?httpAccept=%2A%2F%2A</object><object ref="si9" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="93" height="14" size="332">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070517300361-si9.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>85020037974</scopus-id><scopus-eid>2-s2.0-85020037974</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85020037974" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>272262</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291690</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Comptes Rendus Physique</xocs:srctitle>
+      <xocs:normalized-srctitle>COMPTESRENDUSPHYSIQUE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20170530">2017-05-30</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20170530">2017-05-30</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20171026">2017-10-26</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20171026">2017-10-26</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2017-10-26T12:12:00</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1631070517300361</xocs:eid>
+      <xocs:pii-formatted>S1631-0705(17)30036-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1631070517300361</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.crhy.2017.05.003</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1631070517X00054</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20171026">2017-10-26T07:30:45.359902-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20170501</xocs:date-search-begin>
+      <xocs:date-search-end>20170630</xocs:date-search-end>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1496178014">2017-05-30T21:00:14.788313Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body mmlmath acknowledge affil altitemtitle articletitle auth authfirstini authfull authkeywords authlast grantsponsor grantsponsorid nonengabst primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1631-0705</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>16310705</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>FACAD</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>18</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>18</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>5</xocs:iss-first>
+      <xocs:iss-last>6</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>5</xocs:issue>
+         <xocs:issue>6</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 18, Issues 5–6</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>5</xocs:sort-order>
+      <xocs:first-fp>314</xocs:first-fp>
+      <xocs:last-lp>322</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>314</xocs:first-page>
+         <xocs:last-page>322</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201705</xocs:start-date>
+         <xocs:end-date>201706</xocs:end-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>May–June 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-05-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2017-06-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>2016 Prizes of the French Academy of Sciences /Prix 2016 de l’Académie des sciences</ce:title>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>ssu</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 Académie des sciences. Published by Elsevier Masson SAS.</xocs:copyright-line>
+      <xocs:normalized-article-title>CHALCOGENIDEGLASSESGLASSCERAMICSTRANSPARENTMATERIALSININFRAREDFORDUALAPPLICATIONS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>CALVEZ</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>L</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Presentation of chalcogenide glasses</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Broadening of the window of transparency</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Effect of gallium</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Effect of alkali halide</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Enhancement of mechanical properties by making glass-ceramics</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Ge–Sb–Se</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Ge–Ga–Se</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Another way to produce infrared optics from chalcogenide glasses</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>6</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib31s1">
+            <xocs:ref-normalized-surname>ADAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CHALCOGENIDEGLASSESPREPARATIONPROPERTIESAPPLICATIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib32s1">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>327</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib33s1">
+            <xocs:ref-normalized-surname>CALVEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>183</xocs:ref-first-fp>
+            <xocs:ref-last-lp>188</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib34s1">
+            <xocs:ref-normalized-surname>LEDEMI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>899</xocs:ref-first-fp>
+            <xocs:ref-last-lp>904</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib35s1">
+            <xocs:ref-normalized-surname>ROZE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>97</xocs:ref-first-fp>
+            <xocs:ref-last-lp>101</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib36s1">
+            <xocs:ref-normalized-surname>CALVEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>129</xocs:ref-first-fp>
+            <xocs:ref-last-lp>132</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib37s1">
+            <xocs:ref-normalized-surname>BREHAULT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>25</xocs:ref-first-fp>
+            <xocs:ref-last-lp>30</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib38s1">
+            <xocs:ref-normalized-surname>CALVEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>142</xocs:ref-first-fp>
+            <xocs:ref-last-lp>145</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib39s1">
+            <xocs:ref-normalized-surname>CALVEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1123</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1127</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3130s1">
+            <xocs:ref-normalized-surname>ROZE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3566</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3570</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3131s1">
+            <xocs:ref-normalized-surname>LIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>584</xocs:ref-first-fp>
+            <xocs:ref-last-lp>588</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3132s1">
+            <xocs:ref-normalized-surname>SURYANARAYANA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>184</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3133s1">
+            <xocs:ref-normalized-surname>PETRACOVSCHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1330</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1333</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3134s1">
+            <xocs:ref-normalized-surname>HUBERT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>23513</xocs:ref-first-fp>
+            <xocs:ref-last-lp>23522</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3135s1">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>436</xocs:ref-first-fp>
+            <xocs:ref-last-lp>441</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>CALVEZX2017X314</xocs:refkey3>
+         <xocs:refkey4lp>CALVEZX2017X314X322</xocs:refkey4lp>
+         <xocs:refkey4ai>CALVEZX2017X314XL</xocs:refkey4ai>
+         <xocs:refkey5>CALVEZX2017X314X322XL</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2017-05-17T07:46:38Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>Académie des Sciences</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2018-10-26T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 Académie des sciences. Published by Elsevier Masson SAS.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1631-0705(17)30036-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1631070517300361</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1631070517300361</xocs:eid>
+         <xocs:doi>10.1016/j.crhy.2017.05.003</xocs:doi>
+         <xocs:cid>272262</xocs:cid>
+         <xocs:timestamp>2017-10-26T07:20:18.274674-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2017-05-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2017-06-30</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>FACAD</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/MAIN/application/pdf/9e804372cecd6c2d14fe03dfd8106880/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/MAIN/application/pdf/9e804372cecd6c2d14fe03dfd8106880/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2398373</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>9</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1631070517300361-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/PREVIEW/image/png/30e1073e1cf78ec70f18104f7afbfb5a/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/PREVIEW/image/png/30e1073e1cf78ec70f18104f7afbfb5a/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>40039</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr001.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr001/THUMBNAIL/image/gif/1dc594642c11ec51380224f45ebddf81/gr001.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr001/THUMBNAIL/image/gif/1dc594642c11ec51380224f45ebddf81/gr001.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr001</xocs:file-basename>
+               <xocs:filename>gr001.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10822</xocs:filesize>
+               <xocs:pixel-height>112</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr002.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr002/THUMBNAIL/image/gif/4c2d5c4895ec396ee715d69c1bd66488/gr002.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr002/THUMBNAIL/image/gif/4c2d5c4895ec396ee715d69c1bd66488/gr002.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr002</xocs:file-basename>
+               <xocs:filename>gr002.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10820</xocs:filesize>
+               <xocs:pixel-height>51</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr004.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr004/THUMBNAIL/image/gif/98a561e9990aee1cdde6e21d1c2d8b26/gr004.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr004/THUMBNAIL/image/gif/98a561e9990aee1cdde6e21d1c2d8b26/gr004.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr004</xocs:file-basename>
+               <xocs:filename>gr004.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10277</xocs:filesize>
+               <xocs:pixel-height>116</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr005.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr005/THUMBNAIL/image/gif/5b744c260a28fcb9880376dff5a1d0bc/gr005.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr005/THUMBNAIL/image/gif/5b744c260a28fcb9880376dff5a1d0bc/gr005.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr005</xocs:file-basename>
+               <xocs:filename>gr005.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11449</xocs:filesize>
+               <xocs:pixel-height>157</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr006.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr006/THUMBNAIL/image/gif/85a098a1b28d51740a6b7ba4b762e23a/gr006.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr006/THUMBNAIL/image/gif/85a098a1b28d51740a6b7ba4b762e23a/gr006.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr006</xocs:file-basename>
+               <xocs:filename>gr006.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6704</xocs:filesize>
+               <xocs:pixel-height>66</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr007.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr007/THUMBNAIL/image/gif/10cafce8b3cb81999829ad4d715c385c/gr007.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr007/THUMBNAIL/image/gif/10cafce8b3cb81999829ad4d715c385c/gr007.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr007</xocs:file-basename>
+               <xocs:filename>gr007.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14066</xocs:filesize>
+               <xocs:pixel-height>135</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr008.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr008/THUMBNAIL/image/gif/3bdfeb0451c59bd01f703722047ba6ac/gr008.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr008/THUMBNAIL/image/gif/3bdfeb0451c59bd01f703722047ba6ac/gr008.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr008</xocs:file-basename>
+               <xocs:filename>gr008.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8589</xocs:filesize>
+               <xocs:pixel-height>73</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr009.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr009/THUMBNAIL/image/gif/7f4b6a1e7b67f2a4b661b72af54033a5/gr009.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr009/THUMBNAIL/image/gif/7f4b6a1e7b67f2a4b661b72af54033a5/gr009.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr009</xocs:file-basename>
+               <xocs:filename>gr009.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10997</xocs:filesize>
+               <xocs:pixel-height>112</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr010.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr010/THUMBNAIL/image/gif/f13a11b296722dbeaf110f120fca683a/gr010.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr010/THUMBNAIL/image/gif/f13a11b296722dbeaf110f120fca683a/gr010.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr010</xocs:file-basename>
+               <xocs:filename>gr010.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7744</xocs:filesize>
+               <xocs:pixel-height>82</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr011.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr011/THUMBNAIL/image/gif/f7961929d01b24bdcd8395eca358e00e/gr011.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr011/THUMBNAIL/image/gif/f7961929d01b24bdcd8395eca358e00e/gr011.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr011</xocs:file-basename>
+               <xocs:filename>gr011.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17535</xocs:filesize>
+               <xocs:pixel-height>103</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr003.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr003/THUMBNAIL/image/gif/7c6f97d1bb657a4208e33eedaebc45e3/gr003.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr003/THUMBNAIL/image/gif/7c6f97d1bb657a4208e33eedaebc45e3/gr003.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr003</xocs:file-basename>
+               <xocs:filename>gr003.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6087</xocs:filesize>
+               <xocs:pixel-height>146</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr003.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr003/DOWNSAMPLED/image/gif/72f139845db7f6042f873a2697494ff7/gr003.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr003/DOWNSAMPLED/image/gif/72f139845db7f6042f873a2697494ff7/gr003.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr003</xocs:file-basename>
+               <xocs:filename>gr003.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>9322</xocs:filesize>
+               <xocs:pixel-height>206</xocs:pixel-height>
+               <xocs:pixel-width>308</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr001.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr001/DOWNSAMPLED/image/jpeg/4c0cf92725d763b201d152047271c6d5/gr001.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr001/DOWNSAMPLED/image/jpeg/4c0cf92725d763b201d152047271c6d5/gr001.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr001</xocs:file-basename>
+               <xocs:filename>gr001.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>42806</xocs:filesize>
+               <xocs:pixel-height>238</xocs:pixel-height>
+               <xocs:pixel-width>467</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr002.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr002/DOWNSAMPLED/image/jpeg/a2736569d5a09fba97b0af69520efd01/gr002.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr002/DOWNSAMPLED/image/jpeg/a2736569d5a09fba97b0af69520efd01/gr002.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr002</xocs:file-basename>
+               <xocs:filename>gr002.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>29962</xocs:filesize>
+               <xocs:pixel-height>154</xocs:pixel-height>
+               <xocs:pixel-width>664</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr004.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr004/DOWNSAMPLED/image/jpeg/8c61859eeee0204d5d20f2b29b9120f7/gr004.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr004/DOWNSAMPLED/image/jpeg/8c61859eeee0204d5d20f2b29b9120f7/gr004.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr004</xocs:file-basename>
+               <xocs:filename>gr004.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>31439</xocs:filesize>
+               <xocs:pixel-height>288</xocs:pixel-height>
+               <xocs:pixel-width>546</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr005.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr005/DOWNSAMPLED/image/jpeg/d56de457c5152b2aac84a93c55a59e29/gr005.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr005/DOWNSAMPLED/image/jpeg/d56de457c5152b2aac84a93c55a59e29/gr005.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr005</xocs:file-basename>
+               <xocs:filename>gr005.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>45418</xocs:filesize>
+               <xocs:pixel-height>363</xocs:pixel-height>
+               <xocs:pixel-width>507</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr006.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr006/DOWNSAMPLED/image/jpeg/c25156a5e747c63fdd9ac77b5cdad1ed/gr006.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr006/DOWNSAMPLED/image/jpeg/c25156a5e747c63fdd9ac77b5cdad1ed/gr006.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr006</xocs:file-basename>
+               <xocs:filename>gr006.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>47719</xocs:filesize>
+               <xocs:pixel-height>218</xocs:pixel-height>
+               <xocs:pixel-width>721</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr007.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr007/DOWNSAMPLED/image/jpeg/cc7b4f14f6ddb7d3e418ff90d5bd712c/gr007.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr007/DOWNSAMPLED/image/jpeg/cc7b4f14f6ddb7d3e418ff90d5bd712c/gr007.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr007</xocs:file-basename>
+               <xocs:filename>gr007.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>65755</xocs:filesize>
+               <xocs:pixel-height>323</xocs:pixel-height>
+               <xocs:pixel-width>525</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr008.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr008/DOWNSAMPLED/image/jpeg/f840b8c5516264b3061290594af155fb/gr008.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr008/DOWNSAMPLED/image/jpeg/f840b8c5516264b3061290594af155fb/gr008.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr008</xocs:file-basename>
+               <xocs:filename>gr008.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>36041</xocs:filesize>
+               <xocs:pixel-height>213</xocs:pixel-height>
+               <xocs:pixel-width>641</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr009.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr009/DOWNSAMPLED/image/jpeg/30f122edee9b18a3c132d84812eb976e/gr009.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr009/DOWNSAMPLED/image/jpeg/30f122edee9b18a3c132d84812eb976e/gr009.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr009</xocs:file-basename>
+               <xocs:filename>gr009.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>41778</xocs:filesize>
+               <xocs:pixel-height>271</xocs:pixel-height>
+               <xocs:pixel-width>529</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr010.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr010/DOWNSAMPLED/image/jpeg/ebb70b903932e953e2745e17476a62ac/gr010.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr010/DOWNSAMPLED/image/jpeg/ebb70b903932e953e2745e17476a62ac/gr010.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr010</xocs:file-basename>
+               <xocs:filename>gr010.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>48599</xocs:filesize>
+               <xocs:pixel-height>271</xocs:pixel-height>
+               <xocs:pixel-width>722</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr011.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr011/DOWNSAMPLED/image/jpeg/6f8ac2f19bf872185d9120b7eaaf23b0/gr011.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr011/DOWNSAMPLED/image/jpeg/6f8ac2f19bf872185d9120b7eaaf23b0/gr011.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr011</xocs:file-basename>
+               <xocs:filename>gr011.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>26293</xocs:filesize>
+               <xocs:pixel-height>229</xocs:pixel-height>
+               <xocs:pixel-width>489</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr003_lrg.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr003/HIGHRES/image/gif/11d9a3bb2785be00b515e058822fae1e/gr003_lrg.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr003/HIGHRES/image/gif/11d9a3bb2785be00b515e058822fae1e/gr003_lrg.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr003</xocs:file-basename>
+               <xocs:filename>gr003_lrg.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>43885</xocs:filesize>
+               <xocs:pixel-height>1827</xocs:pixel-height>
+               <xocs:pixel-width>2732</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr001_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr001/HIGHRES/image/jpeg/ba24832448a5d1f2849982e21e384217/gr001_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr001/HIGHRES/image/jpeg/ba24832448a5d1f2849982e21e384217/gr001_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr001</xocs:file-basename>
+               <xocs:filename>gr001_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>152235</xocs:filesize>
+               <xocs:pixel-height>634</xocs:pixel-height>
+               <xocs:pixel-width>1242</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr002_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr002/HIGHRES/image/jpeg/7426752fb7f8754a7b9ae8dd7248f813/gr002_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr002/HIGHRES/image/jpeg/7426752fb7f8754a7b9ae8dd7248f813/gr002_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr002</xocs:file-basename>
+               <xocs:filename>gr002_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>115079</xocs:filesize>
+               <xocs:pixel-height>410</xocs:pixel-height>
+               <xocs:pixel-width>1764</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr004_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr004/HIGHRES/image/jpeg/a811565f5c49de05230f09486c63befc/gr004_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr004/HIGHRES/image/jpeg/a811565f5c49de05230f09486c63befc/gr004_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr004</xocs:file-basename>
+               <xocs:filename>gr004_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>114423</xocs:filesize>
+               <xocs:pixel-height>765</xocs:pixel-height>
+               <xocs:pixel-width>1450</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr005_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr005/HIGHRES/image/jpeg/67d6761596a10220343dc833ff3ff9c6/gr005_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr005/HIGHRES/image/jpeg/67d6761596a10220343dc833ff3ff9c6/gr005_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr005</xocs:file-basename>
+               <xocs:filename>gr005_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>169117</xocs:filesize>
+               <xocs:pixel-height>965</xocs:pixel-height>
+               <xocs:pixel-width>1348</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr006_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr006/HIGHRES/image/jpeg/91c51faa45bb50a2a320e3ff53716fd3/gr006_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr006/HIGHRES/image/jpeg/91c51faa45bb50a2a320e3ff53716fd3/gr006_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr006</xocs:file-basename>
+               <xocs:filename>gr006_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>199036</xocs:filesize>
+               <xocs:pixel-height>580</xocs:pixel-height>
+               <xocs:pixel-width>1916</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr007_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr007/HIGHRES/image/jpeg/b335316679493fa677009307246b4466/gr007_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr007/HIGHRES/image/jpeg/b335316679493fa677009307246b4466/gr007_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr007</xocs:file-basename>
+               <xocs:filename>gr007_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>334016</xocs:filesize>
+               <xocs:pixel-height>858</xocs:pixel-height>
+               <xocs:pixel-width>1395</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr008_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr008/HIGHRES/image/jpeg/468b23c8b5506676adb57fb3a4df502e/gr008_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr008/HIGHRES/image/jpeg/468b23c8b5506676adb57fb3a4df502e/gr008_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr008</xocs:file-basename>
+               <xocs:filename>gr008_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>412332</xocs:filesize>
+               <xocs:pixel-height>942</xocs:pixel-height>
+               <xocs:pixel-width>2838</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr009_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr009/HIGHRES/image/jpeg/d7ed6a1649c1c410f98abc9cc11e7889/gr009_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr009/HIGHRES/image/jpeg/d7ed6a1649c1c410f98abc9cc11e7889/gr009_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr009</xocs:file-basename>
+               <xocs:filename>gr009_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>164938</xocs:filesize>
+               <xocs:pixel-height>720</xocs:pixel-height>
+               <xocs:pixel-width>1407</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr010_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr010/HIGHRES/image/jpeg/77bfc73219547ac240209eaac5d39ad9/gr010_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr010/HIGHRES/image/jpeg/77bfc73219547ac240209eaac5d39ad9/gr010_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr010</xocs:file-basename>
+               <xocs:filename>gr010_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>210558</xocs:filesize>
+               <xocs:pixel-height>721</xocs:pixel-height>
+               <xocs:pixel-width>1919</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-gr011_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/gr011/HIGHRES/image/jpeg/43e1ed051c4db288bf12cfa0f9d2e880/gr011_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/gr011/HIGHRES/image/jpeg/43e1ed051c4db288bf12cfa0f9d2e880/gr011_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr011</xocs:file-basename>
+               <xocs:filename>gr011_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>107142</xocs:filesize>
+               <xocs:pixel-height>608</xocs:pixel-height>
+               <xocs:pixel-width>1299</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/STRIPIN/image/gif/bbe38cf2cbd3fd301a7a833416392032/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/STRIPIN/image/gif/bbe38cf2cbd3fd301a7a833416392032/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>161</xocs:filesize>
+               <xocs:pixel-height>14</xocs:pixel-height>
+               <xocs:pixel-width>16</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/STRIPIN/image/gif/0dd2423a56311fbaf8ac428ff9a69f16/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/STRIPIN/image/gif/0dd2423a56311fbaf8ac428ff9a69f16/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>276</xocs:filesize>
+               <xocs:pixel-height>14</xocs:pixel-height>
+               <xocs:pixel-width>65</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/STRIPIN/image/gif/d3bb6f26ee2a002382a122d985bbd8d8/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/STRIPIN/image/gif/d3bb6f26ee2a002382a122d985bbd8d8/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>150</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>15</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-si5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/STRIPIN/image/gif/d9ca261386f8e1c683f8e3a83f2aa300/si5.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/STRIPIN/image/gif/d9ca261386f8e1c683f8e3a83f2aa300/si5.gif</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>273</xocs:filesize>
+               <xocs:pixel-height>10</xocs:pixel-height>
+               <xocs:pixel-width>69</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-si6.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/STRIPIN/image/gif/9e190935dff94ed93a6044f5704d9c22/si6.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/STRIPIN/image/gif/9e190935dff94ed93a6044f5704d9c22/si6.gif</xocs:ucs-locator>
+               <xocs:file-basename>si6</xocs:file-basename>
+               <xocs:filename>si6.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>325</xocs:filesize>
+               <xocs:pixel-height>10</xocs:pixel-height>
+               <xocs:pixel-width>91</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-si7.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/STRIPIN/image/gif/aaa476dd50eb03271450ac43467973bf/si7.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/STRIPIN/image/gif/aaa476dd50eb03271450ac43467973bf/si7.gif</xocs:ucs-locator>
+               <xocs:file-basename>si7</xocs:file-basename>
+               <xocs:filename>si7.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>316</xocs:filesize>
+               <xocs:pixel-height>10</xocs:pixel-height>
+               <xocs:pixel-width>97</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-si8.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/STRIPIN/image/gif/3777b1482f8e921d9873985b0fdf63f6/si8.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/STRIPIN/image/gif/3777b1482f8e921d9873985b0fdf63f6/si8.gif</xocs:ucs-locator>
+               <xocs:file-basename>si8</xocs:file-basename>
+               <xocs:filename>si8.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>373</xocs:filesize>
+               <xocs:pixel-height>10</xocs:pixel-height>
+               <xocs:pixel-width>117</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070517300361-si9.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070517300361/STRIPIN/image/gif/ff252f056ca44879d9015375fbd708f1/si9.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070517300361/STRIPIN/image/gif/ff252f056ca44879d9015375fbd708f1/si9.gif</xocs:ucs-locator>
+               <xocs:file-basename>si9</xocs:file-basename>
+               <xocs:filename>si9.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>332</xocs:filesize>
+               <xocs:pixel-height>14</xocs:pixel-height>
+               <xocs:pixel-width>93</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="ssu" xml:lang="en" version="5.4">
+         <item-info>
+            <jid>COMREN</jid>
+            <aid>3377</aid>
+            <ce:pii>S1631-0705(17)30036-1</ce:pii>
+            <ce:doi>10.1016/j.crhy.2017.05.003</ce:doi>
+            <ce:copyright year="2017" type="society">Académie des sciences</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fg0010">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cp0010">
+                  <ce:simple-para id="sp0010" view="all">Presentation of window of transparency of S, Se, Te-based chalcogenide glasses. The insets are examples of sulfide As<ce:inf loc="post">2</ce:inf>S<ce:inf loc="post">3</ce:inf> (yellow), selenium As<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf> (red) and tellurium Te<ce:inf loc="post">20</ce:inf>As<ce:inf loc="post">30</ce:inf>Se<ce:inf loc="post">50</ce:inf> (black) glasses.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="at0010">Fig. 1</ce:alt-text>
+               <ce:link locator="gr001" xlink:type="simple" xlink:href="pii:S1631070517300361/gr001" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" id="ln0010"/>
+            </ce:figure>
+            <ce:figure id="fg0020">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cp0020">
+                  <ce:simple-para id="sp0020" view="all">Visible image (left), same image in the infrared (center), night driving assistance (right).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="at0020">Fig. 2</ce:alt-text>
+               <ce:link locator="gr002" xlink:type="simple" xlink:href="pii:S1631070517300361/gr002" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" id="ln0020"/>
+            </ce:figure>
+            <ce:figure id="fg0030">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cp0030">
+                  <ce:simple-para id="sp0030" view="all">Effect of the substitution of Sb with Ga on the beginning of transparency for the 85GeSe<ce:inf loc="post">2</ce:inf>–15X<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf> glass composition with X<ce:hsp sp="0.2"/>=<ce:hsp sp="0.2"/>Ga or Sb.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="at0030">Fig. 3</ce:alt-text>
+               <ce:link locator="gr003" xlink:type="simple" xlink:href="pii:S1631070517300361/gr003" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" id="ln0030"/>
+            </ce:figure>
+            <ce:figure id="fg0040">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cp0040">
+                  <ce:simple-para id="sp0040" view="all">(a) Transmission curves of composition glasses (80GeS<ce:inf loc="post">2</ce:inf>–20Ga<ce:inf loc="post">2</ce:inf>S<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">100<ce:hsp sp="0.1"/>−<ce:hsp sp="0.1"/>
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CsCl<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> in the visible range. (b) Picture of a glass 50 mm in diameter containing 40% of CsCl.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="at0040">Fig. 4</ce:alt-text>
+               <ce:link locator="gr004" xlink:type="simple" xlink:href="pii:S1631070517300361/gr004" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" id="ln0040"/>
+            </ce:figure>
+            <ce:figure id="fg0050">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cp0050">
+                  <ce:simple-para id="sp0050" view="all">Transmission curves of (80GeSe<ce:inf loc="post">2</ce:inf>–20Ga<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">100<ce:hsp sp="0.1"/>−<ce:hsp sp="0.1"/>
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CsI<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> and pictures of selenium-based glass containing from 0 to 30 at.% of CsI.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="at0050">Fig. 5</ce:alt-text>
+               <ce:link locator="gr005" xlink:type="simple" xlink:href="pii:S1631070517300361/gr005" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" id="ln0050"/>
+            </ce:figure>
+            <ce:figure id="fg0060">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cp0060">
+                  <ce:simple-para id="sp0060" view="all">(a) 73GeSe<ce:inf loc="post">2</ce:inf>–20Sb<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf>–7CdTe glass and glass-ceramic (annealed at 290 °C for 5 h). Inset: a SEM picture of the obtained particles. (b) Transmission of 70GeSe<ce:inf loc="post">2</ce:inf>–20Sb<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf>–5ZnSe glass and glass-ceramic annealed at 340 °C for 5 h. Inset: SEM picture of the obtained nanoparticles.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="at0060">Fig. 6</ce:alt-text>
+               <ce:link locator="gr006" xlink:type="simple" xlink:href="pii:S1631070517300361/gr006" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" id="ln0060"/>
+            </ce:figure>
+            <ce:figure id="fg0070">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cp0070">
+                  <ce:simple-para id="sp0070" view="all">X-ray diffractograms of the 80GeSe<ce:inf loc="post">2</ce:inf>–20Ga<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf> glass annealed at 380 °C for 40 h. Reprinted from <ce:cross-ref refid="br0100" id="crf0010">[10]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="at0070">Fig. 7</ce:alt-text>
+               <ce:link locator="gr007" xlink:type="simple" xlink:href="pii:S1631070517300361/gr007" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" id="ln0070"/>
+            </ce:figure>
+            <ce:figure id="fg0080">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption id="cp0080">
+                  <ce:simple-para id="sp0080" view="all">SEM micrograph of a) the 80GeSe<ce:inf loc="post">2</ce:inf>–20Ga<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf> glass-ceramic annealed for 15 h at 380 °C, b) bright field and dark field MET micrograph of the 80GeSe<ce:inf loc="post">2</ce:inf>–20Ga<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf> glass-ceramic heat treated for 40 h at 380 °C. Reprinted from <ce:cross-ref refid="br0100" id="crf0020">[10]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="at0080">Fig. 8</ce:alt-text>
+               <ce:link locator="gr008" xlink:type="simple" xlink:href="pii:S1631070517300361/gr008" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" id="ln0080"/>
+            </ce:figure>
+            <ce:figure id="fg0090">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption id="cp0090">
+                  <ce:simple-para id="sp0090" view="all">Description of the process for the synthesis of IR glasses and glass-ceramics by mechanical alloying and then hot-pressing (here, by Spark Plasma Sintering).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="at0090">Fig. 9</ce:alt-text>
+               <ce:link locator="gr009" xlink:type="simple" xlink:href="pii:S1631070517300361/gr009" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" id="ln0090"/>
+            </ce:figure>
+            <ce:figure id="fg0100">
+               <ce:label>Fig. 10</ce:label>
+               <ce:caption id="cp0100">
+                  <ce:simple-para id="sp0100" view="all">Evolution of the coloring of the GeSe<ce:inf loc="post">4</ce:inf> powder with the grinding time at a rotation speed of 300 rpm (left). Corresponding XRD diffractograms of the GeSe<ce:inf loc="post">4</ce:inf> powder according to the milling time (right).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="at0100">Fig. 10</ce:alt-text>
+               <ce:link locator="gr010" xlink:type="simple" xlink:href="pii:S1631070517300361/gr010" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" id="ln0100"/>
+            </ce:figure>
+            <ce:figure id="fg0110">
+               <ce:label>Fig. 11</ce:label>
+               <ce:caption id="cp0110">
+                  <ce:simple-para id="sp0110" view="all">(a) Photograph of 80GeSe<ce:inf loc="post">2</ce:inf>–20Ga<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf> glass samples 8 mm, 20 mm and 36 mm in diameter sintered by SPS; b) observation of the same samples using a thermal camera operating in the 8–12-μm window. Reprinted from <ce:cross-ref refid="br0140" id="crf0030">[14]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="at0110">Fig. 11</ce:alt-text>
+               <ce:link locator="gr011" xlink:type="simple" xlink:href="pii:S1631070517300361/gr011" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" id="ln0110"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:dochead id="do0010">
+               <ce:textfn>Prix Lamb de l'Académie des sciences 2016</ce:textfn>
+            </ce:dochead>
+            <ce:title id="ti0010">Chalcogenide glasses and glass-ceramics: Transparent materials in the infrared for dual applications</ce:title>
+            <ce:alt-title xml:lang="fr">Verres et vitrocéramiques de chalcogénures : des matériaux transparents dans l'infrarouge pour des applications duales</ce:alt-title>
+            <ce:author-group id="ag0010">
+               <ce:author id="au0010" author-id="S1631070517300361-e72b9f45a32231b5e0aee795c613affd">
+                  <ce:given-name>Laurent</ce:given-name>
+                  <ce:surname>Calvez</ce:surname>
+                  <ce:e-address type="email" id="ea0010">laurent.calvez@univ-rennes1.fr</ce:e-address>
+               </ce:author>
+               <ce:affiliation id="aff0010">
+                  <ce:textfn>Equipe “Verres et Céramiques”, UMR–CNRS 6226, Institut des sciences chimiques de Rennes-1, Université de Rennes-1, 263, avenue du Général-Leclerc, 35042 Rennes, France</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Equipe “Verres et Céramiques”</sa:organization>
+                     <sa:organization>UMR–CNRS 6226</sa:organization>
+                     <sa:organization>Institut des sciences chimiques de Rennes-1</sa:organization>
+                     <sa:organization>Université de Rennes-1</sa:organization>
+                     <sa:address-line>263, avenue du Général-Leclerc</sa:address-line>
+                     <sa:city>Rennes</sa:city>
+                     <sa:postal-code>35042</sa:postal-code>
+                     <sa:country>France</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:abstract xml:lang="en" id="ab0010" view="all" class="author">
+               <ce:section-title id="st0010">Abstract</ce:section-title>
+               <ce:abstract-sec id="as0010" view="all">
+                  <ce:simple-para id="sp0120" view="all">In this paper are described the different research activities that led to the awarding of the Lamb prize by the French Academy of Sciences in order to promote research work on the national defense of France. This research concerns the development of infrared materials for night vision and the development of thermal imagers useful for defense, but also for civilian applications. The contribution has been particularly innovative in different sectors: broadening of chalcogenide glasses window of transparency, IR glass-ceramics with high thermomechanical properties, and the design of a new way of synthesis of these materials by a mechanical process.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:abstract xml:lang="fr" id="ab0020" view="all" class="author">
+               <ce:section-title id="st0020">Résumé</ce:section-title>
+               <ce:abstract-sec id="as0020" view="all">
+                  <ce:simple-para id="sp0130" view="all">Dans cet article sont décrites les activités de recherche qui ont permis l'obtention du prix Lamb, décerné par l'Académie des sciences dans le but de favoriser les études concernant la défense nationale de la France. Ces recherches concernent le développement de matériaux infrarouges pour la vision nocturne et la mise au point d'imageurs thermiques utiles pour des applications de défense, mais aussi civiles. La contribution est particulièrement innovante dans trois secteurs : l'élargissement du domaine spectral des verres de chalcogénures, les vitrocéramiques infrarouges à hautes propriétés thermomécaniques, ainsi que la conception d'une nouvelle voie de synthèse de ces matériaux par un procédé mécanique.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords xml:lang="en" id="kws0010" view="all" class="keyword">
+               <ce:section-title id="st0030">Keywords</ce:section-title>
+               <ce:keyword id="kw0010">
+                  <ce:text>Glass</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>Glass-ceramics</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0030">
+                  <ce:text>Chalcogenide</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0040">
+                  <ce:text>Infrared</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0050">
+                  <ce:text>Synthesis</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:keywords xml:lang="fr" id="kws0020" view="all" class="keyword">
+               <ce:section-title id="st0040">Mots-clés</ce:section-title>
+               <ce:keyword id="kw0060">
+                  <ce:text>Verre</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0070">
+                  <ce:text>Vitrocéramique</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0080">
+                  <ce:text>Chalcogénure</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0090">
+                  <ce:text>Infrarouge</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0100">
+                  <ce:text>Synthèse</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="se0010" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st0050">Introduction</ce:section-title>
+                  <ce:para id="pr0010" view="all">The main interest of chalcogenide glasses lies in their wide range of transparency, which can extend from the visible to the mid- infrared as a function of the chemical composition of the glass. Thus, the first part of the paper will be devoted to studying the extension of the windows of transparency of these materials in the visible or in the infrared domain. This research is mainly focused on obtaining multi-band materials, transparent in the visible range, but also in the atmospheric transparency band I (3–5 μm) and band II (8–12 μm).</ce:para>
+                  <ce:para id="pr0020" view="all">Unlike many materials currently used for mid-infrared optical applications (monocrystalline Ge, polycrystalline ZnSe), chalcogenide glasses have a great advantage since they can be molded by simple heating above their glass transition temperature (<mml:math altimg="si1.gif" overflow="scroll">
+                        <mml:msub>
+                           <mml:mrow>
+                              <mml:mi>T</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mi mathvariant="normal">g</mml:mi>
+                           </mml:mrow>
+                        </mml:msub>
+                     </mml:math>). Indeed, monocrystalline germanium and polycrystalline ZnSe require shaping by polishing at the diamond tip, a long and expensive process. Moreover, the relatively easy synthesis of chalcogenide glasses allows a reduction in the production costs of IR optics. These strengths have recently led to various infrared optical applications such as night vision, detection of chemical and biological species, production of infrared fibers or nonlinear optics… <ce:cross-ref refid="br0010" id="crf0040">[1]</ce:cross-ref>.</ce:para>
+                  <ce:para id="pr0030" view="all">Nevertheless, chalcogenide glasses possess mechanical properties (hardness, toughness, etc.) which are relatively low compared to mono- or polycrystals (Ge, ZnSe…) regularly used in the infrared industry, limiting their fields of application. In the last works carried out by our team, we have demonstrated that these properties can be considerably improved by generating particles of nanometric to micronic size by appropriate heat treatment. The details of this work will be discussed later in this paper.</ce:para>
+                  <ce:para id="pr0040" view="all">Furthermore, at the present time, the synthesis of chalcogenide glasses is carried out in single-use vacuum-sealed silica ampules. Thus, although the synthesis process is simple to implement, the fact that it is not possible to reuse the silica ampules and that many subsidiary steps of material recovery have to be carried out leads to an approximate increase of 30% in the price of the final glass, which makes them less competitive on the public market.</ce:para>
+                  <ce:para id="pr0050" view="all">In order to make these infrared technologies accessible to civilians, it is therefore essential to develop new methods of synthesis at lower cost. Recent research project introduces an innovative way of synthesis, the first of which has been recently developed in the laboratory and will be described in the last section. This way of synthesis combining mechanical alloying and flash sintering should eventually open new routes to manufacture optical glasses, glass-ceramics, and ceramics.</ce:para>
+               </ce:section>
+               <ce:section id="se0020" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st0060">Presentation of chalcogenide glasses</ce:section-title>
+                  <ce:para id="pr0060" view="all">Numerous works and documents summarize the different stages of synthesis of pure chalcogenide glasses <ce:cross-refs refid="br0020 br0030" id="crs0010">[2,3]</ce:cross-refs>. Although the synthesis process is identical, the shaping of the glasses may vary according to the applications envisaged (manufacture of lenses, fibers, thin films, etc.). Here will be recalled the main steps necessary to obtain a glass of chalcogenides using the conventional way of melting–quenching in vacuum-sealed silica ampules.</ce:para>
+                  <ce:para id="pr0070" view="all">The elements necessary for the constitution of the glass are weighed in stoichiometric proportion before being placed in a silica tube. The silica tube will subsequently be sealed in a secondary vacuum. The sealed tube under vacuum is then heated in a rotating furnace at a temperature ranging from 700 °C to 950 °C, depending on the prepared composition. A phase of homogenization of the molten bath is then carried out before quenching the mixture in water or with compressed air.</ce:para>
+                  <ce:para id="pr0080" view="all">The glass then undergoes an annealing treatment at a temperature slightly lower than the glass transition temperature <mml:math altimg="si1.gif" overflow="scroll">
+                        <mml:msub>
+                           <mml:mrow>
+                              <mml:mi>T</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mi mathvariant="normal">g</mml:mi>
+                           </mml:mrow>
+                        </mml:msub>
+                     </mml:math> in order to relax the internal stresses caused during quenching. The bulk glass obtained can then be shaped (cutting, polishing, etc.) according to the targeted applications. In general, rods of 7 to 10 g having a diameter from 9 to 10 mm are synthesized, that is to say a height of about 6 cm.</ce:para>
+                  <ce:para id="pr0090" view="all">Glass rods are then cut into 2-mm-thick slices and are then optically polished. In order to generate crystalline nanoparticles within the amorphous matrix, glasses will be annealed at about <mml:math altimg="si2.gif" overflow="scroll">
+                        <mml:msub>
+                           <mml:mrow>
+                              <mml:mi>T</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mi mathvariant="normal">g</mml:mi>
+                           </mml:mrow>
+                        </mml:msub>
+                        <mml:mo>+</mml:mo>
+                        <mml:mn>30</mml:mn>
+                        <mml:mspace width="0.2em"/>
+                        <mml:mtext>°C</mml:mtext>
+                     </mml:math> for different times, leading to glass-ceramics that keep a wide range of transparency in the infrared range.</ce:para>
+               </ce:section>
+               <ce:section id="se0030" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st0070">Broadening of the window of transparency</ce:section-title>
+                  <ce:para id="pr0100" view="all">As mentioned above, the chalcogenide glasses possess a wide window of transparency in the infrared range covering the second (band I) and third (band II) atmospheric window between 3 to 5 μm and 8 to 12 μm respectively. In fact, between these windows, light absorption due to the vibrations of chemical molecules (H<ce:inf loc="post">2</ce:inf>O, CO<ce:inf loc="post">2</ce:inf>, O<ce:inf loc="post">3</ce:inf>) present in the atmosphere occur. Nevertheless, as shown in <ce:cross-ref refid="fg0010" id="crf0050">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fg0010"/>, these glasses are partially transparent in the visible range in the case of glasses based on sulfur or even completely opaque in the case of glasses based on selenium or tellurium. Although it is relatively simple to extend the transmission range to the long wavelengths by adding more massive chalcogen elements modifying the phonon vibrations, the extension of the transparency window for the short wavelengths appears much more complex because it is linked to the variation of the electronic band gap. It is then important to understand the microstructure of the glasses in order to influence the gap between the valence band and the conduction band.</ce:para>
+                  <ce:para id="pr0110" view="all">Whatever the wavelength, imagery using visible, near-infrared (1.5–2.7 μm) and thermal-infrared (3–5 μm and 8–12 μm) radiations finds a large number of applications still in strong growth. By way of example, for the driving assistance of a vehicle, the visible/near-infrared image makes it possible to better read the road signs and to detect the presence of ice sheet, while thermal imaging allows one to see further in the fog and detect the presence of pedestrians even in the dark (<ce:cross-ref refid="fg0020" id="crf0060">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fg0020"/>). For military applications, for example, it is easier to move in the dark with near infrared imagery intensified and thermal imaging is essential for de-camouflaging hot targets.</ce:para>
+                  <ce:para id="pr0120" view="all">A vision system fusing visible or near-infrared imaging and thermal-infrared imaging could be provided with the same input optics, greatly simplifying their design and manufacture. This would be a technological breakthrough that would make it possible to envisage numerous innovative applications, both civil and military. The realization of multi-spectral optics thus presents a wide field of dual applications. Thus, two different possibilities to broaden the window of transparency of chalcogenide glasses were studied by adding gallium and alkali halides.</ce:para>
+                  <ce:section id="se0040" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="st0080">Effect of gallium</ce:section-title>
+                     <ce:para id="pr0130" view="all">Up to now, most of the commercialized glasses for thermal imaging applications were based on germanium–antimony–selenium; one can cite, for example, Ge<ce:inf loc="post">28</ce:inf>Sb<ce:inf loc="post">12</ce:inf>Se<ce:inf loc="post">60</ce:inf> known as Vitron IG5, Black Diamond BD-2, AMTIR-3… or based on glasses containing toxic arsenic such as Ge<ce:inf loc="post">22</ce:inf>As<ce:inf loc="post">20</ce:inf>Se<ce:inf loc="post">58</ce:inf> (GASIR-1, Umicore IR Glass). Although arsenic-based glasses have attractive optical properties, we have excluded them from the study in order to anticipate future REACH standards (registration, evaluation, authorization and restriction of chemicals). So, our work was focused on gallium, which can be introduced in limited quantity into chalcogenide glasses.</ce:para>
+                     <ce:para id="pr0140" view="all">As showed in <ce:cross-ref refid="fg0030" id="crf0070">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fg0030"/>, the substitution of Sb with Ga causes a shift of about 130 nm of the optical band-gap towards the short wavelengths for an identical composition of 85GeSe<ce:inf loc="post">2</ce:inf>–15(Ga/Sb)<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf>.</ce:para>
+                     <ce:para id="pr0150" view="all">However, this simple substitution does not make it possible to obtain transparent glasses in the visible range. It is also important to note that the substitution of antimony by gallium has no influence on the multiphonon break. The latter, mainly related to the vibration energies of selenium-based bonds, is maintained at 16 μm.</ce:para>
+                     <ce:para id="pr0160" view="all">As demonstrated previously, the triangular structure of GaSe<ce:inf loc="post">3</ce:inf>, having an electron deficiency, does not correspond to the most stable coordination. The tendency is to increase the number of coordination of the gallium from 3 to 4, passing from a triangular structure to a tetrahedral structure, by capturing the free electron pairs of the Se atoms <ce:cross-ref refid="br0030" id="crf0080">[3]</ce:cross-ref>. The offset of the beginning of transmission is explained by the electron donation of the free pairs of Se at the Ga electron-deficient site. This increase in crosslinking has the effect of increasing the <mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mi>T</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mi mathvariant="normal">g</mml:mi>
+                              </mml:mrow>
+                           </mml:msub>
+                        </mml:math> of the glass as well as its mechanical properties.</ce:para>
+                     <ce:para id="pr0170" view="all">The antimony has been substituted with gallium, which has more localized electrons when associated with selenium, leading to a widening of the forbidden band of the material. This makes it possible, in the same way as the glasses based on sulfur, to lighten the glass by shifting the optical band gap towards the short wavelengths.</ce:para>
+                  </ce:section>
+                  <ce:section id="se0050" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="st0090">Effect of alkali halide</ce:section-title>
+                     <ce:para id="pr0180" view="all">The transmission at short wavelengths is limited by the optical absorption due to the electronic transitions between the valence band (BV) and the conduction band (BC) of the glass. The optical band gap of sulfide-based glasses is usually situated around 500 nm (2.5 eV) and for selenide based glasses (1.8 eV). The introduction of ionic compounds such as alkali halide should modify this band-gap, that is why we studied its influence in both sulfide and selenide glasses all based on germanium and gallium.</ce:para>
+                     <ce:para id="pr0190" view="all">For example, <ce:cross-ref refid="fg0030" id="crf0090">Fig. 3</ce:cross-ref> shows the evolution of the beginning of transmission of sulfide-based glasses containing up to 20 mol% of cesium chloride (CsCl). A shift up to 40 nm towards the shorter wavelengths can be reached by progressive addition of CsCl. By adding about 40% of CsCl, glasses almost fully transparent in the visible up to 11.5 μm can be obtained, covering the three atmospheric windows (<ce:cross-ref refid="fg0040" id="crf0100">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fg0040"/>) <ce:cross-ref refid="br0040" id="crf0110">[4]</ce:cross-ref>.</ce:para>
+                     <ce:para id="pr0200" view="all">The increasing introduction of highly electronegative elements, such as halogens, induces a decrease in the delocalization of the non-binding electrons present on certain atoms (S) in the form of free pairs, and consequently a shift from the beginning of transparency towards the short wavelengths occurs.</ce:para>
+                     <ce:para id="pr0210" view="all">It is easy to understand the importance of the transparency of the glasses in the visible when working with black glasses that mainly consist of selenium. Transparency is obviously crucial for specific optical applications, but also allows us to control the presence of bubbles, to check the homogeneity of massive samples or to observe the evolving crystallization of the glass. The main interest lies in the ease of alignment of optical systems working in the mid-infrared by using visible sources. However, such introduction of alkali halides presents several drawbacks, first the fact that it increases the content of non-bridging bonds and affects the thermomechanical properties by lowering the <mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mi>T</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mi mathvariant="normal">g</mml:mi>
+                              </mml:mrow>
+                           </mml:msub>
+                        </mml:math>, hardness, etc. It also leads to a decrease in the resistance to corrosion in normal atmospheric conditions.</ce:para>
+                     <ce:para id="pr0220" view="all">Nevertheless, sulfur-based glasses having a multiphonon cut-off close to 11 μm do not allow the total coverage of the third window of atmospheric transparency useful for thermal imaging. In fact, transparent materials ranging from 8 to 14 μm are needed in order to fully benefit from this window of transparency. The studies on selenide glasses with a wider transparency were based on antimony or arsenic.</ce:para>
+                     <ce:para id="pr0230" view="all">The same process as glasses based on sulfur was used to lighten selenide glasses, shifting the optical band gap towards the short wavelengths by adding alkali halides. Cesium-based alkali halides (CsI, CsCl) have been added to the 70GeSe<ce:inf loc="post">2</ce:inf>–30Ga<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf> base glass maintaining a GeSe<mml:math altimg="si3.gif" overflow="scroll">
+                           <mml:mmultiscripts>
+                              <mml:mrow>
+                                 <mml:mo stretchy="false">/</mml:mo>
+                              </mml:mrow>
+                              <mml:mprescripts/>
+                              <mml:mrow>
+                                 <mml:mn>2</mml:mn>
+                              </mml:mrow>
+                              <mml:none/>
+                           </mml:mmultiscripts>
+                        </mml:math>Ga<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf> ratio equal to 2.33. It has been possible to incorporate up to 45 mol% of CsI, 40 mol% of CsCl and KI in the base glass (<ce:cross-ref refid="fg0050" id="crf0120">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fg0050"/>) <ce:cross-refs refid="br0030 br0050" id="crs0020">[3,5]</ce:cross-refs>.</ce:para>
+                     <ce:para id="pr0240" view="all">As mentioned above, the increasing introduction of highly electronegative elements such as halogens induces a decrease in the delocalization of the non-binding electrons present on certain atoms (Se) in the form of free pairs. The value of the optical band-gap is then increased. Also, a simple addition of 10 mol% of CsCl makes it possible to obtain a slightly transparent glass in the visible. These glasses were the first Ge–Se-based glasses transparent in the visible range and up to wavelengths close to 16 μm, whatever the cesium halide used <ce:cross-ref refid="br0060" id="crf0130">[6]</ce:cross-ref>. This discovery represents a certain interest since it allows the control of the homogeneity of the glasses or the detection of impurities infused at a glance, and thus the use of an He–Ne laser working at 632.8 nm.</ce:para>
+                     <ce:para id="pr0250" view="all">Most of these samples start to be hygroscopic when alkali halides are introduced. We recently demonstrated that adapted anti-reflective coatings such as zinc sulfide ZnS are very efficient to avoid glass corrosion by the air, maintaining their high transparency in the infrared range <ce:cross-ref refid="br0070" id="crf0140">[7]</ce:cross-ref>. ZnS was chosen because it is already used as antireflection coatings for IR lenses; it could then play both roles simultaneously.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="se0060" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st0100">Enhancement of mechanical properties by making glass-ceramics</ce:section-title>
+                  <ce:para id="pr0260" view="all">Associated with their field of transmission, the chalcogenide glasses have relatively weak chemical bonds leading to poor thermomechanical properties with respect to the oxide glasses, for example. One of the techniques for improving these properties consists in the manufacturing of composite materials such as glass-ceramics by the generation of crystalline particles.</ce:para>
+                  <ce:section id="se0070" view="all">
+                     <ce:label>4.1</ce:label>
+                     <ce:section-title id="st0110">Ge–Sb–Se</ce:section-title>
+                     <ce:para id="pr0270" view="all">In the framework of DGA (French National Defense) projects, a wide range of new vitreous compositions has been carried out, leading to the formation of glass-ceramics with high mechanical properties and transparent up to 16 μm. The first glass-ceramics synthesized mainly belonged to the vitreous systems based on Ge, Sb, Se with alkali metal halide additions. Heat treatments were performed at <mml:math altimg="si2.gif" overflow="scroll">
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mi>T</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mi mathvariant="normal">g</mml:mi>
+                              </mml:mrow>
+                           </mml:msub>
+                           <mml:mo>+</mml:mo>
+                           <mml:mn>30</mml:mn>
+                           <mml:mspace width="0.2em"/>
+                           <mml:mtext>°C</mml:mtext>
+                        </mml:math>, temperature at which nucleation and growth occur simultaneously. For example, the base glass 68GeSe<ce:inf loc="post">2</ce:inf>–22Sb<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf>–10RbI (<mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mi>T</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mi mathvariant="normal">g</mml:mi>
+                              </mml:mrow>
+                           </mml:msub>
+                        </mml:math> of 262 °C ± 2 °C) was annealed in a ventilated furnace at 292 °C. Only a small percentage of the produced glasses led to the formation of transparent glass-ceramics in the IR after heat treatment. These particles were formed exclusively from the precipitation of various alkali metal halides (CsCl, RbI, NaI...), inducing a slight increase in thermomechanical properties <ce:cross-ref refid="br0080" id="crf0150">[8]</ce:cross-ref>.</ce:para>
+                     <ce:para id="pr0280" view="all">However, as demonstrated in <ce:cross-ref refid="fg0060" id="crf0160">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fg0060"/>, transparent glass-ceramics can also be obtained with an appropriate heat treatment at <mml:math altimg="si2.gif" overflow="scroll">
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mi>T</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mi mathvariant="normal">g</mml:mi>
+                              </mml:mrow>
+                           </mml:msub>
+                           <mml:mo>+</mml:mo>
+                           <mml:mn>30</mml:mn>
+                           <mml:mspace width="0.2em"/>
+                           <mml:mtext>°C</mml:mtext>
+                        </mml:math> by adding compounds such as CdTe or ZnSe. These compounds avoid the breakage of bonds by the use of alkali halide and so maintaining the mechanical properties of the base glass. Thus glass-ceramics present slightly enhanced mechanical properties with respect to the base glass, but their mechanical properties are much higher than the glass-ceramics containing alkali halides. In fact, the two glasses presented in <ce:cross-ref refid="fg0050" id="crf0170">Fig. 5</ce:cross-ref> have a Vickers hardness of about <mml:math altimg="si5.gif" overflow="scroll">
+                           <mml:mn>160</mml:mn>
+                           <mml:mo>±</mml:mo>
+                           <mml:mn>2</mml:mn>
+                           <mml:mspace width="0.25em"/>
+                           <mml:mtext>Hv</mml:mtext>
+                        </mml:math>, a Young modulus <ce:italic>E</ce:italic> of <mml:math altimg="si6.gif" overflow="scroll">
+                           <mml:mn>15.5</mml:mn>
+                           <mml:mo>±</mml:mo>
+                           <mml:mn>0.3</mml:mn>
+                           <mml:mspace width="0.25em"/>
+                           <mml:mtext>GPa</mml:mtext>
+                        </mml:math>, while glasses containing 10% of CsI present slightly decreased mechanical properties (<mml:math altimg="si7.gif" overflow="scroll">
+                           <mml:mi>H</mml:mi>
+                           <mml:mo>=</mml:mo>
+                           <mml:mn>140</mml:mn>
+                           <mml:mo>±</mml:mo>
+                           <mml:mn>3</mml:mn>
+                           <mml:mspace width="0.25em"/>
+                           <mml:mtext>Hv</mml:mtext>
+                        </mml:math>, <mml:math altimg="si8.gif" overflow="scroll">
+                           <mml:mi>E</mml:mi>
+                           <mml:mo>=</mml:mo>
+                           <mml:mn>15.2</mml:mn>
+                           <mml:mo>±</mml:mo>
+                           <mml:mn>0.3</mml:mn>
+                           <mml:mspace width="0.25em"/>
+                           <mml:mtext>GPa</mml:mtext>
+                        </mml:math>).</ce:para>
+                     <ce:para id="pr0290" view="all">In both cases, what can be noted after controlled crystallization is a slight decrease in the transmission in the short wavelength because of the Rayleigh scatterings. This loss of transparency does not affect the third atmospheric window between 8 and 12 μm, which is the main one for thermal imaging applications. Moreover, the main property, which is strongly, enhanced is toughness, which means the resistance to crack propagation <ce:cross-ref refid="br0090" id="crf0180">[9]</ce:cross-ref>. This point is of great interest when considering military applications, since it permits to enhance the resistance to thermal chocks under extreme conditions.</ce:para>
+                  </ce:section>
+                  <ce:section id="se0080" view="all">
+                     <ce:label>4.2</ce:label>
+                     <ce:section-title id="st0120">Ge–Ga–Se</ce:section-title>
+                     <ce:para id="pr0300" view="all">Subsequently, gallium replaced the antimony imparting very high thermomechanical properties (<mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mi>T</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mi mathvariant="normal">g</mml:mi>
+                              </mml:mrow>
+                           </mml:msub>
+                        </mml:math>, hardness, Young's modulus) compared to antimony-based glasses. The glasses belonging to the GeSe<ce:inf loc="post">2</ce:inf>–Ga<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf>–CsCl/CsI ternary diagram were more particularly studied because of their wide transparency <ce:cross-ref refid="br0060" id="crf0190">[6]</ce:cross-ref>. In order to compare, the 63GeSe<ce:inf loc="post">2</ce:inf>–27Ga<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf>–10CsCl has a hardness of 162 Hv, a Young modulus of 20.5 GPa and a thermal expansion coefficient of <mml:math altimg="si9.gif" overflow="scroll">
+                           <mml:mn>16.9</mml:mn>
+                           <mml:mo>⋅</mml:mo>
+                           <mml:msup>
+                              <mml:mrow>
+                                 <mml:mn>10</mml:mn>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mo>−</mml:mo>
+                                 <mml:mn>6</mml:mn>
+                              </mml:mrow>
+                           </mml:msup>
+                           <mml:mspace width="0.25em"/>
+                           <mml:msup>
+                              <mml:mrow>
+                                 <mml:mtext>K</mml:mtext>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mo>−</mml:mo>
+                                 <mml:mn>1</mml:mn>
+                              </mml:mrow>
+                           </mml:msup>
+                        </mml:math>. Studies carried out on these glasses have demonstrated another type of behavior of chalcohalide glasses under crystallization. Indeed, contrary to the previous glass-ceramics in which a phase dissociation occurred between the alkali halide and the vitreous matrix, in this case the crystallization of the main constituents of the glass (Ge, Ga, Se) in the form of Ga<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf> and/or GeGa<ce:inf loc="post">4</ce:inf>Se<ce:inf loc="post">8</ce:inf> was detected by X-ray diffraction performed at the CEMTHI laboratory at the University of Orléans (<ce:cross-ref refid="fg0070" id="crf0200">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="fg0070"/>). Also glasses devoid of alkali halides such as 80GeSe<ce:inf loc="post">2</ce:inf>–20Ga<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf> exhibit identical behaviors <ce:cross-ref refid="br0100" id="crf0210">[10]</ce:cross-ref>.</ce:para>
+                     <ce:para id="pr0310" view="all">The influence of the alkaline halide on the crystallization phenomena being negligible or even inverse to that desired (destabilization of the vitreous matrix), the majority of the experiments were subsequently carried out on a specific composition: 80GeSe<ce:inf loc="post">2</ce:inf>–20Ga<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf>. The latter has demonstrated excellent reproducibility to the formation of a high level of nanoparticles by heat treatment with reproducible manner. The crystallization stage was carried out at <mml:math altimg="si2.gif" overflow="scroll">
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mi>T</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mi mathvariant="normal">g</mml:mi>
+                              </mml:mrow>
+                           </mml:msub>
+                           <mml:mo>+</mml:mo>
+                           <mml:mn>30</mml:mn>
+                           <mml:mspace width="0.2em"/>
+                           <mml:mtext>°C</mml:mtext>
+                        </mml:math>, i.e. 380 °C, for varying periods (several hours). As showed in <ce:cross-ref refid="br0100" id="crf0220">[10]</ce:cross-ref>, crystals of the order of one hundred nanometers are formed from the aggregation of nanoparticles (5–10 nm). The formation of nanoparticles induces a strong increase in the toughness of the material. Just like glasses, glass-ceramics are black. Even if scatterings occur in the short wavelength, their transparency in the near-IR range up to 16 μm can be mastered by controlling heat treatment time and temperature (<ce:cross-ref refid="fg0080" id="crf0230">Fig. 8</ce:cross-ref>
+                        <ce:float-anchor refid="fg0080"/>).</ce:para>
+                     <ce:para id="pr0320" view="all">It is interesting to point out the possibility to replace selenium with sulfur in this glassy matrix without changing the nucleation and growth process occurring in these matrices. In fact, in the whole Ge–Ga–(S/Se) glass family, because of the high amount of gallium, phase separation starts, leading to controllable and reproducible nanoparticles, as described in <ce:cross-ref refid="br0110" id="crf0240">[11]</ce:cross-ref>.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="se0090" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title id="st0130">Another way to produce infrared optics from chalcogenide glasses</ce:section-title>
+                  <ce:para id="pr0330" view="all">Following the drawbacks (single use silica tubes, use of fluorhydric acid, coring of glass…) observed during the synthesis of germanium-based glass in silica tubes, new synthetic pathways had to be applied. Thus, a new approach consisting in obtaining an amorphous powder from pure metallic elements necessary for the constitution of the glass using mechanical grinding energy at ambient temperature was developed. In a second step, the amorphous powder is densified by sintering to make it a dense and transparent glass. The whole process is described in <ce:cross-ref refid="fg0090" id="crf0250">Fig. 9</ce:cross-ref>
+                     <ce:float-anchor refid="fg0090"/>.</ce:para>
+                  <ce:para id="pr0340" view="all">Thus, obtaining infrared glasses by mechanical alloying and then SPS (Spark Plasma Sintering) makes it possible, on the one hand, to avoid the use of complex and expensive silica systems, and, on the other hand, to avoid the loss of chalcogen elements during high-temperature reactions. This novel process for the manufacture of infrared lenses should ultimately make possible the simultaneous compaction and shaping of finished optics using suitable molds. In addition to a great reduction in the costs of synthesis, the fact of not using a silicon tube of low thermal conductivity will offer the possibility of obtaining new vitreous compositions hitherto impossible to synthesize because of their strong tendency to crystallize.</ce:para>
+                  <ce:para id="pr0350" view="all">By definition, mechanical alloying uses high-energy ball-milling to crush several elements to make a chemical reaction in order to obtain homogeneous amorphous alloys powders <ce:cross-ref refid="br0120" id="crf0260">[12]</ce:cross-ref>. Pure raw (5N) metallic germanium, gallium or antimony and selenium are introduced in a tungsten carbide (WC) under inert argon atmosphere because of its high hardness. The grinding jar (80 ml) contained 6 WC milling balls leading to a ball-to-powder weight ratio of 8:1. The jar was introduced into a planetary ball mill (Retsch PM100) in a glove box to avoid oxidation during milling. Then a specific program is elaborated, consisting of various rotation cycles at different speeds and pauses to lower the inside temperature.</ce:para>
+                  <ce:para id="pr0360" view="all">Although a simple view of the powder shows an evolution of the mixture structure as a function of the grinding time (<ce:cross-ref refid="fg0100" id="crf0270">Fig. 10</ce:cross-ref>
+                     <ce:float-anchor refid="fg0100"/>). Moreover, the progressive amorphization of the mixture was confirmed by X-ray diffraction analysis. The disappearance of the peak attributed to the Ge crystalline phase is observed after 40 h of grinding, leading to a perfectly amorphous mixture when using a rotation speed of 400 rpm, and after 90 h when using a rotation speed of 300 rpm <ce:cross-ref refid="br0130" id="crf0280">[13]</ce:cross-ref>. So, in addition to ball to powder weight ratio, the rotation speed is of paramount importance to fasten the chemical reaction kinetics.</ce:para>
+                  <ce:para id="pr0370" view="all">The amorphization process can be explained in two distinct ways. The first path consists of a gradual reaction between the elements by diffusion. The second, directly linked to the high temperatures reached locally during the impact of the balls, is a reaction mechanism by melt-quenching. In our case, the glass transition temperature of GeSe<ce:inf loc="post">4</ce:inf> being low (160 °C), the second process is preponderant. However, for glasses having higher <mml:math altimg="si1.gif" overflow="scroll">
+                        <mml:msub>
+                           <mml:mrow>
+                              <mml:mi>T</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mi mathvariant="normal">g</mml:mi>
+                           </mml:mrow>
+                        </mml:msub>
+                     </mml:math>, like the 80GeSe<ce:inf loc="post">2</ce:inf>–20Ga<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf> glass (<mml:math altimg="si1.gif" overflow="scroll">
+                        <mml:msub>
+                           <mml:mrow>
+                              <mml:mi>T</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mi mathvariant="normal">g</mml:mi>
+                           </mml:mrow>
+                        </mml:msub>
+                     </mml:math> of about 360 °C), both effects occur.</ce:para>
+                  <ce:para id="pr0380" view="all">The obtained powders were then compacted by flash sintering. A flash densification is mandatory to avoid the rapid crystallization of the powder surface. In fact, the high specific surface of powders leads to a massive crystallization and thus to strong losses by scattering. Contrarily to hot pressing, which needs to press several minutes at a temperature higher than <mml:math altimg="si1.gif" overflow="scroll">
+                        <mml:msub>
+                           <mml:mrow>
+                              <mml:mi>T</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mi mathvariant="normal">g</mml:mi>
+                           </mml:mrow>
+                        </mml:msub>
+                     </mml:math> by 100 °C, Spark Plasma Sintering (SPS) allows us to sinter at a temperature only higher by 10 to 30 °C than <mml:math altimg="si1.gif" overflow="scroll">
+                        <mml:msub>
+                           <mml:mrow>
+                              <mml:mi>T</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mi mathvariant="normal">g</mml:mi>
+                           </mml:mrow>
+                        </mml:msub>
+                     </mml:math> for only several seconds to a few minutes with a high heating rate (100 °C/min), avoiding glass crystallization. <ce:cross-ref refid="fg0110" id="crf0290">Fig. 11</ce:cross-ref>
+                     <ce:float-anchor refid="fg0110"/> presents 80GeSe<ce:inf loc="post">2</ce:inf>–20Ga<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf> glass samples 8 mm, 20 mm, and 36 mm in diameter, sintered by SPS at 390 °C for 2 min under a pressure of 50 MPa.</ce:para>
+                  <ce:para id="pr0390" view="all">Graphite or WC (tungsten carbide) molds are used to shape the glass. Various contaminants (carbon, tungsten) or defects (bubbles, inhomogeneities) can lead to a loss of transparency. While some parameters of mechanical alloying and sintering can be optimized to minimize the losses in short wavelengths, one can observe in <ce:cross-ref refid="fg0110" id="crf0300">Fig. 11</ce:cross-ref> that infrared transparency is of good quality. Moreover, the figures show that lenses of big dimensions (up to 36 mm in this picture) can be reached with the 80GeSe<ce:inf loc="post">2</ce:inf>–20Ga<ce:inf loc="post">2</ce:inf>Se<ce:inf loc="post">3</ce:inf> glass, while its dimension is limited to 10 mm when prepared in silica tubes. Finally, this process can be extended to ceramics that are transparent in the infrared range, such as ZnSe <ce:cross-ref refid="br0150" id="crf0310">[15]</ce:cross-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="se0100" role="conclusion" view="all">
+                  <ce:label>6</ce:label>
+                  <ce:section-title id="st0140">Conclusion</ce:section-title>
+                  <ce:para id="pr0400" view="all">The discovery of new chalcogenide glasses with a broad window of transparency, the demonstration of their mechanical properties enhancement by generating nanoparticles and finally the feasibility to obtain these glasses using mechanical energy instead of thermal energy were highlighted. As demonstrated in this paper, chalcogenide glasses present a high interest for thermal imaging applications. First, optimized glass formulation has improved the window of transparency by adding gallium or alkali halide such as CsCl. These elements or compounds led to a shift of the beginning of transparency in the short wavelength up to 200 nm. Some of these glasses have undergone a specific heat treatment at temperatures slightly higher than the glass transition temperature (about <mml:math altimg="si2.gif" overflow="scroll">
+                        <mml:msub>
+                           <mml:mrow>
+                              <mml:mi>T</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mi mathvariant="normal">g</mml:mi>
+                           </mml:mrow>
+                        </mml:msub>
+                        <mml:mo>+</mml:mo>
+                        <mml:mn>30</mml:mn>
+                        <mml:mspace width="0.2em"/>
+                        <mml:mtext>°C</mml:mtext>
+                     </mml:math>). According to the heat treatment time, the number and size of generated particles can be controlled. The obtained glass-ceramics still present a high transparency in the infrared and also some enhanced mechanical properties, especially toughness or resistance to crack propagation. Finally, to lower the cost of infrared optics and thus make this technology accessible to civilians, a new synthesis combining mechanical alloying and Spark Plasma Sintering was developed. Even if the parameters have still to be optimized to obtain infrared transparency without losses, this process is very promising.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ac0010" view="all">
+               <ce:section-title id="st0150">Acknowledgements</ce:section-title>
+               <ce:para id="pr0410" view="all">The author thanks the <ce:grant-sponsor id="gsp0010" sponsor-id="http://dx.doi.org/10.13039/501100006021" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">DGA</ce:grant-sponsor> (‘Direction générale de l'armement’) and the <ce:grant-sponsor id="gsp0020" sponsor-id="http://dx.doi.org/10.13039/501100001665" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">ANR</ce:grant-sponsor> (‘Agence nationale de la recherche’), France, for having funded these works. The author is deeply indebted to the many students and colleagues who contributed to this work.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bl0010" view="all">
+               <ce:section-title id="st0160">References</ce:section-title>
+               <ce:bibliography-sec id="bs0010" view="all">
+                  <ce:bib-reference id="br0010">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="bib31s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Adam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chalcogenide Glasses: Preparation, Properties and Applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>1st ed.</sb:edition>
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name>J. Woodhead Publishing</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0020">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="bib32s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Blanchetière</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lucas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>161</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>327</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0030">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="bib33s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Calvez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Lucas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Roze</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lucas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. A, Mater. Sci. Process.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>183</sb:first-page>
+                              <sb:last-page>188</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0040">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="bib34s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ledemi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Bureau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Calvez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Roze</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Guillevic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Audebrand</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Poulain</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Messaddeq</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Optoelectron. Adv. Mater., Rapid Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>9</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>899</sb:first-page>
+                              <sb:last-page>904</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0050">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="bib35s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Rozé</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Calvez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Rollin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Gallais</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lonnoy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ollivier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Guilloux-Viry</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>98</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>97</sb:first-page>
+                              <sb:last-page>101</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0060">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="bib36s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Calvez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.-L.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lucas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>129</sb:first-page>
+                              <sb:last-page>132</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0070">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="bib37s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bréhault</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Calvez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Adam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Rollin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Cathelinaud</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Merdrignac-Conanec</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Pain</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>431</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>25</sb:first-page>
+                              <sb:last-page>30</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0080">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="bib38s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Calvez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lucas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Chem. Glasses: Eur. J. Glass Sci. Technol. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>142</sb:first-page>
+                              <sb:last-page>145</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0090">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="bib39s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Calvez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H-L.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lucas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>354</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12–13</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1123</sb:first-page>
+                              <sb:last-page>1127</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0100">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="bib3130s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Rozé</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Calvez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ledemi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Allix</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Matzen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>91</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3566</sb:first-page>
+                              <sb:last-page>3570</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0110">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="bib3131s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Calvez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Tao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Allix</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Moréac</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Solid State Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>184</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>584</sb:first-page>
+                              <sb:last-page>588</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0120">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="bib3132s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Suryanarayana</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prog. Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>184</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0130">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="bib3133s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Petracovschi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hubert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-L.</ce:given-name>
+                                 <ce:surname>Adam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Calvez</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Solid State B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>251</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1330</sb:first-page>
+                              <sb:last-page>1333</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0140">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="bib3134s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hubert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Delaizir</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Monnier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Godart</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Calvez</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Express</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>23</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>23513</sb:first-page>
+                              <sb:last-page>23522</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0150">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="bib3135s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Calvez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Rocherullé</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Optoelectron. Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5–6</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>436</sb:first-page>
+                              <sb:last-page>441</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

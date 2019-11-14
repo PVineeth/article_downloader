@@ -1,0 +1,1351 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1875389213004902</prism:url><dc:identifier>doi:10.1016/j.phpro.2013.07.032</dc:identifier><eid>1-s2.0-S1875389213004902</eid><prism:doi>10.1016/j.phpro.2013.07.032</prism:doi><pii>S1875-3892(13)00490-2</pii><dc:title>Photo-induced and Thermal Annealing of Chalcogenide Films for Waveguide Fabrication </dc:title><prism:publicationName>Physics Procedia</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>18753892</prism:issn><prism:volume>48</prism:volume><prism:startingPage>196</prism:startingPage><prism:endingPage>205</prism:endingPage><prism:pageRange>196-205</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2013-12-31</prism:coverDate><prism:coverDisplayDate>2013</prism:coverDisplayDate><prism:copyright>Copyright © 2013 The Authors. Published by Elsevier B.V.</prism:copyright><prism:publisher>The Authors. Published by Elsevier B.V.</prism:publisher><prism:issueName>XIII International Conference on the Physics of Non-Crystalline Solids</prism:issueName><dc:creator>Choi, Duk-Yong</dc:creator><dc:creator>Wade, Andrew</dc:creator><dc:creator>Madden, Steve</dc:creator><dc:creator>Wang, Rongping</dc:creator><dc:creator>Bulla, Douglas</dc:creator><dc:creator>Luther-Davies, Barry</dc:creator><dc:description>
+               Abstract
+               
+                  We describe the effect of light-induced annealing of As2S3 thin films and its impact on the performance of an optical waveguide. An as-deposited film was subjected to illumination with band-edge light before being used to fabricate sub- micron thick waveguides using photolithography and dry plasma etching. Studies of the film microstructure revealed a difference between the atomic bonds and linked phases between the as-deposited, the thermally-annealed, and the optically-annealed films. Although optical-annealing evolves the structure of the film in a similar way to thermal annealing (i.e., it causes polymerization of the glass network), it can drive the film much closer to bulk state in terms of refractive index and the numbers of wrong bonds. The waveguides showed, however, almost the same propagation losses to those from thermally-annealed material. Nonetheless our results indicate that optical-annealing provides some advantages over thermal annealing for waveguide fabrication.
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/3.0/</openaccessUserLicense><dcterms:subject>Glass and other amorphous materials</dcterms:subject><dcterms:subject>Optical fabrication</dcterms:subject><dcterms:subject>Nonlinear optical devices</dcterms:subject><dcterms:subject>Planar waveguides</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1875389213004902" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1875389213004902" rel="scidir"/></coredata><scopus-id>84902298930</scopus-id><scopus-eid>2-s2.0-84902298930</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84902298930" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>277348</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291690</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Physics Procedia</xocs:srctitle>
+      <xocs:normalized-srctitle>PHYSICSPROCEDIA</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20130906">2013-09-06</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20130906">2013-09-06</xocs:available-online-date>
+      <xocs:ew-transaction-id>2014-11-03T05:03:27</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1875389213004902</xocs:eid>
+      <xocs:pii-formatted>S1875-3892(13)00490-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1875389213004902</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.phpro.2013.07.032</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1875389213X00100</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150515">2015-05-15T07:17:21.532468-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20130101</xocs:date-search-begin>
+      <xocs:date-search-end>20131231</xocs:date-search-end>
+      <xocs:year-nav>2013</xocs:year-nav>
+      <xocs:indexeddate epoch="1378425600">2013-09-06T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confdate confeditor confloc contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1875-3892</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>18753892</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>48</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>48</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 48</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>34</xocs:sort-order>
+      <xocs:first-fp>196</xocs:first-fp>
+      <xocs:last-lp>205</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>196</xocs:first-page>
+         <xocs:last-page>205</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2013</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2013</xocs:cover-date-text>
+      <xocs:cover-date-start>2013-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2013-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2013</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>XIII International Conference on the Physics of Non-Crystalline Solids</ce:title>
+            <xocs:conference-info>
+               <xocs:venue>Yichang Three Gorges, China</xocs:venue>
+               <xocs:conference-date-text>16–20 September 2012</xocs:conference-date-text>
+               <xocs:date-range>
+                  <xocs:start-date>20120916</xocs:start-date>
+                  <xocs:end-date>20120920</xocs:end-date>
+               </xocs:date-range>
+            </xocs:conference-info>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>Xiujian</ce:given-name>
+                     <ce:surname>Zhao</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>Kia Ling</ce:given-name>
+                     <ce:surname>Ngai</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>Chao</ce:given-name>
+                     <ce:surname>Liu</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2013 The Authors. Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>PHOTOINDUCEDTHERMALANNEALINGCHALCOGENIDEFILMSFORWAVEGUIDEFABRICATION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>CHOI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>D</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>TAEED</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9205</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>PELUSI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>529</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>MENEGHINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2946</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2950</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>BAKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9451</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>TAEED</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>11242</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0030">
+            <xocs:ref-normalized-surname>LAMONT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>945</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0035">
+            <xocs:ref-normalized-surname>PELUSI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1496</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0040">
+            <xocs:ref-normalized-surname>GEORGIEV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2941</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0045"/>
+         <xocs:ref-info refid="sbref0050">
+            <xocs:ref-normalized-surname>CHOI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>053106</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0055">
+            <xocs:ref-normalized-surname>BULLA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>615</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0060">
+            <xocs:ref-normalized-surname>RODNEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1958</xocs:ref-pub-year>
+            <xocs:ref-first-fp>633</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0065">
+            <xocs:ref-normalized-surname>POLAK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>484</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0070">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>093524</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0075">
+            <xocs:ref-normalized-surname>CHOI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3179</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0080">
+            <xocs:ref-normalized-surname>CHOI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5253</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0085">
+            <xocs:ref-normalized-surname>CHOI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>495</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0090">
+            <xocs:ref-normalized-surname>TUNG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>621</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0095">
+            <xocs:ref-normalized-surname>FLOREA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>12063</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0100">
+            <xocs:ref-normalized-surname>VIENS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1184</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0105">
+            <xocs:ref-normalized-surname>MARQUEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>184</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>CHOIX2013X196</xocs:refkey3>
+         <xocs:refkey4lp>CHOIX2013X196X205</xocs:refkey4lp>
+         <xocs:refkey4ai>CHOIX2013X196XD</xocs:refkey4ai>
+         <xocs:refkey5>CHOIX2013X196X205XD</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2013-09-05T20:50:32Z</xocs:oa-access-effective-date>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/3.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/GEN_UNBOUNDED_ESWaived">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1875-3892(13)00490-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1875389213004902</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1875389213004902</xocs:eid>
+         <xocs:doi>10.1016/j.phpro.2013.07.032</xocs:doi>
+         <xocs:cid>277348</xocs:cid>
+         <xocs:timestamp>2014-11-03T00:51:15.491665-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2013-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2013-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1875389213004902-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1875389213004902/MAIN/application/pdf/4a358f5c99ed2af73c7f6e2487d08026/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1875389213004902/MAIN/application/pdf/4a358f5c99ed2af73c7f6e2487d08026/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>512409</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>10</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1875389213004902-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1875389213004902/PREVIEW/image/png/220137fc38418c3e83f76ceddb9ca606/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1875389213004902/PREVIEW/image/png/220137fc38418c3e83f76ceddb9ca606/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>45765</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext> Physics Procedia   48  ( 2013 )  196 â€“ 205  1875-3892  2013 The Authors. Published by Elsevier B.V. Selection and peer-review under responsibility of Prof. Xiujian Zhao, Wuhan University of Technology  doi: 10.1016/j.phpro.2013.07.032  Available online at www.sciencedirect.com ScienceDirect The XIII International Conference on the Physics of Non-Crystalline Solids Photo-Induced and Thermal Annealing of Chalcogenide Films for Waveguide Fabrication Duk-Yong Choi * , Andrew Wade, Steve Madden, Rongping Wang, Douglas Bulla, and Barry Luther-Davies  Centre for Ultra-high Bandwidth Devices for Optical Systems (CUDOS), Laser Physics Centre, Research School of Physics and  Engineering, Australian National University, Canberra, ACT0200, Australia Abstract We describe the effect of light-induced annealing of As 2 S 3 thin films and its impact on the performance of an optical waveguide. An as-deposited film was subjected to illumination with band-edge light before being used to fabricate sub- micron thick waveguides using photolithography and dry plasma etching. Studies of the film microstructure revealed a  difference between the atomic bonds and linked phases between the as-deposited, the thermally-annealed, and the optically-annealed films. Although optical-annealing evolves the structure of the film in a similar way to thermal annealing (i.e., it causes polymerization of the glass network), it can drive the film much closer to bulk state in terms of  refractive index and the numbers of wrong bonds. The waveguides showed, however, almost the same propagation losses to those from thermally-annealed material. Nonetheless our results indicate that optical-annealing provides some  advantages over thermal annealing for waveguide fabrication. Â© 2013 The Authors. Published by Elsevier Ltd. Selection and/or peer-review under responsibility of Prof. Xiujian Zhao, Wuhan University of  Technology Glass and other amorphous materials; Optical fabrication; Nonlinear optical devices; Planar waveguides. * Corresponding author. E-mail address: dyc111@physics.anu.edu.au  2013 The Authors. Published by Elsevier B.V. Selection and peer-review under r spons bility of Prof. Xiujian Zhao, Wuhan University of Technology Open access under CC BY-NC-ND license. Open access under CC BY-NC-ND license.  Duk-Yong Choi et al. /  Physics Procedia  48 ( 2013 )  196 â€“ 205 197 1. Introduction   Photonic integrated circuits capable of processing optical data streams entirely in the optical domain are  important devices for future telecommunications networks since they can address the growing demand for  network flexibility, reduce costs, improve energy efficiency, and allow increased bandwidth. Recently,  chalcogenide glass (ChG) waveguides have been widely demonstrated as planar nonlinear optical (NLO)  devices for this purpose [ l., 2008]. It is well known that these glasses exhibit  photosensitivity or photo-induced structural change when illuminated with sub-bandgap [Meneghini et al.,  1998] as well as near-bandgap light. Although the physics behind the phenomenon is still in a subject of  debate, it has been exploited to directly write optical waveguides and gratings into thin ChG films [Meneghini  et al., 1998 and Baker et al., 2006].   The high nonlinear response of ChGs has led to demonstrations of all-optical signal processing utilizing  processes such as self phase modulation   [ ], cross phase modulation   [ Lamont et al., 2007], and four wave mixing [Pelusi et al., 2007]. In each case the strength of the nonlinear  response is proportional to the product of the launch power, the nonlinear parameter, ( 2 eff ), and  the effective guide length, L eff  = [1-exp(- L)]/  where  is the loss coefficient of the structure. Since the L eff   drops with increasing , the loss ultimately determines the performance of a nonlinear waveguide. A small  mode area (A eff ) is desirable to boost the light intensity in the device, however, this normally leads to  increased light scattering from the core/cladding interfaces owing to strong interaction of the light with these  side-walls. In addition the waveguide material itself can be a source of optical attenuation through absorption  and scattering.   As-deposited As 2 S 3  films produced by thermal evaporation are known to contain large numbers of homo- polar and dangling bonds as well as voids, and sub-phases compared with bulk glasses produced by melt- quenching [Georgiev et al., 2003]. Such inhomogeneities can result in enhanced levels of Rayleigh (volume)  scattering as well as increased absorption associated with the existence of tail states within the band gap. In  this context several publications [e.g., De Neufville et al., 1973/74] have shown that thermal annealing of an  as-deposited As 2 S 3  film can cause the chemical bonds to relax towards those of the bulk glass, reducing the  numbers of defective bonds in the glass network and hence reducing some of the sources of optical  attenuation. Hence, it is important to identify methods for processing As 2 S 3  films that reduce these defective  bonds to the minimum to obtain the lowest waveguide losses.  We recently reported an optimized thermal annealing process for As 2 S 3  films for waveguide fabrication,  demonstrating a reduction in the propagation loss by comparing waveguides produced from as-deposited and  thermally annealed films [Choi et al., 2010]. These studies also demonstrated that the annealing temperature   130 Â°C because at higher temperatures the films roughened on the  nanometer scale which would markedly increase the surface scattering. As a consequence even when using  long annealing times (&gt; 24 hours) the refractive index of the film remained significantly lower than that of the   2.39 compared wi  2.43 at 1550 nm) raising the question as to whether absorption due to tail  states due to defective bonds in the glass network still contributed to the losses. Furthermore, if much longer  annealing times (weeks) were used, necessary to push the glass further towards the bulk state, the films  generally cracked when using wafer sized samples making them useless for device fabrication.  Since it proved difficult to improve the films by thermal annealing, we, therefore, decided to study the  effects of optical-annealing of As 2 S 3  films using incoherent green light which we had found could achieve  index values very close to that of the bulk but allowed cracking or deterioration of the film surfaces to be  avoided. An issue however, is the fact that optical illumination causes the material to be photo-darkened even  for bulk glasses and this may increase in the numbers of defective bonds. Hence, we needed to assess the  impact of optical annealing on the optical propagation losses in our waveguides.   198   Duk-Yong Choi et al. /  Physics Procedia  48 ( 2013 )  196 â€“ 205  It is well established that optical annealing with band edge light results in a red-shift in the optical gap in  As 2 S 3  [De Neufville et al., 1973/74]. In order to quantify the effects of annealing on our thermally deposited  films, we measured their index, thickness and band-gap using a SCI Filmtek 4000 dual angle spectroscopic  reflectometer as the films were progressively annealed by both optical illumination and by thermal treatment.  We used a Tauc-Lorenz model to fit the reflection data from the Filmtek 4000 since it is known to provide a  good model of the index dispersion in amorphous semiconductors.  By examining the repeatability of the fit  parameters in the model from several measurements taken over a small area of a film, we estimated that the  uncertainty in the index, film thickness and bandgap was less than 0.1 %.    We used these measurements to compare the effects of optical annealing for progressively longer times  with thermal annealing for 64 hours at progressively high temperatures, and supplemented this with  measurements on samples that had undergone cycles of thermal followed by optical annealing and vice versa.   For the samples specifically used for waveguide fabrication, we also monitored changes in the  microstructure using X-ray photoelectron spectroscopy (XPS), X-ray diffraction and Raman spectroscopy.  We found from these data that optical annealing is an effective way of evolving an as-deposited film towards  the state of the bulk glass. However, waveguides fabricated from optically annealed material showed similar  losses to those from films thermally-annealed, which indicates that scattering of the etched side-walls remains  the most dominant process limiting the loss rather than any absorption due to tail states.   2. Annealing studies   0.85 an  2.5 Î¼m thick of As 2 S 3  were thermally-evaporated onto oxidized silicon wafers in a  vacuum chamber at a base pressure of 10 -7  torr. A complete description of our procedure for thermal  evaporation of the films can be found elsewhere [Bulla et al., 2009].   20 mm Ã— 20 mm for annealing studies whilst the thin film was used for waveguide fabrication.   The source used for optical annealing consisted of an array of Tungsten halogen lamps whose emission  was filtered using green band-pass gel filter (G28 from Lee Filters) to produce a spectrum extending from  500-570 nm which overlapped with the bandgap of the film. The intensity of the illumination was 2-3  mW/cm 2   was uniform over a full 100 mm diameter wafer. Prior to the light exposure a 125 nm thick layer of  SU-8 (SU-8 2 from MicroChem Corp.) was spin-coated and UV-cured onto the As 2 S 3  film to prevent As 2 O 3   crystallites forming on the surface as a result of illumination. For comparison a set of uncoated 2.5 Î¼m thick  samples were subjected to annealing in a vacuum oven for 64 hours at different temperatures.   To further study the properties of our annealed films we used a range of additional diagnostics. The first  sharp diffraction peak (FSDP) of the films was checked by x-ray diffraction (XRD) using a PANanalytical  X Pert PRO MRD -scan. X-ray photoelectron spectroscopy (XPS) was used to  study the chemical bonding of arsenic and sulphur atoms in the As 2 S 3  film surface. Samples were analysed  using an EscaLab 220-IXL under a vacuum of ~10 -10  - eV) with power of 250 Watts was used for the analysis. The short-range bonding character was also probed by  micro-Raman spectroscopy (Renishaw 2000 Raman microscope) in a backscattering geometry at room  temperature. To minimize the photo-induced structural changes during the measurement, samples were  excited with 785 nm light at intensity below 1 W/cm 2  on the surface. Because of the wide range of annealing  conditions that had been used we confined these studies to four materials: bulk As 2 S 3  glass; as-deposited  films; films annealed at 130 Â°C for 24 hours; and a film light-annealed at 576 J/cm 2 . These last two  representing the processing applied to films used for waveguide fabrication.  The evolution of the refractive index of the film at 1550 nm of both optical and thermal annealing was  measured using the SCI Filmtek 4000 and the results are summarised in Fig. 1. For optical annealing Fig. 1- (a) shows the evolution of the refractive index and the bandgap as a function of fluence with fits to a stretched   Duk-Yong Choi et al. /  Physics Procedia  48 ( 2013 )  196 â€“ 205 199 exponential function, whilst Fig. 1(b) shows the corresponding change in film thickness. Fig. 1(c) and 1(d)  shows similar data for thermal annealing at different temperatures.  It is apparent from these data that the trends for both annealing procedures are similar. As annealing proceeds   2.3 for the as-deposited films towards the value for bulk As 2 S 3  which according to  the Sellmeier Equation from [Rodney et al., 1958] is 2.4373 at 1550 nm. At the same time the bandgap  decreases and the films shrink by 1-2 %. The main difference between Fig. 1(a) and 1(c) is that the bandgap  for the optically illuminated samples is always smaller by as much as 0.02 eV compared with that for the  thermally annealed samples.  This is expected from previous studies of photo-darkening which always report  a red-shift in the bandgap as a result of illumination [De Neufville et al., 1973/74]. Comparison of Fig. 1(b)  and 1(d) show that the thermally processed films shrink more than those optically illuminated where a small  expansion for fluences initially occurs for fluences around 10 J/cm 2  before the onset of contraction. Finally  when annealed at 180 Â°C there is an abrupt increase in thickness and reduction in bandgap of thermally  annealed films. As reported previously, roughening (at the nm level) of the film surface was observed at  temperatures above about 150 Â°C that indicated that the films were starting to degrade, and this threshold  seems to be reflected in expansion of the films and the corresponding change in bandgap.         Fig. 1. (a) Evolution of refractive index and bandgap energy as a function of fluence for optical annealing with green light; (b) change in  thickess of film during optical annealing; (c) evolution of refractive index and bandgap for films thermally annealed for 64 hours at  increasing temperatures; (d) change in thickness of film during thermal annealing.  Fig. 2 clarifies these differences and plots the bandgap and thickness data in a different form using the  refractive index as the abscissa. It is apparent that the thermally annealed films have a larger bandgap and a  higher density compared with those that were optically annealed. This is consistent with the general relation  for the dielectric function of a covalently bonded crystal which can be written in the form  2 0 2 - 2 0   represents the position of the UV resonance (in the Tauc-Lorenz model a  0 ) and N is density of the valence electrons  (proportional to the material density). Thus a red-shift in the bandgap must be compensated by a drop in  density if the dielectric constant is to remain unchanged which is consistent with the data of Fig. 2.  Optical Annealing 1 10 100 1000 2.28 2.30 2.32 2.34 2.30 2.35 2.40 2.45 Fluence (J/cm 2 ) B a n d g a p   ( e V ) R e f r a c t i v e   i n d e x Thickness vs fluence 1 10 100 1000 -1.0 -0.5 0.0 0.5 Fluence (J/cm 2 ) T h i c k n e s s   C h a n g e   ( % ) Thermal Annealing 50 100 150 200 2.28 2.30 2.32 2.34 2.30 2.35 2.40 2.45 Temperature B a n d g a p   ( e V ) R e f r a c t i v e   i n d e x Thickness vs temperature 80 100 120 140 160 180 200 -2.0 -1.5 -1.0 -0.5 0.0 Temperature T h i c k n e s s   C h a n g e   ( % ) (c)  (d)  (a)  (b)  200   Duk-Yong Choi et al. /  Physics Procedia  48 ( 2013 )  196 â€“ 205  For completion we studied the effect of alternating cycles of thermal and optical annealing on the films  starting at the points highlighted with the solid symbols in Fig. 2. These underwent several cycles of  successive optical and thermal annealing at 140Â°C lasting 64 hours in each case. The film that had been  originally thermally annealed for 64 hours was subjected to optical annealing, whilst that which had originally  been optically annealed was subjected to thermal annealing. Following measurement, the annealing was  repeated alternating thermal and optical processes for a further two cycles.  Fig. 2. Variation of bandgap and thickness of optically (red markers) and thermally (blue markers) annealed films as a function of the  film index. Dotted curves represent the bandgap and solid the thickness change.   The results are plotted in Fig. 3 that shows that the additional annealing always resulted in a steady  increase in index. However optical illumination always causes the bandgap to be red-shifted but this could be  reversed by a subsequent cycle of thermal annealing. As the index increased the films continue to compact  although there is some residual modulation in the thickness that suggests that an optical annealing cycle  causes a small decrease and a thermal annealing cycle a small increase in density. After a total of four cycles  comprising either light-heat-light-heat or heat-light-heat-light, the index values of both films were the same to  within about 0.1 % as was their thickness, although the bandgap was different by up to 1 % depending on  whether the last annealing cycle used light or heat.      Fig. 3. Variation of bandgap and film thickness for films subjected to four successive cycles of thermal followed by optical, or optical  followed by thermal annealing. Dotted curves represent bandgap values and solid curves the change in film thickness. Red lines are for  material where the first process was optical annealing, blue line the first cycle was thermal annealing. The annealing process  is used between the measurements is indicated as thermal T or optical L.  Bandgap vs Refractive Index 2.30 2.35 2.40 2.28 2.30 2.32 2.34 -2 -1 0 1 2 Refractive Index B a n d g a p   ( e V ) T h i c k n e s s   C h a n g e   ( % ) Additional Processing 2.410 2.415 2.420 2.425 2.430 2.435 2.26 2.28 2.30 2.32 2.34 -2 -1 0 1 Refractive Index B a n d g a p   ( e V ) T h i c k n e s s   C h a n g e   ( % ) T T T T L L L T L L L T  Duk-Yong Choi et al. /  Physics Procedia  48 ( 2013 )  196 â€“ 205 201 From these data it was quite apparent that optically annealed samples could achieve index values very  close to that of bulk As 2 S 3   1 kJ/cm 2 . Because of the onset of  roughening the temperature at which films required for waveguide fabrication had to be limited to 130 Â°C and  after 24 hours of annealing at 130 Â°C the index remained significantly lower than the bulk glass. Whilst our  data suggests that thermal annealing over several weeks at 130 Â°C could result in films with near bulk index,  our experience is that films thermally annealed for such long periods will crack at least for wafer-sized  samples. This may be due to two effects: the thermally annealed films shrink and which may increase internal  stress. Secondly, differential thermal expansion between the substrate and the film may also increase the  stresses during thermal annealing. The latter effect is absent during optical annealing where no cracking or  deterioration of the films was detected after annealing with fluences sufficient to reach the bulk index, at least  using green light.   In this context it is worth noting that optically annealed films can degrade seriously at the fluences more  than a few hundred J/cm 2  if the illumination source is chosen inappropriately. This is particularly the case if  short wavelength light is present. To illustrate this we illuminated samples with fluences up to about 2 kJ/cm 2   with green light between 500-570 nm; white light between 400-700 nm; and blue light between 400-520 nm.  Although both blue and white light illumination resulted in an evolution of index with fluence similar to that  shown in Fig. 1-(a), the films deteriorated seriously once exposed above a few tens of J/cm 2  in spite of their  protective coating. This is illustrated in fig. 4 that shows three dark field images of films irradiated by green,  blue and white light at fluences of 1498 J/cm 2 , 1766 J/cm 2  and 1997 J/cm 2  respectively.  No sign of any  deterioration is visible in the films irradiated with green light, whereas blue and white light irradiation causes  gross break-up and crystallization of the films rendering them useless for waveguide fabrication. Hence we  conclude that annealing with green light is the only choice for optical annealing of films required for  waveguide fabrication.  Fig. 4. Dark field images of films optically annealed films, using (a) green light with a fluence of 1498 J/cm 2 ;  (b) blue light with a  fluence of 1766 J/cm 2 ; and (c) white light with a fluence of 1997 J/cm 2 .  We investigated the influence of each annealing process on the variation of bond content via Raman  scattering (Fig. 5). Compared with the bulk glass, an as-deposited film shows several sharp peaks; in  particular peaks at 150  250 cm -1  are the fingerprint of molecular species, As 4 S 4 , or As-As homopolar bonds  [PolÃ¡k et al., 1999]. We can clearly see that both annealing methods diminish these peaks drastically.  Considering the overall peak shape as well as the lower intensities of the molecular species, the film that has  been optically annealed is much closer to that of the bulk glass. The heat-treated sample still retains the peak  at 220 cm -1 , which is assumed to come from As 4 S 4  [PolÃ¡k et al., 1999] that completely disappears in the  optically-annealed sample. X-ray photo-electron spectroscopy also supported the effectiveness of photo- annealing in transforming the virgin film towards the bulk. In a recent paper [Choi et al., 2010] the content of  As-As bonds of thermally-annealed film was obtained as a function of annealing temperature through the  decomposition of As 3d spectrum into two sub-peaks. Whilst most of As atoms bonded to three S positions at  higher binding energy (BE), a fraction of As bonded to one As and two S appears at lower BE. From this we  could deduce the content of As-As homo-polar bonds.  The same measurements on the optically-annealed  (a) (b) (c)  202   Duk-Yong Choi et al. /  Physics Procedia  48 ( 2013 )  196 â€“ 205  film showed that the fraction of arsenic atoms containing homopolar bond was much smaller than that in the  film annealed at 130 Â°C (5 % versus 12 %).   Similar trends were observed in the XRD study as well. The first-sharp diffraction peak (FSDP) was not  only shifted to higher angles but also the intensity reduced with annealing. This implies the film becomes  denser during annealing and its microstructure moved closer to that of a random glass network [Liu et al.,  2008]. The peak positions were 16.0, 17.1, 17.3, and 17.4Â° from the as-deposited, thermal-annealed, light- annealed film, and bulk glass, respectively again indicating that the optically annealed film was the closest to  bulk.   Based on these differences we fabricated high index contrast waveguides from the 0.85 Î¼m thick films that  have been thermally annealed at 130 Â°C or optically annealed for 24 hours and compared their losses using  cut-back measurements.      Fig. 5. Raman spectra of as-deposited and annealed As 2 S 3  films.  The bulk glass spectrum was inserted as a reference.  3. Waveguide measurements  For waveguide fabrication a 125 nm thick SU-8 layer, which provided a defect- and pinhole-free coating  and is durable in alkaline solutions, was spun onto the wafer to prevent attack of the As 2 S 3  surface by alkaline  photoresist developer during subsequent photolithography [Choi et al, 2008 and 2008 and 2010]. In order to  study the impact of the annealing procedure on the waveguide performance, we fabricated two sets of rib-type  waveguides: one set from a film annealed at 130 Â°C for 24 hours, the other was optically-annealed with more  than 500 J/cm 2  fluences. After annealing a photoresist layer was spun on top of the SU-8/As 2 S 3  film and  exposed using a Karl Suss mask aligner followed by wet development. Rib waveguides were then etched 350  nm deep into the As 2 S 3  layer using an inductively coupled plasma reactive ion etcher (Plasmalab System 100,  Oxford). The SU-8 and As 2 S 3  films were etched in oxygen-based and CHF 3  plasma, respectively. A 15 Î¼m  thick layer of inorganic polymer glass (RPO Pty Ltd, IPG TM ) was spin-coated on top of the As 2 S 3  waveguides   2 nm thick Al 2 O 3   conformal coating was deposited on the patterned wafer by atomic layer deposition (Savannah TM  from  Cambridge NanoTech systems) to promote the adhesion of the IPG cladding to SU-8 and As 2 S 3  surfaces. We  did not attempt to strip the remaining SU-8 layer from the top of the waveguide rib after processing since it is  almost transparent at telecom wavelengths [Tung et al., 2005] and thin enough that it did not affect the  150 200 250 300 350 400 450 500 I n t e n s i t y   ( a . u . )   Raman Shift (cm -1 )  As-Deposited Thermally-annealed Light-annealed bulk glass  Duk-Yong Choi et al. /  Physics Procedia  48 ( 2013 )  196 â€“ 205 203 waveguide performance. Omission of this step also simplified the fabrication and reduced corresponding  process related variability.   The propagation loss of the waveguides was determined using the standard cutback method. A tunable  laser source (JDS Uniphase SWS16101, 1510-1650 nm), a polarization controller, and an InGaAs power  meter were used to measure the insertion loss of waveguides. Due to small waveguide cross section lens- tipped fibers were used to couple laser light into and out of the waveguides.  Atomic force microscopy (AFM) was used to measure the roughness of the flat etched surfaces and  revealed that no variation was found in the morphology and roughness of etched surface between the samples  (root-mean-square roughness, R rms   1.5 nm). The inset in Fig. 6 shows the cross-sectional view of the  waveguide. Even though photo-annealed film is expected to contain fewer wrong bonds or absorption centers,  both 4 m wide guides had similar propagation loss (around 0.2 dB/cm), as shown in fig. 6 Mode calculation  shows around 97 % light resided inside the core [Choi et al., 2010]; hence volume scattering or absorption by  the material could be a significant attenuation mechanism in such a wide guide. The above results, however,  indicate that the two different annealing processes resulted in similar losses at least in 4 m Ã— 0.85 m  waveguides. This suggests that the losses are dominated by losses at waveguide surfaces rather than the bulk  material. This is consistent with measurements of the losses of As 2 S 3  optical fiber where value of 0.57 dB/m  was reported [Florea et al., 2006].   Nevertheless optical annealing of the film appears to have several advantages over heat treatment. Firstly,  the film has properties much closer to that of the bulk glass in terms of the microstructure, atomic bonds, and  the index of refraction, thereby could be produced ultimately into lower-loss waveguides. Whilst high  temperature annealing might bring about the similar results, annealing near T g  is not possible due to cracking  and roughening of the film surface. Secondly, optical annealing minimizes the residual photosensitivity of  As 2 S 3  film so that the associated issues such as the grating formation in waveguide could be mitigated.  Similarly to thermal treatment [Viens et al., 1999], the improved resistance to photo-oxidation of the film is  another benefit of optical-annealing.                            Fig. 6. Insertion losses of waveguides with their lengths when the guide width was 4 m.(Inset: Cross sectional view of As 2 S 3  waveguide)    4 5 6 7 8 9 10 0 5 10 15 20 I n s e r t i o n   l o s s   ( d B )   Waveguide length (cm)  TE (thermal) TM (thermal) TE (light) TM (light) 204   Duk-Yong Choi et al. /  Physics Procedia  48 ( 2013 )  196 â€“ 205  4. Conclusions    In conclusion bandgap light illumination was employed to fabricate As 2 S 3  thin films waveguides.  Polymerization in the as-deposited film were the dominant homogenization mechanism in both processes,  however, photo-processing converts the film microstructure more analogous to bulk glass. Photo-annealing is  superior to thermal process in As 2 S 3  waveguides fabrication whist its mechanism is not yet fully understood.  Around 1 % shrinkage in the film thickness occurred as a result of either thermal; or optical annealing but this  amount of densification cannot fully account for the observed increase in refractive index. The additional rise  in index can be understood in terms of annealing-induced changes in the chemical bonds. That is annealing  causes and increase in the number of heteropolar bonds at the expense of homopolar bonds which are present  in the As 4 S 4  phase and glass network in the as-deposited film and this can increase the effective polarizability  of the material [MÃ¡rquez et al., 2001].  Acknowledgments  The support of the Australian Research Council through its Centres of Excellence is gratefully  acknowledged.   References  Choi D-Y., Madden S., Luther- Davies B., 2007, Ultrafast all-optical chalcogenide glass photonic circuits, Opt. Express 15, p. 9205.  Pelusi M. D.  V. G., Fu L. B., MÃ¤gi E., Lamont M. R. E., Madden S., Choi D.-Y., Bulla D.A.P., Luther-Davies B., Eggleton B. J.,  2008, Applications of Highly-Nonlinear Chalcogenide Glass Devices Tailored for High-Speed All Optical Signal Processing, IEEE  J. Sel. Topics Quantum Electron. 14, p. 529.  Meneghini C., Villeneuve A., 1998, As 2 S 3  photosensitivity by two-photon absorption: holographic gratings and self-written channel  waveguides, J. Opt. Soc. Am. B 15, p. 2946-2950.  Baker N.J., Lee H.W., Littler I.C., de Sterke C.M., Eggleton B.J., Choi D-Y., Madden S., Luther-Davies B., 2006, Sampled Bragg  gratings in chalcogenide (As 2 S 3 ) rib-waveguides, Optics Express 14, p. 9451.  Ta'eed V.G., Lamont M.R.E., Moss D.J., Eggleton B.J., Choi D-Y., Madden S., Luther-Davies B., 2006, All optical wavelength  conversion via cross phase modulation in chalcogenide glass rib waveguides, Opt. Express 14, p. 11242.   Lamont M.R.E.  V.G., Roelens M.A.F., Moss D.J., Eggleton B.J., Choi D-Y., Madden S., Luther-Davies B., 2007, Error-free  wavelength conversion via cross phase modulation in 5 cm of As 2 S 3  chalcogenide glass rib waveguide, Electron Lett. 43, p. 945.  Pelusi M.D.  V.G., Lamont M.R.E., Madden S., Choi D.Y., Luther-Davies B., Eggleton B.J., 2007, Ultra-high Nonlinear As 2 S 3   Planar Waveguide for 160 Gb/s Optical Time-Division Demultiplexing by Four-Wave Mixing, IEEE Photon. Technol. Lett. 19, p.  1496.  Georgiev D.G., Boolchand P., Jackson K.A., 2003, Intrinsic Nanoscale Phase Seperation of bulk As 2 S 3  Glass, Phil. Mag. 83, p. 2941.  De Neufville J.P., Moss S.C., Ovshinsky S.R., 1973/74, Photostructural Transformations in Amorphous Arsenic (III) Selenide and  Arsenic (III) Sulphide Films, J. Non-cryst. Solids 13, p. 191.  Choi D., Madden S., Bulla D., Rode A., Wang R., Luther-Davies B., 2010, Thermal annealing of arsenic tri-sulphide thin film and its  influence on device performance, J. Appl. Phys. 107, 053106.  Bulla D.A.P., Wang R.P., Prasad A., Rode A.V., Madden S.J., Luther-Davies B., 2009, On the properties and stability of thermally  evaporated Ge As Se thin films, Appl. Phys. A 96, p. 615.  Rodney W. S., Malitson I. H., King T. A., 1958, Refractive Index of Arsenic Trisulfide, J. Opt. Soc. Am. 48, p. 633.  PolÃ¡k Z., Frumari M., FrumarovÃ¡ B., 1999, Photoinduced changes of the structure and index of refraction of amorphous As-S films, Thin  Solid Films 343-344, p. 484.  Liu A.C.Y., Chen X., Choi D.-Y., Luther-Davies B., 2008, Morphology and structure of thermally evaporated amorphous As 2 S 3  films for  waveguide applications, J. Appl. Phys. 104, 093524.  Choi D., Madden S., Rode A., Wang R., Luther-Davies B., 2008, Plasma etching of As 2 S 3  films for optical waveguides, J. Non-Cryst.  Solids 354, p. 3179.  Choi D., Madden S., Rode A., Wang R., Bulla D., Luther-Davies B., 2008, A protective layer on As 2 S 3  film for photo-resist patterning, J.  Non-Cryst. Solids 354, p. 5253.  Choi D., Madden S., Bulla D., Rode A., Wang R., Luther-Davies B., 2010, Sub-micrometer thick, low-loss As 2 S 3  planar waveguides for  nonlinear optical devices, IEEE Photon. Technol. Lett. 22, p. 495.   Duk-Yong Choi et al. /  Physics Procedia  48 ( 2013 )  196 â€“ 205 205 Tung K.K., Wong W.H., Pun E.Y.B., 2005, Polymeric optical waveguides using direct ultraviolet photolitho-graphy process, Appl. Phys.  A 80, p. 621.  Florea C., Bashkansky M., Dutton Z., Sanghera J., Pureza P., Aggarwal I., 2006, Stimulated Brillouin scattering in single-mode As 2 S 3   and As 2 Se 3  chalcogenide fibers, Opt. Express 14, p. 12063.  Viens J-F., Meneghini C., Villeneuve A., Galstian T. V., Knystautas E.J., Duguay M.A., Richardson K. A., Cardinal T., 1999, Fabrication  and characterization of integrated optical waveguides in sulfide chalcogenide glasses, J. Lightwave Technol. 17, p. 1184.   MÃ¡rquez E., GonzÃ¡lez-Leal J. M., JimÃ©nez-Garay R., Vlcek M., 2001, Thermally- and photo-induced changes in the structure and optical  properties of amorphous As 40 S 30 Se 30  films, Thin Solid Films 396, p. 184.  cuits, Opt. Express 15, p. 9205.  Pelusi M. D.  V. G., Fu L. B., MÃ¤gi E., Lamont M. R. E., Madden S., Choi D.-Y., Bulla D.A.P., Luther-Davies B., Eggleton B. J.,  2008, Applications of Highly-Nonlinear Chalcogenide Glass Devices Tailored for High-Speed All Optical Signal Processing, IEEE  J. Sel. Topics Quantum Electron. 14, p. 529.  Meneghini C., Villeneuve A., 1998, As 2 S 3  photosensitivity by two-photon absorption: holographic gratings and </xocs:rawtext>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.2" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>PHPRO</jid>
+            <aid>3663</aid>
+            <ce:pii>S1875-3892(13)00490-2</ce:pii>
+            <ce:doi>10.1016/j.phpro.2013.07.032</ce:doi>
+            <ce:copyright type="other" year="2013">The Authors</ce:copyright>
+         </item-info>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para id="npar0005" view="all">Selection and peer-review under responsibility of Prof. Xiujian Zhao, Wuhan University of Technology.</ce:note-para>
+            </ce:article-footnote>
+            <ce:title id="tit0005">Photo-induced and Thermal Annealing of Chalcogenide Films for Waveguide Fabrication</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005">
+                  <ce:given-name>Duk-Yong</ce:given-name>
+                  <ce:surname>Choi</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  <ce:e-address id="eadd0005" type="email">dyc111@physics.anu.edu.au</ce:e-address>
+               </ce:author>
+               <ce:author id="aut0010">
+                  <ce:given-name>Andrew</ce:given-name>
+                  <ce:surname>Wade</ce:surname>
+               </ce:author>
+               <ce:author id="aut0015">
+                  <ce:given-name>Steve</ce:given-name>
+                  <ce:surname>Madden</ce:surname>
+               </ce:author>
+               <ce:author id="aut0020">
+                  <ce:given-name>Rongping</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+               </ce:author>
+               <ce:author id="aut0025">
+                  <ce:given-name>Douglas</ce:given-name>
+                  <ce:surname>Bulla</ce:surname>
+               </ce:author>
+               <ce:author id="aut0030">
+                  <ce:given-name>Barry</ce:given-name>
+                  <ce:surname>Luther-Davies</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:textfn>Centre for Ultra-high Bandwidth Devices for Optical Systems (CUDOS), Laser Physics Centre, Research School of Physics and Engineering, Australian National University, Canberra, ACT0200, Australia</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract id="abs0005" view="all" class="author">
+               <ce:section-title id="sect0005">Abstract</ce:section-title>
+               <ce:abstract-sec id="abst0005" view="all">
+                  <ce:simple-para id="spar0005" view="all">We describe the effect of light-induced annealing of As<ce:inf loc="post">2</ce:inf>S<ce:inf loc="post">3</ce:inf> thin films and its impact on the performance of an optical waveguide. An as-deposited film was subjected to illumination with band-edge light before being used to fabricate sub- micron thick waveguides using photolithography and dry plasma etching. Studies of the film microstructure revealed a difference between the atomic bonds and linked phases between the as-deposited, the thermally-annealed, and the optically-annealed films. Although optical-annealing evolves the structure of the film in a similar way to thermal annealing (i.e., it causes polymerization of the glass network), it can drive the film much closer to bulk state in terms of refractive index and the numbers of wrong bonds. The waveguides showed, however, almost the same propagation losses to those from thermally-annealed material. Nonetheless our results indicate that optical-annealing provides some advantages over thermal annealing for waveguide fabrication.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0010">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>Glass and other amorphous materials</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>Optical fabrication</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>Nonlinear optical devices</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>Planar waveguides</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0020">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.G.</ce:given-name>
+                                 <ce:surname>Ta’eed</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Baker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Finsterbusch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.R.E.</ce:given-name>
+                                 <ce:surname>Lamont</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Moss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Nguyen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Eggleton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.-Y.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Luther- Davies</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ultrafast all-optical chalcogenide glass photonic circuits</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Express</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9205</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Pelusi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.G.</ce:given-name>
+                                 <ce:surname>Ta’eed</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.B.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Mägi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.R.E.</ce:given-name>
+                                 <ce:surname>Lamont</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.-Y.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.P.</ce:given-name>
+                                 <ce:surname>Bulla</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Luther-Davies</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Eggleton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>J. Applications of Highly-Nonlinear Chalcogenide Glass Devices Tailored for High-Speed All Optical Signal Processing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE J. Sel. Topics Quantum Electron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>529</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Meneghini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Villeneuve</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>As2S3 photosensitivity by two-photon absorption: holographic gratings and self-written channel waveguides</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Opt. Soc. Am. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2946</sb:first-page>
+                              <sb:last-page>2950</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.J.</ce:given-name>
+                                 <ce:surname>Baker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.W.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.C.</ce:given-name>
+                                 <ce:surname>Littler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>de Sterke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Eggleton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.-Y.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Luther-Davies</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sampled Bragg gratings in chalcogenide (As2S3) rib-waveguides</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Optics Express</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9451</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.G.</ce:given-name>
+                                 <ce:surname>Ta’eed</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.R.E.</ce:given-name>
+                                 <ce:surname>Lamont</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Moss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Eggleton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.-Y.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Luther-Davies</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>All optical wavelength. conversion via cross phase modulation in chalcogenide glass rib waveguides</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Express</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>11242</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.R.E.</ce:given-name>
+                                 <ce:surname>Lamont</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.G.</ce:given-name>
+                                 <ce:surname>Ta’eed</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.F.</ce:given-name>
+                                 <ce:surname>Roelens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Moss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Eggleton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.-Y.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Luther-Davies</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Error-free. wavelength conversion via cross phase modulation in 5 cm of As2S3 chalcogenide glass rib waveguide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electron Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>945</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Pelusi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.G.</ce:given-name>
+                                 <ce:surname>Ta’eed</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.R.E.</ce:given-name>
+                                 <ce:surname>Lamont</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.Y.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Luther-Davies</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Eggleton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ultra-high Nonlinear As2S3. Planar Waveguide for 160 Gb/s Optical Time-Division Demultiplexing by Four-Wave Mixing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Photon. Technol. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1496</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.G.</ce:given-name>
+                                 <ce:surname>Georgiev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Boolchand</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.A.</ce:given-name>
+                                 <ce:surname>Jackson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Intrinsic Nanoscale Phase Seperation of bulk As2S3 Glass</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phil. Mag.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2941</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0045">
+                     <ce:label>[9]</ce:label>
+                     <ce:other-ref id="oref0045">
+                        <ce:textref>De Neufville J.P., Moss S.C., Ovshinsky S.R., 1973 Photostructural Transformations in Amorphous Arsenic (III) Selenide and Arsenic (III) Sulphide Films, J. Non-cryst. Solids 13, p. 191 in press.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Bulla</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Rode</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Luther-Davies</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermal annealing of arsenic tri-sulphide thin film and its influence on device performance</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>107</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>053106</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.A.P.</ce:given-name>
+                                 <ce:surname>Bulla</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.P.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Prasad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Rode</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Luther-Davies</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>On the properties and stability of thermally evaporated Ge–As–Se thin films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>96</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>615</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.S.</ce:given-name>
+                                 <ce:surname>Rodney</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.H.</ce:given-name>
+                                 <ce:surname>Malitson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>King</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Refractive Index of Arsenic Trisulfide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Opt. Soc. Am.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1958</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>633</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Polák</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Frumari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Frumarová</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Photoinduced changes of the structure and index of refraction of amorphous As-S films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films 343-344</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>484</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.C.Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.-Y.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Luther-Davies</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Morphology and structure of thermally evaporated amorphous As2S3 films for waveguide applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>093524</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Rode</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Luther-Davies</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Plasma etching of As2S3 films for optical waveguides</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>354</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3179</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Rode</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Bulla</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Luther-Davies</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A protective layer on As2S3 film for photo-resist patterning</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>354</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5253</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Bulla</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Rode</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Luther-Davies</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sub-micrometer thick, low-loss As2S3 planar waveguides for nonlinear optical devices, IEEE Photon</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Technol. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>495</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.K.</ce:given-name>
+                                 <ce:surname>Tung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Wong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.Y.B.</ce:given-name>
+                                 <ce:surname>Pun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Polymeric optical waveguides using direct ultraviolet photolitho-graphy process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>80</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>621</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Florea</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Bashkansky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Dutton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sanghera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Pureza</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Aggarwal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Stimulated Brillouin scattering in single-mode As2S3 and As2Se3 chalcogenide fibers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Express</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>12063</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.-F.</ce:given-name>
+                                 <ce:surname>Viens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Meneghini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Villeneuve</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.V.</ce:given-name>
+                                 <ce:surname>Galstian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.J.</ce:given-name>
+                                 <ce:surname>Knystautas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Duguay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.A.</ce:given-name>
+                                 <ce:surname>Richardson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Cardinal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fabrication and characterization of integrated optical waveguides in sulfide chalcogenide glasses</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Lightwave Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1184</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Márquez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>González-Leal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Jiménez-Garay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Vlcek</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermally- and photo-induced changes in the structure and optical. properties of amorphous As40S30Se30 films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>396</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>184</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

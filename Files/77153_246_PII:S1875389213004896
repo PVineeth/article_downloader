@@ -1,0 +1,380 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1875389213004896</prism:url><dc:identifier>doi:10.1016/j.phpro.2013.07.031</dc:identifier><eid>1-s2.0-S1875389213004896</eid><prism:doi>10.1016/j.phpro.2013.07.031</prism:doi><pii>S1875-3892(13)00489-6</pii><dc:title>Comparative Study of Optical Properties of Polarizing Oxide Glasses with Silver Nanorods and Chalcogenide Glasses with Copper Nanoparticles </dc:title><prism:publicationName>Physics Procedia</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>18753892</prism:issn><prism:volume>48</prism:volume><prism:startingPage>191</prism:startingPage><prism:endingPage>195</prism:endingPage><prism:pageRange>191-195</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2013-12-31</prism:coverDate><prism:coverDisplayDate>2013</prism:coverDisplayDate><prism:copyright>Copyright © 2013 The Authors. Published by Elsevier B.V.</prism:copyright><prism:publisher>The Authors. Published by Elsevier B.V.</prism:publisher><prism:issueName>XIII International Conference on the Physics of Non-Crystalline Solids</prism:issueName><dc:creator>Kavetskyy, Taras</dc:creator><dc:creator>Stepanov, Andrey L.</dc:creator><dc:creator>Bazarov, Valerii V.</dc:creator><dc:creator>Tsmots, Volodymyr</dc:creator><dc:creator>Ren, Jing</dc:creator><dc:creator>Chen, Guorong</dc:creator><dc:creator>Zhao, Xiujian</dc:creator><dc:description>
+               Abstract
+               
+                  The femtosecond Z-scan measurements with open-aperture of nonlinear absorption of the R2O-B2O3-SiO2 (R = Li, Na, K) polarizing oxide glass containing Ag nanorods at polarizing angle Θ = 0 and 90 degrees are performed and compared with the earlier Z-scan data obtained for the chalcogenide glasses with Cu nanoparticles (Cu:As2S3 and Cu:Ge15.8As21S63.2). The results of the present study reveal that (i) when the polarization of the laser is parallel to the long axis of the Ag nanorods (Θ=0 degrees), the saturated nonlinear absorption takes place; and (ii) when the polarization of light is perpendicular to the long axis of the Ag nanorods (Θ=90 degrees), the saturated nonlinear absorption and two-photon nonlinear absorption are observed likely to Cu:chalcogenide glasses. Ellipsometric measurements show also a dependence of the properties of the investigated polarizing glass on the sample orientation in consistence with Ag nanorod locations.
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/3.0/</openaccessUserLicense><dcterms:subject>Polarizing oxide glass</dcterms:subject><dcterms:subject>Chalcogenide glass</dcterms:subject><dcterms:subject>Optical properties</dcterms:subject><dcterms:subject>Z-scan</dcterms:subject><dcterms:subject>Nonlinear absorption</dcterms:subject><dcterms:subject>Nanorods</dcterms:subject><dcterms:subject>Nanoparticles</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1875389213004896" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1875389213004896" rel="scidir"/></coredata><scopus-id>84902241112</scopus-id><scopus-eid>2-s2.0-84902241112</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84902241112" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>277348</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291690</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Physics Procedia</xocs:srctitle>
+      <xocs:normalized-srctitle>PHYSICSPROCEDIA</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20130906">2013-09-06</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20130906">2013-09-06</xocs:available-online-date>
+      <xocs:ew-transaction-id>2014-11-03T05:03:27</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1875389213004896</xocs:eid>
+      <xocs:pii-formatted>S1875-3892(13)00489-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1875389213004896</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.phpro.2013.07.031</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1875389213X00100</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150515">2015-05-15T07:17:21.532468-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20130101</xocs:date-search-begin>
+      <xocs:date-search-end>20131231</xocs:date-search-end>
+      <xocs:year-nav>2013</xocs:year-nav>
+      <xocs:indexeddate epoch="1378425600">2013-09-06T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confdate confeditor confloc contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1875-3892</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>18753892</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>48</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>48</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 48</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>33</xocs:sort-order>
+      <xocs:first-fp>191</xocs:first-fp>
+      <xocs:last-lp>195</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>191</xocs:first-page>
+         <xocs:last-page>195</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2013</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2013</xocs:cover-date-text>
+      <xocs:cover-date-start>2013-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2013-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2013</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>XIII International Conference on the Physics of Non-Crystalline Solids</ce:title>
+            <xocs:conference-info>
+               <xocs:venue>Yichang Three Gorges, China</xocs:venue>
+               <xocs:conference-date-text>16–20 September 2012</xocs:conference-date-text>
+               <xocs:date-range>
+                  <xocs:start-date>20120916</xocs:start-date>
+                  <xocs:end-date>20120920</xocs:end-date>
+               </xocs:date-range>
+            </xocs:conference-info>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>Xiujian</ce:given-name>
+                     <ce:surname>Zhao</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>Kia Ling</ce:given-name>
+                     <ce:surname>Ngai</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>Chao</ce:given-name>
+                     <ce:surname>Liu</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2013 The Authors. Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>COMPARATIVESTUDYOPTICALPROPERTIESPOLARIZINGOXIDEGLASSESSILVERNANORODSCHALCOGENIDEGLASSESCOPPERNANOPARTICLES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KAVETSKYY</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="oref0005"/>
+         <xocs:ref-info refid="oref0010"/>
+         <xocs:ref-info refid="oref0015"/>
+         <xocs:ref-info refid="oref0020"/>
+         <xocs:ref-info refid="oref0025"/>
+         <xocs:ref-info refid="oref0030"/>
+         <xocs:ref-info refid="sbref0035">
+            <xocs:ref-normalized-surname>PEROV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>797</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KAVETSKYYX2013X191</xocs:refkey3>
+         <xocs:refkey4lp>KAVETSKYYX2013X191X195</xocs:refkey4lp>
+         <xocs:refkey4ai>KAVETSKYYX2013X191XT</xocs:refkey4ai>
+         <xocs:refkey5>KAVETSKYYX2013X191X195XT</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2013-09-05T20:50:32Z</xocs:oa-access-effective-date>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/3.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/GEN_UNBOUNDED_ESWaived">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1875-3892(13)00489-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1875389213004896</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1875389213004896</xocs:eid>
+         <xocs:doi>10.1016/j.phpro.2013.07.031</xocs:doi>
+         <xocs:cid>277348</xocs:cid>
+         <xocs:timestamp>2014-11-03T00:51:15.491665-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2013-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2013-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1875389213004896-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1875389213004896/MAIN/application/pdf/c8b79cb45e029042c405a5498028e77c/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1875389213004896/MAIN/application/pdf/c8b79cb45e029042c405a5498028e77c/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>617477</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1875389213004896-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1875389213004896/PREVIEW/image/png/a14aa26923bc84004e1cc0dc5e548076/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1875389213004896/PREVIEW/image/png/a14aa26923bc84004e1cc0dc5e548076/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>51536</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext> Physics Procedia   48  ( 2013 )  191 â€“ 195  1875-3892  2013 The Authors. Published by Elsevier B.V. Selection and peer-review under responsibility of Prof. Xiujian Zhao, Wuhan University of Technology doi: 10.1016/j.phpro.2013.07.031  ScienceDirect The XIII International Conference on the Physics of Non-Crystalline  Solids  Comparative study of optical properties of polarizing oxide  glasses with silver nanorods and chalcogenide glasses with  copper nanoparticles  Taras Kavetskyy a, *, Andrey L. Stepanov b , Valerii V. Bazarov b , Volodymyr Tsmots a ,  Jing Ren c , Guorong Chen c , Xiujian Zhao d  a Drohobych Ivan Franko State Pedagogical University, 24 I.Franko Str., Drohobych 82100, Ukraine  b Kazan Physical-Technical Institute of Russian Academy of Sciences, 10/7 Sibirskiy Trakt, Kazan 420029, Russian Federation   c East China University of Science and Technology, 130 Meilong Road, Shanghai 200237, P.R. China  d Wuhan University of Technology, 122 Luoshi-road, Hongshan, Wuhan 430070, P.R. China  Abstract  The femtosecond Z-scan measurements with open-aperture of nonlinear absorption of the R 2 O-B 2 O 3 -SiO 2  (R = Li, Na, K)  polarizing oxide glass containing Ag nanorods at polarizing angle  = 0 and 90 degrees are performed and compared with  the earlier Z-scan data obtained for the chalcogenide glasses with Cu nanoparticles (Cu:As 2 S 3  and Cu:Ge 15.8 As 21 S 63.2 ). The  results of the present study reveal that (i) when the polarization of the laser is parallel to the long axis of the Ag nanorods  (  = 0 degrees), the saturated nonlinear absorption takes place; and (ii) when the polarization of light is perpendicular to  the long axis of the Ag nanorods (  = 90 degrees), the saturated nonlinear absorption and two-photon nonlinear  absorption are observed likely to Cu:chalcogenide glasses. Ellipsometric measurements show also a dependence of the  properties of the investigated polarizing glass on the sample orientation in consistence with Ag nanorod locations.    Â© 2013 The Authors. Published by Elsevier Ltd.   Selection and/or peer-review under responsibility of Prof. Xiujian Zhao, Wuhan University of  Technology  Keywords: Polarizing oxide glass; Chalcogenide glass; Optical properties; Z-scan; Nonlinear absorption; Nanorods; Nanoparticles      * Corresponding author. Tel.: +38-03244-23257; fax: +38-03244-33332.  E-mail address: kavetskyy@yahoo.com (T. Kavetskyy).  Available online at www.sciencedirect.com  2013 The Authors. Published by Elsevier B.V. Selection and peer-review under r sponsibility of Prof. Xiujian Zhao, Wuhan University of Technology Open access under CC BY-NC-ND license. Open access under CC BY-NC-ND license. 192   Taras Kavetskyy et al. /  Physics Procedia  48 ( 2013 )  191 â€“ 195  1. Introduction  Recently, an R 2 O-B 2 O 3 -SiO 2  (R = Li, Na, K) polarizing oxide glass containing Ag nanorods, prepared by  thermal elongation-reduction technology, has been examined as advanced photonic materials for applications  in all-optical switching by Wang et al., 2006. The essential condition for applications in all-optical switching  is an one-photon and a two-photon figures of merit (FOM) W &gt; 1 and T &lt; 1, respectively, where W = n 2 I/   and T = /n 2  (  and  are the linear and nonlinear absorption (NLA) coefficients, n 2  is the optical Kerr  coefficient or nonlinear refractive (NLR) index, I is the irradiance, and  is the wavelength of the laser). In  particular, for the polarizing glass studied it has been revealed that (i) the transverse and longitudinal plasmon  absorption peaks of the embedded Ag nanorods are close to 460 and 720 nm, respectively; (ii) when the  polarization of the laser is parallel to the long axis of the Ag nanorods,  = 0.82 cm/GW   and n 2  = -1.5 Ã— 10 -4  cm 2 /GW; when the polarization of light is perpendicular to the long axis of the Ag nanorods,  = 0.12 cm/GW  and n 2  = -7.2 Ã— 10 -5  cm 2 /GW; and (iii) at 780 nm, with a peak irradiance I = 1.9 GW/cm 2 , the best one-photon  FOM W = 1.6, and the best two-photon FOM T = 0.16 were obtained when the polarization of the laser pulses  was perpendicular to the long axis of the Ag nanorods; satisfying the demands that W &gt;  1 and T &lt; 1 for  applications in all-optical switching.   On the other hand, the binary and ternary alloys of chalcogenide glasses with ion-synthesized copper  nanoparticles (i.e., Cu:As 2 S 3  and Cu:Ge 15.8 As 21 S 63.2 ) have also been found out to be as advanced photonic  materials for nonlinear optics applications by Kavetskyy et al., 2012. Namely, for the ion-irradiated samples it  has been established (i) an appearance of characteristic band of optical surface plasmon resonance in the linear  transmitance spectra, indicating the formation of copper nanoparticles in the surface region; and (ii) an  existance of simultaneously saturated nonlinear absorption and two-photon nonlinear absorption, the latter  being dominated with increasing of laser power. Such properties of the chalcogenide glasses with copper  nanoparticles can find attractive application for synchronization of laser modes and optical terminators.  The aim of this work is to perform a comparative study of optical properties of the polarizing oxide glasses  with silver nanorods (Ag:R 2 O-B 2 O 3 -SiO 2 ), having a weaker polarized optical properties than the samples  studied by Wang et al., 2006, and chalcogenide glasses with copper nanoparticles (Cu:As 2 S 3  and  Cu:Ge 15.8 As 21 S 63.2 ), synthesized by ion-implantation with dose of 1.5  10 17  ion/cm 2  by Kavetskyy et al., 2012.  2. Experimental  Details on the preparation of the investigated polarizing oxide glasses with silver nanorods and  chalcogenide glasses with copper nanoparticles are reported elsewhere by Wang et al., 2006 and Kavetskyy et  al., 2012. The surface plasmon absorption bands of embedded Ag nanorods in the polarizing glass and Cu  nanoparticles in the chalcogenide glasses are detected using optical transmission measurememts with double- beam spectrophotometer Hitachi-330, similar to Ag-implantation into SiO 2  glasses by Stepanov and Popok,  2004 and Ganeev et al., 2003, and Cu-implantation into ZnO by Karali et al., 2005, and SiO 2  by Stepanov et  al., 2012. Measurements of nonlinear absorption of the polarizing glass were carried out with a single beam Z- scan method with open-aperture to be compared with the same measurements for the Cu:chalcogenide glasses  performed earlier by Kavetskyy et al., 2012, at the identical experimental conditions. A femtosecond laser  (Chameleon COHERENT) operating at a wavelength of 780 nm with pulse duration of 150 fs and a repetition  rate of 90 MHz was used for the both polarizing oxide and chalcogenide glasses. Ellipsometric measurements  of the polarizing glass were performed in order to examine parameters  and  which are related to the  polarization change in the light that interacts with a sample. The measurements were carried out on two- channel spectroellipsometer ES-2 with binary polarization modulation by Perov et al., 1994. Wavelength  range of the measurement was 380-1050 nm with a step of 10 nm and spectral line width 6 nm.    Taras Kavetskyy et al. /  Physics Procedia  48 ( 2013 )  191 â€“ 195 193 3. Results and discussion  Figure 1 shows Z-scan with open-aperture characterization of the investigated polarizing oxide glass with  Ag nanorods compared to the chalcogenide glasses with Cu nanoparticles. It is seen a different nonlinear  optical absorption for the polarizing glass in dependence on polarizing angle  = 0 or 90 degrees, the latter is  similar to Z-scan data obtained for the chalcogenide glasses with Cu nanoparticles. The results obtained reveal  that when the polarization of the laser is parallel to the long axis of the Ag nanorods (  = 0 degrees), the  saturated nonlinear absorption takes place. When the polarization of light is perpendicular to the long axis of  the Ag nanorods (  = 90 degrees), the saturated nonlinear absorption and two-photon nonlinear absorption  are observed likely to Cu:chalcogenide glasses. Because of the best one-photon FOM W &gt; 1 and the best two- photon FOM T &lt; 1 have been detected for the polarizing glass when the polarization of the laser pulses was  perpendicular to the long axis of the Ag nanorods by Wang et al., 2006, we suggest that the investigated  chalcogenide glasses with Cu nanoparticles should be also examined further as a candidate for applications in  all-optical switching.         Fig. 1. Z-scan with open-aperture characterization of the investigated polarizing oxide glass with Ag nanorods (top) and chalcogenide  glasses with Cu nanoparticles (Kavetskyy et al., 2012, bottom).  194   Taras Kavetskyy et al. /  Physics Procedia  48 ( 2013 )  191 â€“ 195  Figure 2 shows ellipsometric  and  spectra of the investigated polarizing oxide glass with Ag nanorods  for three incidence angles (50, 60 and 70 degrees). There have been several measurements of the  and   spectra at different azimuthal angles of ellipsometer light incidence to sample. Azimuthal step was 30  degrees. Ellipsometric measurements carried out show also a dependence of the properties of the investigated  polarizing glass on the sample orientation in consistence with Ag nanorod locations. Namely, significant  differences in the corresponding spectra were not found as it may be expected because of the investigated  polarizing sample is more isotropic with a weaker polarized optical properties than the samples studied by  Wang et al., 2006. Approximation of the experimental data by least-squares simultaneously for all three  angles of incidence gave average refraction index n = 1.55 and extinction coefficient k = 0.11.      Fig. 2. Ellipsometric  and  spectra of the investigated polarizing oxide glass with Ag nanorods for three incidence angles (50, 60 and  70 degrees).    4. Conclusions  In this work, the femtosecond Z-scan measurements with open-aperture of nonlinear absorption of the  R 2 O-B 2 O 3 -SiO 2  (R = Li, Na, K) polarizing oxide glass containing Ag nanorods at polarizing angle  = 0 and  90 degrees have been carried out. The results obtained have been compared with the same femtosecond Z- scan measurements with open-aperture of nonlinear absorption of the chalcogenide glasses with Cu  nanoparticles (Cu:As 2 S 3  and Cu:Ge 15.8 As 21 S 63.2 ) by Kavetskyy et al., 2012. It has been established that (i)  when the polarization of the laser is parallel to the long axis of the Ag nanorods (  = 0 degrees), the saturated  nonlinear absorption takes place; and (ii) when the polarization of light is perpendicular to the long axis of the  Ag nanorods (  = 90 degrees), the saturated nonlinear absorption and two-photon nonlinear absorption are  observed likely to Cu:chalcogenide glasses. Ellipsometric measurements have also indicated a dependence of  the properties of the polarizing glass on the sample orientation in consistence with Ag nanorod locations.  Because of the best one-photon FOM W &gt; 1 and the best two-photon FOM T &lt; 1 have been detected for the  polarizing glass when the polarization of the laser pulses was perpendicular to the long axis of the Ag  nanorods by Wang et al., 2006, it has been suggested that the investigated chalcogenide glasses with Cu  nanoparticles should be also examined further as a candidate for applications in all-optical switching.   Taras Kavetskyy et al. /  Physics Procedia  48 ( 2013 )  191 â€“ 195 195 Acknowledgements  The authors would like to thank Dr. Jinjun Ren (WWU, MÃ¼nster, Germany) for providing us by polarizing  oxide glasses used for measurements. This work is supported in part by the SASII of Ukraine  (#0112U003689) and the MESYS of Ukraine (#0111U001021). Support from the Ukrainian-Russian projects  funded by the SFFR of Ukraine (#F40.2/019) and the RFBR (#11-02-90420, #11-02-91341, #12-02-97029  and #12-02-00528) is also gratefully acknowledged.   References  Wang, Q.Q., Han, J.B., Gong, H.M., Chen, D.J., Zhao, X.J., Feng, J.Y., Ren, J.J., 2006. Linear and Nonlinear Optical Properties of Ag  Nanowire Polarizing Glass, Advanced Functional Materials 16, p. 2405.  Kavetskyy, T.S., Valeev, V.P., Nuzhdin, V.I., Tsmots, V.M., Stepanov, A.L., 2012. Optical Properties of Chalcogenide Glasses with Ion- Synthesized Copper Nanoparticles, Pis  Fiziki (Technical Physics Letters) 38, p. 11.  Stepanov, A.L., Popok, V.N., 2004. Nanostructuring of Silicate Glass under Low-Energy Ag-Ion Implantation, Surface Science 566-568,  p. 1250.  Ganeev, R.A., Ryasnyansky, A.I., Stepanov, A.L., Usmanov, T., 2003. Nonlinear Optical Susceptibilities of Copper- and Silver-Doped  Silicate Glasses in the Ultraviolet Range, Physica Status Solidi B 238, p. R5.  Karali, T., Can, N., Valberg, L., Stepanov, A.L., Townsend, P.D., Buchal, Ch., Ganeev, R.A., Ryasnyansky, A.I., Belik, H.G., Jessett,  M.L., Ong, C., 2005. Optical Properties and Luminescence of Metallic Nanoclusters in ZnO:Cu, Physica B 363, p. 88.  Stepanov, A.L., Evlyukhin, E.A., Nuzhdin, V.I., Valeev, V.F., Osin, Y.N., Evlyukhi, A.B., Kiyan, R., Kavetskyy, T.S., Chichkov, B.N.,  2012. Synthesis of Periodic Plasmonic Microstructures with Copper Nanoparticles in Silica Glass by Low-Energy Ion Implantation,  Applied Physics A, in press.  Perov, P.I., Kovalev, V.I., Rukovishnikov, A.I., Rossukanyi, N.M., Johnson, W.H., 1994. Hydrogen-Sensitive Palladium Film Study with  Precise and Fast Ellipsometers, International Journal of Electronics 76, p. 797.    tigated  polarizing sample is more isotropic with a weaker polarized optical properties than the samples studied by  Wang et al., 2006. Approximation of the experimental data by least-squares simultaneously for all three  angles of incidence gave average refraction index n = 1.55 and extinction coefficient k = 0.11.      Fig. 2. Ellipsometric  and  spectra of the investigated polarizing oxide glass with Ag nanorods for three incidence angles (50, 60 and  70 degrees).    4. Conclusions  In this work, the femtosecond Z-scan measurements with open-aperture of nonlinear absorption of the  R 2 O-B 2 O 3 -SiO 2  (R = Li, Na, K) polarizing oxide glass containing Ag nanorods at polarizing angle  = 0 and  90 degrees have been carried out. The results obtained have been compared with the same femtosecond Z- scan measurements with open-aperture of nonlinear absorption of the chalcogenide glasses with Cu  nanoparticles (Cu:As 2 S 3  and Cu:Ge 15.8 As 21 S 63.2 ) by Kavetskyy et al., 2012. It has been established that (i)  when the polarization of the laser is parallel to the long axis of the Ag nanorods (  = 0 degrees), the saturated  nonlinear absorption takes place; and (ii) when the polarization of light is perpendicular to the long axis of the  Ag nanorods (  = 90 degrees), the saturated nonlinear absorption and two-photon nonlinear absorption are  observed likely to Cu:chalcogenide glasses. Ellipsometric measurements have also indicated a dependence of  the properties of the polarizing glass on the sample orientation in consistence with Ag nanorod locations.  Because of the best one-photon FOM W &gt; 1 and the best two-photon FOM T &lt; 1 have been detected for the  polarizing glass when the polarization of the laser pulses was perpendicular to the long axis of the Ag  nanorods by Wang et al., 2006, it has been suggested that the investigated chalcogenide glasses with Cu  nanoparticles should be also examined further as a candidate for applications in all-optical switching.   Taras Kavetskyy et al. /  Physics Procedia  48 ( 2013 )  191 â€“ 195 195 Acknowledgements  The authors would like to thank Dr. Jinjun Ren (WWU, MÃ¼nster, Germany) for providing us by polarizing  oxide glasses used for measurements. This work is supported in part by the SASII of Ukraine  (#0112U003689) and the MESYS of Ukraine (#0111U001021). Support from the Ukrainian-Russian projects  funded by the SFFR of Ukraine (#F40.2/019) and the RFBR (#11-02-90420, #11-02-91341, #12-02-97029  and #12-02-00528) is also gratefully acknowledged.   References  Wang, Q.Q., Han, J.B., Gong, H.M., Chen, D.J., Zhao, X.J., Feng, J.Y., Ren, J.J., 2006. Linear and Nonlinear Optical Properties of Ag  Nanowire Polarizing Glass, Advanced Functional Materials 16, p. 2405.  Kavetskyy, T.S., Valeev, V.P., Nuzhdin, V.I., Tsmots, V.M., Stepanov, A.L., 2012. Optical Properties of Chalcogenide Glasses w</xocs:rawtext>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.2" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>PHPRO</jid>
+            <aid>3662</aid>
+            <ce:pii>S1875-3892(13)00489-6</ce:pii>
+            <ce:doi>10.1016/j.phpro.2013.07.031</ce:doi>
+            <ce:copyright type="other" year="2013">The Authors</ce:copyright>
+         </item-info>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para id="npar0005" view="all">Selection and peer-review under responsibility of Prof. Xiujian Zhao, Wuhan University of Technology.</ce:note-para>
+            </ce:article-footnote>
+            <ce:title id="tit0005">Comparative Study of Optical Properties of Polarizing Oxide Glasses with Silver Nanorods and Chalcogenide Glasses with Copper Nanoparticles</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005">
+                  <ce:given-name>Taras</ce:given-name>
+                  <ce:surname>Kavetskyy</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0010" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  <ce:e-address id="eadd0005" type="email">kavetskyy@yahoo.com</ce:e-address>
+               </ce:author>
+               <ce:author id="aut0010">
+                  <ce:given-name>Andrey L.</ce:given-name>
+                  <ce:surname>Stepanov</ce:surname>
+                  <ce:cross-ref id="crf0015" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0015">
+                  <ce:given-name>Valerii V.</ce:given-name>
+                  <ce:surname>Bazarov</ce:surname>
+                  <ce:cross-ref id="crf0020" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0020">
+                  <ce:given-name>Volodymyr</ce:given-name>
+                  <ce:surname>Tsmots</ce:surname>
+                  <ce:cross-ref id="crf0025" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0025">
+                  <ce:given-name>Jing</ce:given-name>
+                  <ce:surname>Ren</ce:surname>
+                  <ce:cross-ref id="crf0030" refid="aff0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0030">
+                  <ce:given-name>Guorong</ce:given-name>
+                  <ce:surname>Chen</ce:surname>
+                  <ce:cross-ref id="crf0035" refid="aff0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0035">
+                  <ce:given-name>Xiujian</ce:given-name>
+                  <ce:surname>Zhao</ce:surname>
+                  <ce:cross-ref id="crf0040" refid="aff0020">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Drohobych Ivan Franko State Pedagogical University, 24 I.Franko Str., Drohobych 82100, Ukraine</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Kazan Physical-Technical Institute of Russian Academy of Sciences, 10/7 Sibirskiy Trakt, Kazan 420029, Russian Federation</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff0015">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>East China University of Science and Technology, 130 Meilong Road, Shanghai 200237, P.R. China</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff0020">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>Wuhan University of Technology, 122 Luoshi-road, Hongshan, Wuhan 430070, P.R. China</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +38 03244 23257; fax: +38 03244 33332.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract id="abs0005" view="all" class="author">
+               <ce:section-title id="sect0005">Abstract</ce:section-title>
+               <ce:abstract-sec id="abst0005" view="all">
+                  <ce:simple-para id="spar0005" view="all">The femtosecond <ce:italic>Z</ce:italic>-scan measurements with open-aperture of nonlinear absorption of the R<ce:inf loc="post">2</ce:inf>O-B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>-SiO<ce:inf loc="post">2</ce:inf> (R = Li, Na, K) polarizing oxide glass containing Ag nanorods at polarizing angle Θ = 0 and 90 degrees are performed and compared with the earlier <ce:italic>Z</ce:italic>-scan data obtained for the chalcogenide glasses with Cu nanoparticles (Cu:As<ce:inf loc="post">2</ce:inf>S<ce:inf loc="post">3</ce:inf> and Cu:Ge<ce:inf loc="post">15.8</ce:inf>As<ce:inf loc="post">21</ce:inf>S<ce:inf loc="post">63.2</ce:inf>). The results of the present study reveal that (i) when the polarization of the laser is parallel to the long axis of the Ag nanorods (Θ=0 degrees), the saturated nonlinear absorption takes place; and (ii) when the polarization of light is perpendicular to the long axis of the Ag nanorods (Θ=90 degrees), the saturated nonlinear absorption and two-photon nonlinear absorption are observed likely to Cu:chalcogenide glasses. Ellipsometric measurements show also a dependence of the properties of the investigated polarizing glass on the sample orientation in consistence with Ag nanorod locations.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0010">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>Polarizing oxide glass</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>Chalcogenide glass</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>Optical properties</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>Z-scan</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text>Nonlinear absorption</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0030">
+                  <ce:text>Nanorods</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0035">
+                  <ce:text>Nanoparticles</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0020">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[1]</ce:label>
+                     <ce:other-ref id="oref0005">
+                        <ce:textref>Wang, Q.Q., Han, J.B., Gong, H.M., Chen, D.J., Zhao, X.J., Feng, J.Y., Ren, J.J., 2006. Linear and Nonlinear Optical Properties of Ag Nanowire Polarizing Glass, Advanced Functional Materials 16, p. 2405.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[2]</ce:label>
+                     <ce:other-ref id="oref0010">
+                        <ce:textref>Kavetskyy, T.S., Valeev, V.P., Nuzhdin, V.I., Tsmots, V.M., Stepanov, A.L., 2012. Optical Properties of Chalcogenide Glasses with Ion-Synthesized Copper Nanoparticles, Pis’ma v Zhurnal Tekhnicheskoi Fiziki (Technical Physics Letters) 38, p. 11.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[3]</ce:label>
+                     <ce:other-ref id="oref0015">
+                        <ce:textref>Stepanov, A.L., Popok, V.N., 2004. Nanostructuring of Silicate Glass under Low-Energy Ag-Ion Implantation, Surface Science 566-568, p. 1250.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[4]</ce:label>
+                     <ce:other-ref id="oref0020">
+                        <ce:textref>Ganeev, R.A., Ryasnyansky, A.I., Stepanov, A.L., Usmanov, T., 2003. Nonlinear Optical Susceptibilities of Copper- and Silver-Doped Silicate Glasses in the Ultraviolet Range, Physica Status Solidi B 238, p. R5.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[5]</ce:label>
+                     <ce:other-ref id="oref0025">
+                        <ce:textref>Karali, T., Can, N., Valberg, L., Stepanov, A.L., Townsend, P.D., Buchal, Ch., Ganeev, R.A., Ryasnyansky, A.I., Belik, H.G., Jessett, M.L., Ong, C., 2005. Optical Properties and Luminescence of Metallic Nanoclusters in ZnO:Cu, Physica B 363, p. 88.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>[6]</ce:label>
+                     <ce:other-ref id="oref0030">
+                        <ce:textref>Stepanov, A.L., Evlyukhin, E.A., Nuzhdin, V.I., Valeev, V.F., Osin, Y.N., Evlyukhi, A.B., Kiyan, R., Kavetskyy, T.S., Chichkov, B.N., 2012. Synthesis of Periodic Plasmonic Microstructures with Copper Nanoparticles in Silica Glass by Low-Energy Ion Implantation, Applied Physics A, in press.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.I.</ce:given-name>
+                                 <ce:surname>Perov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.I.</ce:given-name>
+                                 <ce:surname>Kovalev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.I.</ce:given-name>
+                                 <ce:surname>Rukovishnikov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.M.</ce:given-name>
+                                 <ce:surname>Rossukanyi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrogen-Sensitive Palladium Film Study with Precise and Fast Ellipsometers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>International Journal of Electronics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>797</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

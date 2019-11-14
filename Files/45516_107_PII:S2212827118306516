@@ -1,0 +1,1009 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2212827118306516</prism:url><dc:identifier>doi:10.1016/j.procir.2018.05.023</dc:identifier><eid>1-s2.0-S2212827118306516</eid><prism:doi>10.1016/j.procir.2018.05.023</prism:doi><pii>S2212-8271(18)30651-6</pii><dc:title>Research on single point diamond turning of chalcogenide glass aspheric lens </dc:title><prism:publicationName>Procedia CIRP</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>22128271</prism:issn><prism:volume>71</prism:volume><prism:startingPage>293</prism:startingPage><prism:endingPage>298</prism:endingPage><prism:pageRange>293-298</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2018-12-31</prism:coverDate><prism:coverDisplayDate>2018</prism:coverDisplayDate><prism:copyright>© 2018 The Author(s). Published by Elsevier B.V.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier B.V.</prism:publisher><prism:issueName>4th CIRP Conference on Surface Integrity (CSI 2018)</prism:issueName><dc:creator>Tang, Longlong</dc:creator><dc:creator>Zhou, Tianfeng</dc:creator><dc:creator>Zhou, Jia</dc:creator><dc:creator>Liang, Zhiqiang</dc:creator><dc:creator>Wang, Xibin</dc:creator><dc:description>
+               Abstract
+               
+                  Chalcogenide glass (ChG) Ge22Se58As20 is a significant material in infrared optical systems, and it is usually machined by ultraprecision single point diamond turning (SPDT) for aspheric lens and freeform surface. However, as a soft brittle material, the surface is easily cracked during cutting. With the increasing demand for imaging quality, the surface integrity of chalcogenide glasses becomes increasingly important. This paper proposes a method to achieve high-precision and high-efficiency aspheric lens by SPDT. First, to study the material properties, the Vickers hardness of Ge22Se58As20 is tested, and the element components and microstructure are analysed by EDS. Second, through orthogonal cutting, the critical cutting thickness of the brittle-ductile transition is tested to be 1.2 μm and the minimum depth of cut for chip formation of 100 nm is identified. The material removal rate under ductile machining in face turning was calculated. Finally, by optimizing the machining condition, an aspheric lens with surface roughness of Ra 6.47 nm and form error of PV 120.82 nm was successfully fabricated.
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Chalcogenide glass</dcterms:subject><dcterms:subject>Aspheric lens</dcterms:subject><dcterms:subject>SPDT</dcterms:subject><dcterms:subject>Brittle-ductile transition</dcterms:subject><dcterms:subject>Chip formation</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S2212827118306516" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2212827118306516" rel="scidir"/></coredata><scopus-id>85051256915</scopus-id><scopus-eid>2-s2.0-85051256915</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85051256915" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>282173</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291885</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Procedia CIRP</xocs:srctitle>
+      <xocs:normalized-srctitle>PROCEDIACIRP</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20180606">2018-06-06</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20180606">2018-06-06</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20180606">2018-06-06</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20180606">2018-06-06</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2018-07-12T23:37:25</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2212827118306516</xocs:eid>
+      <xocs:pii-formatted>S2212-8271(18)30651-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2212827118306516</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.procir.2018.05.023</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.4</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2212827118X00067</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20180713">2018-07-13T01:46:04.417357Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20180101</xocs:date-search-begin>
+      <xocs:date-search-end>20181231</xocs:date-search-end>
+      <xocs:year-nav>2018</xocs:year-nav>
+      <xocs:indexeddate epoch="1528304686">2018-06-06T17:04:46.961822Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2212-8271</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>22128271</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>71</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>71</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 71</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>55</xocs:sort-order>
+      <xocs:first-fp>293</xocs:first-fp>
+      <xocs:last-lp>298</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>293</xocs:first-page>
+         <xocs:last-page>298</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2018</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2018</xocs:cover-date-text>
+      <xocs:cover-date-start>2018-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2018-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2018</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title id="tt001">4th CIRP Conference on Surface Integrity (CSI 2018)</ce:title>
+            <ce:editors>
+               <ce:author-group id="aa001">
+                  <ce:author id="aa002" author-id="S2212827118X00067-9118833b5d1dc46a1a3835cb4e0c5229">
+                     <ce:given-name>Fengzou</ce:given-name>
+                     <ce:surname>Fang</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 The Author(s). Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>RESEARCHSINGLEPOINTDIAMONDTURNINGCHALCOGENIDEGLASSASPHERICLENS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>TANG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>L</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0001">
+            <xocs:ref-normalized-surname>TANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>558</xocs:ref-first-fp>
+            <xocs:ref-last-lp>563</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0002">
+            <xocs:ref-normalized-surname>BUREAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>276</xocs:ref-first-fp>
+            <xocs:ref-last-lp>283</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0003">
+            <xocs:ref-normalized-surname>NICIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>625</xocs:ref-first-fp>
+            <xocs:ref-last-lp>629</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0004">
+            <xocs:ref-normalized-surname>KING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1954</xocs:ref-pub-year>
+            <xocs:ref-first-fp>225</xocs:ref-first-fp>
+            <xocs:ref-last-lp>238</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="othref0005"/>
+         <xocs:ref-info refid="sbref0006">
+            <xocs:ref-normalized-surname>LAWN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2195</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2199</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0007">
+            <xocs:ref-normalized-surname>BLAKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>949</xocs:ref-first-fp>
+            <xocs:ref-last-lp>957</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0008">
+            <xocs:ref-normalized-surname>JIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>194</xocs:ref-first-fp>
+            <xocs:ref-last-lp>197</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0009">
+            <xocs:ref-normalized-surname>MAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>115</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref00010">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>25243</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref00011">
+            <xocs:ref-normalized-surname>SINHOFF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>253</xocs:ref-first-fp>
+            <xocs:ref-last-lp>258</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref00012">
+            <xocs:ref-normalized-surname>LAMBROPOULOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>113</xocs:ref-first-fp>
+            <xocs:ref-last-lp>128</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref00013">
+            <xocs:ref-normalized-surname>KJELDSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>094903</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref00014">
+            <xocs:ref-normalized-surname>SUGIMURA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-first-fp>45</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref00015">
+            <xocs:ref-normalized-surname>SKUJA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>43</xocs:ref-first-fp>
+            <xocs:ref-last-lp>49</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref00016">
+            <xocs:ref-normalized-surname>ARSECULARATNE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>885</xocs:ref-first-fp>
+            <xocs:ref-last-lp>899</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref00017">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>650</xocs:ref-first-fp>
+            <xocs:ref-last-lp>660</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref00018">
+            <xocs:ref-normalized-surname>GOEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15</xocs:ref-first-fp>
+            <xocs:ref-last-lp>21</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>TANGX2018X293</xocs:refkey3>
+         <xocs:refkey4lp>TANGX2018X293X298</xocs:refkey4lp>
+         <xocs:refkey4ai>TANGX2018X293XL</xocs:refkey4ai>
+         <xocs:refkey5>TANGX2018X293X298XL</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2018-05-23T00:19:37Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/PROC_UNBOUNDED_ESWaived">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 The Author(s). Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2212-8271(18)30651-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2212827118306516</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2212827118306516</xocs:eid>
+         <xocs:doi>10.1016/j.procir.2018.05.023</xocs:doi>
+         <xocs:cid>282173</xocs:cid>
+         <xocs:timestamp>2018-07-13T01:46:04.417357Z</xocs:timestamp>
+         <xocs:cover-date-start>2018-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2018-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2212827118306516-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2212827118306516/MAIN/application/pdf/5940a242e118223601d6878a4c52fd11/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2212827118306516/MAIN/application/pdf/5940a242e118223601d6878a4c52fd11/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1101183</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2212827118306516-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2212827118306516/PREVIEW/image/png/8e8c9f558543ed7b1662276bbcc4b1a5/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2212827118306516/PREVIEW/image/png/8e8c9f558543ed7b1662276bbcc4b1a5/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>52142</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>ScienceDirect Available online at www.sciencedirect.comAvailable online at www.sciencedirect.com ScienceDirect Procedia CIRP 00 (2017) 000â€“000   www.elsevier.com/locate/procedia  2212-8271 Â© 2017 The Authors. Published by Elsevier B.V.  Peer-review under responsibility of the scientific committee of the 28th CIRP Design Conference 2018.  28th CIRP Design Conference, May 2018, Nantes, France A new methodology to analyze the functional and physical architecture of  existing products for an assembly oriented product family identification  Paul Stief *, Jean-Yves Dantan, Alain Etienne, Ali Siadat  Ã‰cole Nationale SupÃ©rieure dâ€™Arts et MÃ©tiers, Arts et MÃ©tiers ParisTech, LCFC EA 4495, 4 Rue Augustin Fresnel, Metz 57078, France  * Corresponding author. Tel.: +33 3 87 37 54 30; E-mail address: paul.stief@ensam.eu Abstract  In todayâ€™s business environment, the trend towards more product variety and customization is unbroken. Due to this development, the need of  agile and reconfigurable production systems emerged to cope with various products and product families. To design and optimize production systems as well as to choose the optimal product matches, product analysis methods are needed. Indeed, most of the known methods aim to  analyze a product or one product family on the physical level. Different product families, however, may differ largely in terms of the number and  nature of components. This fact impedes an efficient comparison and choice of appropriate product family combinations for the production system. A new methodology is proposed to analyze existing products in view of their functional and physical architecture. The aim is to cluster these products in new assembly oriented product families for the optimization of existing assembly lines and the creation of future reconfigurable  assembly systems. Based on Datum Flow Chain, the physical structure of the products is analyzed. Functional subassemblies are identified, and  a functional analysis is performed. Moreover, a hybrid functional and physical architecture graph (HyFPAG) is the output which depicts the  similarity between product families by providing design support to both, production system planners and product designers. An illustrative example of a nail-clipper is used to explain the proposed methodology. An industrial case study on two product families of steering columns of  thyssenkrupp Presta France is then carried out to give a first industrial evaluation of the proposed approach.  Â© 2017 The Authors. Published by Elsevier B.V.  Peer-review under responsibility of the scientific committee of the 28th CIRP Design Conference 2018.  Keywords: Assembly; Design method; Family identification 1. Introduction  Due to the fast development in the domain of  communication and an ongoing trend of digitization and digitalization, manufacturing enterprises are facing important challenges in todayâ€™s market environments: a continuing tendency towards reduction of product development times and shortened product lifecycles. In addition, there is an increasing demand of customization, being at the same time in a global  competition with competitors all over the world. This trend,  which is inducing the development from macro to micro  markets, results in diminished lot sizes due to augmenting product varieties (high-volume to low-volume production) [1].  To cope with this augmenting variety as well as to be able to identify possible optimization potentials in the existing production system, it is important to have a precise knowledge of the product range and characteristics manufactured and/or  assembled in this system. In this context, the main challenge in modelling and analysis is now not only to cope with single  products, a limited product range or existing product families, but also to be able to analyze and to compare products to define new product families. It can be observed that classical existing product families are regrouped in function of clients or features. However, assembly oriented product families are hardly to find.  On the product family level, products differ mainly in two main characteristics: (i) the number of components and (ii) the type of components (e.g. mechanical, electrical, electronical).  Classical methodologies considering mainly single products  or solitary, already existing product families analyze the product structure on a physical level (components level) which  causes difficulties regarding an efficient definition and comparison of different product families. Addressing this  Procedia CIRP 71 (2018) 293â€“298 2212-8271 Â© 2018 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license  (https://creativecommons.org/licenses/by-nc-nd/4.0/)  Selection and peer-review under responsibility of the scientific committee of the 4th CIRP Conference on Surface Integrity (CSI 2018). 10.1016/j.procir.2018.05.023 Â© 2018 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license  (https://creativecommons.org/licenses/by-nc-nd/4.0/)  Selection and peer-review under responsibility of the scientific committee of the 4th CIRP Conference on Surface Integrity (CSI 2018).   Available online at www.sciencedirect.com  ScienceDirect  Procedia CIRP 00 (2018) 000â€“000          www.elsevier.com/locate/procedia            2212-8271 Â© 2018 The Authors. Published by Elsevier B.V.  Peer-rev ew under responsibility of the scientific committee of the 4th CIRP Conference on Surface Integrity (CSI 2018).  4th CIRP Conference on Surface Integrity (CSI 2018)  Research on single point diamond turning of chalcogenide glass  aspheric lens  Lo long TANGa, Tianfeng ZHOUb,*, Jia ZHOUa, Zhiqiang LIANGb, Xibin WANGb  aSchool of Mechanical Engineering, Beijing Institute of Technology, Beijing 100081, China  bKey Laboratory of Fundamental Science for Advanced Machining, Beijing Institute of Technology, Beijing 100081, China  * Dr. Tianfeng ZHOU. TEL/FAX.: +86-10-68912716. E-mail address: zhoutf@bit.edu.cn  Abstract  Chalcogenide glass (ChG) Ge22Se58As20 is a significant material in infrared optical systems, and it is usually machined by ultraprecision single  point diamond turning (SPDT) for aspheric lens and freeform surface. However, as a soft brittle material, the surface is easily cracked during  cutting. With the increasing demand for imaging quality, the surface integrity of chalcogenide glasses becomes increasingly important. This paper  proposes a method to achieve high-precision and high-efficiency aspheric lens by SPDT. First, to study the material properties, the Vickers  hardness of Ge22Se58As20 is tested, and the element components and microstructure are analysed by EDS. Second, through orthogonal cutting,  the critical cutting thickness of the brittle-ductile transition is tested to be 1.2 Î¼m and the minimum depth of cut for chip formation of 100 nm is  identified. The material removal rate under ductile machining in face turning was calculated. Finally, by optimizing the machining condition, an  aspheric lens with surface roughness of Ra 6.47 nm and form error of PV 120.82 nm was successfully fabricated.       t . li   l i  B.V.  Peer-review under responsibility of the scientific committee of the 4th CIRP Conference on Surface Integrity (CSI 2018).  Keywords: Chalcogenide glass; Aspheric lens; SPDT; Brittle-ductile transition; Chip formation    1. Introduction  Infrared thermal imaging technology has a very broad  demand in both military and civilian application fields. For  instance, infrared guided weapon, warning, night vision, and  nondestructive detection. Chalcogenide glass (ChG) began to  be used as an optical device in infrared system in 1950s [1],  which had been widely applied to replace single crystal  ger anium because of its high infrared transmittance, low cost,  continuous adjustable composition and small change of  refractive index with temperature since then [2].   The optical surfaces of ChG are mainly made by lapping &amp;  polishing. However, this method has a complex manufacturing  process and a long period. More importantly, it is hard to  achieve high optical shape precision. In recent decades, it has  been known that brittle materials can be machined by  ultraprecision single poi t diamond turning (SPDT) based on  the brittle-ductile transition theory. The possibility of  machining brittle materials in the so called ductile regime was  first observed by King and Tabor [4] in the year of 1954. They  proposed that plastic deformation was still involved in brittle  fracture. Saito [5] recognized that the components produced  through an SPDT operation had a much better metallurgical  structure than the one obtained through polishing and lapping  processes. Subsequently, a model was proposed for the  initiation of microfracture beneath sharp indenter by Lawn and  Evans [6]. They showed the same ductile behavior during  nano-indentation of ceramics which further led to the elastic- plastic response of the brittle materials. In the subsequent work,  Blake and Scattergood [7] investigated the process of ductile  regime machining of single crystals of germanium and silicon  during diamond turning. They established a model for ductile  regime machining that suggested the finished surface would  contain microfracture-induced pitting damage. It was realized  that ductile regime machining was thus an interplay between  tool profile geometry and feed, which determined chip cross    Available online at www.sciencedirect.com  Sci nceDirect  Procedia CIRP 00 (2018) 000â€“000          www.elsevier.com/locate/procedia            2212-8271 Â© 2018 The Authors. Published by Elsevier B.V.  Peer-review under responsibility of the scientific committee of the 4th CIRP Conference on Surface Integrity (CSI 2018).  4th CIRP Conference on Surface Integrity (CSI 2018)  Research on single point diamond turning of chalcogenide glass  aspheric lens  Longlong TANGa, Tianfeng ZHOUb,*, Jia ZHOUa, Zhiqiang LIANGb, Xibin WANGb  aSchool of Mechanical Engineering, Beijing Institute of Technology, Beijing 100081, China  bKey Laboratory of Fundamental Science for Advanced Machining, Beijing Institute of Technology, Beijing 100081, China  * Dr. Tianfeng ZHOU. TEL/FAX.: +86-10-68912716. E-mail address: zhoutf@bit.edu.cn  Abstract  Chalcogenide glass (ChG) Ge22Se58As20 is a significant material in infrared optical systems, and it is usually machined by ultraprecision single  point diamond turning (SPDT) for aspheric lens and freeform surface. However, as a soft brittle material, the surface is easily cracked during  cutting. With the increasing demand for imaging quality, the surface integrity of chalcogenide glasses becomes increasingly important. This paper  proposes a method to achieve high-precision and high-efficiency aspheric lens by SPDT. First, to study the material properties, the Vickers  hardness of Ge22Se58As20 is tested, and the element components and microstructure are analysed by EDS. Second, through orthogonal cutting,  the critical cutting thickness of the brittle-ductile transition is tested to be 1.2 Î¼m and the minimum depth of cut for chip formation of 100 nm is  identified. The material removal rate under ductile machining in face turning was calculated. Finally, by optimizing the machining condition, an  aspheric lens with surface roughness of Ra 6.47 nm and form error of PV 120.82 nm was successfully fabricated.    Â© 2018 The Authors. Published by Elsevier B.V.  Peer-review under responsibility of the scientific committee of the 4th CIRP Conference on Surface Integrity (CSI 2018).  Keywords: Chalcogenide glass; Aspheric lens; SPDT; Brittle-ductile transition; Chip formation    1. Introduction  Infrared thermal imaging technology has a very broad  demand in both military and civilian application fields. For  instance, infrared guided weapon, warning, night vision, and  nondestructive detection. Chalcogenide glass (ChG) began to  be used as an optical device in infrared system in 1950s [1],  which had been widely applied to replace single crystal  germanium because of its high infrared transmittance, low cost,  continuous adjustable composition and small change of  refractive index with temperature since then [2].   The optical surfaces of ChG are mainly made by lapping &amp;  polishing. However, this method has a complex manufacturing  process and a long period. More importantly, it is hard to  achieve high optical shape precision. In recent decades, it has  been known that brittle materials can be machined by  ultraprecision single point diamond turning (SPDT) based on  the brittle-ductile transition theory. The possibility of  machining brittle materials in the so called ductile regime was  first observed by King and Tabor [4] in the year of 1954. They  proposed that plastic deformation was still involved in brittle  fracture. Saito [5] recognized that the components produced  through an SPDT operation had a much better metallurgical  structure than the one obtained through polishing and lapping  processes. Subsequently, a model was proposed for the  initiation of microfracture beneath sharp indenter by Lawn and  Evans [6]. They showed the same ductile behavior during  nano-indentation of ceramics which further led to the elastic- plastic response of the brittle materials. In the subsequent work,  Blake and Scattergood [7] investigated the process of ductile  regime machining of single crystals of germanium and silicon  during diamond turning. They established a model for ductile  regime machining that suggested the finished surface would  contain microfracture-induced pitting damage. It was realized  that ductile regime machining was thus an interplay between  tool profile geometry and feed, which determined chip cross  294 Longlong TANG et al. / Procedia CIRP 71 (2018) 293â€“298 2 Author name / Procedia CIRP 00 (2018) 000â€“000  section, and a critical depth parameter tc that dictated fracture  initiation. After decades of researches, there were new  continuous theories and discoveries about various brittle  materials.   Jia P [8] recognized that BK7 glass brittle-ductile transition  depth was 0.502 Î¼m by scratching test, and suggested that the  value of the critical depth of cut increased with the  concentration of boric acid solution. Yan J [9] showed that by  using slow tool servo method a form error of ~300 nm PV and  surface roughness of ~6 nm Sa spherical microlens array were  successfully fabricated. Fang [10] provided an approach to  machining smooth freeform surfaces with rectangular aperture  via ultraprecision turning. Surface topographic details showed  that form error of a micron level and surface roughness of 5.41  nm had been achieved. Unlike brittle hard materials, the ChG  has a much lower hardness, and the defects must be controlled  by cutting below the critical cutting depth to avoid brittle  fracture, and at the same time, the material should be removed  above the minimum cutting thickness for chip formation at the  region of ploughing. In order to achieve high precision optical  surface at the high efficiency by SPDT, it is necessary to  further study this kind of soft brittle material.  In this paper, a kind of far infrared glass Ge22Se58As20  (IRG202) is studied. The machining mechanics of  Ge22Se58As20 is principally investigated, and then the brittle- ductile transition phenomenon and the ploughing phenomenon  are observed successively during cutting ChG. The critical  cutting thickness and the minimum cutting thickness are tested  through orthogonal cutting. Accordingly, the uncut chip  thickness (tuct) to achieve ductile regime machining is acquired.  Finally, an optical surface of aspheric lens is achieved by face  turning at a high material removal rate.  2. Material description and testing  2.1. Vickers hardness test  As presented in Eq. (1), Lambropoulos [11] obtained the  formula of the depth of central crack c according to the theory  of the indentation fracture mechanics and the definition of the  fracture toughness of the material, where H is hardness that  affects the critical condition in ultraprecision machining brittle  materials. First, the value of hardness was measured by a  Vickers hardness tester (AHVD-1000, SIOOM, China). The  sample was polished and ultrasonically cleaned to remove the  impurities on the surface. Then, a load of 0.245 N was applied  to the sample and kept for 20 s. The test repeated at 5 different  locations of the sample randomly, and the values were shown  in Fig. 1. The average value is 175.14 HV which is much lower  than that of silica glass [12].   ï€¨ ï€© 2/3(1 )2/3 4/92/3 cot m K c E Pc H K ï�¡ ï�ª ï€­ ïƒ¦ ïƒ¶ïƒ¦ ïƒ¶ ï€½ ïƒ§ ïƒ·ïƒ§ ïƒ· ïƒ¨ ïƒ¸ ïƒ¨ ïƒ¸  (1)  2.2. Microstructure characteristics by EDS  The material properties of a solid depend on its own element  components and microstructure. ChG is an infrared transparent  glass formed by S, Se and Te from VI A in the periodic table,  and other metal elements such as Ge, Ga, As, Sb and so on.  Ge22Se58As20 is a far infrared ChG material with infrared  transmittance of 15 Î¼m. It is fabricated by melt quenching  method according to the volume fraction of each element of  22%, 58% and 20% respectively. Studies revealed that the  element composition and microstructure of optical glass were  closely related to its elastic-plastic deformation and brittle  fracture behavior during the processing [13]. The elemental  concentration was analyzed by a field-emission scanning  electron microscope (FESEM, S-4800, Hitachi, Japan), which  was equipped with energy dispersive spectrometer (EDS) at an  acceleration voltage of 5 kV. The EDS spectrum is shown in  Fig. 2. The concentrations of the elements in the sample are  22.18 at%, 57.66 at%, 20.16 at% separately, consistent with the  designed ratio well.   0 1 2 3 4 5 0 20 40 60 80 100 120 140 160 180 200 220 182.47 168.45 196.88 170.26 157.62 V ic ke rs  h ar dn es s ( H V ) Test location   Fig. 1. Curve of the Vickers hardness    Fig. 2. The EDS spectrum display of ChG  According to the theory of irregular network structure  model of amorphous materials, the bridge oxygen bond is  stronger than that of the non-bridge oxygen bond. The oxygen  ions in silica glass are all bridge oxygen. Some bridge oxygen  bonds are cut off becoming non-bridge oxygen bonds, and the  strength and hardness decrease after adding metal elements.  Therefore, the hardness of silicate glass with metal ions is  usually lower [14-15]. The selenium in the ChG and the  oxygen in the silicate glass are both VI A elements, having  similar chemical properties. As illustrated in Fig. 3, it can be  speculated that the hardness decreased after the addition of  germanium due to the non-bridge Se.   Author name / Procedia CIRP 00 (2018) 000â€“000  3    Fig. 3. Schematic illustration of As-Se-Ge structure  3. Cutting experiment of ChG  3.1. Cutting transition analysis by orthogonal cutting  All experiments were conducted on an ultraprecision  machine center Nanoform X (produced by Precitech  Corporation, USA), which achieves a positioning resolution of  0.1 nm and a moving straightness of 0.1 Î¼m/50 mm. It has two  air bearing spindle, a maximum 10000 rpm turning spindle and  a maximum 40000 rpm milling spindle. A water-soluble mist  was used for cooling during all the cutting experiments, and it  also removed most of the chips off the machined surface before  ultrasonic cleaning.  There are reports suggesting a transition of cutting  mechanism in other materials [7-9]. Relatively lower hardness  indicates that the ChG probably has a greater critical cutting  thickness. In order to achieve the maximum depth of cut under  SPDT of ChG in ductile regime, orthogonal cutting experiment  is then conducted. As presented in Fig. 4, diamond tool was set  up on a Kistler 9256C dynamometer, using a 5080 amplifier  with a solution of 0.1mN. Sampling frequency was 1000Hz.  The workpiece with an outer diameter of 15 mm and an inner  diameter of 11 mm for free cutting was fixed by a fixture  mounted on the spindle. As shown in Fig. 5, a V-shaped  pointed diamond tool with an included angle of 90Â°, 0Â° rake,  12Â° clearance angle and a 100 nm edge radius was used. The  cutting speed was kept at 0.68 m/s (1000 rpm), and the depth  of cut (tc) varied from 20 nm to 10 Î¼m. The chips were  collected and observed using a 3D laser scanning microscope  (VK-X100, Keyence, Japan). The surface roughness was  characterized by a non-contact 3D Optical Profiler (Talysurf  CCI, Taylor Hobson, UK) after ultrasonic cleaning.       (a) (b)  Fig. 4. Orthogonal cutting (a) experiment setup and (b) illustration of processing    rn   (a) (b)  Fig. 5. SEM photograph of diamond tool: (a) 90Â° included angle and (b) 100 nm  edge radius  Fig. 6 shows the forces acting on the tool during a cutting  operation as a function of tc, the â€œthrust forceâ€� (Fy) acts in the  x direction and the â€œmain cutting forceâ€� (Fz) acts in the  orthogonal direction to x. It is evident that the forces in two  directions have the similar trend of change, and the forces have  two turning points, which correspond to ð�‘¡ð�‘¡ð�‘�ð�‘� equals to 100 nm  and 1.2 Î¼m respectively. As tc below 100 nm, forces decrease  with the increasing of tc, indicating a size effect described in  other work [16-17]. For tc between 100 nm to 1.2 Î¼m, the forces  increase proportionally, and then decrease sharply, which  suggests a brittle-ductile transition and the tc equals to 1.2 Î¼m  at the peak point. The forces changes unstably as tc is above 1.2  Î¼m, where brittle fracture occurs.   0 1 2 3 4 5 6 7 8 9 10 0.00 0.05 0.10 0.15 0.20     C ut tin g  fo rc es  (N )  Fz main cutting force  Fy thrust force Depth of cut (Î¼m)  c t   Fig. 6. Values of cutting forces versus tuct in orthogonal cutting  Fig. 7 shows the surface roughness of Ge22Se58As20 in  orthogonal cutting. The change of the surface roughness shows  the same tendency with cutting force change. When the depth  of cut is 50 nm, the result is Ra 0.12 Î¼m. There were not  available chips to be collected at the same time, and as  presented in Fig. 8a, the machined surface appeared a  ploughing trace also indicating a size effect in nano-metric  cutting. Fig. 8b-c show the images of a typical chips formation  and machined surface. For tc between 100 nm to 1.2 Î¼m, the  surface roughness values are all below Ra 20 nm. And  especially when tc is between 200 nm to 800 nm, it is less than  Ra 10 nm, which is a necessary requirement for optical  specifications. The chips have a continuous long strip shape,  and the surface appears smooth like an optical surface  according with the characteristics of ductile machining. On the  contrary, it presents irregular crack fractures when tc equals 1.4  Î¼m, and there were many pits on the surface shown in Fig. 8d- 90Â° f  Fy  Fz   Longlong TANG et al. / Procedia CIRP 71 (2018) 293â€“298 295 2 Author name / Procedia CIRP 00 (2018) 000â€“000  section, and a critical depth parameter tc that dictated fracture  initiation. After decades of researches, there were new  continuous theories and discoveries about various brittle  materials.   Jia P [8] recognized that BK7 glass brittle-ductile transition  depth was 0.502 Î¼m by scratching test, and suggested that the  value of the critical depth of cut increased with the  concentration of boric acid solution. Yan J [9] showed that by  using slow tool servo method a form error of ~300 nm PV and  surface roughness of ~6 nm Sa spherical microlens array were  successfully fabricated. Fang [10] provided an approach to  machining smooth freeform surfaces with rectangular aperture  via ultraprecision turning. Surface topographic details showed  that form error of a micron level and surface roughness of 5.41  nm had been achieved. Unlike brittle hard materials, the ChG  has a much lower hardness, and the defects must be controlled  by cutting below the critical cutting depth to avoid brittle  fracture, and at the same time, the material should be removed  above the minimum cutting thickness for chip formation at the  region of ploughing. In order to achieve high precision optical  surface at the high efficiency by SPDT, it is necessary to  further study this kind of soft brittle material.  In this paper, a kind of far infrared glass Ge22Se58As20  (IRG202) is studied. The machining mechanics of  Ge22Se58As20 is principally investigated, and then the brittle- ductile transition phenomenon and the ploughing phenomenon  are observed successively during cutting ChG. The critical  cutting thickness and the minimum cutting thickness are tested  through orthogonal cutting. Accordingly, the uncut chip  thickness (tuct) to achieve ductile regime machining is acquired.  Finally, an optical surface of aspheric lens is achieved by face  turning at a high material removal rate.  2. Material description and testing  2.1. Vickers hardness test  As presented in Eq. (1), Lambropoulos [11] obtained the  formula of the depth of central crack c according to the theory  of the indentation fracture mechanics and the definition of the  fracture toughness of the material, where H is hardness that  affects the critical condition in ultraprecision machining brittle  materials. First, the value of hardness was measured by a  Vickers hardness tester (AHVD-1000, SIOOM, China). The  sample was polished and ultrasonically cleaned to remove the  impurities on the surface. Then, a load of 0.245 N was applied  to the sample and kept for 20 s. The test repeated at 5 different  locations of the sample randomly, and the values were shown  in Fig. 1. The average value is 175.14 HV which is much lower  than that of silica glass [12].   ï€¨ ï€© 2/3(1 )2/3 4/92/3 cot m K c E Pc H K ï�¡ ï�ª ï€­ ïƒ¦ ïƒ¶ïƒ¦ ïƒ¶ ï€½ ïƒ§ ïƒ·ïƒ§ ïƒ· ïƒ¨ ïƒ¸ ïƒ¨ ïƒ¸  (1)  2.2. Microstructure characteristics by EDS  The material properties of a solid depend on its own element  components and microstructure. ChG is an infrared transparent  glass formed by S, Se and Te from VI A in the periodic table,  and other metal elements such as Ge, Ga, As, Sb and so on.  Ge22Se58As20 is a far infrared ChG material with infrared  transmittance of 15 Î¼m. It is fabricated by melt quenching  method according to the volume fraction of each element of  22%, 58% and 20% respectively. Studies revealed that the  element composition and microstructure of optical glass were  closely related to its elastic-plastic deformation and brittle  fracture behavior during the processing [13]. The elemental  concentration was analyzed by a field-emission scanning  electron microscope (FESEM, S-4800, Hitachi, Japan), which  was equipped with energy dispersive spectrometer (EDS) at an  acceleration voltage of 5 kV. The EDS spectrum is shown in  Fig. 2. The concentrations of the elements in the sample are  22.18 at%, 57.66 at%, 20.16 at% separately, consistent with the  designed ratio well.   0 1 2 3 4 5 0 20 40 60 80 100 120 140 160 180 200 220 182.47 168.45 196.88 170.26 157.62 V ic ke rs  h ar dn es s ( H V ) Test location   Fig. 1. Curve of the Vickers hardness    Fig. 2. The EDS spectrum display of ChG  According to the theory of irregular network structure  model of amorphous materials, the bridge oxygen bond is  stronger than that of the non-bridge oxygen bond. The oxygen  ions in silica glass are all bridge oxygen. Some bridge oxygen  bonds are cut off becoming non-bridge oxygen bonds, and the  strength and hardness decrease after adding metal elements.  Therefore, the hardness of silicate glass with metal ions is  usually lower [14-15]. The selenium in the ChG and the  oxygen in the silicate glass are both VI A elements, having  similar chemical properties. As illustrated in Fig. 3, it can be  speculated that the hardness decreased after the addition of  germanium due to the non-bridge Se.   Author name / Procedia CIRP 00 (2018) 000â€“000  3    Fig. 3. Schematic illustration of As-Se-Ge structure  3. Cutting experiment of ChG  3.1. Cutting transition analysis by orthogonal cutting  All experiments were conducted on an ultraprecision  machine center Nanoform X (produced by Precitech  Corporation, USA), which achieves a positioning resolution of  0.1 nm and a moving straightness of 0.1 Î¼m/50 mm. It has two  air bearing spindle, a maximum 10000 rpm turning spindle and  a maximum 40000 rpm milling spindle. A water-soluble mist  was used for cooling during all the cutting experiments, and it  also removed most of the chips off the machined surface before  ultrasonic cleaning.  There are reports suggesting a transition of cutting  mechanism in other materials [7-9]. Relatively lower hardness  indicates that the ChG probably has a greater critical cutting  thickness. In order to achieve the maximum depth of cut under  SPDT of ChG in ductile regime, orthogonal cutting experiment  is then conducted. As presented in Fig. 4, diamond tool was set  up on a Kistler 9256C dynamometer, using a 5080 amplifier  with a solution of 0.1mN. Sampling frequency was 1000Hz.  The workpiece with an outer diameter of 15 mm and an inner  diameter of 11 mm for free cutting was fixed by a fixture  mounted on the spindle. As shown in Fig. 5, a V-shaped  pointed diamond tool with an included angle of 90Â°, 0Â° rake,  12Â° clearance angle and a 100 nm edge radius was used. The  cutting speed was kept at 0.68 m/s (1000 rpm), and the depth  of cut (tc) varied from 20 nm to 10 Î¼m. The chips were  collected and observed using a 3D laser scanning microscope  (VK-X100, Keyence, Japan). The surface roughness was  characterized by a non-contact 3D Optical Profiler (Talysurf  CCI, Taylor Hobson, UK) after ultrasonic cleaning.       (a) (b)  Fig. 4. Orthogonal cutting (a) experiment setup and (b) illustration of processing    rn   (a) (b)  Fig. 5. SEM photograph of diamond tool: (a) 90Â° included angle and (b) 100 nm  edge radius  Fig. 6 shows the forces acting on the tool during a cutting  operation as a function of tc, the â€œthrust forceâ€� (Fy) acts in the  x direction and the â€œmain cutting forceâ€� (Fz) acts in the  orthogonal direction to x. It is evident that the forces in two  directions have the similar trend of change, and the forces have  two turning points, which correspond to ð�‘¡ð�‘¡ð�‘�ð�‘� equals to 100 nm  and 1.2 Î¼m respectively. As tc below 100 nm, forces decrease  with the increasing of tc, indicating a size effect described in  other work [16-17]. For tc between 100 nm to 1.2 Î¼m, the forces  increase proportionally, and then decrease sharply, which  suggests a brittle-ductile transition and the tc equals to 1.2 Î¼m  at the peak point. The forces changes unstably as tc is above 1.2  Î¼m, where brittle fracture occurs.   0 1 2 3 4 5 6 7 8 9 10 0.00 0.05 0.10 0.15 0.20     C ut tin g  fo rc es  (N )  Fz main cutting force  Fy thrust force Depth of cut (Î¼m)  c t   Fig. 6. Values of cutting forces versus tuct in orthogonal cutting  Fig. 7 shows the surface roughness of Ge22Se58As20 in  orthogonal cutting. The change of the surface roughness shows  the same tendency with cutting force change. When the depth  of cut is 50 nm, the result is Ra 0.12 Î¼m. There were not  available chips to be collected at the same time, and as  presented in Fig. 8a, the machined surface appeared a  ploughing trace also indicating a size effect in nano-metric  cutting. Fig. 8b-c show the images of a typical chips formation  and machined surface. For tc between 100 nm to 1.2 Î¼m, the  surface roughness values are all below Ra 20 nm. And  especially when tc is between 200 nm to 800 nm, it is less than  Ra 10 nm, which is a necessary requirement for optical  specifications. The chips have a continuous long strip shape,  and the surface appears smooth like an optical surface  according with the characteristics of ductile machining. On the  contrary, it presents irregular crack fractures when tc equals 1.4  Î¼m, and there were many pits on the surface shown in Fig. 8d- 90Â° f  Fy  Fz  296 Longlong TANG et al. / Procedia CIRP 71 (2018) 293â€“298 4 Author name / Procedia CIRP 00 (2018) 000â€“000  e, revealing that a brittle removal mechanism dominates  apparently. Therefore, it is considered that the minimum  cutting thickness and the critical cutting thickness are 100 nm  and 1.2 Î¼m, respectively.  0.0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6 1.8 2.0 10 20 30 40 50 60 70 80 90 100  (Depth of cut Î¼m)ct   Su rf ac e  ro ug hn es s  R a  (n m )   Fig. 7. Surface roughness versus tc varies from 20 nm to 1.8 Î¼m        50 um Ploughing   (a)     (b) (c)     (d) (e)  Fig. 8. Photographs of: (a) surface of tc =20 nm; (b-c) surface and chips of tc  =0.8 Î¼m; (d-e) surface and chips of tc =1.4 Î¼m  3.2. Critical cutting thickness in turning  As illustrated in Fig. 9, during the process of turning  aspheric lens, the uncut chip thickness is the actual depth of cut,  which is determined by feed and other factors. Thus face  turning was carried out. As shown in Fig. 10, the workpiece  with a diameter of 15 mm was fixed like before. A diamond  tool having a nose radius of 0.5 mm, a 60Â° included angle, a 0Â°  rake angle and a 12Â°clearance angle was used. The maximum  uncut chip thickness tuct is given as follows:  ï€¨ ï€©ï€¨ ï€© ï€¨ ï€©ï€¨ ï€© ï€¨ ï€©2 2 2 2 2 2 2 2 22 Â´ Â´ Â´              uct c r c O A OA OE DE O O O CAB R R R f Rt t t ï€½ ï€­ ï€­ ï€­ ï€­ ï€«ï€½ ï€½ ï€­ ï€­ ï€­ ï€­ ï€« ï€­   (2)  where R is tool radius; tc, depth of cut; fr, feed per revolution.  The tc was kept constant at 30 Î¼m in this experiment, and fr was  varied from 1 mm/r to 12 mm/r, thus the tuct was 0.34 Î¼m to  3.96 Î¼m correspondingly.     Fig. 9. Illustration of tuct under each fr     (a) (b)  Fig. 10. Face turning (a) experiment setup and (b) illustration of processing  Fig. 11 shows the forces as a function of fr, the â€œthrust forceâ€�  (Fx) acts in the x direction, the â€œtangential cutting forceâ€� (Fy)  acts in the y direction and the â€œmain cutting forceâ€� (Fz) acts in  the orthogonal direction to x and y planes. The variation  tendency of forces is the same as in orthogonal cutting. For fr  between 0.4 mm/r to 4 mm/r, the forces go up in direct  proportion, and a sharp decrease occurs at fr equals to 4 mm/r  corresponding to tuct equals to 1.35 Î¼m, which is close to 1.2  Î¼m in orthogonal cutting, also indicating a brittle-ductile  transition. Besides, the dominance of trust force (Fx) over main  cutting force (Fz) in micro nano-metric cutting while in macro  cutting is the opposite [18], which is a field yet to be studied.  The material removal rate (MMR) in face turning can be  explicitly expressed as:   c rQ f Rtï�°ï€½ ï‚´ ï‚´  (3)  where Q is MMR; tc, depth of cut; R, workpiece radius.  Therefore the MMR of aspherical lens in SPDT is determined  fr  Author name / Procedia CIRP 00 (2018) 000â€“000  5  by both tc and fr. To achieve ductile regime cutting, the tuct must  be blow 1.2 Î¼m. According to Eq. (2), the functional  relationship is shown in Fig. 12. Theoretically, the greater the  tc, the larger the tcÂ·fr, and the lager the MMR it is. Thus we  should choose the diamond tool with a large nose radius and  included angle. However, a large radius may lead to  interference and serious tool wear due to the higher material  removal volume in the process of aspheric lens turning, which  should be considered in a comprehensive practical way.    0 2 4 6 8 10 0.00 0.02 0.04 0.06 0.08 0.10 0.12 Fo rc eï¼ˆ N ï¼‰ fr  Fx thrust force   Fy tagential cutting force   Fz main cutting force Ra 86 nmRa 10 nm 20 um 20 um Feed rate       (mm/r) C ut tin g  fo rc es  (N )   Fig. 11. Cutting forces and surface results (insets) versus fr in face turning    Fig. 12. MMR versus tc in face turning  4. Fabrication of aspherical lens by SPDT  Based on the above results, a ChG aspheric convex lens with  a diameter of 15 mm was then successfully fabricated by  ultraprecision SPDT shown in Fig. 13. It was interpolated by x  and z axis linkage, and the aspheric equation is given as follows:  2 4 6 8 10 12 2 ( )1 1 1 X RZ AX BX CX DX EX X Rk ï€½ ï€« ï€« ï€« ï€« ï€« ï€« ï€­ ïƒ—ï€«   (4)  where Z is sag; X, semi-aperture; R, radius of curvature; k,  conic constant. The parameters of the equation are summarized  in Table 1, and turning parameters are shown in Table 2.   The machined surface of the aspheric lens was measured in  the range of 2 mm in diameter, it can be clearly seen that the  machined and the theoretical shape match very well shown in  Fig. 14a. As presented in Fig.14b, the deviations were filtered  with a cut-off frequency of 0.267 Hz. Thus a surface roughness  of Ra 6.47 nm and a form error of PV 120.82 nm are obtained,  which meets the design requirement of ChG aspheric lens.  Table 1. Parameters of aspheric equation.  R  (mm) k A  B C D E  -50 5 -4e-4 8e-6 -5e-8 -2e-10 2e-12  Table 2. Parameters of aspheric lens cutting condition.  Spindle speed  (rpm)  Depth of cut  (Î¼m)  Feed rate  (mm/min)  Tool nose radius  (mm)  3000 50 6 0.5    Fig. 13. Image of aspheric lens by SPDT  5. Conclusion  In summary, this paper focuses on the method to achieve  high quality surface of ChG aspheric lens by SPDT efficiently.  The hardness and element composition of Ge22Se58As20 are  tested, and two mechanic cutting transitions in SPDT of ChG  Ge22Se58As20 are studied. The maximum depth of cut to  achieve ductile regime machining is obtained 1.2 Î¼m, and the  uncut chip thickness should be between 100 nm to 1.2 Î¼m for  chip formation. A high precision aspheric lens with a nanoscale  surface is successfully fabricated by optimizing SPDT process.    tc (Î¼m) t cÂ· f r         (a)       (b)  Fig. 14. Surface of lens: (a) shape curves and (b) filtered deviations  -1000 -500 0 500 1000 12 14 16 18 20 22 Z  ( Î¼ m ) X (Î¼m)  Machined shape  Theoretical shape -1000 -500 0 500 1000 -0.20 -0.15 -0.10 -0.05 0.00 0.05 0.10 0.15 0.20  Low pass filtered  High pass filtered D ev ia ti o n  ( Î¼ m ) X (Î¼m)  Longlong TANG et al. / Procedia CIRP 71 (2018) 293â€“298 297 4 Author name / Procedia CIRP 00 (2018) 000â€“000  e, revealing that a brittle removal mechanism dominates  apparently. Therefore, it is considered that the minimum  cutting thickness and the critical cutting thickness are 100 nm  and 1.2 Î¼m, respectively.  0.0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6 1.8 2.0 10 20 30 40 50 60 70 80 90 100  (Depth of cut Î¼m)ct   Su rf ac e  ro ug hn es s  R a  (n m )   Fig. 7. Surface roughness versus tc varies from 20 nm to 1.8 Î¼m        50 um Ploughing   (a)     (b) (c)     (d) (e)  Fig. 8. Photographs of: (a) surface of tc =20 nm; (b-c) surface and chips of tc  =0.8 Î¼m; (d-e) surface and chips of tc =1.4 Î¼m  3.2. Critical cutting thickness in turning  As illustrated in Fig. 9, during the process of turning  aspheric lens, the uncut chip thickness is the actual depth of cut,  which is determined by feed and other factors. Thus face  turning was carried out. As shown in Fig. 10, the workpiece  with a diameter of 15 mm was fixed like before. A diamond  tool having a nose radius of 0.5 mm, a 60Â° included angle, a 0Â°  rake angle and a 12Â°clearance angle was used. The maximum  uncut chip thickness tuct is given as follows:  ï€¨ ï€©ï€¨ ï€© ï€¨ ï€©ï€¨ ï€© ï€¨ ï€©2 2 2 2 2 2 2 2 22 Â´ Â´ Â´              uct c r c O A OA OE DE O O O CAB R R R f Rt t t ï€½ ï€­ ï€­ ï€­ ï€­ ï€«ï€½ ï€½ ï€­ ï€­ ï€­ ï€­ ï€« ï€­   (2)  where R is tool radius; tc, depth of cut; fr, feed per revolution.  The tc was kept constant at 30 Î¼m in this experiment, and fr was  varied from 1 mm/r to 12 mm/r, thus the tuct was 0.34 Î¼m to  3.96 Î¼m correspondingly.     Fig. 9. Illustration of tuct under each fr     (a) (b)  Fig. 10. Face turning (a) experiment setup and (b) illustration of processing  Fig. 11 shows the forces as a function of fr, the â€œthrust forceâ€�  (Fx) acts in the x direction, the â€œtangential cutting forceâ€� (Fy)  acts in the y direction and the â€œmain cutting forceâ€� (Fz) acts in  the orthogonal direction to x and y planes. The variation  tendency of forces is the same as in orthogonal cutting. For fr  between 0.4 mm/r to 4 mm/r, the forces go up in direct  proportion, and a sharp decrease occurs at fr equals to 4 mm/r  corresponding to tuct equals to 1.35 Î¼m, which is close to 1.2  Î¼m in orthogonal cutting, also indicating a brittle-ductile  transition. Besides, the dominance of trust force (Fx) over main  cutting force (Fz) in micro nano-metric cutting while in macro  cutting is the opposite [18], which is a field yet to be studied.  The material removal rate (MMR) in face turning can be  explicitly expressed as:   c rQ f Rtï�°ï€½ ï‚´ ï‚´  (3)  where Q is MMR; tc, depth of cut; R, workpiece radius.  Therefore the MMR of aspherical lens in SPDT is determined  fr  Author name / Procedia CIRP 00 (2018) 000â€“000  5  by both tc and fr. To achieve ductile regime cutting, the tuct must  be blow 1.2 Î¼m. According to Eq. (2), the functional  relationship is shown in Fig. 12. Theoretically, the greater the  tc, the larger the tcÂ·fr, and the lager the MMR it is. Thus we  should choose the diamond tool with a large nose radius and  included angle. However, a large radius may lead to  interference and serious tool wear due to the higher material  removal volume in the process of aspheric lens turning, which  should be considered in a comprehensive practical way.    0 2 4 6 8 10 0.00 0.02 0.04 0.06 0.08 0.10 0.12 Fo rc eï¼ˆ N ï¼‰ fr  Fx thrust force   Fy tagential cutting force   Fz main cutting force Ra 86 nmRa 10 nm 20 um 20 um Feed rate       (mm/r) C ut tin g  fo rc es  (N )   Fig. 11. Cutting forces and surface results (insets) versus fr in face turning    Fig. 12. MMR versus tc in face turning  4. Fabrication of aspherical lens by SPDT  Based on the above results, a ChG aspheric convex lens with  a diameter of 15 mm was then successfully fabricated by  ultraprecision SPDT shown in Fig. 13. It was interpolated by x  and z axis linkage, and the aspheric equation is given as follows:  2 4 6 8 10 12 2 ( )1 1 1 X RZ AX BX CX DX EX X Rk ï€½ ï€« ï€« ï€« ï€« ï€« ï€« ï€­ ïƒ—ï€«   (4)  where Z is sag; X, semi-aperture; R, radius of curvature; k,  conic constant. The parameters of the equation are summarized  in Table 1, and turning parameters are shown in Table 2.   The machined surface of the aspheric lens was measured in  the range of 2 mm in diameter, it can be clearly seen that the  machined and the theoretical shape match very well shown in  Fig. 14a. As presented in Fig.14b, the deviations were filtered  with a cut-off frequency of 0.267 Hz. Thus a surface roughness  of Ra 6.47 nm and a form error of PV 120.82 nm are obtained,  which meets the design requirement of ChG aspheric lens.  Table 1. Parameters of aspheric equation.  R  (mm) k A  B C D E  -50 5 -4e-4 8e-6 -5e-8 -2e-10 2e-12  Table 2. Parameters of aspheric lens cutting condition.  Spindle speed  (rpm)  Depth of cut  (Î¼m)  Feed rate  (mm/min)  Tool nose radius  (mm)  3000 50 6 0.5    Fig. 13. Image of aspheric lens by SPDT  5. Conclusion  In summary, this paper focuses on the method to achieve  high quality surface of ChG aspheric lens by SPDT efficiently.  The hardness and element composition of Ge22Se58As20 are  tested, and two mechanic cutting transitions in SPDT of ChG  Ge22Se58As20 are studied. The maximum depth of cut to  achieve ductile regime machining is obtained 1.2 Î¼m, and the  uncut chip thickness should be between 100 nm to 1.2 Î¼m for  chip formation. A high precision aspheric lens with a nanoscale  surface is successfully fabricated by optimizing SPDT process.    tc (Î¼m) t cÂ· f r         (a)       (b)  Fig. 14. Surface of lens: (a) shape curves and (b) filtered deviations  -1000 -500 0 500 1000 12 14 16 18 20 22 Z  ( Î¼ m ) X (Î¼m)  Machined shape  Theoretical shape -1000 -500 0 500 1000 -0.20 -0.15 -0.10 -0.05 0.00 0.05 0.10 0.15 0.20  Low pass filtered  High pass filtered D ev ia ti o n  ( Î¼ m ) X (Î¼m) 298 Longlong TANG et al. / Procedia CIRP 71 (2018) 293â€“298 6 Author name / Procedia CIRP 00 (2018) 000â€“000  Acknowledgements  This work has been financed by the National Key Basic  Research Program of China (No. 2015CB059900) and the  National Natural Science Foundation of China (No. 51775046).  The authors would also like to acknowledge the support from  the Fok Ying-Tong Education Foundation for Young Teachers  in the Higher Education Institutions of China (No. 151052).  References  [1] Tang B, Yang Y, Fan Y, et al. Barium Gallogermanate Glass Ceramics for  Infrared Applications[J]. Journal of Materials Science &amp; Technology, 2010,  26(6):558-563.  [2] Bureau B, Zhang X H, Smektala F, et al. Recent advances in chalcogenide  glasses[J]. Journal of Non-Crystalline Solids, 2004, 345-346(20):276-283.  [3] Niciu H, Popescu M, Velea A, et al. Moulding procedure for the  preparation of infrared glassy microlenses and prisms based on arsenic  sulphide chalcogenide glass[J]. Chalcogenide Letters, 2010, 7(11):625-629.  [4] R.F. King, D. Tabor, The strength properties and frictional behaviour of  brittle solids, Proceedings of the Royal Society of London, Series A:  Mathematical and Physical Sciences, Proc. R. Soc. Lond. A, 223 (1153)  (1954) 225-238, http://dx.doi.org/10.1098/rspa.1954.0111 (1954pp).  [5] T.T. Saito, Machining of optics: an introduction, Applied Optics 14 (8)  (1975) 1773â€“1776.  [6] B.R.Lawn, A.G.Evans, A model for crack initiation in elastic/plastic  indentation fields, Journal of Materials Science12(1977)2195â€“2199.1977.  [7] Blake P N, Scattergood R O. Ductileâ€�Regime Machining of Germanium  and Silicon[J]. Journal of the American Ceramic Society, 1990, 73(4):949- 957.  [8] Jia P. Scratching Experimental Research on Critical Cut Depth of Glass  BK7[J]. Key Engineering Materials, 2013, 589-590:194-197.   [9] Mao M, Yan J. Ductile machining of single-crystal silicon for microlens  arrays by ultraprecision diamond turning using a slow tool servo[J].  International Journal of Machine Tools &amp; Manufacture, 2016, 115.  [10] Li Z, Fang F, Zhang X, et al. Highly efficient machining of non-circular  freeform optics using fast tool servo assisted ultra-precision turning[J].  Optics Express, 2017, 25(21):25243.  [11]  Sinhoff V, KÃ¶nig W. Generative Precision Grinding of Optical Glass[J].  CIRP Annals - Manufacturing Technology, 1998, 47(1):253-258.  [12] J.C. Lambropoulos, S.D. Jacobs and J. Ruckman. Material removal  mechanisms from grinding to polishing [J]. Finishing of advanced  ceramics and glasses, 1999, 102: 113-128.  [13] Kjeldsen J, Smedskjaer M M, Potuzak M, et al. Role of elastic  deformation in determining the mixed alkaline earth effect of hardness in  silicate glasses[J]. Journal of Applied Physics, 2015, 117(3):094903.  [14] Sugimura H, Shiwa M, Sanada Y. Chemical Structure and Properties of  Heat Treated Coal in the Early State of Carbonization (VI):Knoop  Hardness of Originals and Heat Treated Coals[J]. Journal of the Japan  Institute of Energy, 1966, 45.   [15] Skuja L N, Silin A R. A model for the non-bridging oxygen center in fused  silica[J]. Physica Status Solidi, 2010, 70(1):43-49.  [16] Arsecularatne J A. On tool-chip interface stress distributions, ploughing  force and size effect in machining[J]. International Journal of Machine  Tools &amp; Manufacture, 1997, 37(7):885-899.  [17] Liu K, Melkote S N. Finite element analysis of the influence of tool edge  radius on size effect in orthogonal micro-cutting process[J]. International  Journal of Mechanical Sciences, 2007, 49(5):650-660.  [18] Goel S, Luo X, Comley P, et al. Brittleâ€“ductile transition during diamond  turning of single crystal silicon carbide[J]. International Journal of  Machine Tools &amp; Manufacture, 2013, 65(2):15-21.    )  Fig. 14. Surface of lens: (a) shape curves and (b) filtered deviations  -1000 -500 0 500 1000 12 14 16 18 20 22 Z  ( Î¼ m ) X (Î¼m)  Machined shape  Theoretical shape -1000 -500 0 500 1000 -0.20 -0.15 -0.10 -0.05 0.00 0.05 0.10 0.15 0.20  Low pass filtered  High pass filtered D ev ia ti o n  ( Î¼ m ) X (Î¼m) 298 Longlong TANG et al. / Procedia CIRP 71 (2018) 293â€“298 6 Author name / Procedia CIRP 00 (2018) 000â€“000  Acknowledgements  This work has been financed by the National Key Basic  Research Program of China (No. 2015CB059900) and the  National Natural Science Foundation of China (No. 51775046).  The authors would also like to acknowledge the support from  the Fok Ying-Tong Education Foundation for Young Teachers  in the Higher Education Institutions of China (No. 151052).  References  [1] Tang B, Yang Y, Fan Y, et al. Barium Gallogermanate Glass Ceramics for  Infrared Applications[J]. Journal of Materials Science &amp; Technology, 2010,  26(6):558-563.  [2] Bureau B, Zhang X H, Smektala F, et al. Recent advances in chalcogenide  glasses[J]. Journal of Non-Crystalline Solids, 2004, 345-346(20):276-283.  [3] Niciu H, Popescu M, Velea A, et al. Moulding procedure for the  preparation of infrared glassy microlenses and prisms based on arsenic  sulphide chalcogenide glass[J]. Chalcogenide Letters, 2010, 7(11</xocs:rawtext>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.5" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>PROCIR</jid>
+            <aid>394824</aid>
+            <ce:pii>S2212-8271(18)30651-6</ce:pii>
+            <ce:doi>10.1016/j.procir.2018.05.023</ce:doi>
+            <ce:copyright type="unknown" year="2018"/>
+         </item-info>
+         <head>
+            <ce:title id="tte0001">Research on single point diamond turning of chalcogenide glass aspheric lens</ce:title>
+            <ce:author-group id="aug0001">
+               <ce:author id="au0257" author-id="S2212827118306516-fbbb6fe10c41e2ad6096db8a54f729c9">
+                  <ce:given-name>Longlong</ce:given-name>
+                  <ce:surname>Tang</ce:surname>
+                  <ce:cross-ref id="cecref0260" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0258" author-id="S2212827118306516-c024a2f6ade335bf544e8d4b26cee45d">
+                  <ce:given-name>Tianfeng</ce:given-name>
+                  <ce:surname>Zhou</ce:surname>
+                  <ce:cross-ref id="cecref0261" refid="aff0002">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:e-address type="email" id="eaddceeadd0056" xlink:href="mailto:zhoutf@bit.edu.cn">zhoutf@bit.edu.cn</ce:e-address>
+               </ce:author>
+               <ce:author id="au0259" author-id="S2212827118306516-5b78c862f0e9f045e74383793868ebfd">
+                  <ce:given-name>Jia</ce:given-name>
+                  <ce:surname>Zhou</ce:surname>
+                  <ce:cross-ref id="cecref0262" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0260" author-id="S2212827118306516-b224496e1e2f34d37f55f4041e8a812e">
+                  <ce:given-name>Zhiqiang</ce:given-name>
+                  <ce:surname>Liang</ce:surname>
+                  <ce:cross-ref id="cecref0263" refid="aff0002">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0261" author-id="S2212827118306516-90f1ce05c50d874e8f410ae16de17ff4">
+                  <ce:given-name>Xibin</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+                  <ce:cross-ref id="cecref0264" refid="aff0002">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0001" affiliation-id="S2212827118306516-54edb125c1082375933cdedea44a3cb5">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="cetextfn0001">School of Mechanical Engineering, Beijing Institute of Technology, Beijing 100081, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Mechanical Engineering</sa:organization>
+                     <sa:organization>Beijing Institute of Technology</sa:organization>
+                     <sa:city>Beijing</sa:city>
+                     <sa:postal-code>100081</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0002" affiliation-id="S2212827118306516-b3171cdeef0b72556d746e536f9db0ea">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="cetextfn0002">Key Laboratory of Fundamental Science for Advanced Machining, Beijing Institute of Technology, Beijing 100081, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Key Laboratory of Fundamental Science for Advanced Machining</sa:organization>
+                     <sa:organization>Beijing Institute of Technology</sa:organization>
+                     <sa:city>Beijing</sa:city>
+                     <sa:postal-code>100081</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:abstract id="abs0001" view="all" class="author">
+               <ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+               <ce:abstract-sec id="abss0001" view="all">
+                  <ce:simple-para id="spara0064" view="all">Chalcogenide glass (ChG) Ge<ce:inf loc="post">22</ce:inf>Se<ce:inf loc="post">58</ce:inf>As<ce:inf loc="post">20</ce:inf> is a significant material in infrared optical systems, and it is usually machined by ultraprecision single point diamond turning (SPDT) for aspheric lens and freeform surface. However, as a soft brittle material, the surface is easily cracked during cutting. With the increasing demand for imaging quality, the surface integrity of chalcogenide glasses becomes increasingly important. This paper proposes a method to achieve high-precision and high-efficiency aspheric lens by SPDT. First, to study the material properties, the Vickers hardness of Ge<ce:inf loc="post">22</ce:inf>Se<ce:inf loc="post">58</ce:inf>As<ce:inf loc="post">20</ce:inf> is tested, and the element components and microstructure are analysed by EDS. Second, through orthogonal cutting, the critical cutting thickness of the brittle-ductile transition is tested to be 1.2 μm and the minimum depth of cut for chip formation of 100 nm is identified. The material removal rate under ductile machining in face turning was calculated. Finally, by optimizing the machining condition, an aspheric lens with surface roughness of Ra 6.47 nm and form error of PV 120.82 nm was successfully fabricated.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="keys0001" view="all" class="keyword">
+               <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+               <ce:keyword id="key0201">
+                  <ce:text id="cetext0201">Chalcogenide glass</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0202">
+                  <ce:text id="cetext0202">Aspheric lens</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0203">
+                  <ce:text id="cetext0203">SPDT</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0204">
+                  <ce:text id="cetext0204">Brittle-ductile transition</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0205">
+                  <ce:text id="cetext0205">Chip formation</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="cebibsec1" view="all">
+               <ce:section-title id="cesectitle0003">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec2" view="all">
+                  <ce:bib-reference id="bib0001">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref0001">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Tang</ce:surname>
+                                 <ce:given-name>B.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Yang</ce:surname>
+                                 <ce:given-name>Y.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Fan</ce:surname>
+                                 <ce:given-name>Y.</ce:given-name>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Barium Gallogermanate Glass Ceramics for Infrared Applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Mater Sci Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>558</sb:first-page>
+                              <sb:last-page>563</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0002">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref0002">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Bureau</ce:surname>
+                                 <ce:given-name>B.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Zhang</ce:surname>
+                                 <ce:given-name>X.H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Smektala</ce:surname>
+                                 <ce:given-name>F.</ce:given-name>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Recent advances in chalcogenide glasses</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Non-Cryst Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>345-346</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>20</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>276</sb:first-page>
+                              <sb:last-page>283</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0003">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref0003">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Niciu</ce:surname>
+                                 <ce:given-name>H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Popescu</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Velea</ce:surname>
+                                 <ce:given-name>A.</ce:given-name>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Moulding procedure for the preparation of infrared glassy microlenses and prisms based on arsenic sulphide chalcogenide glass</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chalcogenide Lett</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>625</sb:first-page>
+                              <sb:last-page>629</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0004">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref0004">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>King</ce:surname>
+                                 <ce:given-name>R.F.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Tabor</ce:surname>
+                                 <ce:given-name>D.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The strength properties and frictional behaviour of brittle solids, Proceedings of the Royal Society of London, Series A: Mathematical and Physical Sciences</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. R. Soc. Lond. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>223</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1153</sb:issue-nr>
+                              <sb:date>1954</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>225</sb:first-page>
+                              <sb:last-page>238</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>
+                           <ce:inter-ref id="interrefs0001" xlink:href="http://dx.doi.org/10.1098/rspa.1954.0111" xlink:type="simple">http://dx.doi.org/10.1098/rspa.1954.0111</ce:inter-ref> (1954pp).</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>5</ce:label>
+                     <ce:other-ref id="othref0005">
+                        <ce:textref>Saito TT. Machining of optics: an introduction, Appl Optics 1975;14 (8):1773-6.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0006">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sbref0006">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Lawn</ce:surname>
+                                 <ce:given-name>B.R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Evans</ce:surname>
+                                 <ce:given-name>A.G.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A model for crack initiation in elastic/plastic indentation fields</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Mater Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2195</sb:first-page>
+                              <sb:last-page>2199</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0007">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sbref0007">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Blake</ce:surname>
+                                 <ce:given-name>P.N.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Scattergood</ce:surname>
+                                 <ce:given-name>R.O.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ductile-Regime Machining of Germanium and Silicon</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Am Ceram Soc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>73</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>949</sb:first-page>
+                              <sb:last-page>957</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0008">
+                     <ce:label>8</ce:label>
+                     <sb:reference id="sbref0008">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Jia</ce:surname>
+                                 <ce:given-name>P.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Scratching Experimental Research on Critical Cut Depth of Glass BK7</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Key Eng Mat</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>589-590</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>194</sb:first-page>
+                              <sb:last-page>197</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0009">
+                     <ce:label>9</ce:label>
+                     <sb:reference id="sbref0009">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Mao</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Yan</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ductile machining of single-crystal silicon for microlens arrays by ultraprecision diamond turning using a slow tool servo</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Mach Tool Manu</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>115</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib00010">
+                     <ce:label>10</ce:label>
+                     <sb:reference id="sbref00010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Li</ce:surname>
+                                 <ce:given-name>Z.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Fang</ce:surname>
+                                 <ce:given-name>F.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Zhang</ce:surname>
+                                 <ce:given-name>X.</ce:given-name>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Highly efficient machining of non-circular freeform optics using fast tool servo assisted ultra-precision turning</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt Express</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>21</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>25243</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib00011">
+                     <ce:label>11</ce:label>
+                     <sb:reference id="sbref00011">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Sinhoff</ce:surname>
+                                 <ce:given-name>V.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>König</ce:surname>
+                                 <ce:given-name>W.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Generative Precision Grinding of Optical Glass</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>CIRP Ann- Manuf Techn</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>253</sb:first-page>
+                              <sb:last-page>258</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib00012">
+                     <ce:label>12</ce:label>
+                     <sb:reference id="sbref00012">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Lambropoulos</ce:surname>
+                                 <ce:given-name>J.C.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Jacobs</ce:surname>
+                                 <ce:given-name>S.D.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Ruckman</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Material removal mechanisms from grinding to polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ceram. Trans.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>113</sb:first-page>
+                              <sb:last-page>128</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib00013">
+                     <ce:label>13</ce:label>
+                     <sb:reference id="sbref00013">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Kjeldsen</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Smedskjaer</ce:surname>
+                                 <ce:given-name>M.M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Potuzak</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Role of elastic deformation in determining the mixed alkaline earth effect of hardness in silicate glasses</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Appl Phys</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>117</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>094903</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib00014">
+                     <ce:label>14</ce:label>
+                     <sb:reference id="sbref00014">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Sugimura</ce:surname>
+                                 <ce:given-name>H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Shiwa</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Sanada</ce:surname>
+                                 <ce:given-name>Y.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical Structure and Properties of Heat Treated Coal in the Early State of Carbonization (VI):Knoop Hardness of Originals and Heat Treated Coals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of the Japan Institute of Energy</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1966</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>45</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib00015">
+                     <ce:label>15</ce:label>
+                     <sb:reference id="sbref00015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Skuja</ce:surname>
+                                 <ce:given-name>L.N.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Silin</ce:surname>
+                                 <ce:given-name>A.R.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A model for the non-bridging oxygen center in fused silica</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physi Status Solidi</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>70</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>43</sb:first-page>
+                              <sb:last-page>49</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib00016">
+                     <ce:label>16</ce:label>
+                     <sb:reference id="sbref00016">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Arsecularatne</ce:surname>
+                                 <ce:given-name>J.A.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>On tool-chip interface stress distributions, ploughing force and size effect in machining</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Mach Tool Manu</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7</sb:issue-nr>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>885</sb:first-page>
+                              <sb:last-page>899</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib00017">
+                     <ce:label>17</ce:label>
+                     <sb:reference id="sbref00017">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Liu</ce:surname>
+                                 <ce:given-name>K.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Melkote</ce:surname>
+                                 <ce:given-name>S.N.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Finite element analysis of the influence of tool edge radius on size effect in orthogonal micro-cutting process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Mech Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>650</sb:first-page>
+                              <sb:last-page>660</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib00018">
+                     <ce:label>18</ce:label>
+                     <sb:reference id="sbref00018">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Goel</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Luo</ce:surname>
+                                 <ce:given-name>X.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Comley</ce:surname>
+                                 <ce:given-name>P.</ce:given-name>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Brittle-ductile transition during diamond turning of single crystal silicon carbide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Mach Tool Manu</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15</sb:first-page>
+                              <sb:last-page>21</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

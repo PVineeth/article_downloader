@@ -1,0 +1,452 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1875389211005190</prism:url><dc:identifier>doi:10.1016/j.phpro.2011.06.186</dc:identifier><eid>1-s2.0-S1875389211005190</eid><prism:doi>10.1016/j.phpro.2011.06.186</prism:doi><pii>S1875-3892(11)00519-0</pii><dc:title>Viscoelastic properties of chalcogenide glasses and the simulation of their molding processes </dc:title><prism:publicationName>Physics Procedia</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>18753892</prism:issn><prism:volume>19</prism:volume><prism:startingPage>422</prism:startingPage><prism:endingPage>425</prism:endingPage><prism:pageRange>422-425</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2011-12-31</prism:coverDate><prism:coverDisplayDate>2011</prism:coverDisplayDate><prism:copyright>Copyright © 2011 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><prism:issueName>International Conference on Optics in Precision Engineering and Nanotechnology (ICOPEN 2011)</prism:issueName><dc:creator>Liu, Weiguo</dc:creator><dc:creator>Shen, Ping</dc:creator><dc:creator>Jin, Na</dc:creator><dc:description>
+               Abstract
+               
+                  In order to simulate the precision molding process, the viscoelastic properties of chalcogenide glasses under high temperatures were investigated. Thermomechanical analysis were performed to measure and analysis the thermomechanical properties of chalcogenide glasses. The creep responses of the glasses at different temperatures were obtained. Finite element analysis was applied for the simulation of the molding processes. The simulation results were in consistence with previously reported experiment results. Stress concentration and evolution during the molding processes was also described with the simulation results.
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/3.0/</openaccessUserLicense><dcterms:subject>Chalcogenide glasses</dcterms:subject><dcterms:subject>precision molding</dcterms:subject><dcterms:subject>viscoelastic properties</dcterms:subject><dcterms:subject>ANSYS</dcterms:subject><dcterms:subject>stress</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1875389211005190" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1875389211005190" rel="scidir"/></coredata><scopus-id>84863172120</scopus-id><scopus-eid>2-s2.0-84863172120</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84863172120" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>277348</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291690</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Physics Procedia</xocs:srctitle>
+      <xocs:normalized-srctitle>PHYSICSPROCEDIA</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20110811">2011-08-11</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20110811">2011-08-11</xocs:available-online-date>
+      <xocs:ew-transaction-id>2014-11-23T12:47:47</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1875389211005190</xocs:eid>
+      <xocs:pii-formatted>S1875-3892(11)00519-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1875389211005190</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.phpro.2011.06.186</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1875389211X00111</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150515">2015-05-15T07:17:21.308207-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20110101</xocs:date-search-begin>
+      <xocs:date-search-end>20111231</xocs:date-search-end>
+      <xocs:year-nav>2011</xocs:year-nav>
+      <xocs:indexeddate epoch="1313020800">2011-08-11T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1875-3892</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>18753892</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>19</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>19</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 19</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>71</xocs:sort-order>
+      <xocs:first-fp>422</xocs:first-fp>
+      <xocs:last-lp>425</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>422</xocs:first-page>
+         <xocs:last-page>425</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2011</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2011</xocs:cover-date-text>
+      <xocs:cover-date-start>2011-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2011-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2011</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>International Conference on Optics in Precision Engineering and Nanotechnology (ICOPEN 2011)</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>C</ce:given-name>
+                     <ce:surname>Quan</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>K</ce:given-name>
+                     <ce:surname>Qian</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>A</ce:given-name>
+                     <ce:surname>Asundi</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2011 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>VISCOELASTICPROPERTIESCHALCOGENIDEGLASSESSIMULATIONMOLDINGPROCESSES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>LIU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>W</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="oref0005"/>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>PAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1302</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>SEDDON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2515</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4484</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0025"/>
+         <xocs:ref-info refid="oref0030"/>
+         <xocs:ref-info refid="sbref0035">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>696</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0040">
+            <xocs:ref-normalized-surname>CHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>153</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>LIUX2011X422</xocs:refkey3>
+         <xocs:refkey4lp>LIUX2011X422X425</xocs:refkey4lp>
+         <xocs:refkey4ai>LIUX2011X422XW</xocs:refkey4ai>
+         <xocs:refkey5>LIUX2011X422X425XW</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2013-07-16T12:27:38Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/3.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/GEN_UNBOUNDED_ESWaived">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1875-3892(11)00519-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1875389211005190</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1875389211005190</xocs:eid>
+         <xocs:doi>10.1016/j.phpro.2011.06.186</xocs:doi>
+         <xocs:cid>277348</xocs:cid>
+         <xocs:timestamp>2014-11-23T08:28:02.899625-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2011-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2011-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1875389211005190-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1875389211005190/MAIN/application/pdf/dc06d5b5cdc451aa937d27b6ef0067d2/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1875389211005190/MAIN/application/pdf/dc06d5b5cdc451aa937d27b6ef0067d2/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>222954</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1875389211005190-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1875389211005190/PREVIEW/image/png/b66535f012dfb599704c961fad5a67bd/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1875389211005190/PREVIEW/image/png/b66535f012dfb599704c961fad5a67bd/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>57920</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Available online at www.sciencedirect.com Physics Procedia 19 (2011) 422â€“425 1875-3892 Â© 2011 Published by Elsevier B.V. Selection and/or peer-review under responsibility of the Organising Committee of the ICOPEN  2011 conference doi:10.1016/j.phpro.2011.06.186 International Conference on Optics in Precision Engineering and Nanotechnology 2011  Viscoelastic properties of chalcogenide glasses and the simulation  of their molding processes  Weiguo Liu 1*, Ping Shen, Na Jin Micro-optoelectronic Systems Labs, Xiâ€™an Technological University, Xiâ€™an 710032, China  Abstract  In order to simulate the precision molding process, the viscoelastic properties of chalcogenide glasses under high  temperatures were investigated. Thermomechanical analysis were performed to measure and analysis the thermomechanical  properties of chalcogenide glasses. The creep responses of the glasses at different temperatures were obtained. Finite element  analysis was applied for the simulation of the molding processes. The simulation results were in consistence with previously  reported experiment results. Stress concentration and evolution during the molding processes was also described with the  simulation results.  Keywords: Chalcogenide glasses; precision molding; viscoelastic properties; ANSYS; stress  1. Introduction  Chalcogenide glasses are important in developing low cost, high performance IR imaging optics for their well  balanced optical and mechanical properties. Refractive and diffractive hybrid micro-optical component can be made  with precise molding process using chalcogenide glasses for their relatively low glass transition temperature[1].  Fine embossing method has been proven an effective way to fabricate high performance micro-optical elements  including diffractive optics and even photonic crystals[2,3]. Finite element analysis (FEA) can be applied to  understand the micro molding processes so as to obtain appropriate parameters for the molding of precision  optics[4-8].   To establish a robust simulation model for the FEA, viscoelastic properties of the chalcogenide glasses must be  investigated. Based on the thermomechanical analysis results, a Maxwell viscoelastic model was established for the  FEA simulation. In the simulation, effects of three important molding parameters including temperature, pressure  and molding time on the molding results were studied. The molding results were evaluated in terms of the filling  ratio of the glass to the mold cavity, and the stress development during the molding processes.  * Corresponding author. Tel.: +86-29-83208008; fax: +86-83208210.  E-mail address: wgliu@163.com.  Open access under CC BY-NC-ND license. Â© 2011 Published by Elsevier B.V.  Selection and/or peer-review under responsibility of the Organising Committee of the ICOPEN 2011 conference Open access under CC BY-NC-ND license. Weiguo Liu et al. / Physics Procedia 19 (2011) 422â€“425 423 2. Simulation model  The molding processes of the chalcogenide glass can be described as follows: (1) the glass blank was put into the  mold cavity and heated, the final temperature was called molding temperature. (2) molding pressure was applied and  held with the temperature kept constant for a certain time, which was called molding time. (3) molding pressure was  kept and the temperature was reduced. (4) the molding pressure was removed. In the processes, three parameters  were concerned: the molding temperature, the molding pressure and the molding time.  To get a more realistic view on the simulation results, a geometric model was established as in figure 1 for the  FEA analyses. In the model, H 1 =1.5 Pm, W 1 =1Pm,  H 2 =2Pm, W 2 =2Pm. The parameters were selected based on the  assumption that the chalcogenide glass was applied in the long wave infrared wavelength range with a center  wavelength of 10Pm.  H 1 H 2 W 2 W 1 P Symmetric Symmetric Glass Mold cavity Figure 1. Geometric model for the simulation  3. Results and discussions  A Mettler TMA/SDTA840 analyzer was used to perform the thermomechanical analysis. Chalcogenide glass  with composition of Ge 33 As 12 Se 55  was investigated. Figure 2 shows the creep characteristics of the glass under  different temperatures.    Time/s  Figure 2. Creep characteristics (relative strain vs time) of the glass  Usually, the molding process was performed at a temperature slightly higher than the glass transition point. For  Ge 33 As 12 Se 55 , the molding temperature was selected between 450 o C and 490 o C. The filling ratio (the volume ratio of  the occupied mold cavity by the glass) of the mold cavity was illustrated as in figure 3.   424  Weiguo Liu et al. / Physics Procedia 19 (2011) 422â€“425 Figure 3. Filling ratios of the mold cavity under different temperature: (a)450 o C, (b)460 o C, (c)470 o C, (d)480 o C, with  molding pressure of 20N and molding time of 1800s.  The variation of the filling ratio r with temperature and pressure can be further depicted in figure 4. It can be  clearly seen that the increase of the temperature will result a higher filling ratio. Between the temperature of 450 o C and 480 o C, the filling ration increases almost linearly with temperature. But when the temperature was further  increased to 490 o C, the increase of filling ratio will be slowed down. Further increase in temperature is not expected  for higher temperature may result the change of the crystalline properties of the glass. Higher molding pressure will  result a higher filling ratio.  Figure 4. Increase of filling ratio with temperature (left) and molding pressure (right)  Figure 5. Variations of the filling ratio with molding time under different temperature (left) and pressure (right)  For a given temperature and pressure, the filling ratio will change with the increase of molding time, which is the  result of the creep characteristics or the viscoelastic characteristics of the chalcogenide glass. Obvious relaxation in  the filling ratio was observed from figure 5. When molding time is longer than 1800s, the filling ratio reached a  relatively high value, further increase of the molding time will not be beneficial to the efficiency of the molding  processes. Higher temperature and higher pressure will give a better convergence tendency in the increase of the  filling ratio.  In the molding process, creep characteristics of the glass will result stress concentration in the microstructure as  shown in figure 8. The distribution of the stress can be clearly divided into three zones. There is almost 2 order of  magnitude difference in the stress level for the 3 zones. In zone 1, the stress is the highest, where the corner of the  Weiguo Liu et al. / Physics Procedia 19 (2011) 422â€“425 425 rectangular mold cavity plays an important role. In zone 2, the glass is squeezed by the mold, and high stress is  developed. In zone 3, lowest stress is observed, where the glass deforms freely before it reaches the top end of the  mold. When the glass contacts with the mold top end higher stress will be accumulated gradually in it with the  increase of the filling ratio.  Figure 6. Stress distribution 4. Conclusions  FEA method is an effective way to simulate the molding processes of the chalcogenide glass. To evaluate the  molding results, the variation of the filling ratio and the evolution of the stress were investigated. Based on the  simulation results, molding parameters can be optimized.   Under the conditions discussed in this paper, the optimized parameters for the molding of the Ge 33 As 12 Se 55 glass  are: temperature of 480 o C, pressure of 30N and time of 1800s. A typical result was given in figure 7, where the  filling ratio as high as 0.972 was obtained and the stress was relatively low.  Figure 7 optimized molding result  Acknowledgement This work was supported by China Defense Industrial Technology Development Program..  References  1. G. Curatu, B. Binkley, D. Tinch et al, Orlando: LightPath Technologies. www.lightpath.com /literature/   technicalPapers/  MoldedChalcogenideGlassTechnology.pdf  2. W.J. Pan, D. Furniss, H. Rowe et al, J. Non-Crystalline Solids, 353(2007)1302.  3. A.B. Seddon, W.J. Pan, D. Furniss et al, J. Non-Crystalline Solids, 352(2006)2515.  4. T.F. Zhou, J. W. Yan, J. Masuda et al, J. Mat. Processing Technol. 209(2009)4484.  5. A. Jain. Experimental Study and Numerical Analysis of Compression Molding Process for Manufacturing  Precision Aspherical Glass Lenses[D].Ohio:The Ohio University, 2006  6.  C. Liu, J.M. Li, J.S. Liu et al, Microelectronic Eng. 87(2010)200.  7.  C. Liu, J.M. Li, Y. Liang et al, J. Mat. Processing Technol. 210(2010) 696.  8.  Y.C. Chang, T.T. Wu, M.F. Chen et al, Mat. Sci. and Eng. 499(2009)153.  igure 3.   424  Weiguo Liu et al. / Physics Procedia 19 (2011) 422â€“425 Figure 3. Filling ratios of the mold cavity under different temperature: (a)450 o C, (b)460 o C, (c)470 o C, (d)480 o C, with  molding pressure of 20N and molding time of 1800s.  The variation of the filling ratio r with temperature and pressure can be further depicted in figure 4. It can be  clearly seen that the increase of the temperature will result a higher filling ratio. Between the temperature of 450 o C and 480 o C, the filling ration increases almost linearly with temperature. But when the temperature was further  increased to 490 o C, the increase of filling ratio will be slowed down. Further increase in temperature is not expected  for higher temperature may result the change of the crystalline properties of the glass. Higher molding pressure will  result a higher filling ratio.  Figure 4. Increase of filling ratio with temperature (left) and molding pressure (right)  Figure 5. Variations of the filling ratio with molding time under different temperature (left) and pressure (right)  For a given temperature and pressure, the filling ratio will change with the increase of molding time, which is the  result of the creep characteristics or the viscoelastic characteristics of the chalcogenide glass. Obvious relaxation in  the filling ratio was observed from figure 5. When molding time is longer than 1800s, the filling ratio reached a  relatively high value, further increase of the molding time will not be beneficial to the efficiency of the molding  processes. Higher temperature and higher pressure will give a better convergence tendency in the increase of the  filling ratio.  In the molding process, creep characteristics of the glass will result stress concentration in the microstructure as  shown in figure 8. The distribution of the stress can be clearly divided into three zones. There is almost 2 order of  magnitude difference in the stress level for the 3 zones. In zone 1, the stress is the highest, where the corner of the  Weiguo Liu et al. / Physics Procedia 19 (2011) 422â€“425 425 rectangular mold cavity plays an important role. In zone 2, the glass is squeezed by the mold, and high stress is  developed. In zone 3, lowest stress is observed, where the glass deforms freely before it reaches the top end of the  mold. When the glass contacts with the mold top end higher stress will be accumulated gradually in it with the  increase of the filling ratio.  Figure 6. Stress distribution 4. Conclusions  FEA method is an effective way to simulate the molding processes of the chalcogenide glass. To evaluate the  molding results, the variation of the filling ratio and the evolution of the stress were investigated. Based on the  simulation results, molding parameters can be optimized.   Under the conditions discussed in this paper, the optimized parameters for the molding of the Ge 33 As 12 Se 55 glass  are: temperature of 480 o C, pressure of 30N and time of 1800s. A typical result was given in figure 7, where the  filling ratio as high as 0.972 was obtained and the stress was relatively low.  Figure 7 optimized molding result  Acknowledgement This work was supported by China Defense Industrial Technology Development Program..  References  1. G. Curatu, B. Binkley, D. Tinch et al, Orlando: LightPath Technologies. www.lightpath.com /literature/   technicalPapers/  MoldedChalcogenideGlassTechnology.pdf  2. W.J. Pan, D. Furniss, H. Rowe et al, J. Non-Crystalline Solids, 353(2007)1302.  3. A.B. Seddon, W.J. Pan, D.</xocs:rawtext>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.1" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>PHPRO</jid>
+            <aid>658</aid>
+            <ce:pii>S1875-3892(11)00519-0</ce:pii>
+            <ce:doi>10.1016/j.phpro.2011.06.186</ce:doi>
+            <ce:copyright type="unknown" year="2011"/>
+         </item-info>
+         <head>
+            <ce:title>Viscoelastic properties of chalcogenide glasses and the simulation of their molding processes</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Weiguo</ce:given-name>
+                  <ce:surname>Liu</ce:surname>
+                  <ce:cross-ref refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  <ce:e-address type="email">wgliu@163.com</ce:e-address>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Ping</ce:given-name>
+                  <ce:surname>Shen</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Na</ce:given-name>
+                  <ce:surname>Jin</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Micro-optoelectronic Systems Labs, Xi’an Technological University, Xi’an 710032, China</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +86 29 83208008; fax: +86 83208210.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para id="spar0005" view="all">In order to simulate the precision molding process, the viscoelastic properties of chalcogenide glasses under high temperatures were investigated. Thermomechanical analysis were performed to measure and analysis the thermomechanical properties of chalcogenide glasses. The creep responses of the glasses at different temperatures were obtained. Finite element analysis was applied for the simulation of the molding processes. The simulation results were in consistence with previously reported experiment results. Stress concentration and evolution during the molding processes was also described with the simulation results.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Chalcogenide glasses</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>precision molding</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>viscoelastic properties</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>ANSYS</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>stress</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[1]</ce:label>
+                     <ce:other-ref id="oref0005">
+                        <ce:textref>G. Curatu, B. Binkley, D. Tinch et al, Orlando: LightPath Technologies. www.lightpath.com /literature/technicalPapers/MoldedChalcogenideGlassTechnology.pdf.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Furniss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Rowe</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Crystalline Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>353</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1302</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Seddon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Furniss</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Crystalline Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>352</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2515</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.F.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Masuda</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mat. Processing Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>209</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4484</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[5]</ce:label>
+                     <ce:other-ref id="oref0025">
+                        <ce:textref>A. Jain. Experimental Study and Numerical Analysis of Compression Molding Process for Manufacturing Precision Aspherical Glass Lenses[D].Ohio:The Ohio University, 2006.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>[6]</ce:label>
+                     <ce:other-ref id="oref0030">
+                        <ce:textref>C. Liu, J.M. Li, J.S. Liu et al, Microelectronic Eng. 87 (2010) 200.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mat. Processing Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>210</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>696</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.C.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.F.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mat. Sci. and Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>499</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>153</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,2397 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1002007113000439</prism:url><dc:identifier>doi:10.1016/j.pnsc.2013.02.008</dc:identifier><eid>1-s2.0-S1002007113000439</eid><prism:doi>10.1016/j.pnsc.2013.02.008</prism:doi><pii>S1002-0071(13)00043-9</pii><dc:title>Study of phase separation in Ga25Se75−x
+               Te
+                  x
+                chalcogenide thin films </dc:title><prism:publicationName>Progress in Natural Science: Materials International</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>
+               ORIGINAL RESEARCH
+            </pubType><prism:issn>10020071</prism:issn><prism:volume>23</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>139</prism:startingPage><prism:endingPage>144</prism:endingPage><prism:pageRange>139-144</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2013-04-30</prism:coverDate><prism:coverDisplayDate>April 2013</prism:coverDisplayDate><prism:copyright>Copyright © 2013 Chinese Materials Research Society. Production and hosting by Elsevier B.V.</prism:copyright><prism:publisher>Chinese Materials Research Society. Production and hosting by Elsevier B.V.</prism:publisher><dc:creator>Al-Agel, F.A.</dc:creator><dc:creator>Al-Arfaj, E.A.</dc:creator><dc:creator>Al-Marzouki, F.M.</dc:creator><dc:creator>Khan, Shamshad A.</dc:creator><dc:creator>Al-Ghamdi, A.A.</dc:creator><dc:description>
+               Abstract
+               
+                  The effects of composition and thermal annealing in between glass transition and crystallization temperature on the optical and structural properties of Ga25Se75−x
+                     Te
+                        x
+                      were investigated. The glass transition and crystallization temperature of the synthesized samples was measured by non-isothermal DSC measurements. Amorphous thin films of Ga25Se75−x
+                     Te
+                        x
+                      glasses were grown onto ultra clean glass/Si wafer (100) substrates using the vacuum evaporation technique. The effect of thermal annealing on the optical gap (E
+                     g) for Ga25Se75−x
+                     Te
+                        x
+                      thin films in the temperature range 358–388K is studied. As-prepared and annealed thin films were characterized by X-ray diffraction, field emission scanning electron microscopy, energy dispersive X-ray spectroscopy and optical absorption. Thermal annealing was found to be accompanied by structural effects, which in turn, lead to changes in the optical constants. The optical absorption coefficient (α) for as-deposited and thermally annealed films was calculated from the absorbance data. From the knowledge of absorption coefficient at different wavelengths, the optical band gap (E
+                     g) was calculated for all compositions of Ga25Se75−x
+                     Te
+                        x
+                      thin films before and after thermal annealing. Results indicate that allowed indirect optical transition is predominated in as-deposited and thermally annealed thin films. The influence of Te incorporation and thermal annealing in Ga25Se75−x
+                     Te
+                        x
+                      thin films results in a gradual decrease in the indirect optical gap, this behavior can be explained as increased tailing. The decrease in optical band gap and an increase in absorption coefficient and extinction coefficient with thermal annealing can be attributed to transformation from amorphous to crystalline phase.
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>Chinese Materials Research Society</openaccessSponsorName><openaccessSponsorType>FundingBody</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/3.0/</openaccessUserLicense><dcterms:subject>Thin films</dcterms:subject><dcterms:subject>Laser-irradiation</dcterms:subject><dcterms:subject>Crystallization</dcterms:subject><dcterms:subject>Phase change</dcterms:subject><dcterms:subject>Optical band gap</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1002007113000439" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1002007113000439" rel="scidir"/></coredata><objects><object ref="si0005" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="83" height="15" size="445">https://api.elsevier.com/content/object/eid/1-s2.0-S1002007113000439-si0005.gif?httpAccept=%2A%2F%2A</object><object ref="si0004" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="118" height="16" size="543">https://api.elsevier.com/content/object/eid/1-s2.0-S1002007113000439-si0004.gif?httpAccept=%2A%2F%2A</object><object ref="si0003" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="111" height="15" size="529">https://api.elsevier.com/content/object/eid/1-s2.0-S1002007113000439-si0003.gif?httpAccept=%2A%2F%2A</object><object ref="si0002" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="116" height="15" size="551">https://api.elsevier.com/content/object/eid/1-s2.0-S1002007113000439-si0002.gif?httpAccept=%2A%2F%2A</object><object ref="si0001" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="294" height="15" size="1193">https://api.elsevier.com/content/object/eid/1-s2.0-S1002007113000439-si0001.gif?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="367" height="311" size="32296">https://api.elsevier.com/content/object/eid/1-s2.0-S1002007113000439-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="363" height="288" size="30245">https://api.elsevier.com/content/object/eid/1-s2.0-S1002007113000439-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="363" height="275" size="27650">https://api.elsevier.com/content/object/eid/1-s2.0-S1002007113000439-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="293" height="269" size="30619">https://api.elsevier.com/content/object/eid/1-s2.0-S1002007113000439-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="293" height="270" size="31965">https://api.elsevier.com/content/object/eid/1-s2.0-S1002007113000439-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="277" height="363" size="21411">https://api.elsevier.com/content/object/eid/1-s2.0-S1002007113000439-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx00" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="374" height="58" size="8968">https://api.elsevier.com/content/object/eid/1-s2.0-S1002007113000439-fx00.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="193" height="164" size="4096">https://api.elsevier.com/content/object/eid/1-s2.0-S1002007113000439-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="206" height="163" size="4289">https://api.elsevier.com/content/object/eid/1-s2.0-S1002007113000439-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="216" height="164" size="4773">https://api.elsevier.com/content/object/eid/1-s2.0-S1002007113000439-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="178" height="164" size="6687">https://api.elsevier.com/content/object/eid/1-s2.0-S1002007113000439-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="178" height="164" size="9231">https://api.elsevier.com/content/object/eid/1-s2.0-S1002007113000439-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="164" size="2226">https://api.elsevier.com/content/object/eid/1-s2.0-S1002007113000439-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="fx00" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="34" size="2163">https://api.elsevier.com/content/object/eid/1-s2.0-S1002007113000439-fx00.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>84874768002</scopus-id><scopus-eid>2-s2.0-84874768002</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84874768002" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>276826</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291778</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Progress in Natural Science: Materials International</xocs:srctitle>
+      <xocs:normalized-srctitle>PROGRESSINNATURALSCIENCEMATERIALSINTERNATIONAL</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20130314">2013-03-14</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20130314">2013-03-14</xocs:available-online-date>
+      <xocs:ew-transaction-id>2013-05-28T18:49:06</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1002007113000439</xocs:eid>
+      <xocs:pii-formatted>S1002-0071(13)00043-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1002007113000439</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.pnsc.2013.02.008</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1002007113X00048</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150515">2015-05-15T04:24:55.976928-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20130401</xocs:date-search-begin>
+      <xocs:date-search-end>20130430</xocs:date-search-end>
+      <xocs:year-nav>2013</xocs:year-nav>
+      <xocs:indexeddate epoch="1363219200">2013-03-14T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst pubtype ref alllist content oa subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1002-0071</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>10020071</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>23</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>23</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 23, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>5</xocs:sort-order>
+      <xocs:first-fp>139</xocs:first-fp>
+      <xocs:last-lp>144</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>139</xocs:first-page>
+         <xocs:last-page>144</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201304</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>April 2013</xocs:cover-date-text>
+      <xocs:cover-date-start>2013-04-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2013-04-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2013</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Original Research</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2013 Chinese Materials Research Society. Production and hosting by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>STUDYPHASESEPARATIONINGA25SE75XTEXCHALCOGENIDETHINFILMS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ALAGEL</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>F</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental method</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgment</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref1">
+            <xocs:ref-normalized-surname>FANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>104506</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref2">
+            <xocs:ref-normalized-surname>GRAVESTEIJN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>250</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref3">
+            <xocs:ref-normalized-surname>YAMADA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>48</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref4">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>188</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref5">
+            <xocs:ref-normalized-surname>OVSHINSKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>33</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref6">
+            <xocs:ref-normalized-surname>BOOLCHAND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>713</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref7">
+            <xocs:ref-normalized-surname>ELSEBAII</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2082</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref8">
+            <xocs:ref-normalized-surname>ALGHAMDI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>229</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref9">
+            <xocs:ref-normalized-surname>ALVI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1237</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>KHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>839</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref11">
+            <xocs:ref-normalized-surname>FARID</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1255</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref12">
+            <xocs:ref-normalized-surname>IMRAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1589</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref13">
+            <xocs:ref-normalized-surname>AMMAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>356</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref14">
+            <xocs:ref-normalized-surname>ALVI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>273</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref15">
+            <xocs:ref-normalized-surname>TINTU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>222</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref16">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1572</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref17">
+            <xocs:ref-normalized-surname>SARAGAD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>101</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref18">
+            <xocs:ref-normalized-surname>MOTT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ELECTRONICPROCESSINNONCRYSTALLINEMATERIALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref19">
+            <xocs:ref-normalized-surname>URBACH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1953</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1324</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-normalized-surname>SAFFARINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1143</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref21">
+            <xocs:ref-normalized-surname>IMRAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>176</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref22">
+            <xocs:ref-normalized-surname>AMIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>400</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref23">
+            <xocs:ref-normalized-surname>BALBOUL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1360</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref24">
+            <xocs:ref-normalized-surname>ALGHAMDI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>315</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref25">
+            <xocs:ref-normalized-surname>OVSHINSKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>109</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="othref0005"/>
+         <xocs:ref-info refid="sbref26">
+            <xocs:ref-normalized-surname>HASEGAWA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>407</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ALAGELX2013X139</xocs:refkey3>
+         <xocs:refkey4lp>ALAGELX2013X139X144</xocs:refkey4lp>
+         <xocs:refkey4ai>ALAGELX2013X139XF</xocs:refkey4ai>
+         <xocs:refkey5>ALAGELX2013X139X144XF</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-access-effective-date>2013-07-22T12:51:48Z</xocs:oa-access-effective-date>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/10020071_UNBOUNDED_FB">OA-Window</xocs:oa-access-inherited-from>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>FundingBody</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>Chinese Materials Research Society</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/3.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1002-0071(13)00043-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1002007113000439</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1002007113000439</xocs:eid>
+         <xocs:doi>10.1016/j.pnsc.2013.02.008</xocs:doi>
+         <xocs:cid>276826</xocs:cid>
+         <xocs:timestamp>2013-05-28T16:30:56.037405-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2013-04-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2013-04-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1002007113000439-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1002007113000439/MAIN/application/pdf/0a015c62295174e50b23fe3b8e7cccb4/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1002007113000439/MAIN/application/pdf/0a015c62295174e50b23fe3b8e7cccb4/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>615832</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1002007113000439-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1002007113000439/PREVIEW/image/png/ec8d087c4a59e81b9332c2b1492b3686/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1002007113000439/PREVIEW/image/png/ec8d087c4a59e81b9332c2b1492b3686/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>39357</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1002007113000439-si0005.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1002007113000439/STRIPIN/image/gif/98ed4be332e3eb80767710c729dd2872/si0005.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1002007113000439/STRIPIN/image/gif/98ed4be332e3eb80767710c729dd2872/si0005.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0005</xocs:file-basename>
+               <xocs:filename>si0005.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>445</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>83</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1002007113000439-si0004.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1002007113000439/STRIPIN/image/gif/3caa3e65124834dcf01d124d834bbf90/si0004.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1002007113000439/STRIPIN/image/gif/3caa3e65124834dcf01d124d834bbf90/si0004.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0004</xocs:file-basename>
+               <xocs:filename>si0004.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>543</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>118</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1002007113000439-si0003.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1002007113000439/STRIPIN/image/gif/07b476c840c37049cebdd0c47acf9c72/si0003.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1002007113000439/STRIPIN/image/gif/07b476c840c37049cebdd0c47acf9c72/si0003.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0003</xocs:file-basename>
+               <xocs:filename>si0003.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>529</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>111</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1002007113000439-si0002.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1002007113000439/STRIPIN/image/gif/08e400fead5a7baa8efc0203279da040/si0002.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1002007113000439/STRIPIN/image/gif/08e400fead5a7baa8efc0203279da040/si0002.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0002</xocs:file-basename>
+               <xocs:filename>si0002.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>551</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>116</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1002007113000439-si0001.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1002007113000439/STRIPIN/image/gif/ab211b36238c2edc54beae93f84f5733/si0001.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1002007113000439/STRIPIN/image/gif/ab211b36238c2edc54beae93f84f5733/si0001.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0001</xocs:file-basename>
+               <xocs:filename>si0001.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1193</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>294</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1002007113000439-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1002007113000439/gr6/DOWNSAMPLED/image/jpeg/cfa883b7af14f95e94d7866e14d87138/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1002007113000439/gr6/DOWNSAMPLED/image/jpeg/cfa883b7af14f95e94d7866e14d87138/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>32296</xocs:filesize>
+               <xocs:pixel-height>311</xocs:pixel-height>
+               <xocs:pixel-width>367</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1002007113000439-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1002007113000439/gr5/DOWNSAMPLED/image/jpeg/810810385765eb2868ac0155d16e37dc/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1002007113000439/gr5/DOWNSAMPLED/image/jpeg/810810385765eb2868ac0155d16e37dc/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>30245</xocs:filesize>
+               <xocs:pixel-height>288</xocs:pixel-height>
+               <xocs:pixel-width>363</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1002007113000439-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1002007113000439/gr4/DOWNSAMPLED/image/jpeg/7a4b548bc956e4ba6fb736787caf3ccb/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1002007113000439/gr4/DOWNSAMPLED/image/jpeg/7a4b548bc956e4ba6fb736787caf3ccb/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>27650</xocs:filesize>
+               <xocs:pixel-height>275</xocs:pixel-height>
+               <xocs:pixel-width>363</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1002007113000439-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1002007113000439/gr3/DOWNSAMPLED/image/jpeg/473425c981c0455bd69659232bb906d3/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1002007113000439/gr3/DOWNSAMPLED/image/jpeg/473425c981c0455bd69659232bb906d3/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>30619</xocs:filesize>
+               <xocs:pixel-height>269</xocs:pixel-height>
+               <xocs:pixel-width>293</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1002007113000439-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1002007113000439/gr2/DOWNSAMPLED/image/jpeg/32d7f796fe3c4f07a8702adca2ad0588/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1002007113000439/gr2/DOWNSAMPLED/image/jpeg/32d7f796fe3c4f07a8702adca2ad0588/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>31965</xocs:filesize>
+               <xocs:pixel-height>270</xocs:pixel-height>
+               <xocs:pixel-width>293</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1002007113000439-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1002007113000439/gr1/DOWNSAMPLED/image/jpeg/29c38659457f75055a1632fdb1c1014e/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1002007113000439/gr1/DOWNSAMPLED/image/jpeg/29c38659457f75055a1632fdb1c1014e/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>21411</xocs:filesize>
+               <xocs:pixel-height>363</xocs:pixel-height>
+               <xocs:pixel-width>277</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1002007113000439-fx00.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1002007113000439/fx00/DOWNSAMPLED/image/jpeg/2b1debe53c9cd4d8f5855b48dcecc181/fx00.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1002007113000439/fx00/DOWNSAMPLED/image/jpeg/2b1debe53c9cd4d8f5855b48dcecc181/fx00.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx00</xocs:file-basename>
+               <xocs:filename>fx00.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>8968</xocs:filesize>
+               <xocs:pixel-height>58</xocs:pixel-height>
+               <xocs:pixel-width>374</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1002007113000439-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1002007113000439/gr6/THUMBNAIL/image/gif/0bd260d3daf4aa5009ae63fd9a9598b8/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1002007113000439/gr6/THUMBNAIL/image/gif/0bd260d3daf4aa5009ae63fd9a9598b8/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4096</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>193</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1002007113000439-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1002007113000439/gr5/THUMBNAIL/image/gif/443b06e2eb7f266957f8ce145e06dd5b/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1002007113000439/gr5/THUMBNAIL/image/gif/443b06e2eb7f266957f8ce145e06dd5b/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4289</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>206</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1002007113000439-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1002007113000439/gr4/THUMBNAIL/image/gif/572c1348d6669383ed85cfbf661815f0/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1002007113000439/gr4/THUMBNAIL/image/gif/572c1348d6669383ed85cfbf661815f0/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4773</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>216</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1002007113000439-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1002007113000439/gr3/THUMBNAIL/image/gif/17eaeeebcbe43e78be807262372c00d4/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1002007113000439/gr3/THUMBNAIL/image/gif/17eaeeebcbe43e78be807262372c00d4/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6687</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>178</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1002007113000439-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1002007113000439/gr2/THUMBNAIL/image/gif/b4dc40399a01eab413c536d21f9a0630/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1002007113000439/gr2/THUMBNAIL/image/gif/b4dc40399a01eab413c536d21f9a0630/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9231</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>178</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1002007113000439-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1002007113000439/gr1/THUMBNAIL/image/gif/9947b8e638e8fa733881e6162a7e3eff/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1002007113000439/gr1/THUMBNAIL/image/gif/9947b8e638e8fa733881e6162a7e3eff/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2226</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1002007113000439-fx00.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1002007113000439/fx00/THUMBNAIL/image/gif/ad436a4c6aa3c149a94f245c5d56f233/fx00.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1002007113000439/fx00/THUMBNAIL/image/gif/ad436a4c6aa3c149a94f245c5d56f233/fx00.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx00</xocs:file-basename>
+               <xocs:filename>fx00.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2163</xocs:filesize>
+               <xocs:pixel-height>34</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.1">
+         <item-info>
+            <jid>PNSC</jid>
+            <aid>573</aid>
+            <ce:pii>S1002-0071(13)00043-9</ce:pii>
+            <ce:doi>10.1016/j.pnsc.2013.02.008</ce:doi>
+            <ce:copyright type="society" year="2013">Chinese Materials Research Society</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0005" view="all">DSC trace for the powdered Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">75−<ce:italic>x</ce:italic>
+                     </ce:inf>Te<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> chalcogenide glasses at 20<ce:hsp sp="0.25"/>K/min.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0010" view="all">Field emission scanning electron micrograph image of as-prepared thin films of Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">63</ce:inf>Te<ce:inf loc="post">12</ce:inf> glass and the inset of <ce:cross-ref refid="f0005">Fig. 1</ce:cross-ref> shows the energy dispersive X-ray spectroscopy (EDAX) of Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">69</ce:inf>Te<ce:inf loc="post">6</ce:inf> thin films deposited on Si (100) wafer.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0015" view="all">Field emission scanning electron micrograph image of crystallized thin films of Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">63</ce:inf>Te<ce:inf loc="post">12</ce:inf> glass deposited on Si (100) wafer.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0020" view="all">XRD pattern of as-prepared and annealed (388<ce:hsp sp="0.25"/>K for 2<ce:hsp sp="0.25"/>h) thin films of Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">60</ce:inf>Te<ce:inf loc="post">15</ce:inf> glass deposited on glass substrate.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0025" view="all">(<ce:italic>αhν</ce:italic>)<ce:sup loc="post">1/2</ce:sup> against photon energy (<ce:italic>hν</ce:italic>) for as-prepared and annealed Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">63</ce:inf>Te<ce:inf loc="post">12</ce:inf> chalcogenide thin films deposited on glass substrates.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0030" view="all">Variation of extinction coefficient (<ce:italic>k</ce:italic>) against incident photon energy (<ce:italic>hν</ce:italic>) in Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">69</ce:inf>Te<ce:inf loc="post">6</ce:inf> chalcogenides thin films.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0035" view="all">Absorption coefficient (<ce:italic>α</ce:italic>) in Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">75−<ce:italic>x</ce:italic>
+                     </ce:inf>Te<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> chalcogenides thin films.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">
+                           <bold>Sample</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col5" rowsep="1" align="left">
+                           <bold>Absorption coefficient (</bold>
+                           <italic>
+                              <bold>α</bold>
+                           </italic>
+                           <bold>) (cm</bold>
+                           <sup loc="post">−<bold>1</bold>
+                           </sup>
+                           <bold>) at 560<hsp sp="0.25"/>nm</bold>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">As-prepared</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Annealed at 358<hsp sp="0.25"/>K</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Annealed at 373<hsp sp="0.25"/>K</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Annealed at 388<hsp sp="0.25"/>K</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <bold>Ga</bold>
+                           <inf loc="post">
+                              <bold>25</bold>
+                           </inf>
+                           <bold>Se</bold>
+                           <inf loc="post">
+                              <bold>69</bold>
+                           </inf>
+                           <bold>Te</bold>
+                           <inf loc="post">
+                              <bold>6</bold>
+                           </inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1235</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1685</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2128</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2765</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <bold>Ga</bold>
+                           <inf loc="post">
+                              <bold>25</bold>
+                           </inf>
+                           <bold>Se</bold>
+                           <inf loc="post">
+                              <bold>66</bold>
+                           </inf>
+                           <bold>Te</bold>
+                           <inf loc="post">
+                              <bold>9</bold>
+                           </inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1897</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2397</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2897</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3398</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <bold>Ga</bold>
+                           <inf loc="post">
+                              <bold>25</bold>
+                           </inf>
+                           <bold>Se</bold>
+                           <inf loc="post">
+                              <bold>63</bold>
+                           </inf>
+                           <bold>Te</bold>
+                           <inf loc="post">
+                              <bold>12</bold>
+                           </inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1948</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2475</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2978</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3548</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <bold>Ga</bold>
+                           <inf loc="post">
+                              <bold>25</bold>
+                           </inf>
+                           <bold>Se</bold>
+                           <inf loc="post">
+                              <bold>60</bold>
+                           </inf>
+                           <bold>Te</bold>
+                           <inf loc="post">
+                              <bold>15</bold>
+                           </inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2460</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2678</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3258</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3778</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0010" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0040" view="all">Optical band gap in Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">75−<ce:italic>x</ce:italic>
+                     </ce:inf>Te<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> chalcogenides thin films.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">
+                           <bold>Sample</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col5" rowsep="1" align="left">
+                           <bold>Optical band gap (eV)</bold>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">As-prepared</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Annealed at 358<hsp sp="0.25"/>K</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Annealed at 373<hsp sp="0.25"/>K</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Annealed at 388<hsp sp="0.25"/>K</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <bold>Ga</bold>
+                           <inf loc="post">
+                              <bold>25</bold>
+                           </inf>
+                           <bold>Se</bold>
+                           <inf loc="post">
+                              <bold>69</bold>
+                           </inf>
+                           <bold>Te</bold>
+                           <inf loc="post">
+                              <bold>6</bold>
+                           </inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.92±0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.86±0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.75±0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.68±0.01</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <bold>Ga</bold>
+                           <inf loc="post">
+                              <bold>25</bold>
+                           </inf>
+                           <bold>Se</bold>
+                           <inf loc="post">
+                              <bold>66</bold>
+                           </inf>
+                           <bold>Te</bold>
+                           <inf loc="post">
+                              <bold>9</bold>
+                           </inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.71±0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.44±0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.29±0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.18±0.01</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <bold>Ga</bold>
+                           <inf loc="post">
+                              <bold>25</bold>
+                           </inf>
+                           <bold>Se</bold>
+                           <inf loc="post">
+                              <bold>63</bold>
+                           </inf>
+                           <bold>Te</bold>
+                           <inf loc="post">
+                              <bold>12</bold>
+                           </inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.59±0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.52±0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.46±0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.29±0.01</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <bold>Ga</bold>
+                           <inf loc="post">
+                              <bold>25</bold>
+                           </inf>
+                           <bold>Se</bold>
+                           <inf loc="post">
+                              <bold>60</bold>
+                           </inf>
+                           <bold>Te</bold>
+                           <inf loc="post">
+                              <bold>15</bold>
+                           </inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.41±0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.35±0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.29±0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.24±0.01</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0015" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0045" view="all">Extinction coefficient (<ce:italic>k</ce:italic>) in Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">75−x</ce:inf>Te<ce:inf loc="post">x</ce:inf> chalcogenides thin films.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">
+                           <bold>Sample</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col5" rowsep="1" align="left">
+                           <bold>Extinction coefficient (</bold>
+                           <italic>
+                              <bold>k</bold>
+                           </italic>
+                           <bold>) at 560</bold>
+                           <hsp sp="0.25"/>
+                           <bold>nm</bold>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">As-prepared</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Annealed at 358<hsp sp="0.25"/>K</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Annealed at 373<hsp sp="0.25"/>K</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Annealed at 388<hsp sp="0.25"/>K</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <bold>Ga</bold>
+                           <inf loc="post">
+                              <bold>25</bold>
+                           </inf>
+                           <bold>Se</bold>
+                           <inf loc="post">
+                              <bold>69</bold>
+                           </inf>
+                           <bold>Te</bold>
+                           <inf loc="post">
+                              <bold>6</bold>
+                           </inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.0425±0.004</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.0568±0.004</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.0785±0.004</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.0859±0.004</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <bold>Ga</bold>
+                           <inf loc="post">
+                              <bold>25</bold>
+                           </inf>
+                           <bold>Se</bold>
+                           <inf loc="post">
+                              <bold>66</bold>
+                           </inf>
+                           <bold>Te</bold>
+                           <inf loc="post">
+                              <bold>9</bold>
+                           </inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.0646±0.004</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.0746±0.004</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.0896±0.004</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.1086±0.004</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <bold>Ga</bold>
+                           <inf loc="post">
+                              <bold>25</bold>
+                           </inf>
+                           <bold>Se</bold>
+                           <inf loc="post">
+                              <bold>63</bold>
+                           </inf>
+                           <bold>Te</bold>
+                           <inf loc="post">
+                              <bold>12</bold>
+                           </inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.0725±0.004</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.0829±0.004</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.0958±0.004</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.1159±0.004</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <bold>Ga</bold>
+                           <inf loc="post">
+                              <bold>25</bold>
+                           </inf>
+                           <bold>Se</bold>
+                           <inf loc="post">
+                              <bold>60</bold>
+                           </inf>
+                           <bold>Te</bold>
+                           <inf loc="post">
+                              <bold>15</bold>
+                           </inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.0895±0.004</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.0958±0.004</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.1125 ±0.004</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.1342±0.004</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:article-footnote>
+               <ce:note-para>Peer review under responsibility of Chinese Materials Research Society.</ce:note-para>
+            </ce:article-footnote>
+            <ce:article-footnote>
+               <ce:note-para>
+                  <ce:display>
+                     <ce:figure id="f0035">
+                        <ce:link locator="fx00"/>
+                     </ce:figure>
+                  </ce:display>
+               </ce:note-para>
+            </ce:article-footnote>
+            <ce:dochead>
+               <ce:textfn>ORIGINAL RESEARCH</ce:textfn>
+            </ce:dochead>
+            <ce:title>Study of phase separation in Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">75−<ce:italic>x</ce:italic>
+               </ce:inf>Te<ce:inf loc="post">
+                  <ce:italic>x</ce:italic>
+               </ce:inf> chalcogenide thin films</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>F.A.</ce:given-name>
+                  <ce:surname>Al-Agel</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  <ce:e-address type="email">fagel2@hotmail.com</ce:e-address>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>E.A.</ce:given-name>
+                  <ce:surname>Al-Arfaj</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>F.M.</ce:given-name>
+                  <ce:surname>Al-Marzouki</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Shamshad A.</ce:given-name>
+                  <ce:surname>Khan</ce:surname>
+                  <ce:cross-ref refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>A.A.</ce:given-name>
+                  <ce:surname>Al-Ghamdi</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Physics, King Abdulaziz University, Jeddah-21589, Saudi Arabia</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Physics, College of Applied Sciences, Umm Al-Qura University, Makkah, Saudi Arabia</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff3">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Department of Physics, St. Andrew's College, Gorakhpur, UP 273001, India</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +966 26952287, +26952000; fax; +966 26951106.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="15" month="9" year="2012"/>
+            <ce:date-accepted day="4" month="2" year="2013"/>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para id="sp0050" view="all">The effects of composition and thermal annealing in between glass transition and crystallization temperature on the optical and structural properties of Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">75−<ce:italic>x</ce:italic>
+                     </ce:inf>Te<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> were investigated. The glass transition and crystallization temperature of the synthesized samples was measured by non-isothermal DSC measurements. Amorphous thin films of Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">75−<ce:italic>x</ce:italic>
+                     </ce:inf>Te<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> glasses were grown onto ultra clean glass/Si wafer (100) substrates using the vacuum evaporation technique. The effect of thermal annealing on the optical gap (<ce:italic>E</ce:italic>
+                     <ce:inf loc="post">g</ce:inf>) for Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">75−<ce:italic>x</ce:italic>
+                     </ce:inf>Te<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> thin films in the temperature range 358–388<ce:hsp sp="0.25"/>K is studied. As-prepared and annealed thin films were characterized by X-ray diffraction, field emission scanning electron microscopy, energy dispersive X-ray spectroscopy and optical absorption. Thermal annealing was found to be accompanied by structural effects, which in turn, lead to changes in the optical constants. The optical absorption coefficient (<ce:italic>α</ce:italic>) for as-deposited and thermally annealed films was calculated from the absorbance data. From the knowledge of absorption coefficient at different wavelengths, the optical band gap (<ce:italic>E</ce:italic>
+                     <ce:inf loc="post">g</ce:inf>) was calculated for all compositions of Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">75−<ce:italic>x</ce:italic>
+                     </ce:inf>Te<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> thin films before and after thermal annealing. Results indicate that allowed indirect optical transition is predominated in as-deposited and thermally annealed thin films. The influence of Te incorporation and thermal annealing in Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">75−<ce:italic>x</ce:italic>
+                     </ce:inf>Te<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> thin films results in a gradual decrease in the indirect optical gap, this behavior can be explained as increased tailing. The decrease in optical band gap and an increase in absorption coefficient and extinction coefficient with thermal annealing can be attributed to transformation from amorphous to crystalline phase.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Thin films</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Laser-irradiation</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Crystallization</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Phase change</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Optical band gap</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">Phase-change memories based on chalcogenide glasses constitute the most promising candidate to scale non-volatile-memory technology beyond the flash memory architecture <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. These glasses can be reversibly switched between the amorphous and crystalline state and find applications in rewritable optical recording <ce:cross-refs refid="bib2 bib3 bib4">[2–4]</ce:cross-refs> and in electrically programmable non-volatile memories <ce:cross-ref refid="bib5">[5]</ce:cross-ref>. Phase change optical recording has evolved to a mature technology that is applied in the re-writable versions of optical data storage systems of compact disc (CD) and digital versatile disc (DVD). In phase-change optical recording, the recording of information is based on writing and erasing amorphous marks in a crystalline layer of a phase change material. Amorphous marks are written by a pulsed focused laser beam which makes the temperature of the phase-change layer locally higher than the melting point for a short period of time. After the pulse, the molten area is quenched to the amorphous state. Since the optical properties of the amorphous phase are different from those of the crystalline phase, the written mark can be read out as a contrast in the reflectance. The recorded information can be erased by heating the material with the same focused laser beam above the crystallization temperature but below the melting temperature. Due to the increased mobility of the atoms at increased temperature, the amorphous state rapidly returns to the thermodynamically more stable crystalline state. Besides sufficient optical contrast between the crystalline and amorphous state and a sufficiently low melting point attainable with moderate laser powers, the crystallization behavior at various temperatures is one of the most important issues in developing phase-change materials. At elevated temperatures the crystallization rate should be large enough to enable a high data rate. That is, in phase-change recording the maximum rate at which previous data can be overwritten with new data is limited by the speed at which the amorphous marks of the previous data can be erased. Considerable efforts have been devoted to the synthesis and characterization of phase change chalcogenide materials because of their importance in the development of phase change memory devices. Their attractive physical properties enable them to play a major role in electronic devices. Development of optical materials for the use in optical disk hopes to meet the cost which is necessary to provide the needs for advanced data storage devices.</ce:para>
+                  <ce:para id="p0010" view="all">Phase separation effects are of general interest in glass science. It is a term used to describe a phenomenon where an initially homogeneous system, such as a liquid, will unmix into two or more finely mixed chemically or structurally different, component or phases. Such structural effects produce usually pronounced changes in glass physical properties including a lowering of the glass transition temperature, a lowering of the optical band gap, an increase of molar volumes <ce:cross-ref refid="bib6">[6]</ce:cross-ref>. The detection of phase separation in a glass is sometimes very difficult, since phase separation may produce only subtle changes in the diffraction pattern, whereas changes in the microstructure are evident only if the separating phases markedly differ in electron density. Since at normal heating rates amorphous materials generally crystallize just above the glass transition temperature, the glass transition temperature can be seen as a lower limit for the crystallization temperature. Crystallization below the glass transition temperature is extremely slow due to the high activation energy for atom movement. The glass transition temperature is therefore a good parameter for first-order estimation of the archival life stability of phase-change material.</ce:para>
+                  <ce:para id="p0015" view="all">A number of works <ce:cross-refs refid="bib7 bib8 bib9 bib10 bib11 bib12 bib13 bib14 bib15 bib16 bib17">[7–17]</ce:cross-refs> exists which trace the influence of thermal annealing/photo-induced effect/UV exposure/irradiation by high energy sources etc on structural, optical and electrical properties in thin films of chalcogenide glasses. These glasses are sensitive to the absorption of electromagnetic radiation and show a variety of thermally induced effects. These changes are accompanied by changes in the optical constants, i.e., changes in the optical band gap, extinction coefficients and optical absorption coefficient. These changes are favored in chalcogenide glasses due to their structural flexibility (low coordination of chalcogens) and also due to their high-lying lone-pair p states in their valence bands.</ce:para>
+                  <ce:para id="p0020" view="all">The aim of the present research work is to study the effect of thermal annealing on the structural and optical properties of Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">75−<ce:italic>x</ce:italic>
+                     </ce:inf>Te<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> chalcogenide thin films and to investigate the possibility of using these thin films as a phase change recording media which could be viewed through the optical and structural properties.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experimental method</ce:section-title>
+                  <ce:para id="p0025" view="all">Bulk samples of Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">75−<ce:italic>x</ce:italic>
+                     </ce:inf>Te<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> (<ce:italic>x</ce:italic>=6, 9, 12 and 15) chalcogenide glasses were prepared by conventional melt quenching technique. High purity (99.999% purity) materials of Ga, Se and Te were weighed according to their atomic percentage and sealed in quartz ampoules with a vacuum of 10<ce:sup loc="post">−5</ce:sup>
+                     <ce:hsp sp="0.25"/>Torr. The samples were then heated and melted in a rocking furnace, where temperature was raised at a rate of 4<ce:hsp sp="0.25"/>K per minute for up to 1273<ce:hsp sp="0.25"/>K for 15<ce:hsp sp="0.25"/>h. During heating process, the ampoules were frequently rocked by rotating a ceramic rod to which the ampoules were tucked away in the furnace in order to obtain a compositionally homogenous melt. The molten samples were then rapidly quenched in ice cooled water. The quenched samples were taken out by breaking the ampoules. The glassy nature of the samples was established by the non-isothermal Differential scanning calorimeter (Model DSC Plus, Reheometric Scientific Company, UK) measurements at constant heating rate of 20<ce:hsp sp="0.25"/>K/min. The DSC scan as shown in <ce:float-anchor refid="f0005"/>
+                     <ce:cross-ref refid="f0005">Fig. 1</ce:cross-ref> was obtained by heating 8<ce:hsp sp="0.25"/>mg of the powdered sample sealed in an aluminum pans. Two characteristic phenomena are evident in this figure; (1) endothermic-like phenomenon indicating the glass transition region and (2) an exothermic phenomenon that manifest the crystallization process. The presence of the sharp glass transition and crystallization peaks confirms the glassy as well as the amorphous nature of the prepared sample.</ce:para>
+                  <ce:para id="p0030" view="all">Thin films of Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">75−<ce:italic>x</ce:italic>
+                     </ce:inf>Te<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> chalcogenide glasses were prepared by thermal evaporation technique at a base pressure of 1×10<ce:sup loc="post">−5</ce:sup>
+                     <ce:hsp sp="0.25"/>Torr onto the glass/Si wafer (100) substrates. The thickness of the films was measured by using a quartz crystal monitor (Edward model FTM 7). The earthed face of the crystal monitor was facing the source and was placed at the same height as the substrate. The evaporation was controlled by using the same FTM 7 quartz crystal monitor. To study the phase separation in Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">75−<ce:italic>x</ce:italic>
+                     </ce:inf>Te<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> chalcogenide thin films, the thermal treatment was performed for 2<ce:hsp sp="0.25"/>h in a vacuum furnace under a vacuum of 10<ce:sup loc="post">−3</ce:sup>
+                     <ce:hsp sp="0.25"/>Torr at three different temperatures 358, 373 and 388<ce:hsp sp="0.25"/>K. These temperatures are in between the glass transition and crystallization temperature of the prepared samples. A Regaku X-ray diffractometer Ultima IV was employed for studying the structural changes, energy dispersive X-ray analysis (EDAX) for elemental compositions, field emission scanning electron microscope (FESEM) (QUANT FEG 450, Amsterdam, Netherlands) for surface morphology and A JASCO, V-500, UV/VIS/NIR computerized spectrophotometer for optical absorption with photometric accuracy of ±0.004 of as-prepared and annealed thin films.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:para id="p0035" view="all">The elemental compositions of Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">75−<ce:italic>x</ce:italic>
+                     </ce:inf>Te<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> chalcogenide glasses were checked by energy dispersive X-ray analysis (EDAX). The composition of the as-deposited thin films was almost similar to that of the bulk alloys. The inset of <ce:float-anchor refid="f0010"/>
+                     <ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref> shows the energy dispersive X-ray spectroscopy (EDAX) of Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">69</ce:inf>Te<ce:inf loc="post">6</ce:inf> thin films deposited on Si (100) wafer (similar figures were also obtained for other films and are not shown hear). The surface morphology of the as-prepared and thermally annealed thin films deposited on Si (100) wafer of Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">75-x</ce:inf>Te<ce:inf loc="post">x</ce:inf> chalcogenide thin films was examined by a FESEM. The microscope was operated at an accelerating voltage of 20<ce:hsp sp="0.25"/>kV with 10<ce:hsp sp="0.25"/>mm work distance. <ce:float-anchor refid="f0015"/>
+                     <ce:cross-refs refid="f0010 f0015">Figs. 2 and 3</ce:cross-refs> show the FESEM of as-prepared and thermally annealed thin film of Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">63</ce:inf>Te<ce:inf loc="post">12</ce:inf> glass deposited on Si (100) wafer. From FESEM pictures it is clear that the surface morphology of the film was changed due to annealing which confirms the crystallization behavior and grains formation during the process.</ce:para>
+                  <ce:para id="p0040" view="all">
+                     <ce:float-anchor refid="f0020"/>
+                     <ce:cross-ref refid="f0020">Fig. 4</ce:cross-ref> shows the XRD patterns of as-prepared and annealed thin films of Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">60</ce:inf>Te<ce:inf loc="post">15</ce:inf> glass deposited on glass substrates (similar trends were also obtained for other films and are not shown hear). The absence of sharp structural peaks for as-prepared film confirms the amorphous nature while the presence of sharp structural peaks for thermally annealed films confirms the polycrystalline nature of the sample. The copper target was used as a source of X-rays with <ce:italic>λ</ce:italic>=1.54178<ce:hsp sp="0.25"/>Å (Cu Kα<ce:inf loc="post">1</ce:inf>). The scanning angle was in the range of 10°–100°. A scan speed of 2°/min and a chart speed of 1<ce:hsp sp="0.25"/>cm/min were maintained. The patterns display six diffraction peaks at 2θ values of 17, 34, 49, 60, 74 and 88°, which correspond to the diffraction lines produced by the (100), (110), (201), (323), (213) and (422) crystalline planes. The absence of any other prominent diffraction peaks indicates that no other crystalline phases, such as oxides or carbonates exist with detectable concentration within the layers.</ce:para>
+                  <ce:para id="p0045" view="all">A computerized spectrophotometer with photometric accuracy of ±0.004 in absorbance measurements was used for measuring optical absorbance in the wavelength region 400–1100<ce:hsp sp="0.25"/>nm. Optical parameters of the films under investigation can be calculated from the knowledge of the absorption data obtained from the spectrophotometric measurements. The spectral distribution of optical absorbance for as-deposited and thermally annealed thin films at different annealing temperatures were further used to calculate the optical absorption coefficient through the following relation <ce:cross-refs refid="bib7 bib8 bib9 bib10">[7–10]</ce:cross-refs>.<ce:display>
+                        <ce:formula id="eq0005">
+                           <ce:label>(1)</ce:label>
+                           <mml:math altimg="si0001.gif" overflow="scroll">
+                              <mml:mi>α</mml:mi>
+                              <mml:mo>=</mml:mo>
+                              <mml:mi mathvariant="normal">Absorbance</mml:mi>
+                              <mml:mspace width=".25em"/>
+                              <mml:mo stretchy="false">(</mml:mo>
+                              <mml:mtext>optical</mml:mtext>
+                              <mml:mspace width=".25em"/>
+                              <mml:mtext>density</mml:mtext>
+                              <mml:mo stretchy="false">)</mml:mo>
+                              <mml:mo>/</mml:mo>
+                              <mml:mi mathvariant="normal">film</mml:mi>
+                              <mml:mspace width=".25em"/>
+                              <mml:mi mathvariant="normal">thickness</mml:mi>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                     <ce:display>
+                        <ce:formula id="eq0010">
+                           <ce:label>(2)</ce:label>
+                           <mml:math altimg="si0002.gif" overflow="scroll">
+                              <mml:mi>α</mml:mi>
+                              <mml:mo>=</mml:mo>
+                              <mml:mo stretchy="false">(</mml:mo>
+                              <mml:mn>1</mml:mn>
+                              <mml:mo>/</mml:mo>
+                              <mml:mi mathvariant="normal">t</mml:mi>
+                              <mml:mo stretchy="false">)</mml:mo>
+                              <mml:mspace width=".25em"/>
+                              <mml:mi>log</mml:mi>
+                              <mml:mo stretchy="false">(</mml:mo>
+                              <mml:msub>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="normal">I</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mn>0</mml:mn>
+                                 </mml:mrow>
+                              </mml:msub>
+                              <mml:mo>/</mml:mo>
+                              <mml:msub>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="normal">I</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="normal">t</mml:mi>
+                                 </mml:mrow>
+                              </mml:msub>
+                              <mml:mo stretchy="false">)</mml:mo>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0050" view="all">where <ce:italic>I</ce:italic>
+                     <ce:inf loc="post">0</ce:inf> is the incident intensity and <ce:italic>I</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>t</ce:italic>
+                     </ce:inf> is the intensity after traveling a thickness (<ce:italic>t</ce:italic>) in the sample.</ce:para>
+                  <ce:para id="p0055" view="all">It was reported <ce:cross-ref refid="bib18">[18]</ce:cross-ref> that in a non-crystalline material, such as chalcogenide glassy alloy, the absorption coefficient increases exponentially with the photon energy (<ce:italic>hν</ce:italic>) near the energy gap. This optical absorption edge is known as Urbach edge <ce:cross-ref refid="bib19">[19]</ce:cross-ref> and is given by:<ce:display>
+                        <ce:formula id="eq0015">
+                           <ce:label>(3)</ce:label>
+                           <mml:math altimg="si0003.gif" overflow="scroll">
+                              <mml:mi>α</mml:mi>
+                              <mml:mo>=</mml:mo>
+                              <mml:msub>
+                                 <mml:mrow>
+                                    <mml:mi>α</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mn>0</mml:mn>
+                                 </mml:mrow>
+                              </mml:msub>
+                              <mml:mi>exp</mml:mi>
+                              <mml:mspace width=".25em"/>
+                              <mml:mo stretchy="false">(</mml:mo>
+                              <mml:mi mathvariant="normal">h</mml:mi>
+                              <mml:mi>ν</mml:mi>
+                              <mml:mo>/</mml:mo>
+                              <mml:msub>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="italic">E</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="normal">e</mml:mi>
+                                 </mml:mrow>
+                              </mml:msub>
+                              <mml:mo stretchy="false">)</mml:mo>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where <ce:italic>α</ce:italic>
+                     <ce:inf loc="post">0</ce:inf> is a constant, <ce:italic>h</ce:italic> is Plank's constant and <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">e</ce:inf> is the width of the band tail of the localized states in the band gap. In solid materials, the absorption spectra give important information about the band structure and the band gap for crystalline and amorphous materials. The obtained values of the absorption coefficient with different annealing temperatures of as-deposited and thermally annealed thin films of Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">75−<ce:italic>x</ce:italic>
+                     </ce:inf>Te<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> chalcogenide glasses deposited on glass substrates are given in <ce:float-anchor refid="t0005"/>
+                     <ce:cross-ref refid="t0005">Table 1</ce:cross-ref>. From this table it clear that the absorption coefficient increases linearly with increasing annealing temperature and also with the addition of Te concentration.</ce:para>
+                  <ce:para id="p0060" view="all">The calculated values of the absorption coefficient are in the order of 10<ce:sup loc="post">4</ce:sup>
+                     <ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>, which agrees fairly well with the results reported by other workers <ce:cross-refs refid="bib7 bib8 bib9 bib10">[7–10]</ce:cross-refs>. For higher values of absorption coefficient, which is the case in the present study, it is suggested <ce:cross-ref refid="bib18">[18]</ce:cross-ref> that the absorption takes the form:<ce:display>
+                        <ce:formula id="eq0020">
+                           <ce:label>(4)</ce:label>
+                           <mml:math altimg="si0004.gif" overflow="scroll">
+                              <mml:mo stretchy="false">(</mml:mo>
+                              <mml:mi>α</mml:mi>
+                              <mml:mspace width=".25em"/>
+                              <mml:mi mathvariant="normal">h</mml:mi>
+                              <mml:mi>ν</mml:mi>
+                              <mml:mo stretchy="false">)</mml:mo>
+                              <mml:mo>=</mml:mo>
+                              <mml:mi mathvariant="normal">B</mml:mi>
+                              <mml:msup>
+                                 <mml:mrow>
+                                    <mml:mo>[</mml:mo>
+                                    <mml:mi mathvariant="normal">h</mml:mi>
+                                    <mml:mi>ν</mml:mi>
+                                    <mml:mo>−</mml:mo>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="italic">E</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">g</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mo>]</mml:mo>
+                                 </mml:mrow>
+                                 <mml:mi>p</mml:mi>
+                              </mml:msup>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where <ce:italic>ν</ce:italic> is the frequency of the incident beam (<ce:italic>ω</ce:italic>=2πν), B is a parameter that depends on the transition probability, <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">g</ce:inf> is the optical band gap of the investigated films, and <ce:italic>p</ce:italic> is an index associated with the type of transition, which may be direct or indirect. Both types of transition involve the interaction of electromagnetic waves with an electron in the valance band, which is excited across the gap to the conduction band. In fact <ce:italic>p</ce:italic> takes the values of 1/2 and 2 for allowed direct and indirect transitions, respectively, and takes values of 1/3 for forbidden direct and 3 for forbidden indirect transitions. To obtain the value of <ce:italic>p</ce:italic>, several authors <ce:cross-refs refid="bib20 bib21 bib22 bib23 bib24">[20–24]</ce:cross-refs> have suggested that the quantity (<ce:italic>αhν</ce:italic>)<ce:sup loc="post">1/<ce:italic>p</ce:italic>
+                     </ce:sup> must be plotted as a function of the incident photon energy (<ce:italic>hν</ce:italic>) for all possible values of <ce:italic>p</ce:italic> and the one which fits Eq. <ce:cross-ref refid="eq0020">(4)</ce:cross-ref> will be taken as the value of <ce:italic>p</ce:italic>. In the present study the value of <ce:italic>p</ce:italic> comes out to be 2 indicating that allowed indirect optical transitions are involved in the studied films.</ce:para>
+                  <ce:para id="p0065" view="all">The variation of (<ce:italic>αhν</ce:italic>)<ce:sup loc="post">1/2</ce:sup> as a function of (<ce:italic>hν</ce:italic>) for as-deposited and thermally annealed Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">63</ce:inf>Te<ce:inf loc="post">12</ce:inf> chalcogenide thin films deposited on glass substrates are shown in <ce:float-anchor refid="f0025"/>
+                     <ce:cross-ref refid="f0025">Fig. 5</ce:cross-ref> (similar trends were also obtained for other films and are not shown hear). The band gaps are obtained by extrapolating the linear portions of the plots to intersect the energy axis. The obtained values of the optical band gap for all samples at different annealing temperatures are given in <ce:float-anchor refid="t0010"/>
+                     <ce:cross-ref refid="t0010">Table 2</ce:cross-ref>. It is clear from this table that the band gap decreases with the addition of Te and also by increasing the annealing temperatures. It is known that dangling bonds together with some saturated bonds <ce:cross-ref refid="bib25">[25]</ce:cross-ref> are produced during the deposition of amorphous films <ce:cross-refs refid="bib26 bib27">[26–27]</ce:cross-refs>. The dangling bonds are responsible for the formation of some defects in the film. Such defects produced localized states in amorphous solids. The presence of high concentration of localized states in the band structure is responsible for the low values of the optical energy gap in case of amorphous Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">75−<ce:italic>x</ce:italic>
+                     </ce:inf>Te<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> thin films.</ce:para>
+                  <ce:para id="p0070" view="all">The reduction of optical band gap with thermal annealing is attributed to the amorphous–crystalline phase transformations. During thermal annealing of amorphous solids at temperature higher than the glass transition temperature, enough vibrational energy is present to break some of the weaker bonds, thus introducing some translational degrees of freedom to the system. Consequently, crystallization via nucleation and growth becomes possible and depends on the annealing temperature. Thermal annealing of amorphous thin films at temperatures higher than the glass transition temperature causes crystallization. The amount of the thermally transformed crystalline phase increases with increasing annealing temperature. The major change in the optical energy gap after thermal annealing could be attributed to the thermally induced crystalline phase.</ce:para>
+                  <ce:para id="p0075" view="all">It has also been observed that the optical band gap decreases continuously with an increase of Te content in Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">75−<ce:italic>x</ce:italic>
+                     </ce:inf>Te<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> glass. The shift in the absorption edge towards lower energies on Te incorporation in the amorphous thin films might be explained on the basis of increased tailing of the band edge into the gap.</ce:para>
+                  <ce:para id="p0080" view="all">The optical behavior of a material is generally utilized to determine its optical constants such as extinction coefficient (<ce:italic>k</ce:italic>). The values of extinction coefficient at different wavelength have been calculated by using the formula<ce:display>
+                        <ce:formula id="eq0025">
+                           <ce:label>(5)</ce:label>
+                           <mml:math altimg="si0005.gif" overflow="scroll">
+                              <mml:mi>k</mml:mi>
+                              <mml:mo>=</mml:mo>
+                              <mml:mo stretchy="false">(</mml:mo>
+                              <mml:mi>α</mml:mi>
+                              <mml:mi>λ</mml:mi>
+                              <mml:mo stretchy="false">)</mml:mo>
+                              <mml:mo>/</mml:mo>
+                              <mml:mo stretchy="false">(</mml:mo>
+                              <mml:mn>4</mml:mn>
+                              <mml:mi>π</mml:mi>
+                              <mml:mo stretchy="false">)</mml:mo>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0085" view="all">The spectral dependence of extinction coefficient (<ce:italic>k</ce:italic>) for amorphous and thermally annealed thin films of Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">69</ce:inf>Te<ce:inf loc="post">6</ce:inf> chalcogenide thin films deposited on glass substrate is shown in <ce:float-anchor refid="f0030"/>
+                     <ce:cross-ref refid="f0030">Fig. 6</ce:cross-ref>. The values <ce:italic>k</ce:italic> at different annealing temperatures and Te concentration are given in <ce:float-anchor refid="t0015"/>
+                     <ce:cross-ref refid="t0015">Table 3</ce:cross-ref>. It is clear from this table that the values of extinction coefficient increases with increasing annealing temperatures and also by increasing Te concentration, which can be explained as, chalcogenide thin films always contain a high concentration of unsaturated bonds or defects. These defects are responsible for the presence of localized states in the amorphous band gap. During thermal annealing at temperature below the crystallization temperature, the unsaturated defects are gradually annealed out producing a large number of saturated bonds. The reduction in the number of unsaturated defects decreases the density of localized states in the band structure consequently increasing the extinction coefficient.</ce:para>
+               </ce:section>
+               <ce:section id="s0020" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusion</ce:section-title>
+                  <ce:para id="p0090" view="all">In the present research work, it was observed that the thermally-evaporated amorphous Ga<ce:inf loc="post">25</ce:inf>Se<ce:inf loc="post">75−<ce:italic>x</ce:italic>
+                     </ce:inf>Te<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> thin films undergo structural transformations when annealed at a temperature in between glass transition and crystallization temperature undergo thermo-structural transformations. Thermal annealing causes a decrease in the indirect optical band gap. This behavior is attributed to the production of surface dangling bonds around the formed crystallites during the process of crystallization. The transformation from amorphous to crystalline phase was studied using both X-ray and FESEM. The absorption coefficient is found to increase by increasing Te concentration as well as by thermal annealing, which can be attributed to the optical scattering at the grain boundaries and the intrinsic absorption due to high concentration of defect states in the grain boundaries.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgment</ce:section-title>
+               <ce:para id="p0095" view="all">Thanks are due to <ce:grant-sponsor id="GS1" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">King Abdulaziz City for Science and Technology (KACST), Riyadh, Saudi Arabia</ce:grant-sponsor>, (Grant no.: <ce:grant-number refid="GS1">10-ADV1412-03</ce:grant-number>) for providing financial assistance in the form of National plan for Science and Technologies (major research project). Also thanks are extended to Deanship of Scientific Research (DSR) at King Abdulaziz University (KAU), Jeddah, Saudi Arabia, for their systematic support.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibliog0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bb0005">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Lina Wei-Wei</ce:given-name>
+                                 <ce:surname>Fang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Rong</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Minghua</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Kian-Guan</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Luping</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Tow-Chong</ce:given-name>
+                                 <ce:surname>Chong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Yee-Chia</ce:given-name>
+                                 <ce:surname>Yeo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dependence of the properties of phase change random access memory on nitrogen doping concentration in Ge2Sb2Te5</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Applied Physics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>107</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>104506</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Gravesteijn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>van der Poel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.M.L.O.</ce:given-name>
+                                 <ce:surname>Scholte</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.J.</ce:given-name>
+                                 <ce:surname>van Uijen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Phase change optical recording</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Philips Technical Review</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>250</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Yamada</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Erasable phase-change optical materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Materials Research Society Bulletin</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>48</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Sheng</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Qiaozhen</ce:given-name>
+                                 <ce:surname>Qi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Chengpeng</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Guohua</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Sung-Hoon</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Photoswitching of bisthienylethene using 2D-π-A type pyran-based fluorescent dye for rewritable optical storage</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Dyes and Pigments</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>188</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ovshinsky</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Amorphous materials—the key to new devices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Proceedings of CAS</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>33</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Boolchand</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.G.</ce:given-name>
+                                 <ce:surname>Georgiev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Chai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Chakravarty</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanoscale phase separation effects near r=2.4 and 2.67, and rigidity transitions in chalcogenide glasses</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Comptes Rendus Chimie</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>713</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>El-Sebaii</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Shamshad A.</ce:given-name>
+                                 <ce:surname>Khan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.M.</ce:given-name>
+                                 <ce:surname>Al-Marzouki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Faidah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Al-Ghamdi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Role of heat treatment on structural and optical properties of thermally evaporated Ga<ce:inf loc="post">10</ce:inf>Se<ce:inf loc="post">81</ce:inf>Pb<ce:inf loc="post">9</ce:inf> chalcogenide thin films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Luminescence.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>132</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2082</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Al-Ghamdi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Shamshad A.</ce:given-name>
+                                 <ce:surname>Khan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Al-Heniti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.A.</ce:given-name>
+                                 <ce:surname>Al-Agel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Al-Harbi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zulfequar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of laser irradiation on optical properties of amorphous and annealed Ga<ce:inf loc="post">15</ce:inf>Se<ce:inf loc="post">81</ce:inf>In<ce:inf loc="post">4</ce:inf> and Ga<ce:inf loc="post">15</ce:inf>Se<ce:inf loc="post">79</ce:inf>In<ce:inf loc="post">6</ce:inf> chalcogenide thin films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Alloys and Compounds</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>505</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>229</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Alvi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Shamshad A.</ce:given-name>
+                                 <ce:surname>Khan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Al-Ghamdi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Photo-induced effects on electrical properties of Ga<ce:inf loc="post">15</ce:inf>Se<ce:inf loc="post">81</ce:inf>Ag<ce:inf loc="post">4</ce:inf> chalcogenide thin films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Luminescence</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>132</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1237</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Shamshad A.</ce:given-name>
+                                 <ce:surname>Khan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.K.</ce:given-name>
+                                 <ce:surname>Lal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Al-Ghamdi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermal annealing effect on optical constants of vacuum evaporated Se<ce:inf loc="post">75</ce:inf>S<ce:inf loc="post">25−<ce:italic>x</ce:italic>
+                                 </ce:inf>Cd<ce:inf loc="post">
+                                    <ce:italic>x</ce:italic>
+                                 </ce:inf> chalcogenide thin films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Optics and Laser Technology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>839</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Farid</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.K.</ce:given-name>
+                                 <ce:surname>El-Zawawi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.H.</ce:given-name>
+                                 <ce:surname>Ammar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Compositional effects on the optical properties of Ge<ce:inf loc="post">
+                                    <ce:italic>x</ce:italic>
+                                 </ce:inf> Sb<ce:inf loc="post">40−<ce:italic>x</ce:italic>
+                                 </ce:inf> Se<ce:inf loc="post">60</ce:inf> thin films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Vacuum</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>9</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1255</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Mousa M.A.</ce:given-name>
+                                 <ce:surname>Imran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Omar A.</ce:given-name>
+                                 <ce:surname>Lafi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Abu-Samak</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of thermal annealing on some electrical properties and optical band gap of vacuum evaporated Se<ce:inf loc="post">65</ce:inf>Ga<ce:inf loc="post">30</ce:inf>In<ce:inf loc="post">5</ce:inf> thin films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Vacuum</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1589</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.H.</ce:given-name>
+                                 <ce:surname>Ammar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.M.</ce:given-name>
+                                 <ce:surname>Abdel-Moniem</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.M.</ce:given-name>
+                                 <ce:surname>Farag</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>El-Sayed M.</ce:given-name>
+                                 <ce:surname>Farag</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of indium content on the optical, electrical and crystallization kinetics of Se<ce:inf loc="post">100−<ce:italic>x</ce:italic>
+                                 </ce:inf>In<ce:inf loc="post">
+                                    <ce:italic>x</ce:italic>
+                                 </ce:inf> thin films deposited by flash evaporation technique</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physica B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>407</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>356</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Alvi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Shamshad A.</ce:given-name>
+                                 <ce:surname>Khan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Al-Ghamdi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Photo-induced effects on electrical properties of Ga<ce:inf loc="post">15</ce:inf>Se<ce:inf loc="post">81</ce:inf>Ag<ce:inf loc="post">4</ce:inf> chalcogenide thin films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Materials Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>273</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Tintu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.P.N.</ce:given-name>
+                                 <ce:surname>Nampoori</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Radhakrishnan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Sheenu</ce:given-name>
+                                 <ce:surname>Thomas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Photoinduced changes in optical properties of Ga–Sb–Ge–Se glasses</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Optics Communications</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>284</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>222</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Guoxiang</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Qiuhua</ce:given-name>
+                                 <ce:surname>Nie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Xiang</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Fen</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Jun</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Wei</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Tiefeng</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Shixun</ce:given-name>
+                                 <ce:surname>Dai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>, Phase change and optical band gap behavior of Ge–Te–Ga thin films prepared by thermal evaporation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Vacuum</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1572</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sara Gad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Abdel</ce:given-name>
+                                 <ce:surname>Rafea</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Yehia</ce:given-name>
+                                 <ce:surname>Badr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Optical and photoconductive properties of Pb<ce:inf loc="post">0.9</ce:inf>Sn<ce:inf loc="post">0.1</ce:inf>Se nano-structured thin films deposited by thermal vacuum evaporation and pulsed laser deposition</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Alloys and Compounds</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>515</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>101</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.F.</ce:given-name>
+                                 <ce:surname>Mott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Davis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electronic Process in Non-crystalline Materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1971</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Clarendon Press</sb:name>
+                                 <sb:location>Oxford</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Urbach</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The long-wavelength edge of photographic sensitivity and of the electronic absorption of solids</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physical Review</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1953</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1324</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Saffarini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Saiter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Schmitt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The composition dependence of the optical band gap in Ge–Se–In thin films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Optical Materials</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1143</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.M.A.</ce:given-name>
+                                 <ce:surname>Imran</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Optical band gap and optical constants of a-Se<ce:inf loc="post">100−<ce:italic>x</ce:italic>
+                                 </ce:inf>Sn<ce:inf loc="post">
+                                    <ce:italic>x</ce:italic>
+                                 </ce:inf> thin films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Optoelectronics and Advanced Materials RP1</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>176</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Amin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>El-Sayed</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.M.</ce:given-name>
+                                 <ce:surname>Saad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.M.</ce:given-name>
+                                 <ce:surname>Hafez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Abd-El-Rahman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The radiation effect on optical and morphological properties of Ag–As–Te thin films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Radiation Measurements</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>400</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Balboul</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Optical effects induced by gamma and UV irradiation in chalcogenide glass</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Radiation Measurements</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1360</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Al-Ghamdi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Shamshad A.</ce:given-name>
+                                 <ce:surname>Khan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Al-Heniti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.A.</ce:given-name>
+                                 <ce:surname>Al-Agel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zulfequar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Annealing and laser irradiation effects on optical constants of Ga<ce:inf loc="post">15</ce:inf>Se<ce:inf loc="post">85</ce:inf> and Ga<ce:inf loc="post">15</ce:inf>Se<ce:inf loc="post">83</ce:inf>In<ce:inf loc="post">2</ce:inf> chalcogenide thin films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Current Applied Physics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>315</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Ovshinsky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Adler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Local structure, bonding and electronic properties of covalent amorphous semiconductors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Contemporary Physics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>109</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <ce:other-ref id="othref0005">
+                        <ce:textref>M.L. Theye, in: J. Stuke,W. Brenig (Eds.), Proceedings of the 5th International Conference on Amorphous and Liquid Semiconductors, Vol. 1, Garmisch Partenkirchen, 1973, p. 479.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sbref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Hasegawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yazalci</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Shimiza</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of annealing on gap states in amorphous Si films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Communications</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>407</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>
