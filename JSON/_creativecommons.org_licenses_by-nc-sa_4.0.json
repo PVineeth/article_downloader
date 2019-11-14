@@ -1,3 +1,1 @@
-<html><body><h1>503 Service Unavailable</h1>
-No server is available to handle this request.
-</body></html>
+{"status":"ok","message-type":"work-list","message-version":"1.0.0","message":{"facets":{},"total-results":0,"items":[],"items-per-page":5000,"query":{"start-index":0,"search-terms":"chalcogenide"}}}

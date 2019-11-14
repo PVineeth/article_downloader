@@ -21,6 +21,7 @@ licenses = list()
 
 saveJSONLocation = "/Users/vineethpenugonda/Documents/Academics/Masters/Semester III/IST 6443/Project/virtenv/JSON/"
 saveFileLocation = "/Users/vineethpenugonda/Documents/Academics/Masters/Semester III/IST 6443/Project/virtenv/Files/" + query + "/"
+headers = { 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0' }
 jsonFile = ""
 totalNoOfArticlesRetrieved = 0
 ftURLList = list()
@@ -54,7 +55,6 @@ def main():
             parallelDownloader()
         else:
             writeLogs("Not running downloader!")
-            pass
     
     print("\nTotal No. Of Articles Retrieved: " + totalNoOfArticlesRetrieved)
     writeLogs("\nTotal No. Of Articles Retrieved: " + totalNoOfArticlesRetrieved)
@@ -78,7 +78,7 @@ def urlBuilder(licenseIndex = 0):
     writeLogs("License: " + licenses[licenseIndex])
 
     global jsonFile
-    jsonFile = requests.get(url)
+    jsonFile = requests.get(url, headers=headers)
 
     fileName = licenses[licenseIndex].replace('/','_')[6:] + ".json"
 
@@ -129,7 +129,7 @@ def saveFile(url):
 
     writeLogs("\nDownloading: " + url)
     try:
-        getContent = requests.get(url, stream=True)
+        getContent = requests.get(url, headers=headers, stream=True)
         if getContent.status_code == requests.codes.ok:
             with open(saveFileLocation+fileName, 'wb') as f:
                 for data in getContent:
@@ -141,13 +141,12 @@ def saveFile(url):
 
 def parallelDownloader():
     # Download Files Parallely
-    pool = ThreadPool(12)
+    pool = ThreadPool(6)
     results = pool.map(saveFile, ftURLList)
     start = timer()
     for r in results:
         try:
-            writeLogs("\nDownloaded: " + r)
-            pass 
+            writeLogs("\nDownloaded: " + r) 
         except TypeError:
            writeLogs("\nDownloaded: Might be a server problem.\n")
            
@@ -156,7 +155,7 @@ def parallelDownloader():
     pool.close()
     pool.join()    
     
-    #print(f"Elapsed Time: {timer() - start}" + "\n")
+    writeLogs(f"\n\nElapsed Time: {timer() - start}" + "\n")
 
 def writeLogs(logStr):
     logWriter.write(logStr)
