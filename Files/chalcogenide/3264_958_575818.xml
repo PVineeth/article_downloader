@@ -1,0 +1,1530 @@
+<article xsi:noNamespaceSchemaLocation="http://jats.nlm.nih.gov/publishing/1.1/xsd/JATS-journalpublishing1-mathml3.xsd" dtd-version="1.1" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">IJO</journal-id>
+      <journal-title-group>
+        <journal-title>International Journal of Optics</journal-title></journal-title-group>
+      <issn pub-type="epub">1687-9392</issn>
+      <issn pub-type="ppub">1687-9384</issn>
+      <publisher>
+        <publisher-name>Hindawi Publishing Corporation</publisher-name></publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">575818</article-id>
+      <article-id pub-id-type="doi">10.1155/2012/575818</article-id>
+      <article-id pub-id-type="publisher-id">575818</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Review Article</subject></subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>New Trends in Amplifiers and Sources via Chalcogenide Photonic Crystal Fibers</article-title></title-group>
+      <contrib-group>
+        <contrib contrib-type="author" id="U87959263">
+          <name>
+            <surname>Mescia</surname>
+            <given-names>L.</given-names></name>
+          <xref ref-type="aff" rid="I1">
+            <sup>1</sup></xref>
+        </contrib>
+        <contrib contrib-type="author" id="U43063564">
+          <name>
+            <surname>Smektala</surname>
+            <given-names>F.</given-names></name>
+          <xref ref-type="aff" rid="I2">
+            <sup>2</sup></xref>
+        </contrib>
+        <contrib contrib-type="author" id="U47129373" corresp="yes">
+          <name>
+            <surname>Prudenzano</surname>
+            <given-names>F.</given-names></name>
+          
+          <xref ref-type="aff" rid="I1">
+            <sup>1</sup></xref>
+        </contrib>
+        <contrib contrib-type="Academic Editor" id="U12469739">
+          <name>
+            <surname>Neshev</surname>
+            <given-names>Dragomir</given-names></name>
+        </contrib></contrib-group>
+      <aff id="I1">
+        <sup>1</sup>
+        <addr-line>Dipartimento di Ingegneria Elettrica e dell&#x2019;Informazione (DIEI), Politecnico di Bari</addr-line>
+        <addr-line>70125 Bari</addr-line>
+        <country>Italy</country>
+        <ext-link ext-link-type="domain-name">poliba.it</ext-link></aff>
+      <aff id="I2">
+        <sup>2</sup>
+        <addr-line>Laboratoire Interdisciplinaire Carnot de Bourgogne (ICB)</addr-line>
+        <addr-line>UMR 5209 CNRS-Universit&#xe9; de Bourgogne</addr-line>
+        <addr-line>21078 Dijon</addr-line>
+        <country>France</country>
+        <ext-link ext-link-type="domain-name">u-bourgogne.fr</ext-link></aff>
+      <pub-date pub-type="publication-year">
+        <year>2012</year></pub-date>
+      <pub-date pub-type="archival-date">
+        <day>22</day>
+        <month>11</month>
+        <year>2012</year></pub-date>
+      <volume>2012</volume>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>07</month>
+          <year>2012</year></date>
+        <date date-type="rev-recd">
+          <day>26</day>
+          <month>10</month>
+          <year>2012</year></date>
+        <date date-type="accepted">
+          <day>27</day>
+          <month>10</month>
+          <year>2012</year></date>
+      </history>
+      <permissions>
+        <copyright-year>2012</copyright-year>
+        <copyright-holder>Copyright &#xa9; 2012 L. Mescia et al.</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license>
+      </permissions>
+      <abstract>
+        <p>Rare-earth-doped chalcogenide glass fiber lasers and amplifiers have great applicative potential in many fields since they are key elements in the near and medium-infrared (mid-IR) wavelength range. In this paper, a review, even if not exhaustive, on amplification and lasing obtained by employing rare-earth-doped chalcogenide photonic crystal fibers is reported. Materials, devices, and feasible applications in the mid-IR are briefly mentioned.</p></abstract>
+      <counts>
+        <ref-count count="44" />
+        <page-count count="8" /></counts></article-meta>
+  </front>
+  <body>
+    <sec id="sec1">
+      <title>1. Introduction</title>
+      <p>The current laser market does not provide efficient sources in most of the mid-IR spectrum. In particular, the shortage in availability of powerful, coherent, robust, and compact laser sources at wavelength longer than 3 microns constitutes the major obstacle to a widespread advancement of mid-IR science and technology. During the last decades, a number of mid-IR laser sources have been developed but they have shown low conversion efficiency, limited beam quality; moreover they are complex, bulky, and expensive [<xref ref-type="bibr" rid="B1">1</xref>, <xref ref-type="bibr" rid="B2">2</xref>]. In fact, the unfavorable temperature dependence of thermal and thermooptical parameters set limitations to the power scalability since the large heat load can lead to glass fracture, and the strong thermal lensing can promote pronounced spherical aberrations [<xref ref-type="bibr" rid="B1">1</xref>, <xref ref-type="bibr" rid="B2">2</xref>].</p>
+      <p>Over the last years, the continuing technological progress and innovations in lasing materials, in fabrication of sophisticated optical fibers and of beam-shaped high-power diode lasers have positioned the optical fiber technology as one of the most promising ones in order to develop a new generation of mid-IR sources [<xref ref-type="bibr" rid="B1">1</xref>, <xref ref-type="bibr" rid="B2">2</xref>]. The compact footprint size, the rather cheap and simple maintenance, and the higher lasing efficiency make mid-IR fiber lasers attractive for ICT, industrial, and medical applications.</p>
+      <p>Silica-based fiber lasers have proved to be both efficient and compact sources in the near-IR wavelength range, but they are not able to provide mid-IR wavelengths because of their high phonon energy and their limited transparency beyond the wavelength of 2&#x2009;<italic>&#x3bc;</italic>m. Various watt-level rare-earth-doped ZBLAN fiber lasers, oscillating in the spectral region around 2.7 microns in the CW mode, have been developed [<xref ref-type="bibr" rid="B1">1</xref>, <xref ref-type="bibr" rid="B3">3</xref>]. Recently, the highest single-mode output power of about  20&#x2009;W has been obtained with an <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M1"><mml:msup><mml:mrow><mml:mtext>Er</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">3</mml:mn><mml:mo>+</mml:mo></mml:mrow></mml:msup><mml:mtext>-</mml:mtext></mml:math></inline-formula>doped fluoride glass fiber laser emitting at 2.8&#x2009;<italic>&#x3bc;</italic>m [<xref ref-type="bibr" rid="B4">4</xref>]. In particular, a passively cooled setup, a 976&#x2009;nm pump source, and a truncated circular pump cladding were employed. Moreover, a slope efficiency higher than the Stokes efficiency was achieved. This is the experimental confirmation of the pump energy recycling in a fiber laser. Ho<sup>3+</sup>-doped ZBLAN fiber is able to oscillate at 2.9 microns, but one of its significant shortcomings is the lack of ground state absorption that overlaps with conventional high-power pump sources [<xref ref-type="bibr" rid="B5">5</xref>]. As a result, the sensitization of Ho<sup>3+</sup> with Yb<sup>3+</sup> or Pr<sup>3+</sup> has been implemented in order to access the convenient absorption bands and to achieve higher output power without the costly requirement of an intermediate laser system [<xref ref-type="bibr" rid="B6">6</xref>&#x2013;<xref ref-type="bibr" rid="B8">8</xref>]. Dy<sup>3+</sup>-doped ZBLAN fiber lasers also can oscillate at 2.9 micron, but their output power and slope efficiency are low [<xref ref-type="bibr" rid="B9">9</xref>]. The operation of lasers at 3.22, 3.45, and 3.95 microns has been obtained by doping ZBLAN fiber with holmium and erbium, but an increasing of the pump threshold and some saturation of the output power have been observed [<xref ref-type="bibr" rid="B10">10</xref>&#x2013;<xref ref-type="bibr" rid="B13">13</xref>]. This problem combined with the use of unconventional pump sources has prevented the full utilization of these systems. As a consequence, it is clear that the fiber laser technology based on oxide and fluoride glasses is only useful for laser transitions up to 3 microns.</p>
+      <p>Advances in the fabrication of rare-earth-doped optical fibers based on chalcogenide glasses have dramatically pushed progress on active devices operating at wavelengths higher than 3 microns [<xref ref-type="bibr" rid="B14">14</xref>&#x2013;<xref ref-type="bibr" rid="B18">18</xref>]. Chalcogenide glasses are chemically and mechanically durable, have a low toxicity, possess reasonably large glass-forming regions, and can be fabricated into low-loss fibers. Moreover, their high refractive index (<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M2"><mml:mn>2</mml:mn><mml:mo>&#xf7;</mml:mo><mml:mn>3</mml:mn></mml:math></inline-formula>) and low phonon energy (<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M3"><mml:mn>250</mml:mn><mml:mo>&#xf7;</mml:mo><mml:mn>400</mml:mn></mml:math></inline-formula>&#x2009;cm<sup>&#x2212;1</sup>) result in a larger radiative decay rates, high absorption and emission cross sections of radiative electronic transitions, and low nonradiative multiphonon relaxation rates. These properties result in high quantum efficiency [<xref ref-type="bibr" rid="B14">14</xref>]. The electronic energy levels of rare-earth ions allow a number of useful transitions from 2 to 12&#x2009;microns. However, only a few glass hosts can efficiently activate transitions at longer wavelengths. The low phonon energy of the chalcogenide glasses enables an efficient laser transition between closely spaced electronic energy levels allowing many IR transitions. As an example, chalcogenide glasses make possible the radiative transition from <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M4"><mml:msup><mml:mrow /><mml:mrow><mml:mn>4</mml:mn></mml:mrow></mml:msup><mml:msub><mml:mrow><mml:mtext>I</mml:mtext></mml:mrow><mml:mrow><mml:mn>11</mml:mn><mml:mo>/</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:math></inline-formula> to <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M5"><mml:msup><mml:mrow /><mml:mrow><mml:mn>4</mml:mn></mml:mrow></mml:msup><mml:msub><mml:mrow><mml:mtext>I</mml:mtext></mml:mrow><mml:mrow><mml:mn>13</mml:mn><mml:mo>/</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:math></inline-formula> erbium energy levels, quenched by the multiphonon decay in silica glasses, and from <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M6"><mml:msup><mml:mrow /><mml:mrow><mml:mn>4</mml:mn></mml:mrow></mml:msup><mml:msub><mml:mrow><mml:mtext>I</mml:mtext></mml:mrow><mml:mrow><mml:mn>9</mml:mn><mml:mo>/</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:math></inline-formula> to <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M7"><mml:msup><mml:mrow /><mml:mrow><mml:mn>4</mml:mn></mml:mrow></mml:msup><mml:msub><mml:mrow><mml:mtext>I</mml:mtext></mml:mrow><mml:mrow><mml:mn>11</mml:mn><mml:mo>/</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:math></inline-formula>, quenched in fluoride glasses. Furthermore, the high rare earth solubility into several chalcogenide glasses facilitates the fabrication of efficient rare earth doped lasers and amplifiers since ion clustering and concentration quenching effects are minimized.</p>
+      <p>The chalcogenide glasses have been used to fabricate conventional optical fibers doped with a number of rare-earth ions for mid-IR luminescence [<xref ref-type="bibr" rid="B14">14</xref>, <xref ref-type="bibr" rid="B15">15</xref>]. Unfortunately, the technology used to fabricate low-loss single-mode chalcogenide fibers in step-index configuration requires significant care and expertise. In fact, the different physical properties of the core and cladding glasses promote crystallization, bubbles, contamination at the core/cladding interface, and core ellipticity. Moreover, it is difficult to fabricate step-index fibers having very small and very large mode area, because a fine control of the refractive index of the core and cladding cannot be obtained. In order to overcome these problems, the use of photonic crystal fiber (PCF) technology is a feasible and attractive solution. In fact, it eliminates the problems induced by the core/cladding interface since a single materials is used. In addition, the single-heating step used to make the PCFs allows both the reduction of the crystallization problems and fiber losses. Lastly, the high refractive index of the chalcogenide glass enables a better confinement of the light by using only a few rings of air holes [<xref ref-type="bibr" rid="B19">19</xref>, <xref ref-type="bibr" rid="B20">20</xref>]. The first chalcogenide PCF made of only one ring of air holes was presented in [<xref ref-type="bibr" rid="B20">20</xref>]. Recently, progresses on the Ga<sub>5</sub>Ge<sub>20</sub>Sb<sub>10</sub>S<sub>65</sub> (2S2G) fiber fabrication using the &#x201c;Stack and Draw&#x201d; procedure were illustrated in order to build complex and regular PCFs made of several rings of holes [<xref ref-type="bibr" rid="B19">19</xref>]. Small-core PCFs made of chalcogenide glass 2S2G with single-mode operation for wavelength higher than 1550&#x2009;nm have been obtained [<xref ref-type="bibr" rid="B21">21</xref>]. Moreover, the fabrication, linear and nonlinear optical characterization, and numerical simulations in the middle infrared of PCFs in different kinds of chalcogenide glass have been presented [<xref ref-type="bibr" rid="B16">16</xref>, <xref ref-type="bibr" rid="B17">17</xref>, <xref ref-type="bibr" rid="B19">19</xref>].</p></sec>
+    <sec id="sec2">
+      <title>2. Chalcogenide Photonic Crystal Fiber for Midinfrared Amplification</title>
+      <p>A number of different rare-earth elements, such as erbium, ytterbium, praseodymium, neodymium, samarium, and thulium, can be used to fabricate fiber amplifiers operating at different wavelengths. In particular, erbium doped fiber amplifiers (EDFAs) are nowadays available for long-haul communication systems, allowing to abandon the use of optoelectronic and electrooptical conversions of signals. These devices are very attractive because of their high gain, wide optical bandwidth, high output saturation, near quantum-limited noise, low insertion losses, high reliability and compactness, polarization independence, immunity to saturation-induced and to crosstalk, and possibility of choosing the pumping laser diode at 980&#x2009;nm or 1480&#x2009;nm wavelengths.</p>
+      <p>Although this kind of technology is mature and widely employed, further researches are needed to obtain amplifiers with higher gain efficiency. The optimization of fiber transversal section is crucial to improve the amplifier performance in terms of gain, noise, and output power characteristics as well as device compactness and pump power consumption. In fact, in the rare-earth-doped devices, the fiber geometry strongly affects the pump intensity, the overlap of the pump, and the signal propagation modes with the doped core. As a consequence, it can lead to the suppression of the amplified spontaneous emission (ASE), the power scaling and the maximum inversion of rare-earth ions as well as to the reduction of the fiber length.</p>
+      <p>Sophisticated design methods and fabrication techniques have been developed to construct single-mode optical fiber amplifiers. To this aim, a fine control of refractive index profile of both core and cladding as well as more design flexibility of fiber cross section is needed. The conventional optical fibers are not able to completely respond to these requirements, while the PCF technology seems to be an attractive solution. A PCF is typically characterized by a transverse crystal lattice (usually periodically arranged) containing either air holes or glass strand running along the fiber axis. As a consequence, these fibers are different with respect to the conventional ones, and the main difference is in the refractive index profile of both core and cladding regions. The unique properties of PCFs are extremely attractive for a variety of rare-earth-doped fibers and devices because they enable more flexibility to control the interaction of both pump and signal modes with the rare-earth-doped host. In addition, the stacking procedure used to fabricate such fibers offers the possibility to accurately confine the rare-earth dopant in the central region of the fiber where the pump and signal intensity peaks occur [<xref ref-type="bibr" rid="B15">15</xref>, <xref ref-type="bibr" rid="B22">22</xref>, <xref ref-type="bibr" rid="B23">23</xref>].</p>
+      <p>In addition to the  solid-core PCF, typically exploited for both optical amplification and  nonlinear applications, hollow-core photonic-bandgap-chalcogenide fibers for high power mid-IR laser transmission and power delivery have been successfully fabricated [<xref ref-type="bibr" rid="B15">15</xref>, <xref ref-type="bibr" rid="B24">24</xref>]. As an example,  Figure <xref ref-type="fig" rid="fig1">1</xref> shows two prototypes made by Naval Research Laboratory, Washington, USA [<xref ref-type="bibr" rid="B15">15</xref>], to fabricate (a) photonic-bandgap fiber structures and (b) PCF structures. Moreover, the optimization procedure of both the cladding structure and the core size to obtain the overall losses lower than the material ones, the realization of a hollow-core PCF having six rings of air holes, and the comparison between experimental results and simulations are illustrated in [<xref ref-type="bibr" rid="B23">23</xref>].  </p>
+      <fig-group id="fig1">
+        <caption>
+          <p>Attempts made by Naval Research Laboratory, Washington, USA, to fabricate (a) photonic bandgap fiber structures and (b) PCF structures by exploiting chalcogenide glasses [<xref ref-type="bibr" rid="B14">14</xref>].</p></caption>
+        <fig id="fig1a">
+          <label>(a)</label>
+          <graphic xlink:href="575818.fig.001a" /></fig>
+        <fig id="fig1b">
+          <label>(b)</label>
+          <graphic xlink:href="575818.fig.001b" /></fig></fig-group>
+      <p>The well-known PCF technology, allowing endless single mode propagation and group velocity control, via a proper design, exhibits further intriguing potentials coupled to the broad-bandwidth transmission, typical of chalcogenide glasses. In addition, the high quantum efficiencies of the mid-IR transitions make rare-earth-doped chalcogenide fibers attractive alternatives to obtain black-body sources for generating emission in the 3&#x2013;5&#x2009;<italic>&#x3bc;</italic>m wavelength range.</p>
+      <p>As an example, Figure <xref ref-type="fig" rid="fig2">2</xref> shows a diode-pumped <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M8"><mml:mrow><mml:msup><mml:mrow><mml:mtext>Pr</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">3</mml:mn><mml:mo>+</mml:mo></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula>-doped selenide glass fiber source, demonstrating broadband emission in the wavelength range 3&#x2013;5&#x2009;<italic>&#x3bc;</italic>m [<xref ref-type="bibr" rid="B15">15</xref>].</p>
+      <fig id="fig2">
+        <label>Figure 2</label>
+        <caption>
+          <p>
+            <inline-formula>
+              <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M9">
+                <mml:msup>
+                  <mml:mrow>
+                    <mml:mtext>Pr</mml:mtext></mml:mrow>
+                  <mml:mrow>
+                    <mml:mn mathvariant="normal">3</mml:mn>
+                    <mml:mo>+</mml:mo></mml:mrow>
+                </mml:msup>
+                <mml:mtext>-</mml:mtext></mml:math>
+            </inline-formula>doped chalcogenide fiber source with broadband emission in the 3&#x2013;5&#x2009;<italic><italic>&#x3bc;</italic></italic>m wavelength region [<xref ref-type="bibr" rid="B15">15</xref>].</p>
+        </caption>
+        <graphic xlink:href="575818.fig.002" /></fig>
+      <p>On the basis of the optical and spectroscopic parameters measured on fabricated <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M10"><mml:mrow><mml:msup><mml:mrow><mml:mtext>Er</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">3</mml:mn><mml:mo>+</mml:mo></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula>-doped solid core chalcogenide PCFs, the design of active devices in both near and medium-infrared wavelength range has been numerically performed [<xref ref-type="bibr" rid="B25">25</xref>&#x2013;<xref ref-type="bibr" rid="B27">27</xref>]. The feasibility of <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M11"><mml:mrow><mml:msup><mml:mrow><mml:mtext>Er</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">3</mml:mn><mml:mo>+</mml:mo></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula>-doped, 2S2G chalcogenide glass has been demonstrated in order to obtain a high-performance optical amplifier in the third band of fiber-optic communication [<xref ref-type="bibr" rid="B25">25</xref>]. In particular, the gain and noise figure performances have been evaluated by varying numerous parameters such as doping region radius, erbium concentration, signal wavelength, input pump, and signal power. Figure <xref ref-type="fig" rid="fig3a">3(a)</xref> shows the image of the fabricated PCF considered in the simulations. Figures <xref ref-type="fig" rid="fig3b">3(b)</xref>&#x2013;<xref ref-type="fig" rid="fig3d">3(d)</xref> show the dependence of the optimal gain, optimal length, and noise figure as a function of the signal wavelength for the three different input pump powers. The effect of the variation of the erbium concentration, radius of the doped region, and the excited state absorption (ESA) at the pump wavelength on the amplifier characteristics has been investigated, too. In particular, the calculated optical gain of the optimized PCF amplifier, 2.79&#x2009;m long, is close to 23&#x2009;dB at the signal wavelength of 1.538&#x2009;<italic>&#x3bc;</italic>m, by using a pump power of 200&#x2009;mW and a signal power of 0.1&#x2009;<italic>&#x3bc;</italic>W. This result indicates that the proposed fiber amplifier could be a good candidate in optical communication networks and systems. Therefore, by considering that (i) the high refractive index and the low phonon energy of the chalcogenide glass increase the efficiency of transitions among rare-earth energy levels; (ii) the excellent rare-earth solubility in chalcogenide glass allows high dopant concentration, without ion clustering and concentration quenching effects, fiber amplifiers based on chalcogenide glasses, operating at 1.5&#x2009;<italic>&#x3bc;</italic>m, exhibit higher pump conversion efficiency and shorter fiber lengths than those based on silicate glasses.</p>
+      <fig-group id="fig3">
+        <caption>
+          <p> (a) SEM image of the fabricated chalcogenide PCF, (b) optimal gain <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M12"><mml:mrow><mml:msub><mml:mrow><mml:mi>G</mml:mi></mml:mrow><mml:mrow><mml:mtext>opt</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>, (c) optimal length <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M13"><mml:mrow><mml:msub><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mtext>opt</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>, and (d) noise figure <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M14"><mml:mrow><mml:mi>F</mml:mi></mml:mrow></mml:math></inline-formula> versus signal wavelength <italic>&#x3bb;</italic><sub>s</sub> for three different input pump power levels: <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M15"><mml:msub><mml:mrow><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mn>100</mml:mn></mml:math></inline-formula>&#x2009;mW (dot curve), <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M16"><mml:msub><mml:mrow><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">(</mml:mo><mml:mn>0</mml:mn><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:mn>200</mml:mn></mml:math></inline-formula>&#x2009;mW (broken curve), and <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M17"><mml:mrow><mml:msub><mml:mrow><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>(0) = 300&#x2009;mW (full curve). Input signal power <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M18"><mml:mrow><mml:msub><mml:mrow><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>(0) = 0.1&#x2009;<italic>&#x3bc;</italic>W, erbium concentration <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M19"><mml:mrow><mml:msub><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mtext>Er</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> = 5.76 <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M20"><mml:mrow><mml:mo>&#xd7;</mml:mo></mml:mrow></mml:math></inline-formula> 10<sup>24</sup> ions/m<sup>3</sup>, and doped region radius <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M21"><mml:mrow><mml:msub><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mrow><mml:mi>d</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> = 5&#x2009;<italic>&#x3bc;</italic>m [<xref ref-type="bibr" rid="B19">19</xref>, <xref ref-type="bibr" rid="B25">25</xref>].</p>
+        </caption>
+        <fig id="fig3a">
+          <label>(a)</label>
+          <graphic xlink:href="575818.fig.003a" /></fig>
+        <fig id="fig3b">
+          <label>(b)</label>
+          <graphic xlink:href="575818.fig.003b" /></fig>
+        <fig id="fig3c">
+          <label>(c)</label>
+          <graphic xlink:href="575818.fig.003c" /></fig>
+        <fig id="fig3d">
+          <label>(d)</label>
+          <graphic xlink:href="575818.fig.003d" /></fig></fig-group>
+      <p>Moreover, simulation results regarding the propagation of pulse in <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M22"><mml:msup><mml:mrow><mml:mtext>Er</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">3</mml:mn><mml:mo>+</mml:mo></mml:mrow></mml:msup><mml:mtext>-</mml:mtext></mml:math></inline-formula>doped, Ga<sub>5</sub>Ge<sub>20</sub>Sb<sub>10</sub>S<sub>65</sub> chalcogenide glass amplifiers have been reported in a recent work [<xref ref-type="bibr" rid="B28">28</xref>]. The authors studied the effect of gain saturation on the propagation of fundamental dark soliton and verified that the dark soliton is more stable in the presence of gain saturation and gain dispersion effects. In particular, they showed that (i) bright solitons with energy less than the saturation energy are divided into many subpulses with time symmetry, (ii) bright solitons with energy close to the saturation energy are divided into many subpulses without time symmetry, and (iii) dark solitons in the absence of the gain saturation are amplified without creating any subpulses. These properties make possible the use of chalcogenide glasses for designing all optical devices.</p>
+      <p>Recently, a detailed spectroscopic study of <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M23"><mml:msup><mml:mrow><mml:mtext>Er</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">3</mml:mn><mml:mo>+</mml:mo></mml:mrow></mml:msup><mml:mtext>-</mml:mtext></mml:math></inline-formula>doped 2S2G glass has been illustrated [<xref ref-type="bibr" rid="B27">27</xref>]. This doped glass (i) facilitates the optical fiber drawing, since it presents suitable thermo-mechanical properties, (ii) provides a better solubilization, since it contains gallium, and (iii) enables efficient <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M24"><mml:msup><mml:mrow /><mml:mrow><mml:mn>4</mml:mn></mml:mrow></mml:msup><mml:msub><mml:mrow><mml:mtext>I</mml:mtext></mml:mrow><mml:mrow><mml:mn>11</mml:mn><mml:mo>/</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>&#x2192;</mml:mo><mml:msup><mml:mrow /><mml:mrow><mml:mn>4</mml:mn></mml:mrow></mml:msup><mml:msub><mml:mrow><mml:mtext>I</mml:mtext></mml:mrow><mml:mrow><mml:mn>13</mml:mn><mml:mo>/</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:math></inline-formula> (2.7&#x2009;<italic>&#x3bc;</italic>m) and <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M25"><mml:msup><mml:mrow /><mml:mrow><mml:mn>4</mml:mn></mml:mrow></mml:msup><mml:msub><mml:mrow><mml:mtext>I</mml:mtext></mml:mrow><mml:mrow><mml:mn>9</mml:mn><mml:mo>/</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>&#x2192;</mml:mo><mml:msup><mml:mrow /><mml:mrow><mml:mn>4</mml:mn></mml:mrow></mml:msup><mml:msub><mml:mrow><mml:mtext>I</mml:mtext></mml:mrow><mml:mrow><mml:mn>11</mml:mn><mml:mo>/</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:math></inline-formula> (4.5&#x2009;<italic>&#x3bc;</italic>m) mid-IR transitions. The radiative lifetime of <sup>4</sup>F<sub>9/2</sub>, <sup>4</sup>I<sub>9/2</sub>, <sup>4</sup>I<sub>11/2</sub>, and <sup>4</sup>I<sub>13/2</sub> energy levels and the related branching ratios are determined. The estimation of Er<sup>3+</sup> emission cross section in the mid-IR spectral range was 2.85 <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M26"><mml:mrow><mml:mo>&#xd7;</mml:mo></mml:mrow></mml:math></inline-formula> 10<sup>&#x2212;25</sup>&#x2009;m<sup>2</sup> at 4.6&#x2009;<italic>&#x3bc;</italic>m. The <sup>4</sup>I<sub>9/2</sub> radiative quantum efficiency was estimated to be 64&#x25;. The propagation of fluorescence signals around 2.7&#x2009;<italic>&#x3bc;</italic>m and, for the first time, around 4.6&#x2009;<italic>&#x3bc;</italic>m was clearly observed in two 2G2S fibers doped with erbium ions under laser pumping at 804&#x2009;nm. In Figure <xref ref-type="fig" rid="fig4">4</xref> are reported the fluorescence intensities in (a) near-IR and (b) mid-IR emission bands with 804 nm laser pumping of a 1000&#x2009;ppm <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M27"><mml:msup><mml:mrow><mml:mtext>Er</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">3</mml:mn><mml:mo>+</mml:mo></mml:mrow></mml:msup><mml:mtext>-</mml:mtext></mml:math></inline-formula>doped 2S2G glass. </p>
+      <fig-group id="fig4">
+        <caption>
+          <p>Fluorescence spectra of 1000&#x2009;ppm Er-doped 2S2G glasses pumped at 804&#x2009;nm. (a) 1.5 and 1.7&#x2009;<italic>&#x3bc;</italic>m emissions and (b) 4.5&#x2009;<italic>&#x3bc;</italic>m emission from a bulk glass, 20&#x2009;cm of a 400&#x2009;<italic>&#x3bc;</italic>m diameter monoindex fiber, and 20&#x2009;cm of a 60&#x2009;<italic>&#x3bc;</italic>m core diameter double index fiber [<xref ref-type="bibr" rid="B24">24</xref>].</p></caption>
+        <fig id="fig4a">
+          <label>(a)</label>
+          <graphic xlink:href="575818.fig.004a" /></fig>
+        <fig id="fig4b">
+          <label>(b)</label>
+          <graphic xlink:href="575818.fig.004b" /></fig></fig-group>
+      <p>The design and refinement criteria pertaining to the chalcogenide erbium-doped PCF amplifier based on a 2S2G glass, allowing the operation at 4.5&#x2009;<italic>&#x3bc;</italic>m, were illustrated in [<xref ref-type="bibr" rid="B26">26</xref>]. The absorption cross-section spectrum employed in the simulation has been experimentally measured. In particular, the fluorescence spectrum of <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M28"><mml:mrow><mml:msup><mml:mrow><mml:mtext>Er</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">3</mml:mn><mml:mo>+</mml:mo></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula> ions around 4.5&#x2009;m is experimentally recorded for a 10000&#x2009;ppm-doped chalcogenide glass and the emission cross section of the <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M29"><mml:msup><mml:mrow /><mml:mrow><mml:mn mathvariant="normal">4</mml:mn></mml:mrow></mml:msup><mml:msub><mml:mrow><mml:mtext>I</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">9</mml:mn><mml:mo>/</mml:mo><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msub><mml:mo>&#x2192;</mml:mo><mml:msup><mml:mrow /><mml:mrow><mml:mn mathvariant="normal">4</mml:mn></mml:mrow></mml:msup><mml:msub><mml:mrow><mml:mtext>I</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">11</mml:mn><mml:mo>/</mml:mo><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msub></mml:math></inline-formula> transition is then calculated using the Fuchtbauer-Ladenburg relation. High-gain PCF amplifier with gain values close to 30&#x2009;dB, with a low value of noise figure and reduced  fiber length has been theoretically demonstrated. A good amplification in the range 4.4&#x2013;4.7&#x2009;<italic>&#x3bc;</italic>m was calculated; thus the amplifier, opportunely optimized, could be employed in multichannel amplification application. These theoretical and experimental results demonstrate the suitability and goodness of the 2S2G chalcogenide glass as an attractive candidate to construct fiber amplifiers operating in the mid-IR spectral region. </p>
+      <p>The technological improvement in drawing chalcogenide fibers is an important research goal since soft glasses exhibit several drawbacks  with respect to more conventional materials as silica or fluoride glasses. As an example, a  new route to chalcogenide glass <italic>microstructured optical fibers</italic> (MOFs)  was illustrated in [<xref ref-type="bibr" rid="B29">29</xref>]. The work demonstrated a flexible technology of great potential for new fiber devices from the far-visible to midinfrared. The approach was both scalable and adaptable. In particular, an As<sub>40</sub> Se<sub>60</sub> glass tube of 3.8&#x2009;mm/10&#x2009;mm internal diameter/outer diameter was cast by rotation. Into this tube were stacked eight fibers: one As Se fiber was located centrally to obtain the core; seven Ge As Se-As Se core-cladding (core-clad) fibers that were stacked around the core fiber. The aforesaid core-clad fibers were drawn from a preform prepared by coextrusion. The microstructured preform was drawn down to MOF. </p>
+      <p>The refinement of novel technological routes, developed even in other application fields, for example nonlinear optics, could find application also in the field of lasing\amplification. In   [<xref ref-type="bibr" rid="B30">30</xref>] the authors presented a detailed design of a highly nonlinear chalcogenide core tellurite cladding composite microstructured fiber. The fabrication procedure for the microstructured fiber was illustrated. The applications to nonlinear phenomena were demonstrated by mean of a supercontinuum generation experiment. The application of nonlinear optics to lasing is apparent in the case of Raman amplification. The operation of a chalcogenide glass Raman fiber laser was reported in [<xref ref-type="bibr" rid="B31">31</xref>]. In the aforesaid work, to mitigate photoinduced effects and minimize impurity absorption, a 2051&#x2009;nm <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M30"><mml:mrow><mml:msup><mml:mrow><mml:mtext>Tm</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">3</mml:mn><mml:mo>+</mml:mo></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula>-doped silica fiber laser was employed as the pump source. First Stokes emission at 2062&#x2009;nm was produced, an output power of 0.64&#x2009;W and a slope efficiency of <italic>&#x7e;</italic>66&#x25;. Second Stokes output at 2074&#x2009;nm was produced when the fiber length was extended.</p>
+    </sec>
+    <sec id="sec3">
+      <title>3. Chalcogenide Photonic Crystal Fiber for Midinfrared Sources</title>
+      <p>In medical and surgical applications the output laser properties such as power and wavelength are important aspects to be recognized. Beyond these ones, other practical quantities such as size, maintenance level, and input power requirements are essential features to be taken into account for a widespread use of the laser in the medical community. Moreover, other laser characteristics such as beam quality may be important for applications requiring precise and efficient ablation of hard and soft biological materials [<xref ref-type="bibr" rid="B32">32</xref>&#x2013;<xref ref-type="bibr" rid="B34">34</xref>].</p>
+      <p>The recent technological progress in the development of lasing materials, in the fabrication of sophisticated optical fibers, and in the fabrication of beam-shaped high-power diode laser has positioned the infrared fiber laser as one of the most promising technologies in bioscience and medicine. In surgery: cardiology bloodless operations, on abdominal and thoracic organs, skull and brain microsurgery, corneal surgery. In diagnostics: endoscopic investigations, confocal scanning microscopy and optical coherence tomography. In therapy: the treatment of cancer, spider veins, and vascular dysfunction. In cosmetics and aesthetic medicine: smoothing wrinkles, resurfacing the skin, and bleaching tattoos [<xref ref-type="bibr" rid="B35">35</xref>]. Therefore, due to their inherent flexibility of physical principles and design, fiber lasers have enormous potential to bring new opportunities to biophotonics and biosciences.</p>
+      <p>Generally, a lot of medical applications require the midinfrared wavelengths, in the range <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M31"><mml:mn>2</mml:mn><mml:mo>&#xf7;</mml:mo><mml:mn>10</mml:mn></mml:math></inline-formula>&#x2009;<italic>&#x3bc;</italic>m. In particular, laser emitting in the 2-3&#x2009;<italic>&#x3bc;</italic>m range has gained, in recent years, strong attention for accurate cutting, welding, removing, and coagulating of soft and hard biological tissues. Moreover, mid-IR laser is a promising technology for the study of biomolecules because most of these ones have a specific absorption in the mid-IR wavelength range, and the photon energies are an order of magnitude lower than those of UV lasers. Significant efforts have been done to develop mid-IR fiber lasers and amplifiers, but the high cost of fabricating fibers with sufficiently low losses in such wavelength range has slowed down the research efforts in this field. This is probably due to a lack of host materials having wide optical transparency, good drawing ability, low phonon energies of the glass matrix, good rare-earth solubility, suitable environmental durability, and mechanical properties.</p>
+      <p>Advances in the development of rare-earth-doped optical fiber based on chalcogenide glasses have dramatically pushed progress in mid-IR laser devices. In particular, the good midinfrared transparency permits them to scan the entire spectral range of biomolecules and the chalcogenide glass resistance to the chemical corrosion results in good biocompatibility with biological components.</p>
+      <p>The feasibility of a novel <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M32"><mml:msup><mml:mrow><mml:mtext>Er</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">3</mml:mn><mml:mo>+</mml:mo></mml:mrow></mml:msup><mml:mtext>-</mml:mtext></mml:math></inline-formula>doped chalcogenide PCF laser, operating at 4.5&#x2009;<italic>&#x3bc;</italic>m, was shown [<xref ref-type="bibr" rid="B36">36</xref>]. In order to increase the pump efficiency, a theoretical investigation of an innovative cascade laser source operating at 4.5&#x2009;m and 2.7&#x2009;<italic>&#x3bc;</italic>m is performed by using the erbium ion concentration <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M33"><mml:msub><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mtext>Er</mml:mtext></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn mathvariant="normal">7</mml:mn><mml:mo>&#xd7;</mml:mo><mml:msup><mml:mrow><mml:mn mathvariant="normal">10</mml:mn></mml:mrow><mml:mrow><mml:mn mathvariant="normal">26</mml:mn></mml:mrow></mml:msup></mml:math></inline-formula>&#x2009;ions/m<sup>3</sup>. Both erbium concentration and fiber length were optimized to provide the maximization of the output power for both two signal wavelengths. In particular, the numerical results indicated that a laser characterized by a slope efficiency close to the maximum theoretical one, low threshold pump power, short fiber length, and a wide tunability in the mid-IR wavelength range can be obtained. In conclusion, both the theoretical and experimental results demonstrated the suitability of the 2S2G chalcogenide glass as a very attractive candidate to construct fiber laser sources and amplifiers operating in the mid-IR spectral region. Moreover, the feasibility of a novel <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M34"><mml:msup><mml:mrow><mml:mtext>Er</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">3</mml:mn><mml:mo>+</mml:mo></mml:mrow></mml:msup><mml:mtext>-</mml:mtext></mml:math></inline-formula>doped 2S2G chalcogenide fiber laser, pumped at the wavelength 806&#x2009;nm, designed in order to obtain high performance at the wavelength 4.5&#x2009;<italic>&#x3bc;</italic>m, is investigated in [<xref ref-type="bibr" rid="B37">37</xref>]. In particular, the developed numerical code takes into account the erbium energy levels lifetimes, the emission and absorption cross section measured on 10000&#x2009;ppm <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M35"><mml:msup><mml:mrow><mml:mtext>Er</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">3</mml:mn><mml:mo>+</mml:mo></mml:mrow></mml:msup><mml:mtext>-</mml:mtext></mml:math></inline-formula>doped 2S2G preliminary sample. The large potential of chalcogenide glass was also highlighted in the review work [<xref ref-type="bibr" rid="B38">38</xref>], where it was briefly illustrated that the fiber laser configuration offers better beam quality than competing technologies, for example, than quantum cascade lasers and transition-metal-doped selenides, and more versatility for pulsed operation.</p>
+      <p>The performance of a continuous-wave Dy: GeAsGaSe chalcogenide glass fiber laser, in cascade configuration, operating at 4.2&#x2013;4.7&#x2009;m, was investigated via numerical modeling in [<xref ref-type="bibr" rid="B39">39</xref>]. Pump light at 1710&#x2009;nm was coupled into the Dy: GeAsGaSe chalcogenide glass fiber. The  Dy ions were promoted to the level <sup>6</sup>H<sub>11/2</sub>. Fluorescence from level <sup>6</sup>H<sub>11/2</sub> to the level <sup>6</sup>H<sub>13/2</sub> occurring between 4000 and 4800&#x2009;nm was exploited to obtain the lasing via two fiber Bragg gratings. In addition, the other fluorescence from level <sup>6</sup>H<sub>13/2</sub> to the ground state occurring between 2700 and 3400&#x2009;nm and the simultaneous lasing were considered by using two additional fiber Bragg gratings with the aim to improve 4600&#x2009;nm emission. Figure <xref ref-type="fig" rid="fig5">5</xref> illustrates the output power versus the input pump power for a fiber length <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M36"><mml:mi>L</mml:mi><mml:mo>=</mml:mo><mml:mn>2.1</mml:mn></mml:math></inline-formula>&#x2009;m and propagation loss of 1&#x2009;dB/m at all wavelengths. The inset highlights that the slope efficiency strongly can be strongly increased when the idler reaches 0.2&#x2009;W. </p>
+      <fig id="fig5">
+        <label>Figure 5</label>
+        <caption>
+          <p>Simulated output power with respect to incident pump power. With idler output (dark solid curve) abruptly increases. With no idler (dotted curve) [<xref ref-type="bibr" rid="B39">39</xref>].</p></caption>
+        <graphic xlink:href="575818.fig.005" /></fig>
+      <p>A better understanding of the local RE-ion environment to obviate unwanted nonradiative decay will permit to improve chalcogenide laser performance. Also a better understanding of the impact of host chalcogenide glass native defects on the doped RE-ion fluorescence could be a key element to obtain more efficient chalcogenide lasers.</p>
+      <p>It is well known that soft glasses as tellurite, bismuth-oxide-based glasses, and chalcogenide glasses have intrinsic nonlinearities from 10 to 100 times than those of silica glass [<xref ref-type="bibr" rid="B39">39</xref>]. Moreover, the Raman gain coefficients of chalcogenide glass fibers are very high, &#x7e;300 times than that of silica fibers, and the Brillouin gain coefficient is more than 2 orders of magnitude higher than that of silica-based fibers. They show low linear absorption, low two-photon absorption, and fast response time because of the absence of the free-carrier effects [<xref ref-type="bibr" rid="B30">30</xref>]. As a result, optical fibers made of such glasses, especially, chalcogenide glasses, are highly applicable for generating mid-IR nonlinear phenomena, short active fiber devices and achieving fiber Raman and Brillouin lasers [<xref ref-type="bibr" rid="B30">30</xref>, <xref ref-type="bibr" rid="B41">40</xref>&#x2013;<xref ref-type="bibr" rid="B44">43</xref>].</p>
+      <p>Nonlinear optical processes such as four-wave mixing, parametric oscillation, and supercontinuum generation require high nonlinearity and zero or low group velocity dispersion for applying in the efficient low power, short-length fiber devices. Moreover, the group velocity dispersion is due by both the material and waveguide dispersion. Generally, because of the high refractive index, the dispersion of chalcogenide glasses originates mainly from the material dispersion and the zero-dispersion wavelength lies in the IR region, at longer wavelengths compared to silica and far from the wavelengths of conventional fiber-based pump lasers. Consequently, the use of nonsilica fibers to develop supercontinuum  sources having an efficient spectral broadening up to the mid-IR often requires expensive and high-power pump lasers. The photonic crystal fiber technology seems to be a potential solution to these drawbacks since the design flexibility of the microstructure in the transverse plane can help the tuning of the chromatic dispersion, dispersion slope, relative dispersion slope, and zero-dispersion wavelength in a way which cannot be achieved by using conventional fibers. In fact, the number of holes, their sizes, shapes, orientations, and placements, as well as the nature of the bulk dielectric material and the refractive index of the inclusions can provide a number of possible variations enabling a fine control of the waveguide dispersion characteristics. In this way, the zero-dispersion wavelength can be tuned below 2&#x2009;<italic>&#x3bc;</italic>m where cheaper diode-pumped solid-state lasers are commercially available. Recently, a midinfrared extension of supercontinuum has been experimentally demonstrated by using a suspended core chalcogenide fiber [<xref ref-type="bibr" rid="B45">44</xref>]. In particular, it has shown that by using a low-cost optical quasi-CW source at 1.53&#x2009;<italic>&#x3bc;</italic>m, it is possible to extend a silica-based supercontinuum beyond 2.4&#x2009;<italic>&#x3bc;</italic>m through the generation of a soliton gas inside an highly nonlinear silica fiber and its injection beyond the ZDW in a 50&#x2009;cm-long chalcogenide suspended core PCF. Highly nonlinear chalcogenide core tellurite cladding composite microstructured fiber has been carefully designed and fabricated in order to achieve the zero-flattened chromatic dispersion with zero slope of the dispersion curve at 1.55&#x2009;<italic>&#x3bc;</italic>m [<xref ref-type="bibr" rid="B30">30</xref>]. In particular, the nonlinear coefficient for the fabricated fiber is 9.3&#x2009;m<sup>&#x2212;1</sup>&#x2009;W<sup>&#x2212;1</sup> at 1.55&#x2009;<italic>&#x3bc;</italic>m. In addition, a supercontinuum spectrum of 20&#x2009;dB bandwidth covering 0.80&#x2013;2.40&#x2009;<italic>&#x3bc;</italic>m was generated by this fiber.</p></sec>
+    <sec id="sec4">
+      <title>4.  Conclusion</title>
+      <p>The progress and the challenges, in fabricating rare-earth-doped chalcogenide-glass fibers for developing midinfrared fiber amplifiers and lasers, have been reviewed. Potential applications of midinfrared fiber lasers have been recalled. In particular, biomedicine and sensing will be strongly favored by these devices. New communication and remote sensing systems operating in unexplored atmosphere wavelength windows could become feasible. Further efforts in technology and glass purity will permit to obtain more efficient amplification and lasing and to fabricate reliable devices for the market.</p></sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="B1" content-type="book">
+        <label>1</label>
+        <nlm-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ebrahim-Zadeh</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Sorokina</surname>
+              <given-names>I. T.</given-names></name>
+          </person-group>
+          <source>
+            <italic>Mid-Infrared Coherent Sources and Applications</italic></source>
+          <year>2008</year>
+          <publisher-loc>Barcelona, Spain</publisher-loc>
+          <publisher-name>Springer</publisher-name></nlm-citation>
+      </ref>
+      <ref id="B2" content-type="book">
+        <label>2</label>
+        <nlm-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sorokina</surname>
+              <given-names>I. T.</given-names></name>
+            <name>
+              <surname>Vodopyanov</surname>
+              <given-names>K. L.</given-names></name>
+          </person-group>
+          <source>
+            <italic>Solid-State Mid-Infrared Laser Sources</italic></source>
+          <year>2003</year>
+          <publisher-loc>Berlin, Germany</publisher-loc>
+          <publisher-name>Springer</publisher-name></nlm-citation>
+      </ref>
+      <ref id="B3" content-type="article">
+        <label>3</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhu</surname>
+              <given-names>X.</given-names></name>
+            <name>
+              <surname>Jain</surname>
+              <given-names>R.</given-names></name>
+          </person-group>
+          <article-title>10-W-level diode-pumped compact 2.78&#x2009;<italic>&#x3bc;</italic>m ZBLAN fiber laser</article-title>
+          <source>
+            <italic>Optics Letters</italic></source>
+          <year>2007</year>
+          <volume>32</volume>
+          <issue>1</issue>
+          <fpage>26</fpage>
+          <lpage>28</lpage>
+          <pub-id pub-id-type="other">2-s2.0-33846975450</pub-id>
+          <pub-id pub-id-type="doi">10.1364/OL.32.000026</pub-id></nlm-citation>
+      </ref>
+      <ref id="B4" content-type="article">
+        <label>4</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Faucher</surname>
+              <given-names>D.</given-names></name>
+            <name>
+              <surname>Bernier</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Androz</surname>
+              <given-names>G.</given-names></name>
+            <name>
+              <surname>Caron</surname>
+              <given-names>N.</given-names></name>
+            <name>
+              <surname>Vall&#xe9;e</surname>
+              <given-names>R.</given-names></name>
+          </person-group>
+          <article-title>20&#x2009;W passively cooled single-mode all-fiber laser at 2.8&#x2009;<italic>&#x3bc;</italic>m</article-title>
+          <source>
+            <italic>Optics Letters</italic></source>
+          <year>2011</year>
+          <volume>36</volume>
+          <issue>7</issue>
+          <fpage>1104</fpage>
+          <lpage>1106</lpage>
+          <pub-id pub-id-type="other">2-s2.0-79956136753</pub-id>
+          <pub-id pub-id-type="doi">10.1364/OL.36.001104</pub-id></nlm-citation>
+      </ref>
+      <ref id="B5" content-type="article">
+        <label>5</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jackson</surname>
+              <given-names>S. D.</given-names></name>
+          </person-group>
+          <article-title>Midinfrared holmium fiber lasers</article-title>
+          <source>
+            <italic>IEEE Journal of Quantum Electronics</italic></source>
+          <year>2006</year>
+          <volume>42</volume>
+          <issue>2</issue>
+          <fpage>187</fpage>
+          <lpage>191</lpage>
+          <pub-id pub-id-type="other">2-s2.0-33847340736</pub-id>
+          <pub-id pub-id-type="doi">10.1109/JQE.2005.861824</pub-id></nlm-citation>
+      </ref>
+      <ref id="B6" content-type="article">
+        <label>6</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jackson</surname>
+              <given-names>S. D.</given-names></name>
+          </person-group>
+          <article-title>Single-transverse-mode 2.5&#x2009;W holmium-doped fluoride fiber laser operating at 2.86&#x2009;<italic>&#x3bc;</italic>m</article-title>
+          <source>
+            <italic>Optics Letters</italic></source>
+          <year>2004</year>
+          <volume>29</volume>
+          <issue>4</issue>
+          <fpage>334</fpage>
+          <lpage>336</lpage>
+          <pub-id pub-id-type="other">2-s2.0-1242265188</pub-id></nlm-citation>
+      </ref>
+      <ref id="B7" content-type="article">
+        <label>7</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jackson</surname>
+              <given-names>S. D.</given-names></name>
+          </person-group>
+          <article-title>High-power and highly efficient diode-claddingpumped holmium-doped fluoride fiber laser operating at 2.94&#x2009;<italic>&#x3bc;</italic>m</article-title>
+          <source>
+            <italic>Optics Letters</italic></source>
+          <year>2009</year>
+          <volume>34</volume>
+          <issue>15</issue>
+          <fpage>2327</fpage>
+          <lpage>2329</lpage>
+          <pub-id pub-id-type="other">2-s2.0-68149181430</pub-id>
+          <pub-id pub-id-type="doi">10.1364/OL.34.002327</pub-id></nlm-citation>
+      </ref>
+      <ref id="B8" content-type="article">
+        <label>8</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Diening</surname>
+              <given-names>A.</given-names></name>
+            <name>
+              <surname>M&#xf6;bert</surname>
+              <given-names>P. E. A.</given-names></name>
+            <name>
+              <surname>Heumann</surname>
+              <given-names>E.</given-names></name>
+            <name>
+              <surname>Huber</surname>
+              <given-names>G.</given-names></name>
+            <name>
+              <surname>Chai</surname>
+              <given-names>B. H. T.</given-names></name>
+          </person-group>
+          <article-title>Diode-pumped cw lasing of Yb, Ho : KYF<sub>4</sub> in the 3&#x2009;<italic>&#x3bc;</italic>m spectral range in comparison to Er : KYF<sub>4</sub></article-title>
+          <source>
+            <italic>Laser Physics</italic></source>
+          <year>1998</year>
+          <volume>8</volume>
+          <issue>1</issue>
+          <fpage>214</fpage>
+          <lpage>217</lpage>
+          <pub-id pub-id-type="other">2-s2.0-16644384768</pub-id></nlm-citation>
+      </ref>
+      <ref id="B9" content-type="article">
+        <label>9</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsang</surname>
+              <given-names>Y. H.</given-names></name>
+            <name>
+              <surname>El-Taher</surname>
+              <given-names>A. E.</given-names></name>
+            <name>
+              <surname>King</surname>
+              <given-names>T. A.</given-names></name>
+            <name>
+              <surname>Jackson</surname>
+              <given-names>S. D.</given-names></name>
+          </person-group>
+          <article-title>Efficient 2.96&#x2009;<italic>&#x3bc;</italic>m dysprosium-doped fluoride fibre laser pumped with a Nd:YAG laser operating at 1.3&#x2009;<italic>&#x3bc;</italic>m</article-title>
+          <source>
+            <italic>Optics Express</italic></source>
+          <year>2006</year>
+          <volume>14</volume>
+          <issue>2</issue>
+          <fpage>678</fpage>
+          <lpage>685</lpage>
+          <pub-id pub-id-type="other">2-s2.0-31144478407</pub-id>
+          <pub-id pub-id-type="doi">10.1364/OPEX.14.000678</pub-id></nlm-citation>
+      </ref>
+      <ref id="B10" content-type="article">
+        <label>10</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schneider</surname>
+              <given-names>J.</given-names></name>
+          </person-group>
+          <article-title>Fluoride fibre laser operating at 3.9&#x2009;<italic>&#x3bc;</italic>m</article-title>
+          <source>
+            <italic>Electronics Letters</italic></source>
+          <year>1995</year>
+          <volume>31</volume>
+          <issue>15</issue>
+          <fpage>1250</fpage>
+          <lpage>1251</lpage>
+          <pub-id pub-id-type="other">2-s2.0-0029342309</pub-id>
+          <pub-id pub-id-type="doi">10.1049/el:19950858</pub-id></nlm-citation>
+      </ref>
+      <ref id="B11" content-type="article">
+        <label>11</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carbonnier</surname>
+              <given-names>C.</given-names></name>
+            <name>
+              <surname>T&#xf6;bben</surname>
+              <given-names>H.</given-names></name>
+            <name>
+              <surname>Unrau</surname>
+              <given-names>U. B.</given-names></name>
+          </person-group>
+          <article-title>Room temperature CW fibre laser at 3.22&#x2009;<italic>&#x3bc;</italic>m</article-title>
+          <source>
+            <italic>Electronics Letters</italic></source>
+          <year>1998</year>
+          <volume>34</volume>
+          <issue>9</issue>
+          <fpage>893</fpage>
+          <lpage>894</lpage>
+          <pub-id pub-id-type="other">2-s2.0-0032045693</pub-id></nlm-citation>
+      </ref>
+      <ref id="B12" content-type="article">
+        <label>12</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Toebben</surname>
+              <given-names>H.</given-names></name>
+          </person-group>
+          <article-title>CW lasing at 3.45&#x2009;<italic>&#x3bc;</italic>m in erbium-doped fluorozirconate fibres</article-title>
+          <source>
+            <italic>Frequenz</italic></source>
+          <year>1991</year>
+          <volume>45</volume>
+          <issue>9-10</issue>
+          <fpage>250</fpage>
+          <lpage>252</lpage>
+          <pub-id pub-id-type="other">2-s2.0-0026222323</pub-id></nlm-citation>
+      </ref>
+      <ref id="B13" content-type="article">
+        <label>13</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schneider</surname>
+              <given-names>J.</given-names></name>
+            <name>
+              <surname>Carbonnier</surname>
+              <given-names>C.</given-names></name>
+            <name>
+              <surname>Unrau</surname>
+              <given-names>U. B.</given-names></name>
+          </person-group>
+          <article-title>Characterization of a Ho<sup>3+</sup>-doped fluoride fiber laser with a 3.9-&#x2009;<italic>&#x3bc;</italic>m emission wavelength</article-title>
+          <source>
+            <italic>Applied Optics</italic></source>
+          <year>1997</year>
+          <volume>36</volume>
+          <issue>33</issue>
+          <fpage>8595</fpage>
+          <lpage>8600</lpage>
+          <pub-id pub-id-type="other">2-s2.0-0011700588</pub-id></nlm-citation>
+      </ref>
+      <ref id="B14" content-type="article">
+        <label>14</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shaw</surname>
+              <given-names>L. B.</given-names></name>
+            <name>
+              <surname>Cole</surname>
+              <given-names>B.</given-names></name>
+            <name>
+              <surname>Thielen</surname>
+              <given-names>P. A.</given-names></name>
+            <name>
+              <surname>Sanghera</surname>
+              <given-names>J. S.</given-names></name>
+            <name>
+              <surname>Aggarwal</surname>
+              <given-names>I. D.</given-names></name>
+          </person-group>
+          <article-title>Mid-wave IR and long-wave IR laser potential of rare-earth doped chalcogenide glass fiber</article-title>
+          <source>
+            <italic>IEEE Journal of Quantum Electronics</italic></source>
+          <year>2001</year>
+          <volume>37</volume>
+          <issue>9</issue>
+          <fpage>1127</fpage>
+          <lpage>1137</lpage>
+          <pub-id pub-id-type="other">2-s2.0-0035444815</pub-id>
+          <pub-id pub-id-type="doi">10.1109/3.945317</pub-id></nlm-citation>
+      </ref>
+      <ref id="B15" content-type="article">
+        <label>15</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sanghera</surname>
+              <given-names>J. S.</given-names></name>
+            <name>
+              <surname>Shaw</surname>
+              <given-names>L. B.</given-names></name>
+            <name>
+              <surname>Aggarwal</surname>
+              <given-names>I. D.</given-names></name>
+          </person-group>
+          <article-title>Chalcogenide glass-fiber-based mid-IR sources and applications</article-title>
+          <source>
+            <italic>IEEE Journal on Selected Topics in Quantum Electronics</italic></source>
+          <year>2009</year>
+          <volume>15</volume>
+          <issue>1</issue>
+          <fpage>114</fpage>
+          <lpage>119</lpage>
+          <pub-id pub-id-type="other">2-s2.0-60049095031</pub-id>
+          <pub-id pub-id-type="doi">10.1109/JSTQE.2008.2010245</pub-id></nlm-citation>
+      </ref>
+      <ref id="B16" content-type="article">
+        <label>16</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fatome</surname>
+              <given-names>J.</given-names></name>
+            <name>
+              <surname>Fortier</surname>
+              <given-names>C.</given-names></name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>T. N.</given-names></name>
+            <etal /></person-group>
+          <article-title>Linear and nonlinear characterizations of chalcogenide photonic crystal fibers</article-title>
+          <source>
+            <italic>Journal of Lightwave Technology</italic></source>
+          <year>2009</year>
+          <volume>27</volume>
+          <fpage>1707</fpage>
+          <lpage>1715</lpage></nlm-citation>
+      </ref>
+      <ref id="B17" content-type="article">
+        <label>17</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>El-Amraoui</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Gadret</surname>
+              <given-names>G.</given-names></name>
+            <name>
+              <surname>Jules</surname>
+              <given-names>J. C.</given-names></name>
+            <name>
+              <surname>Fatome</surname>
+              <given-names>J.</given-names></name>
+            <name>
+              <surname>Fortier</surname>
+              <given-names>C.</given-names></name>
+            <name>
+              <surname>D&#xe9;s&#xe9;v&#xe9;davy</surname>
+              <given-names>F.</given-names></name>
+            <name>
+              <surname>Skripatchev</surname>
+              <given-names>I.</given-names></name>
+            <name>
+              <surname>Messaddeq</surname>
+              <given-names>Y.</given-names></name>
+            <name>
+              <surname>Troles</surname>
+              <given-names>J.</given-names></name>
+            <name>
+              <surname>Brilland</surname>
+              <given-names>L.</given-names></name>
+            <name>
+              <surname>Gao</surname>
+              <given-names>W.</given-names></name>
+            <name>
+              <surname>Suzuki</surname>
+              <given-names>T.</given-names></name>
+            <name>
+              <surname>Ohishi</surname>
+              <given-names>Y.</given-names></name>
+            <name>
+              <surname>Smektala</surname>
+              <given-names>F.</given-names></name>
+          </person-group>
+          <article-title>Microstructured chalcogenide optical fibers from As2S 3 glass: Towards new IR broadband sources</article-title>
+          <source>
+            <italic>Optics Express</italic></source>
+          <year>2010</year>
+          <volume>18</volume>
+          <issue>25</issue>
+          <fpage>26655</fpage>
+          <lpage>26665</lpage>
+          <pub-id pub-id-type="other">2-s2.0-78650063459</pub-id>
+          <pub-id pub-id-type="doi">10.1364/OE.18.026655</pub-id></nlm-citation>
+      </ref>
+      <ref id="B18" content-type="article">
+        <label>18</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Caricato</surname>
+              <given-names>A. P.</given-names></name>
+            <name>
+              <surname>De Sario</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Fern&#xe1;ndez</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Leggieri</surname>
+              <given-names>G.</given-names></name>
+            <name>
+              <surname>Luches</surname>
+              <given-names>A.</given-names></name>
+            <name>
+              <surname>Martino</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Prudenzano</surname>
+              <given-names>F.</given-names></name>
+          </person-group>
+          <article-title>Pulsed laser deposition of materials for optoelectronic applications</article-title>
+          <source>
+            <italic>Applied Surface Science</italic></source>
+          <year>2002</year>
+          <volume>197-198</volume>
+          <fpage>458</fpage>
+          <lpage>462</lpage>
+          <pub-id pub-id-type="other">2-s2.0-0036427448</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0169-4332(02)00363-X</pub-id></nlm-citation>
+      </ref>
+      <ref id="B19" content-type="article">
+        <label>19</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brilland</surname>
+              <given-names>L.</given-names></name>
+            <name>
+              <surname>Smektala</surname>
+              <given-names>F.</given-names></name>
+            <name>
+              <surname>Renversez</surname>
+              <given-names>G.</given-names></name>
+            <name>
+              <surname>Chartier</surname>
+              <given-names>T.</given-names></name>
+            <name>
+              <surname>Troles</surname>
+              <given-names>J.</given-names></name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>T. N.</given-names></name>
+            <name>
+              <surname>Traynor</surname>
+              <given-names>N.</given-names></name>
+            <name>
+              <surname>Monteville</surname>
+              <given-names>A.</given-names></name>
+          </person-group>
+          <article-title>Fabrication of complex structures of Holey Fibers in Chalcogenide glass</article-title>
+          <source>
+            <italic>Optics Express</italic></source>
+          <year>2006</year>
+          <volume>14</volume>
+          <issue>3</issue>
+          <fpage>1280</fpage>
+          <lpage>1285</lpage>
+          <pub-id pub-id-type="other">2-s2.0-32644453682</pub-id>
+          <pub-id pub-id-type="doi">10.1364/OE.14.001280</pub-id></nlm-citation>
+      </ref>
+      <ref id="B20" content-type="article">
+        <label>20</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Monro</surname>
+              <given-names>T. M.</given-names></name>
+            <name>
+              <surname>West</surname>
+              <given-names>Y. D.</given-names></name>
+            <name>
+              <surname>Hewak</surname>
+              <given-names>D. W.</given-names></name>
+            <name>
+              <surname>Broderick</surname>
+              <given-names>N. G. R.</given-names></name>
+            <name>
+              <surname>Richardson</surname>
+              <given-names>D. J.</given-names></name>
+          </person-group>
+          <article-title>Chalcogenide holey fibres</article-title>
+          <source>
+            <italic>Electronics Letters</italic></source>
+          <year>2000</year>
+          <volume>36</volume>
+          <issue>24</issue>
+          <fpage>1998</fpage>
+          <lpage>2000</lpage>
+          <pub-id pub-id-type="other">2-s2.0-0034315004</pub-id>
+          <pub-id pub-id-type="doi">10.1049/el:20001394</pub-id></nlm-citation>
+      </ref>
+      <ref id="B21" content-type="article">
+        <label>21</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>D&#xe9;s&#xe9;v&#xe9;davy</surname>
+              <given-names>F.</given-names></name>
+            <name>
+              <surname>Renversez</surname>
+              <given-names>G.</given-names></name>
+            <name>
+              <surname>Brilland</surname>
+              <given-names>L.</given-names></name>
+            <name>
+              <surname>Houizot</surname>
+              <given-names>P.</given-names></name>
+            <name>
+              <surname>Troles</surname>
+              <given-names>J.</given-names></name>
+            <name>
+              <surname>Coulombier</surname>
+              <given-names>Q.</given-names></name>
+            <name>
+              <surname>Smektala</surname>
+              <given-names>F.</given-names></name>
+            <name>
+              <surname>Traynor</surname>
+              <given-names>N.</given-names></name>
+            <name>
+              <surname>Adam</surname>
+              <given-names>J. L.</given-names></name>
+          </person-group>
+          <article-title>Small-core chalcogenide microstructured fibers for the infrared</article-title>
+          <source>
+            <italic>Applied Optics</italic></source>
+          <year>2008</year>
+          <volume>47</volume>
+          <issue>32</issue>
+          <fpage>6014</fpage>
+          <lpage>6021</lpage>
+          <pub-id pub-id-type="other">2-s2.0-60649103677</pub-id>
+          <pub-id pub-id-type="doi">10.1364/AO.47.006014</pub-id></nlm-citation>
+      </ref>
+      <ref id="B22" content-type="article">
+        <label>22</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>C. C.</given-names></name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>F.</given-names></name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>Y. C.</given-names></name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>C.</given-names></name>
+            <name>
+              <surname>Geng</surname>
+              <given-names>R.</given-names></name>
+            <name>
+              <surname>Ning</surname>
+              <given-names>T. G.</given-names></name>
+            <name>
+              <surname>Jian</surname>
+              <given-names>S. S.</given-names></name>
+          </person-group>
+          <article-title>Single-mode operations in the large flattened mode optical fiber lasers and amplifiers</article-title>
+          <source>
+            <italic>Journal of Optics A</italic></source>
+          <year>2009</year>
+          <volume>11</volume>
+          <issue>6</issue>
+          <pub-id pub-id-type="other">2-s2.0-70449359833</pub-id>
+          <pub-id pub-id-type="doi">10.1088/1464-4258/11/6/065402</pub-id>
+          <pub-id pub-id-type="publisher-id">065402</pub-id></nlm-citation>
+      </ref>
+      <ref id="B23" content-type="article">
+        <label>23</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cucinotta</surname>
+              <given-names>A.</given-names></name>
+            <name>
+              <surname>Poli</surname>
+              <given-names>F.</given-names></name>
+            <name>
+              <surname>Selleri</surname>
+              <given-names>S.</given-names></name>
+          </person-group>
+          <article-title>Design of erbium-doped triangular photonic-crystal-fiber-based amplifiers</article-title>
+          <source>
+            <italic>IEEE Photonics Technology Letters</italic></source>
+          <year>2004</year>
+          <volume>16</volume>
+          <issue>9</issue>
+          <fpage>2027</fpage>
+          <lpage>2029</lpage>
+          <pub-id pub-id-type="other">2-s2.0-4444366394</pub-id>
+          <pub-id pub-id-type="doi">10.1109/LPT.2004.833109</pub-id></nlm-citation>
+      </ref>
+      <ref id="B24" content-type="article">
+        <label>24</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>D&#xe9;s&#xe9;v&#xe9;davy</surname>
+              <given-names>F.</given-names></name>
+            <name>
+              <surname>Renversez</surname>
+              <given-names>G.</given-names></name>
+            <name>
+              <surname>Troles</surname>
+              <given-names>J.</given-names></name>
+            <name>
+              <surname>Houizot</surname>
+              <given-names>P.</given-names></name>
+            <name>
+              <surname>Brilland</surname>
+              <given-names>L.</given-names></name>
+            <name>
+              <surname>Vasilief</surname>
+              <given-names>I.</given-names></name>
+            <name>
+              <surname>Coulombier</surname>
+              <given-names>Q.</given-names></name>
+            <name>
+              <surname>Traynor</surname>
+              <given-names>N.</given-names></name>
+            <name>
+              <surname>Smektala</surname>
+              <given-names>F.</given-names></name>
+            <name>
+              <surname>Adam</surname>
+              <given-names>J. L.</given-names></name>
+          </person-group>
+          <article-title>Chalcogenide glass hollow core photonic crystal fibers</article-title>
+          <source>
+            <italic>Optical Materials</italic></source>
+          <year>2010</year>
+          <volume>32</volume>
+          <issue>11</issue>
+          <fpage>1532</fpage>
+          <lpage>1539</lpage>
+          <pub-id pub-id-type="other">2-s2.0-78049437662</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.optmat.2010.06.016</pub-id></nlm-citation>
+      </ref>
+      <ref id="B25" content-type="article">
+        <label>25</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>De Sario</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Mescia</surname>
+              <given-names>L.</given-names></name>
+            <name>
+              <surname>Prudenzano</surname>
+              <given-names>F.</given-names></name>
+            <name>
+              <surname>Smektala</surname>
+              <given-names>F.</given-names></name>
+            <name>
+              <surname>Deseveday</surname>
+              <given-names>F.</given-names></name>
+            <name>
+              <surname>Nazabal</surname>
+              <given-names>V.</given-names></name>
+            <name>
+              <surname>Troles</surname>
+              <given-names>J.</given-names></name>
+            <name>
+              <surname>Brilland</surname>
+              <given-names>L.</given-names></name>
+          </person-group>
+          <article-title>Feasibility of Er<sup>3+</sup>-doped, Ga<sub>5</sub>Ge<sub>20</sub>Sb<sub>10</sub>S<sub>65</sub> chalcogenide microstructured optical fiber amplifiers</article-title>
+          <source>
+            <italic>Optics and Laser Technology</italic></source>
+          <year>2009</year>
+          <volume>41</volume>
+          <issue>1</issue>
+          <fpage>99</fpage>
+          <lpage>106</lpage>
+          <pub-id pub-id-type="other">2-s2.0-48649105453</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.optlastec.2008.03.007</pub-id></nlm-citation>
+      </ref>
+      <ref id="B26" content-type="article">
+        <label>26</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Prudenzano</surname>
+              <given-names>F.</given-names></name>
+            <name>
+              <surname>Mescia</surname>
+              <given-names>L.</given-names></name>
+            <name>
+              <surname>Allegretti</surname>
+              <given-names>L.</given-names></name>
+            <name>
+              <surname>De Sario</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Smektala</surname>
+              <given-names>F.</given-names></name>
+            <name>
+              <surname>Moizan</surname>
+              <given-names>V.</given-names></name>
+            <name>
+              <surname>Nazabal</surname>
+              <given-names>V.</given-names></name>
+            <name>
+              <surname>Troles</surname>
+              <given-names>J.</given-names></name>
+            <name>
+              <surname>Doualan</surname>
+              <given-names>J. L.</given-names></name>
+            <name>
+              <surname>Canat</surname>
+              <given-names>G.</given-names></name>
+            <name>
+              <surname>Adam</surname>
+              <given-names>J. L.</given-names></name>
+            <name>
+              <surname>Boulard</surname>
+              <given-names>B.</given-names></name>
+          </person-group>
+          <article-title>Simulation of mid-IR amplification in Er<sup>3+</sup>-doped chalcogenide microstructured optical fiber</article-title>
+          <source>
+            <italic>Optical Materials</italic></source>
+          <year>2009</year>
+          <volume>31</volume>
+          <issue>9</issue>
+          <fpage>1292</fpage>
+          <lpage>1295</lpage>
+          <pub-id pub-id-type="other">2-s2.0-67349145245</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.optmat.2008.10.004</pub-id></nlm-citation>
+      </ref>
+      <ref id="B27" content-type="article">
+        <label>27</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moizan</surname>
+              <given-names>V.</given-names></name>
+            <name>
+              <surname>Nazabal</surname>
+              <given-names>V.</given-names></name>
+            <name>
+              <surname>Troles</surname>
+              <given-names>J.</given-names></name>
+            <name>
+              <surname>Houizot</surname>
+              <given-names>P.</given-names></name>
+            <name>
+              <surname>Adam</surname>
+              <given-names>J. L.</given-names></name>
+            <name>
+              <surname>Doualan</surname>
+              <given-names>J. L.</given-names></name>
+            <name>
+              <surname>Moncorg&#xe9;</surname>
+              <given-names>R.</given-names></name>
+            <name>
+              <surname>Smektala</surname>
+              <given-names>F.</given-names></name>
+            <name>
+              <surname>Gadret</surname>
+              <given-names>G.</given-names></name>
+            <name>
+              <surname>Pitois</surname>
+              <given-names>S.</given-names></name>
+            <name>
+              <surname>Canat</surname>
+              <given-names>G.</given-names></name>
+          </person-group>
+          <article-title>Er<sup>3+</sup>-doped GeGaSbS glasses for mid-IR fibre laser application: synthesis and rare earth spectroscopy</article-title>
+          <source>
+            <italic>Optical Materials</italic></source>
+          <year>2008</year>
+          <volume>31</volume>
+          <issue>1</issue>
+          <fpage>39</fpage>
+          <lpage>46</lpage>
+          <pub-id pub-id-type="other">2-s2.0-50049087216</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.optmat.2008.01.005</pub-id></nlm-citation>
+      </ref>
+      <ref id="B28" content-type="article">
+        <label>28</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tahmasebi</surname>
+              <given-names>Z.</given-names></name>
+            <name>
+              <surname>Hatami</surname>
+              <given-names>M.</given-names></name>
+          </person-group>
+          <article-title>Study of the gain saturation effect on the propagation of dark soliton in Er<sup>3+</sup>-doped, Ga<sub>5</sub>Ge<sub>20</sub>Sb<sub>10</sub>S<sub>65</sub> chalcogenide fiber amplifier</article-title>
+          <source>
+            <italic>Optics Communications</italic></source>
+          <year>2011</year>
+          <volume>284</volume>
+          <issue>2</issue>
+          <fpage>656</fpage>
+          <lpage>659</lpage>
+          <pub-id pub-id-type="other">2-s2.0-78649322418</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.optcom.2010.09.044</pub-id></nlm-citation>
+      </ref>
+      <ref id="B29" content-type="article">
+        <label>29</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lian</surname>
+              <given-names>Z. G.</given-names></name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Q. Q.</given-names></name>
+            <name>
+              <surname>Furniss</surname>
+              <given-names>D.</given-names></name>
+            <name>
+              <surname>Benson</surname>
+              <given-names>T. M.</given-names></name>
+            <name>
+              <surname>Seddon</surname>
+              <given-names>A. B.</given-names></name>
+          </person-group>
+          <article-title>Solid microstructured chalcogenide glass optical fibers for the near- and mid-infrared spectral regions</article-title>
+          <source>
+            <italic>IEEE Photonics Technology Letters</italic></source>
+          <year>2009</year>
+          <volume>21</volume>
+          <issue>24</issue>
+          <fpage>1804</fpage>
+          <lpage>1806</lpage>
+          <pub-id pub-id-type="other">2-s2.0-73049104445</pub-id>
+          <pub-id pub-id-type="doi">10.1109/LPT.2009.2033208</pub-id></nlm-citation>
+      </ref>
+      <ref id="B30" content-type="article">
+        <label>30</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chaudhari</surname>
+              <given-names>C.</given-names></name>
+            <name>
+              <surname>Liao</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Suzuki</surname>
+              <given-names>T.</given-names></name>
+            <name>
+              <surname>Ohishi</surname>
+              <given-names>Y.</given-names></name>
+          </person-group>
+          <article-title>Chalcogenide core tellurite cladding composite microstructured fiber for nonlinear applications</article-title>
+          <source>
+            <italic>Journal of Lightwave Technology</italic></source>
+          <year>2012</year>
+          <volume>30</volume>
+          <issue>13</issue>
+          <fpage>2069</fpage>
+          <lpage>2076</lpage>
+          <pub-id pub-id-type="publisher-id">6179495</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-84860527225</pub-id>
+          <pub-id pub-id-type="doi">10.1109/JLT.2012.2191766</pub-id></nlm-citation>
+      </ref>
+      <ref id="B31" content-type="article">
+        <label>31</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jackson</surname>
+              <given-names>S. D.</given-names></name>
+            <name>
+              <surname>Anzueto-S&#xe1;nchez</surname>
+              <given-names>G.</given-names></name>
+          </person-group>
+          <article-title>Chalcogenide glass Raman fiber laser</article-title>
+          <source>
+            <italic>Applied Physics Letters</italic></source>
+          <year>2006</year>
+          <volume>88</volume>
+          <issue>22</issue>
+          <pub-id pub-id-type="publisher-id">221106</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-33751427702</pub-id>
+          <pub-id pub-id-type="doi">10.1063/1.2208369</pub-id></nlm-citation>
+      </ref>
+      <ref id="B32" content-type="article">
+        <label>32</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pierce</surname>
+              <given-names>M. C.</given-names></name>
+            <name>
+              <surname>Jackson</surname>
+              <given-names>S. D.</given-names></name>
+            <name>
+              <surname>Dickinson</surname>
+              <given-names>M. R.</given-names></name>
+            <name>
+              <surname>King</surname>
+              <given-names>T. A.</given-names></name>
+          </person-group>
+          <article-title>Laser-tissue interaction with a high-power 2&#x2009;<italic>&#x3bc;</italic>m fiber laser: preliminary studies with soft tissue</article-title>
+          <source>
+            <italic>Lasers in Surgery and Medicine</italic></source>
+          <year>1999</year>
+          <volume>25</volume>
+          <issue>5</issue>
+          <fpage>407</fpage>
+          <lpage>413</lpage>
+          <pub-id pub-id-type="other">2-s2.0-0033978504</pub-id>
+          <pub-id pub-id-type="doi">10.1002/(SICI)1096-9101(1999)25:5&#x3c;407::AID-LSM7&#x3e;3.0.CO;2-9</pub-id></nlm-citation>
+      </ref>
+      <ref id="B33" content-type="article">
+        <label>33</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pierce</surname>
+              <given-names>M. C.</given-names></name>
+            <name>
+              <surname>Jackson</surname>
+              <given-names>S. D.</given-names></name>
+            <name>
+              <surname>Dickinson</surname>
+              <given-names>M. R.</given-names></name>
+            <name>
+              <surname>King</surname>
+              <given-names>T. A.</given-names></name>
+            <name>
+              <surname>Sloan</surname>
+              <given-names>P.</given-names></name>
+          </person-group>
+          <article-title>Laser-tissue interaction with a continuous wave 3&#x2009;<italic>&#x3bc;</italic>m fibre laser: preliminary studies with soft tissue</article-title>
+          <source>
+            <italic>Lasers in Surgery and Medicine</italic></source>
+          <year>2000</year>
+          <volume>26</volume>
+          <issue>5</issue>
+          <fpage>491</fpage>
+          <lpage>495</lpage>
+          <pub-id pub-id-type="other">2-s2.0-0034313151</pub-id>
+          <pub-id pub-id-type="doi">10.1002/1096-9101(2000)26:5&#x3c;491::AID-LSM9&#x3e;3.0.CO;2-E</pub-id></nlm-citation>
+      </ref>
+      <ref id="B34" content-type="article">
+        <label>34</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jackson</surname>
+              <given-names>S. D.</given-names></name>
+            <name>
+              <surname>Lauto</surname>
+              <given-names>A.</given-names></name>
+          </person-group>
+          <article-title>Diode-pumped fiber lasers: a new clinical tool?</article-title>
+          <source>
+            <italic>Lasers in Surgery and Medicine</italic></source>
+          <year>2002</year>
+          <volume>30</volume>
+          <issue>3</issue>
+          <fpage>184</fpage>
+          <lpage>190</lpage>
+          <pub-id pub-id-type="other">2-s2.0-0036221327</pub-id>
+          <pub-id pub-id-type="doi">10.1002/lsm.10023</pub-id></nlm-citation>
+      </ref>
+      <ref id="B35" content-type="incollection">
+        <label>35</label>
+        <nlm-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Popov</surname>
+              <given-names>S.</given-names></name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Duarte</surname>
+              <given-names>F. J.</given-names></name>
+          </person-group>
+          <article-title>Fiber laser overview and medical applications</article-title>
+          <source>
+            <italic>Tunable Laser Applications</italic></source>
+          <year>2009</year>
+          <edition>2nd</edition>
+          <publisher-loc>Boca Raton, Fla, USA</publisher-loc>
+          <publisher-name>CRC Press</publisher-name>
+          <fpage>197</fpage>
+          <lpage>226</lpage></nlm-citation>
+      </ref>
+      <ref id="B36" content-type="article">
+        <label>36</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Prudenzano</surname>
+              <given-names>F.</given-names></name>
+            <name>
+              <surname>Mescia</surname>
+              <given-names>L.</given-names></name>
+            <name>
+              <surname>Allegretti</surname>
+              <given-names>L.</given-names></name>
+            <name>
+              <surname>Moizan</surname>
+              <given-names>V.</given-names></name>
+            <name>
+              <surname>Nazabal</surname>
+              <given-names>V.</given-names></name>
+            <name>
+              <surname>Smektala</surname>
+              <given-names>F.</given-names></name>
+          </person-group>
+          <article-title>Theoretical study of cascade laser in erbium-doped chalcogenide glass fibers</article-title>
+          <source>
+            <italic>Optical Materials</italic></source>
+          <year>2010</year>
+          <volume>33</volume>
+          <issue>2</issue>
+          <fpage>241</fpage>
+          <lpage>245</lpage>
+          <pub-id pub-id-type="other">2-s2.0-78649714688</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.optmat.2010.10.046</pub-id></nlm-citation>
+      </ref>
+      <ref id="B37" content-type="article">
+        <label>37</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Prudenzano</surname>
+              <given-names>F.</given-names></name>
+            <name>
+              <surname>Mescia</surname>
+              <given-names>L.</given-names></name>
+            <name>
+              <surname>Allegretti</surname>
+              <given-names>L. A.</given-names></name>
+            <name>
+              <surname>De Sario</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Palmisano</surname>
+              <given-names>T.</given-names></name>
+            <name>
+              <surname>Smektala</surname>
+              <given-names>F.</given-names></name>
+            <name>
+              <surname>Moizan</surname>
+              <given-names>V.</given-names></name>
+            <name>
+              <surname>Nazabal</surname>
+              <given-names>V.</given-names></name>
+            <name>
+              <surname>Troles</surname>
+              <given-names>J.</given-names></name>
+          </person-group>
+          <article-title>Design of Er<sup>3+</sup>-doped chalcogenide glass laser for MID-IR application</article-title>
+          <source>
+            <italic>Journal of Non-Crystalline Solids</italic></source>
+          <year>2009</year>
+          <volume>355</volume>
+          <issue>18-21</issue>
+          <fpage>1145</fpage>
+          <lpage>1148</lpage>
+          <pub-id pub-id-type="other">2-s2.0-66349111617</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.jnoncrysol.2009.01.051</pub-id></nlm-citation>
+      </ref>
+      <ref id="B38" content-type="article">
+        <label>38</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seddon</surname>
+              <given-names>A. B.</given-names></name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>Z.</given-names></name>
+            <name>
+              <surname>Furniss</surname>
+              <given-names>D.</given-names></name>
+            <name>
+              <surname>Sujecki</surname>
+              <given-names>S.</given-names></name>
+            <name>
+              <surname>Benson</surname>
+              <given-names>T. M.</given-names></name>
+          </person-group>
+          <article-title>Progress in rare-earth-doped mid-infrared fiber lasers</article-title>
+          <source>
+            <italic>Optics Express</italic></source>
+          <year>2010</year>
+          <volume>18</volume>
+          <issue>25</issue>
+          <fpage>26704</fpage>
+          <lpage>26719</lpage>
+          <pub-id pub-id-type="other">2-s2.0-78650058871</pub-id>
+          <pub-id pub-id-type="doi">10.1364/OE.18.026704</pub-id></nlm-citation>
+      </ref>
+      <ref id="B39" content-type="article">
+        <label>39</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Quimby</surname>
+              <given-names>R. S.</given-names></name>
+            <name>
+              <surname>Shaw</surname>
+              <given-names>L. B.</given-names></name>
+            <name>
+              <surname>Sanghera</surname>
+              <given-names>J. S.</given-names></name>
+            <name>
+              <surname>Aggarwal</surname>
+              <given-names>I. D.</given-names></name>
+          </person-group>
+          <article-title>Modeling of cascade lasing in dy:chalcogenide glass fiber laser with efficient output at 4.5&#x2009;<italic>&#x3bc;</italic>m</article-title>
+          <source>
+            <italic>IEEE Photonics Technology Letters</italic></source>
+          <year>2008</year>
+          <volume>20</volume>
+          <fpage>123</fpage>
+          <lpage>125</lpage></nlm-citation>
+      </ref>
+      <ref id="B41" content-type="article">
+        <label>40</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thielen</surname>
+              <given-names>P. A.</given-names></name>
+            <name>
+              <surname>Shaw</surname>
+              <given-names>L. B.</given-names></name>
+            <name>
+              <surname>Sanghera</surname>
+              <given-names>J. S.</given-names></name>
+            <name>
+              <surname>Aggarwal</surname>
+              <given-names>I. D.</given-names></name>
+          </person-group>
+          <article-title>Modeling of a mid-IR chalcogenide fiber Raman laser</article-title>
+          <source>
+            <italic>Optics Express</italic></source>
+          <year>2003</year>
+          <volume>11</volume>
+          <issue>24</issue>
+          <fpage>3248</fpage>
+          <lpage>3253</lpage>
+          <pub-id pub-id-type="other">2-s2.0-2942709613</pub-id></nlm-citation>
+      </ref>
+      <ref id="B42" content-type="article">
+        <label>41</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>J.</given-names></name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Y.</given-names></name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>H.</given-names></name>
+            <name>
+              <surname>Jin</surname>
+              <given-names>X.</given-names></name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>Y.</given-names></name>
+            <name>
+              <surname>Dai</surname>
+              <given-names>Z.</given-names></name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y.</given-names></name>
+          </person-group>
+          <article-title>Theoretical analysis and heat dissipation of mid-infrared chalcogenide fiber Raman laser</article-title>
+          <source>
+            <italic>Optics Communications</italic></source>
+          <year>2011</year>
+          <volume>284</volume>
+          <issue>5</issue>
+          <fpage>1278</fpage>
+          <lpage>1283</lpage>
+          <pub-id pub-id-type="other">2-s2.0-78751647253</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.optcom.2010.10.062</pub-id></nlm-citation>
+      </ref>
+      <ref id="B43" content-type="article">
+        <label>42</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tow</surname>
+              <given-names>K. H.</given-names></name>
+            <name>
+              <surname>L&#xe9;guillon</surname>
+              <given-names>Y.</given-names></name>
+            <name>
+              <surname>Besnard</surname>
+              <given-names>P.</given-names></name>
+            <name>
+              <surname>Brilland</surname>
+              <given-names>L.</given-names></name>
+            <name>
+              <surname>Troles</surname>
+              <given-names>J.</given-names></name>
+            <name>
+              <surname>Toupin</surname>
+              <given-names>P.</given-names></name>
+            <name>
+              <surname>M&#xe9;chin</surname>
+              <given-names>D.</given-names></name>
+            <name>
+              <surname>Tr&#xe9;goat</surname>
+              <given-names>D.</given-names></name>
+            <name>
+              <surname>Molin</surname>
+              <given-names>S.</given-names></name>
+          </person-group>
+          <article-title>Relative intensity noise and frequency noise of a compact Brillouin laser made of As<sub>38</sub>Se<sub>62</sub> suspended-core chalcogenide fiber</article-title>
+          <source>
+            <italic>Optics Letters</italic></source>
+          <year>2012</year>
+          <volume>37</volume>
+          <issue>7</issue>
+          <fpage>1157</fpage>
+          <lpage>1159</lpage>
+          <pub-id pub-id-type="other">2-s2.0-84859175202</pub-id>
+          <pub-id pub-id-type="doi">10.1364/OL.37.001157</pub-id></nlm-citation>
+      </ref>
+      <ref id="B44" content-type="article">
+        <label>43</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hu</surname>
+              <given-names>J.</given-names></name>
+            <name>
+              <surname>Menyuk</surname>
+              <given-names>C. R.</given-names></name>
+            <name>
+              <surname>Shaw</surname>
+              <given-names>L. B.</given-names></name>
+            <name>
+              <surname>Sanghera</surname>
+              <given-names>J. S.</given-names></name>
+            <name>
+              <surname>Aggarwal</surname>
+              <given-names>I. D.</given-names></name>
+          </person-group>
+          <article-title>Computational study of 3&#x2013;5&#x2009;<italic>&#x3bc;</italic>m source created by using supercontinuum generation in As<sub>2</sub>S<sub>3</sub> chalcogenide fibers with a pump at 2&#x2009;<italic>&#x3bc;</italic>m</article-title>
+          <source>
+            <italic>Optics Letters</italic></source>
+          <year>2010</year>
+          <volume>35</volume>
+          <issue>17</issue>
+          <fpage>2907</fpage>
+          <lpage>2909</lpage>
+          <pub-id pub-id-type="other">2-s2.0-77956311210</pub-id>
+          <pub-id pub-id-type="doi">10.1364/OL.35.002907</pub-id></nlm-citation>
+      </ref>
+      <ref id="B45" content-type="article">
+        <label>44</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fatome</surname>
+              <given-names>J.</given-names></name>
+            <name>
+              <surname>Kibler</surname>
+              <given-names>B.</given-names></name>
+            <name>
+              <surname>El-Amraoui</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Jules</surname>
+              <given-names>J. C.</given-names></name>
+            <name>
+              <surname>Gadret</surname>
+              <given-names>G.</given-names></name>
+            <name>
+              <surname>Desevedavy</surname>
+              <given-names>F.</given-names></name>
+            <name>
+              <surname>Smektala</surname>
+              <given-names>F.</given-names></name>
+          </person-group>
+          <article-title>Mid-infrared extension of supercontinuum in chalcogenide suspended core fibre through soliton gas pumping</article-title>
+          <source>
+            <italic>Electronics Letters</italic></source>
+          <year>2011</year>
+          <volume>47</volume>
+          <issue>6</issue>
+          <fpage>398</fpage>
+          <lpage>400</lpage>
+          <pub-id pub-id-type="other">2-s2.0-79957566380</pub-id>
+          <pub-id pub-id-type="doi">10.1049/el.2010.7520</pub-id></nlm-citation>
+      </ref></ref-list>
+  </back></article>

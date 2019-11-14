@@ -19,12 +19,13 @@ filters = ["has-full-text:true", "license.url"]
 licenses = list()
 
 saveJSONLocation = "/Users/vineethpenugonda/Documents/Academics/Masters/Semester III/IST 6443/Project/virtenv/JSON/"
-saveFileLocation = "/Users/vineethpenugonda/Documents/Academics/Masters/Semester III/IST 6443/Project/virtenv/Files/"
+saveFileLocation = "/Users/vineethpenugonda/Documents/Academics/Masters/Semester III/IST 6443/Project/virtenv/Files/" + query + "/"
 jsonFile = ""
 totalNoOfArticlesRetrieved = 0
 ftURLList = list()
 
 def main():
+    createFolder()
     fetchLicense()
 
     for licenseCounter in range(len(licenses)):  
@@ -70,7 +71,7 @@ def jsonParser():
     jsonMessage = jsonContent.get(("message"))
     jsonItem = jsonMessage.get(("items"))
     #print(jsonItem)
-    for item in jsonItem:
+    for item in jsonItem or []:
         links.append(item['link'])
     #print(links)
     #print("\n\n\n\n")
@@ -87,6 +88,13 @@ def jsonParser():
 
     print("\nNo Of Articles Retrieved: " + str(len(ftURLList)) + "\n")
     return len(ftURLList)
+
+def createFolder():
+    if not os.path.exists(saveFileLocation):
+        os.mkdir(saveFileLocation)
+        print("Directory " , saveFileLocation ,  " Created ")
+    else:    
+        print("Directory " , saveFileLocation ,  " already exists")
 
 def saveFile(url):
     # FILE NAME START
@@ -108,14 +116,21 @@ def saveFile(url):
 
 def parallelDownloader():
     # Download Files Parallely
-    results = ThreadPool(8).imap_unordered(saveFile, ftURLList)
+    pool = ThreadPool(6)
+    results = pool.map(saveFile, ftURLList)
     start = timer()
     for r in results:
         try:
             print("Downloaded: " + r)
+             # #close the pool and wait for the work to finish 
+            # results.close()
+            # results.join()   
         except TypeError:
             print("Downloaded: Might be a server problem.\n")
-
+    
+    #close the pool and wait for the work to finish 
+    pool.close()
+    pool.join()    
     
     print(f"Elapsed Time: {timer() - start}" + "\n")
 

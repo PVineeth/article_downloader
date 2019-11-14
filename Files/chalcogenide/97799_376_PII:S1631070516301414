@@ -1,0 +1,2535 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1631070516301414</prism:url><dc:identifier>doi:10.1016/j.crhy.2016.09.001</dc:identifier><eid>1-s2.0-S1631070516301414</eid><prism:doi>10.1016/j.crhy.2016.09.001</prism:doi><pii>S1631-0705(16)30141-4</pii><dc:title>Chalcogenide microstructured optical fibres for mid-IR applications </dc:title><prism:publicationName>Comptes Rendus Physique</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>
+               Prix Yvan Peychès 2015 de l'Académie des sciences
+            </pubType><prism:issn>16310705</prism:issn><prism:volume>18</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>19</prism:startingPage><prism:endingPage>23</prism:endingPage><prism:pageRange>19-23</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2017-01-31</prism:coverDate><prism:coverDisplayDate>January 2017</prism:coverDisplayDate><prism:copyright>© 2016 Published by Elsevier Masson SAS on behalf of Académie des sciences.</prism:copyright><prism:publisher>Published by Elsevier Masson SAS on behalf of Académie des sciences.</prism:publisher><prism:issueName>Prizes of the French Academy of Sciences 2015 / Prix de l'Académie des sciences 2015</prism:issueName><dc:creator>Trolès, Johann</dc:creator><dc:creator>Brilland, Laurent</dc:creator><dc:description>
+               Abstract
+               
+                  Compared to oxide-based glasses, vitreous materials composed of chalcogen elements (S, Se, Te) show large transparency windows in the infrared. Indeed, chalcogenide glasses can be transparent from the visible up to 
+                        12
+                        –
+                        18
+                         
+                        μm
+                     , depending on their compositions. In addition, chalcogenide glasses contain large polarisable atoms and external lone electron pairs that induce exceptional non-linear properties. Consequently, the non-linear properties can be 100 or 1000 times as high as the non-linearity of silica. An original way to obtain single-mode fibres is to design microstructured optical fibres (MOFs). These fibres present unique optical properties thanks to the high degree of freedom in the design of their geometrical structure. Various chalcogenide MOFs operating in the IR range have been elaborated in order to associate the high non-linear properties of these glasses with the original MOF properties. Indeed, chalcogenide MOFs might lead to new devices with unique optical properties in the mid-infrared domain, like multimode or endlessly single-mode transmission of light, small or large mode area fibres, highly birefringent fibres and non-linear properties for wavelength conversion or generation of supercontinuum sources.
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>Académie des Sciences</openaccessSponsorName><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Infrared fibres</dcterms:subject><dcterms:subject>Chalcogenide glasses</dcterms:subject><dcterms:subject>Microstructured optical fibres</dcterms:subject><dcterms:subject>Fibres infrarouge</dcterms:subject><dcterms:subject>Verres de chalcogénure</dcterms:subject><dcterms:subject>Fibres optiques microstructurées</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1631070516301414" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1631070516301414" rel="scidir"/></coredata><objects><object ref="gr001" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="132" size="13679">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-gr001.sml?httpAccept=%2A%2F%2A</object><object ref="gr002" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="140" size="9431">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-gr002.sml?httpAccept=%2A%2F%2A</object><object ref="gr003" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="82" size="5346">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-gr003.sml?httpAccept=%2A%2F%2A</object><object ref="gr001" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="498" height="301" size="34875">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-gr001.jpg?httpAccept=%2A%2F%2A</object><object ref="gr002" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="377" height="241" size="23504">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-gr002.jpg?httpAccept=%2A%2F%2A</object><object ref="gr003" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="725" height="272" size="38740">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-gr003.jpg?httpAccept=%2A%2F%2A</object><object ref="gr001" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1323" height="799" size="153819">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-gr001_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr002" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1001" height="640" size="92874">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-gr002_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr003" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1925" height="722" size="133134">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-gr003_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="63" height="13" size="269">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-si1.gif?httpAccept=%2A%2F%2A</object><object ref="si10" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="30" height="13" size="185">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-si10.gif?httpAccept=%2A%2F%2A</object><object ref="si11" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="34" height="13" size="205">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-si11.gif?httpAccept=%2A%2F%2A</object><object ref="si12" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="53" height="13" size="256">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-si12.gif?httpAccept=%2A%2F%2A</object><object ref="si13" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="52" height="13" size="253">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-si13.gif?httpAccept=%2A%2F%2A</object><object ref="si14" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="53" height="13" size="254">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-si14.gif?httpAccept=%2A%2F%2A</object><object ref="si15" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="53" height="13" size="258">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-si15.gif?httpAccept=%2A%2F%2A</object><object ref="si16" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="44" height="13" size="233">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-si16.gif?httpAccept=%2A%2F%2A</object><object ref="si17" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="52" height="13" size="249">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-si17.gif?httpAccept=%2A%2F%2A</object><object ref="si18" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="53" height="13" size="250">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-si18.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="60" height="13" size="265">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="63" height="13" size="267">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="33" height="13" size="200">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="107" height="13" size="384">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-si5.gif?httpAccept=%2A%2F%2A</object><object ref="si6" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="49" height="13" size="250">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-si6.gif?httpAccept=%2A%2F%2A</object><object ref="si7" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="45" height="13" size="224">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-si7.gif?httpAccept=%2A%2F%2A</object><object ref="si8" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="45" height="13" size="235">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-si8.gif?httpAccept=%2A%2F%2A</object><object ref="si9" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="33" height="13" size="205">https://api.elsevier.com/content/object/eid/1-s2.0-S1631070516301414-si9.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>85007198755</scopus-id><scopus-eid>2-s2.0-85007198755</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85007198755" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>272262</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291690</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Comptes Rendus Physique</xocs:srctitle>
+      <xocs:normalized-srctitle>COMPTESRENDUSPHYSIQUE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20161124">2016-11-24</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20161124">2016-11-24</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20170106">2017-01-06</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20170106">2017-01-06</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2017-01-04T14:28:07</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1631070516301414</xocs:eid>
+      <xocs:pii-formatted>S1631-0705(16)30141-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1631070516301414</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.crhy.2016.09.001</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1631070516X00084</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20170106">2017-01-06T05:04:05.391606-05:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20170101</xocs:date-search-begin>
+      <xocs:date-search-end>20170131</xocs:date-search-end>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1479997063">2016-11-24T14:17:43.051299Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body mmlmath affil altitemtitle articletitle auth authfirstini authfull authkeywords authlast nonengabst primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1631-0705</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>16310705</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>FACAD</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>18</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>18</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 18, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>5</xocs:sort-order>
+      <xocs:first-fp>19</xocs:first-fp>
+      <xocs:last-lp>23</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>19</xocs:first-page>
+         <xocs:last-page>23</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201701</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>January 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2017-01-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>Prizes of the French Academy of Sciences 2015 / Prix de l'Académie des sciences 2015</ce:title>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Yvan Peychès prize 2015 / Prix Yvan Peychès 2015</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>ssu</xocs:document-subtype>
+      <xocs:copyright-line>© 2016 Published by Elsevier Masson SAS on behalf of Académie des sciences.</xocs:copyright-line>
+      <xocs:normalized-article-title>CHALCOGENIDEMICROSTRUCTUREDOPTICALFIBRESFORMIDIRAPPLICATIONS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>TROLES</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Elaboration of the microstructured optical fibres</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Wavelength conversion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Infrared detection</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Mid-IR polarization maintaining optical fibre</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>6</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib31s1">
+            <xocs:ref-normalized-surname>HARBOLD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>119</xocs:ref-first-fp>
+            <xocs:ref-last-lp>121</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib32s1">
+            <xocs:ref-normalized-surname>HOUIZOT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>651</xocs:ref-first-fp>
+            <xocs:ref-last-lp>656</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib33s1">
+            <xocs:ref-normalized-surname>FU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7637</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7644</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib34s1">
+            <xocs:ref-normalized-surname>YEOM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>660</xocs:ref-first-fp>
+            <xocs:ref-last-lp>662</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib35s1">
+            <xocs:ref-normalized-surname>THIELEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3248</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3253</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib36s1">
+            <xocs:ref-normalized-surname>TROLES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>26647</xocs:ref-first-fp>
+            <xocs:ref-last-lp>26654</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib37s1">
+            <xocs:ref-normalized-surname>ELAMRAOUI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4547</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4556</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib38s1">
+            <xocs:ref-normalized-surname>KNIGHT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1547</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib39s1">
+            <xocs:ref-normalized-surname>MONRO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1998</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2000</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3130s1">
+            <xocs:ref-normalized-surname>BRILLAND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1280</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1285</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3131s1">
+            <xocs:ref-normalized-surname>COULOMBIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9107</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9112</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3132s1">
+            <xocs:ref-normalized-surname>BRILLAND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1024</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1027</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3133s1">
+            <xocs:ref-normalized-surname>DESEVEDAVY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6014</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6021</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3134s1">
+            <xocs:ref-normalized-surname>FATOME</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1707</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1715</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3135s1">
+            <xocs:ref-normalized-surname>NGUYEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1844</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1846</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3136s1">
+            <xocs:ref-normalized-surname>LE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>136</xocs:ref-first-fp>
+            <xocs:ref-last-lp>137</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3137s1">
+            <xocs:ref-normalized-surname>TOW</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>B104</xocs:ref-first-fp>
+            <xocs:ref-last-lp>B109</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3138s1">
+            <xocs:ref-normalized-surname>MOLLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3282</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3291</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3139s1">
+            <xocs:ref-normalized-surname>KEIRSSE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>23</xocs:ref-first-fp>
+            <xocs:ref-last-lp>32</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3230s1">
+            <xocs:ref-normalized-surname>CUI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>971</xocs:ref-first-fp>
+            <xocs:ref-last-lp>978</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3231s1">
+            <xocs:ref-normalized-surname>ORTIGOSABLANCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1325</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1327</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3232s1">
+            <xocs:ref-normalized-surname>YUE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>469</xocs:ref-first-fp>
+            <xocs:ref-last-lp>471</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3233s1">
+            <xocs:ref-normalized-surname>SCHREIBER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7621</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7630</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3234s1">
+            <xocs:ref-normalized-surname>KIKUCHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>122</xocs:ref-first-fp>
+            <xocs:ref-last-lp>123</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3235s1">
+            <xocs:ref-normalized-surname>CAILLAUD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7977</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7986</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3236s1">
+            <xocs:ref-normalized-surname>TOUPIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1359</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1366</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3237s1">
+            <xocs:ref-normalized-surname>TOUPIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>217</xocs:ref-first-fp>
+            <xocs:ref-last-lp>219</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>TROLESX2017X19</xocs:refkey3>
+         <xocs:refkey4lp>TROLESX2017X19X23</xocs:refkey4lp>
+         <xocs:refkey4ai>TROLESX2017X19XJ</xocs:refkey4ai>
+         <xocs:refkey5>TROLESX2017X19X23XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2016-09-28T14:24:03Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>Académie des Sciences</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2018-01-06T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2016 Published by Elsevier Masson SAS on behalf of Académie des sciences.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1631-0705(16)30141-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1631070516301414</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1631070516301414</xocs:eid>
+         <xocs:doi>10.1016/j.crhy.2016.09.001</xocs:doi>
+         <xocs:cid>272262</xocs:cid>
+         <xocs:timestamp>2017-01-06T04:41:24.951204-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2017-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2017-01-31</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>FACAD</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/MAIN/application/pdf/9d37491551e05a5cd74c10cfae5a007f/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/MAIN/application/pdf/9d37491551e05a5cd74c10cfae5a007f/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>688193</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1631070516301414-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/PREVIEW/image/png/95c5eb955750bacc283e480225f86f9f/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/PREVIEW/image/png/95c5eb955750bacc283e480225f86f9f/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>46485</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-gr001.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/gr001/THUMBNAIL/image/gif/3d55541a17142bea5b8689be996d946b/gr001.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/gr001/THUMBNAIL/image/gif/3d55541a17142bea5b8689be996d946b/gr001.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr001</xocs:file-basename>
+               <xocs:filename>gr001.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13679</xocs:filesize>
+               <xocs:pixel-height>132</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-gr002.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/gr002/THUMBNAIL/image/gif/901f20523c1b65e04201cc8689cc4c25/gr002.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/gr002/THUMBNAIL/image/gif/901f20523c1b65e04201cc8689cc4c25/gr002.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr002</xocs:file-basename>
+               <xocs:filename>gr002.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9431</xocs:filesize>
+               <xocs:pixel-height>140</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-gr003.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/gr003/THUMBNAIL/image/gif/d01d856db3a4bbec3287570f11e9f14d/gr003.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/gr003/THUMBNAIL/image/gif/d01d856db3a4bbec3287570f11e9f14d/gr003.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr003</xocs:file-basename>
+               <xocs:filename>gr003.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5346</xocs:filesize>
+               <xocs:pixel-height>82</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-gr001.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/gr001/DOWNSAMPLED/image/jpeg/50c9dda973e4acd5103fe5c51f9def3f/gr001.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/gr001/DOWNSAMPLED/image/jpeg/50c9dda973e4acd5103fe5c51f9def3f/gr001.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr001</xocs:file-basename>
+               <xocs:filename>gr001.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34875</xocs:filesize>
+               <xocs:pixel-height>301</xocs:pixel-height>
+               <xocs:pixel-width>498</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-gr002.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/gr002/DOWNSAMPLED/image/jpeg/222328433654754d9fd0171fa31c07d7/gr002.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/gr002/DOWNSAMPLED/image/jpeg/222328433654754d9fd0171fa31c07d7/gr002.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr002</xocs:file-basename>
+               <xocs:filename>gr002.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>23504</xocs:filesize>
+               <xocs:pixel-height>241</xocs:pixel-height>
+               <xocs:pixel-width>377</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-gr003.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/gr003/DOWNSAMPLED/image/jpeg/1212af95e22a65103784691ed228dcd2/gr003.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/gr003/DOWNSAMPLED/image/jpeg/1212af95e22a65103784691ed228dcd2/gr003.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr003</xocs:file-basename>
+               <xocs:filename>gr003.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>38740</xocs:filesize>
+               <xocs:pixel-height>272</xocs:pixel-height>
+               <xocs:pixel-width>725</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-gr001_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/gr001/HIGHRES/image/jpeg/bc9b6e655fb71540212ec514da782e5d/gr001_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/gr001/HIGHRES/image/jpeg/bc9b6e655fb71540212ec514da782e5d/gr001_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr001</xocs:file-basename>
+               <xocs:filename>gr001_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>153819</xocs:filesize>
+               <xocs:pixel-height>799</xocs:pixel-height>
+               <xocs:pixel-width>1323</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-gr002_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/gr002/HIGHRES/image/jpeg/eb1ab7a9d61fed0e326b63b457fd080b/gr002_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/gr002/HIGHRES/image/jpeg/eb1ab7a9d61fed0e326b63b457fd080b/gr002_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr002</xocs:file-basename>
+               <xocs:filename>gr002_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>92874</xocs:filesize>
+               <xocs:pixel-height>640</xocs:pixel-height>
+               <xocs:pixel-width>1001</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-gr003_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/gr003/HIGHRES/image/jpeg/e9c4a4029326df424978cbb4b9e9e065/gr003_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/gr003/HIGHRES/image/jpeg/e9c4a4029326df424978cbb4b9e9e065/gr003_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr003</xocs:file-basename>
+               <xocs:filename>gr003_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>133134</xocs:filesize>
+               <xocs:pixel-height>722</xocs:pixel-height>
+               <xocs:pixel-width>1925</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/STRIPIN/image/gif/9b0025f74d541d213d25600f63019755/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/STRIPIN/image/gif/9b0025f74d541d213d25600f63019755/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>269</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>63</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-si10.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/STRIPIN/image/gif/be7c0051b3beb081c166fd52a6956d38/si10.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/STRIPIN/image/gif/be7c0051b3beb081c166fd52a6956d38/si10.gif</xocs:ucs-locator>
+               <xocs:file-basename>si10</xocs:file-basename>
+               <xocs:filename>si10.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>185</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>30</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-si11.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/STRIPIN/image/gif/3c52e444c9a51a41ee8f7c3d8fdaa922/si11.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/STRIPIN/image/gif/3c52e444c9a51a41ee8f7c3d8fdaa922/si11.gif</xocs:ucs-locator>
+               <xocs:file-basename>si11</xocs:file-basename>
+               <xocs:filename>si11.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>205</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>34</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-si12.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/STRIPIN/image/gif/e545e85f86c23cb5a8f756abbef15666/si12.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/STRIPIN/image/gif/e545e85f86c23cb5a8f756abbef15666/si12.gif</xocs:ucs-locator>
+               <xocs:file-basename>si12</xocs:file-basename>
+               <xocs:filename>si12.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>256</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>53</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-si13.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/STRIPIN/image/gif/8dfbaae57bfb3627f16c79c0aadf021a/si13.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/STRIPIN/image/gif/8dfbaae57bfb3627f16c79c0aadf021a/si13.gif</xocs:ucs-locator>
+               <xocs:file-basename>si13</xocs:file-basename>
+               <xocs:filename>si13.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>253</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>52</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-si14.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/STRIPIN/image/gif/8016b28d3956f8fad34a23fd740fcd21/si14.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/STRIPIN/image/gif/8016b28d3956f8fad34a23fd740fcd21/si14.gif</xocs:ucs-locator>
+               <xocs:file-basename>si14</xocs:file-basename>
+               <xocs:filename>si14.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>254</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>53</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-si15.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/STRIPIN/image/gif/c874acfc30fdab57cfa844f9fbc8f37f/si15.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/STRIPIN/image/gif/c874acfc30fdab57cfa844f9fbc8f37f/si15.gif</xocs:ucs-locator>
+               <xocs:file-basename>si15</xocs:file-basename>
+               <xocs:filename>si15.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>258</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>53</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-si16.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/STRIPIN/image/gif/c7e63a3f2c9c56f5827bb82ad8db4459/si16.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/STRIPIN/image/gif/c7e63a3f2c9c56f5827bb82ad8db4459/si16.gif</xocs:ucs-locator>
+               <xocs:file-basename>si16</xocs:file-basename>
+               <xocs:filename>si16.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>233</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>44</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-si17.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/STRIPIN/image/gif/01ee9ded90ea2dd4261736fba1ce4e1d/si17.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/STRIPIN/image/gif/01ee9ded90ea2dd4261736fba1ce4e1d/si17.gif</xocs:ucs-locator>
+               <xocs:file-basename>si17</xocs:file-basename>
+               <xocs:filename>si17.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>249</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>52</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-si18.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/STRIPIN/image/gif/281a5d51802fe618b0720472e628864e/si18.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/STRIPIN/image/gif/281a5d51802fe618b0720472e628864e/si18.gif</xocs:ucs-locator>
+               <xocs:file-basename>si18</xocs:file-basename>
+               <xocs:filename>si18.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>250</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>53</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/STRIPIN/image/gif/744e11879ea0545ddc55eff409937f73/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/STRIPIN/image/gif/744e11879ea0545ddc55eff409937f73/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>265</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>60</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/STRIPIN/image/gif/59cfeddd46d2ec85e3339e3fd20f3191/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/STRIPIN/image/gif/59cfeddd46d2ec85e3339e3fd20f3191/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>267</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>63</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/STRIPIN/image/gif/7f53586b08a258489061008144730378/si4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/STRIPIN/image/gif/7f53586b08a258489061008144730378/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>200</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>33</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-si5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/STRIPIN/image/gif/5c0247c9d4328b94e7b5b5f83f25de25/si5.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/STRIPIN/image/gif/5c0247c9d4328b94e7b5b5f83f25de25/si5.gif</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>384</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>107</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-si6.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/STRIPIN/image/gif/c4d2817e29a4a533c5868061493cbf17/si6.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/STRIPIN/image/gif/c4d2817e29a4a533c5868061493cbf17/si6.gif</xocs:ucs-locator>
+               <xocs:file-basename>si6</xocs:file-basename>
+               <xocs:filename>si6.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>250</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>49</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-si7.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/STRIPIN/image/gif/bf88ff06f50d5bd61e1e92e21ad11148/si7.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/STRIPIN/image/gif/bf88ff06f50d5bd61e1e92e21ad11148/si7.gif</xocs:ucs-locator>
+               <xocs:file-basename>si7</xocs:file-basename>
+               <xocs:filename>si7.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>224</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>45</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-si8.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/STRIPIN/image/gif/4eadf7f5cfea0269148b6033d4800666/si8.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/STRIPIN/image/gif/4eadf7f5cfea0269148b6033d4800666/si8.gif</xocs:ucs-locator>
+               <xocs:file-basename>si8</xocs:file-basename>
+               <xocs:filename>si8.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>235</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>45</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1631070516301414-si9.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1631070516301414/STRIPIN/image/gif/4bf7492e8e75a1e6013b94bf423377c3/si9.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1631070516301414/STRIPIN/image/gif/4bf7492e8e75a1e6013b94bf423377c3/si9.gif</xocs:ucs-locator>
+               <xocs:file-basename>si9</xocs:file-basename>
+               <xocs:filename>si9.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>205</xocs:filesize>
+               <xocs:pixel-height>13</xocs:pixel-height>
+               <xocs:pixel-width>33</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="ssu" xml:lang="en" version="5.4">
+         <item-info>
+            <jid>COMREN</jid>
+            <aid>3349</aid>
+            <ce:pii>S1631-0705(16)30141-4</ce:pii>
+            <ce:doi>10.1016/j.crhy.2016.09.001</ce:doi>
+            <ce:copyright year="2016" type="unknown"/>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fg0010">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cp0010">
+                  <ce:simple-para id="sp0010" view="all">Different geometries obtained with chalcogenide glasses: (a) three-ring large-core fibre, (b) small suspended core <ce:cross-ref refid="br0060" id="crf0010">[6]</ce:cross-ref>, (c) three-ring small-core fibre <ce:cross-ref refid="br0260" id="crf0020">[26]</ce:cross-ref>, (d) exposed core fibre <ce:cross-ref refid="br0270" id="crf0030">[27]</ce:cross-ref>, and (e) highly birefringent fibre <ce:cross-ref refid="br0250" id="crf0040">[25]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="at0010">Fig. 1</ce:alt-text>
+               <ce:link locator="gr001" xlink:type="simple" xlink:href="pii:S1631070516301414/gr001" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" id="ln0010"/>
+            </ce:figure>
+            <ce:figure id="fg0020">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cp0020">
+                  <ce:simple-para id="sp0020" view="all">Acetone detection with AsSe single-index fibre <ce:italic>d</ce:italic>
+                     <ce:hsp sp="0.2"/>=<ce:hsp sp="0.2"/>250 μm (blue line), <ce:italic>d</ce:italic>
+                     <ce:hsp sp="0.2"/>=<ce:hsp sp="0.2"/>110 μm (purple line) and with the exposed-core fibre, black body injected in core and clad (green line) and light signal in the core of the fibre only (red line).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="at0020">Fig. 2</ce:alt-text>
+               <ce:link locator="gr002" xlink:type="simple" xlink:href="pii:S1631070516301414/gr002" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" id="ln0020"/>
+            </ce:figure>
+            <ce:figure id="fg0030">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cp0030">
+                  <ce:simple-para id="sp0030" view="all">Optical losses: (a) measured and calculated group birefringence; (b) loss of the polarization-maintaining fibre.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="at0030">Fig. 3</ce:alt-text>
+               <ce:link locator="gr003" xlink:type="simple" xlink:href="pii:S1631070516301414/gr003" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" id="ln0030"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:dochead id="do0010">
+               <ce:textfn>Prix Yvan Peychès 2015 de l'Académie des sciences</ce:textfn>
+            </ce:dochead>
+            <ce:title id="ti0010">Chalcogenide microstructured optical fibres for mid-IR applications</ce:title>
+            <ce:alt-title xml:lang="fr">Fibres optiques microstructurées en verres de chalcogénures pour l'infrarouge moyen</ce:alt-title>
+            <ce:author-group id="ag0010">
+               <ce:author id="au0010" author-id="S1631070516301414-4bad0599a6548c39fa060cbb11ddab01">
+                  <ce:given-name>Johann</ce:given-name>
+                  <ce:surname>Trolès</ce:surname>
+                  <ce:cross-ref refid="aff0010" id="crf0050">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:e-address type="email" id="ea0010">johann.troles@univ-rennes1.fr</ce:e-address>
+               </ce:author>
+               <ce:author id="au0020" author-id="S1631070516301414-3d9492fe2a6701a3811a48aa0cd8472e">
+                  <ce:given-name>Laurent</ce:given-name>
+                  <ce:surname>Brilland</ce:surname>
+                  <ce:cross-ref refid="aff0020" id="crf0060">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0010">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Équipe Verres et Céramiques, ISCR, UMR CNRS 6226, Université Rennes-1, 35042 Rennes cedex, France</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Équipe Verres et Céramiques</sa:organization>
+                     <sa:organization>ISCR</sa:organization>
+                     <sa:organization>UMR CNRS 6226</sa:organization>
+                     <sa:organization>Université Rennes-1</sa:organization>
+                     <sa:city>Rennes cedex</sa:city>
+                     <sa:postal-code>35042</sa:postal-code>
+                     <sa:country>France</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0020">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>SelenOptics, 263, avenue du Général-Leclerc, 35042 Rennes, France</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>SelenOptics</sa:organization>
+                     <sa:address-line>263, avenue du Général-Leclerc</sa:address-line>
+                     <sa:city>Rennes</sa:city>
+                     <sa:postal-code>35042</sa:postal-code>
+                     <sa:country>France</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:abstract id="ab0010" view="all" class="author">
+               <ce:section-title id="st0010">Abstract</ce:section-title>
+               <ce:abstract-sec id="as0010" view="all">
+                  <ce:simple-para id="sp0040" view="all">Compared to oxide-based glasses, vitreous materials composed of chalcogen elements (S, Se, Te) show large transparency windows in the infrared. Indeed, chalcogenide glasses can be transparent from the visible up to <mml:math altimg="si1.gif" overflow="scroll">
+                        <mml:mn>12</mml:mn>
+                        <mml:mtext>–</mml:mtext>
+                        <mml:mn>18</mml:mn>
+                        <mml:mtext> </mml:mtext>
+                        <mml:mtext>μm</mml:mtext>
+                     </mml:math>, depending on their compositions. In addition, chalcogenide glasses contain large polarisable atoms and external lone electron pairs that induce exceptional non-linear properties. Consequently, the non-linear properties can be 100 or 1000 times as high as the non-linearity of silica. An original way to obtain single-mode fibres is to design microstructured optical fibres (MOFs). These fibres present unique optical properties thanks to the high degree of freedom in the design of their geometrical structure. Various chalcogenide MOFs operating in the IR range have been elaborated in order to associate the high non-linear properties of these glasses with the original MOF properties. Indeed, chalcogenide MOFs might lead to new devices with unique optical properties in the mid-infrared domain, like multimode or endlessly single-mode transmission of light, small or large mode area fibres, highly birefringent fibres and non-linear properties for wavelength conversion or generation of supercontinuum sources.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:abstract xml:lang="fr" id="ab0020" view="all" class="author">
+               <ce:section-title id="st0020">Résumé</ce:section-title>
+               <ce:abstract-sec id="as0020" view="all">
+                  <ce:simple-para id="sp0050" view="all">Les verres de chalcogénures sont des verres à base d'éléments chalcogènes (S, Se et/ou Te). Ces verres présentent une large fenêtre de transparence dans l'infrarouge. En effet, les verres de chalcogénures peuvent être transparents du visible jusqu'à <mml:math altimg="si2.gif" overflow="scroll">
+                        <mml:mn>12</mml:mn>
+                        <mml:mtext>–</mml:mtext>
+                        <mml:mn>18</mml:mn>
+                        <mml:mspace width="0.2em"/>
+                        <mml:mtext>μm</mml:mtext>
+                     </mml:math>, suivant leur composition. De plus, les verres de chalcogénures présentent des atomes fortement polarisables (atomes lourds avec la présence de paires électroniques libres), qui induisent de fortes propriétés optiques non linéaires. Par exemple, l'indice de réfraction non linéaire peut être de 100 à 1000 fois supérieur à celui des verres classiques à base de silice. Les fibres dites microstructurées permettent, grâce à la grande diversité de leur géométrie, d'obtenir des propriétés originales de propagation de la lumière. Dans le présent article, différentes géométries de fibres microstructurées en verres de chalcogénures seront présentées. Ces fibres peuvent être monomodes, quelle que soit la longueur d'onde, et présenter de très petites tailles de mode ou, au contraire, un très large mode de propagation. Les fibres peuvent également être très fortement biréfringentes et peuvent être utilisées pour faire de la conversion de longueur d'onde et obtenir ainsi de nouvelles sources laser à fibre, très rares dans l'infrarouge moyen.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="kws0010" view="all" class="keyword">
+               <ce:section-title id="st0030">Keywords</ce:section-title>
+               <ce:keyword id="kw0010">
+                  <ce:text>Infrared fibres</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>Chalcogenide glasses</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0030">
+                  <ce:text>Microstructured optical fibres</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:keywords xml:lang="fr" id="kws0020" view="all" class="keyword">
+               <ce:section-title id="st0040">Mots-clés</ce:section-title>
+               <ce:keyword id="kw0040">
+                  <ce:text>Fibres infrarouge</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0050">
+                  <ce:text>Verres de chalcogénure</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0060">
+                  <ce:text>Fibres optiques microstructurées</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="se0010" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st0050">Introduction</ce:section-title>
+                  <ce:para id="pr0010" view="all">Compared to oxide-based glasses, vitreous materials composed of chalcogen elements (S, Se, Te) present large transparency windows in the infrared. Indeed, chalcogenide glasses can be transparent from the visible up to <mml:math altimg="si3.gif" overflow="scroll">
+                        <mml:mn>12</mml:mn>
+                        <mml:mtext>–</mml:mtext>
+                        <mml:mn>15</mml:mn>
+                        <mml:mtext> </mml:mtext>
+                        <mml:mtext>μm</mml:mtext>
+                     </mml:math>, depending on their compositions. In addition, chalcogenide glasses contain large polarisable atoms and external lone electron pairs that induce exceptional non-linear properties. Consequently, the non-linear properties can be 100 or 1000 times as high as the non-linearity of silica <ce:cross-refs refid="br0010 br0020" id="crs0010">[1,2]</ce:cross-refs>. The manufacturing of small-core fibres (diameter smaller than <mml:math altimg="si4.gif" overflow="scroll">
+                        <mml:mn>5</mml:mn>
+                        <mml:mtext> </mml:mtext>
+                        <mml:mtext>μm</mml:mtext>
+                     </mml:math>) can be of great interest to enhance the non-linear optical properties for telecom applications such as signal regeneration <ce:cross-ref refid="br0030" id="crf0070">[3]</ce:cross-ref>, generation of supercontinuum, and conversion to the mid-infrared using Raman shifting <ce:cross-refs refid="br0040 br0050 br0060 br0070" id="crs0020">[4–7]</ce:cross-refs>. In optical transmission systems, non-linear effects in optical fibres can be used to realize all-optical processing such as data regeneration by self-phase modulation (SPM) or wavelength conversion by four-wave mixing (FWM).</ce:para>
+                  <ce:para id="pr0020" view="all">An original way to obtain single-mode fibres is to design microstructured optical fibres (MOFs). In addition, these fibres present unique optical properties thanks to the high degree of freedom for designing the geometrical structure. After the first realisation of a silica suspended core MOF in 1973 by Kaiser and his colleagues, and mainly after the work of T.A. Birks, P. Russel and J. Knight in 1990s <ce:cross-ref refid="br0080" id="crf0080">[8]</ce:cross-ref>, this new class of fibres has attracted much interest. In the last 10 years, MOFs were realized with chalcogenide glasses. Obtained in 2000, the first holey chalcogenide fibre did not show any light guidance <ce:cross-ref refid="br0090" id="crf0090">[9]</ce:cross-ref>. Since then, chalcogenide MOF with light guidance was obtained in sulphur and selenide glassy systems <ce:cross-refs refid="br0100 br0110" id="crs0030">[10,11]</ce:cross-refs>. The common method to prepare MOF is the stack-and-draw technique. This method is widely used for silica MOF <ce:cross-ref refid="br0080" id="crf0100">[8]</ce:cross-ref>. In 2008, it has been shown that optical losses in chalcogenide fibres were due essentially to the presence of scattering defects at the interface between capillaries <ce:cross-ref refid="br0120" id="crf0110">[12]</ce:cross-ref>. So, to avoid interfaces defects, MOFs have been prepared by a newly established casting method <ce:cross-ref refid="br0110" id="crf0120">[11]</ce:cross-ref>. Thanks to this technique, chalcogenide MOFs with low optical losses have been elaborated <ce:cross-ref refid="br0060" id="crf0130">[6]</ce:cross-ref>. The first chalcogenide MOFs exhibited a non-linear parameter <ce:italic>γ</ce:italic> 
+                     <mml:math altimg="si5.gif" overflow="scroll">
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:mi>γ</mml:mi>
+                        <mml:mo>=</mml:mo>
+                        <mml:mn>2</mml:mn>
+                        <mml:mi>π</mml:mi>
+                        <mml:msub>
+                           <mml:mrow>
+                              <mml:mi>n</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mn>2</mml:mn>
+                           </mml:mrow>
+                        </mml:msub>
+                        <mml:mo stretchy="false">/</mml:mo>
+                        <mml:mi>λ</mml:mi>
+                        <mml:msub>
+                           <mml:mrow>
+                              <mml:mi>A</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mi mathvariant="normal">eff</mml:mi>
+                           </mml:mrow>
+                        </mml:msub>
+                        <mml:mo stretchy="false">)</mml:mo>
+                     </mml:math> between 100 and 1500 W<ce:sup loc="post">−1</ce:sup> km<ce:sup loc="post">−1</ce:sup> and optical losses at the telecom wavelength of 10–15 dB/m <ce:cross-refs refid="br0100 br0130 br0140" id="crs0040">[10,13,14]</ce:cross-refs>. More recently, the non-linear parameters in a chalcogenide MOF reached values from 15,000 to 31,000 W<ce:sup loc="post">−1</ce:sup> km<ce:sup loc="post">−1</ce:sup> with optical losses less than 1 dB/m <ce:cross-refs refid="br0150 br0160" id="crs0050">[15,16]</ce:cross-refs>.</ce:para>
+                  <ce:para id="pr0030" view="all">In this paper, the realization of low losses and innovative chalcogenide MOFs such as small-core or exposed core fibres will be described and several examples of applications will be exposed. The small core fibres were used for wavelength conversion by non-linear effects: four wavemixing, Raman and Brillouin scattering and supercontinuum generation. Secondly, infrared detection obtained in the exposed core fibre will be described. And finally, an asymmetric fibre exhibiting high birefringence has been realized in order to obtain polarization maintaining in the 3–8-μm region.</ce:para>
+               </ce:section>
+               <ce:section id="se0020" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st0060">Elaboration of the microstructured optical fibres</ce:section-title>
+                  <ce:para id="pr0040" view="all">A classical method to make MOFs is the stack-and-draw technique. However, that technique induces high optical losses (several dB/m) in chalcogenide glass MOF, due to the poor quality of interfaces between capillaries <ce:cross-ref refid="br0120" id="crf0140">[12]</ce:cross-ref>. Then, we have developed a new casting method to fabricate chalcogenide performs <ce:cross-ref refid="br0110" id="crf0150">[11]</ce:cross-ref>. For MOF, glass samples with the composition As<ce:inf loc="post">38</ce:inf>Se<ce:inf loc="post">62</ce:inf> and Ge<ce:inf loc="post">10</ce:inf>As<ce:inf loc="post">22</ce:inf>Se<ce:inf loc="post">68</ce:inf> are fabricated and purified by using the usual sealed silica tube method. The methodology for elaborating the fibre consists in moulding a rather fluid liquid glass into a silica vessel that contains aligned silica capillaries. After controlling that the liquid has filled the empty space, the silica vessel is quenched to room temperature. This operation is followed by the dissolution of the silica capillaries by an HF treatment. The mould is entirely made of silica capillaries thread into silica hexagonal guides. The silica guides are prepared by slicing a silica microstructured perform <ce:cross-ref refid="br0110" id="crf0160">[11]</ce:cross-ref>. After dissolution of silica, the resulting microstructured chalcogenide preform is drawn into fibre under a He-controlled atmosphere. Typically, the diameter of the fibres can vary from 100 to <mml:math altimg="si6.gif" overflow="scroll">
+                        <mml:mn>300</mml:mn>
+                        <mml:mtext> </mml:mtext>
+                        <mml:mtext>μm</mml:mtext>
+                     </mml:math>. During the drawing step, the diameters of the holes are adjusted by applying a pressure into the preformed holes.</ce:para>
+                  <ce:para id="pr0050" view="all">This method permits to obtain various geometries. For example, the fibres can have three rings of holes (<ce:cross-ref refid="fg0010" id="crf0170">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fg0010"/>a). The core size can also be controlled, and it is possible to obtain a very small core, to exacerbate the non-linear properties of the chalcogenide glass (<ce:cross-ref refid="fg0010" id="crf0180">Figs. 1b, 1c</ce:cross-ref>). The optical losses of the fibres prepared by the moulding process can be less than 1 dB/m at the telecom wavelength, and can reach less than 0,1 dB/m in the mid-IR at <mml:math altimg="si7.gif" overflow="scroll">
+                        <mml:mn>3.7</mml:mn>
+                        <mml:mtext> </mml:mtext>
+                        <mml:mtext>μm</mml:mtext>
+                     </mml:math> 
+                     <ce:cross-refs refid="br0060 br0110" id="crs0060">[6,11]</ce:cross-refs>.</ce:para>
+               </ce:section>
+               <ce:section id="se0030" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st0070">Wavelength conversion</ce:section-title>
+                  <ce:para id="pr0060" view="all">One of the remarkable properties of chalcogenide glasses is their strong optical non-linearity. Indeed, the nonlinear index of selenium-based glasses can be more than 1000 times larger than that of silica. This property is an important requirement for nonlinear applications such as wavelength conversion. In addition, small-core fibre geometries (diameter smaller than 5 μm) can enhance dramatically the intrinsic nonlinear optical properties of chalcogenide fibres. In order to observe strong nonlinear effects, small-core fibres were elaborated (<ce:cross-ref refid="fg0010" id="crf0190">Figs. 1b, 1c</ce:cross-ref>) and studied at the telecom wavelength and in the mid-infrared window. At the telecom wavelength, a low threshold (&lt;6 mW) Brillouin laser was obtained <ce:cross-ref refid="br0170" id="crf0200">[17]</ce:cross-ref> and all optical wavelength conversion and time domain demultiplexing with a 170 Gb/s rate were demonstrated <ce:cross-ref refid="br0160" id="crf0210">[16]</ce:cross-ref>. Farther into the infrared, by pumping at <mml:math altimg="si8.gif" overflow="scroll">
+                        <mml:mn>4.4</mml:mn>
+                        <mml:mtext> </mml:mtext>
+                        <mml:mtext>μm</mml:mtext>
+                     </mml:math> with a peak power of 5.2 kW, a supercontinuum from 1.7 to <mml:math altimg="si9.gif" overflow="scroll">
+                        <mml:mn>8</mml:mn>
+                        <mml:mtext> </mml:mtext>
+                        <mml:mtext>μm</mml:mtext>
+                     </mml:math> with an average outpower of 15.6 mW has been obtained <ce:cross-ref refid="br0180" id="crf0220">[18]</ce:cross-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="se0040" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st0080">Infrared detection</ce:section-title>
+                  <ce:para id="pr0070" view="all">One of the most specific characteristics of chalcogenide glasses and fibres is their IR transparency. One can note that the infrared window corresponds to the molecular fingerprint region where the chemical compounds have strong absorption bands. For infrared deported spectroscopy, optical fibres define practical sensing tools. Indeed, they transport light to and from the sensing region. In such configurations, the interaction between the light and the environment occurs at the surface of the fibre. For that matter, in the past decade, chalcogenide glass fibres have been successfully implemented in evanescent wave spectroscopy experiments, for the detection of bio-chemical species <ce:cross-refs refid="br0190 br0200" id="crs0070">[19,20]</ce:cross-refs>. In our study, we have developed an original design where the core of the fibre is exposed to the external environment (<ce:cross-ref refid="fg0010" id="crf0230">Fig. 1</ce:cross-ref>d). Organic compounds were put in contact with a 2-cm-long part of the fibre and the result has been compared with the ones obtained thanks to single index fibres having different diameters. Thus we have demonstrated that, when the light is confined in the 15-μm core of the exposed-core fibre, the latter is much more sensitive than a single index fibre having a twice smaller diameter. As an example, <ce:cross-ref refid="fg0020" id="crf0240">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fg0020"/> presents the detection of acetone IR signature obtained using an exposed core fibre.</ce:para>
+               </ce:section>
+               <ce:section id="se0050" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title id="st0090">Mid-IR polarization maintaining optical fibre</ce:section-title>
+                  <ce:para id="pr0080" view="all">Microstructured optical fibres (MOFs) provide new solutions for obtaining strong birefringence. Thus, high birefringence can be achieved by designing an asymmetric arrangement of air holes, where holes with two different diameters are placed along the orthogonal axes near the core region <ce:cross-ref refid="br0210" id="crf0250">[21]</ce:cross-ref>. This modification of the fibre symmetry results in an increase in the effective refractive index difference between the two orthogonal polarization modes. An asymmetric structure can be obtained in MOFs not only by altering the air holes size near the core area <ce:cross-ref refid="br0210" id="crf0260">[21]</ce:cross-ref>, but also by changing the shape of air holes <ce:cross-ref refid="br0220" id="crf0270">[22]</ce:cross-ref>, or by introducing mechanical stresses as demonstrated in <ce:cross-ref refid="br0230" id="crf0280">[23]</ce:cross-ref>. It has been shown that the birefringence of silica polarization-maintaining microstructured optical fibres (PM-MOFs) reaches values of the order of <mml:math altimg="si10.gif" overflow="scroll">
+                        <mml:msup>
+                           <mml:mrow>
+                              <mml:mn>10</mml:mn>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mo>−</mml:mo>
+                              <mml:mn>3</mml:mn>
+                           </mml:mrow>
+                        </mml:msup>
+                     </mml:math>, which is one order of magnitude higher than that of PANDA or bow-tie silica fibres. In this work, a chalcogenide PM-MOF operating in the 3–8.5-μm infrared window has been investigated. The obtained fibre has an outer diameter of 125 μm and a central solid core of <mml:math altimg="si11.gif" overflow="scroll">
+                        <mml:mn>9</mml:mn>
+                        <mml:mtext> </mml:mtext>
+                        <mml:mtext>μm</mml:mtext>
+                     </mml:math>. <ce:cross-ref refid="fg0010" id="crf0290">Fig. 1</ce:cross-ref>e shows a scanning electron microscope image of the fibre. Holes surrounding the core have a pitch of <mml:math altimg="si12.gif" overflow="scroll">
+                        <mml:mn>7.64</mml:mn>
+                        <mml:mtext> </mml:mtext>
+                        <mml:mtext>μm</mml:mtext>
+                     </mml:math> and diameters of 3.46 μm for the small holes and <mml:math altimg="si13.gif" overflow="scroll">
+                        <mml:mn>6.43</mml:mn>
+                        <mml:mtext> </mml:mtext>
+                        <mml:mtext>μm</mml:mtext>
+                     </mml:math> for the large ones. Light propagation is demonstrated with injection of monochromatic light at <mml:math altimg="si14.gif" overflow="scroll">
+                        <mml:mn>3.39</mml:mn>
+                        <mml:mtext> </mml:mtext>
+                        <mml:mtext>μm</mml:mtext>
+                     </mml:math> from a He–Ne laser. The near-field image and 3D-profile at the output of the fibre are visualized with an infrared camera (not shown). The field distribution can be approximated by a Gaussian function in all directions, which indicates single-mode behaviour at 3.39 μm. Consequently, single-mode propagation is expected within the transmission range of the fibre. The attenuation of the PM-MOF, determined by the standard cut-back technique, is shown in <ce:cross-ref refid="fg0020" id="crf0300">Fig. 2</ce:cross-ref>a. The attenuation curve presents extrinsic absorption bands at 2.9 μm, <mml:math altimg="si15.gif" overflow="scroll">
+                        <mml:mn>4.26</mml:mn>
+                        <mml:mtext> </mml:mtext>
+                        <mml:mtext>μm</mml:mtext>
+                     </mml:math>, and <mml:math altimg="si16.gif" overflow="scroll">
+                        <mml:mn>6.3</mml:mn>
+                        <mml:mtext> </mml:mtext>
+                        <mml:mtext>μm</mml:mtext>
+                     </mml:math> attributed to the presence of O–H groups, and of CO<ce:inf loc="post">2</ce:inf> and H<ce:inf loc="post">2</ce:inf>O molecules, respectively. Besides, the optical losses at 1.55 μm are measured to be around 0.9 dB/m.</ce:para>
+                  <ce:para id="pr0090" view="all">In this study, the group birefringence of the manufactured PM-MOF is determined by using the so-called crossed-polarizer technique <ce:cross-refs refid="br0240 br0250" id="crs0080">[24,25]</ce:cross-refs>. The optical sources used for the measurement are transverse magnetic polarized Fabry–Pérot Quantum Cascade Lasers (FP-QCL) operating at 5.25 μm, <mml:math altimg="si17.gif" overflow="scroll">
+                        <mml:mn>5.55</mml:mn>
+                        <mml:mtext> </mml:mtext>
+                        <mml:mtext>μm</mml:mtext>
+                     </mml:math>, <mml:math altimg="si18.gif" overflow="scroll">
+                        <mml:mn>7.55</mml:mn>
+                        <mml:mtext> </mml:mtext>
+                        <mml:mtext>μm</mml:mtext>
+                     </mml:math>, and 8.2 μm. Computed and experimental values of birefringence are reported in <ce:cross-ref refid="fg0030" id="crf0310">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="fg0030"/>b. Very good agreement between experimental and calculated values of birefringence is found.</ce:para>
+               </ce:section>
+               <ce:section id="se0060" role="conclusion" view="all">
+                  <ce:label>6</ce:label>
+                  <ce:section-title id="st0100">Conclusions</ce:section-title>
+                  <ce:para id="pr0100" view="all">The casting method is well adapted for the realisation of chalcogenide microstructured optical fibres. By this process, high-quality non-linear fibres have been prepared with optical losses smaller than 1 dB/m. Strong non-linear effects have been observed in such fibres and permitted to realize high-speed wavelength conversion and generation of supercontinuum in the mid-IR spectral range. On another hand, the infrared transmission of the chalcogenide fibres permits the realisation of infrared sensors. The high sensitivity of a microstructured fibre with an exposed core has been demonstrated by evanescent wave spectroscopy. In addition, a single-mode polarization-maintaining MOF covering the mid-IR region from 3 to 8.5 μm has been obtained.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bl0010" view="all">
+               <ce:section-title id="st0110">References</ce:section-title>
+               <ce:bibliography-sec id="bs0010" view="all">
+                  <ce:bib-reference id="br0010">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="bib31s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Harbold</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Ilday</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.W.</ce:given-name>
+                                 <ce:surname>Wise</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Sanghera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.Q.</ce:given-name>
+                                 <ce:surname>Nguyen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.B.</ce:given-name>
+                                 <ce:surname>Shaw</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.D.</ce:given-name>
+                                 <ce:surname>Aggarwal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>119</sb:first-page>
+                              <sb:last-page>121</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0020">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="bib32s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Houizot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Smektala</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Couderc</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Trolès</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Grossard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>651</sb:first-page>
+                              <sb:last-page>656</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0030">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="bib33s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Rochette</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Ta'eed</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Moss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Eggleton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Express</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7637</sb:first-page>
+                              <sb:last-page>7644</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0040">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="bib34s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.I.</ce:given-name>
+                                 <ce:surname>Yeom</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.C.</ce:given-name>
+                                 <ce:surname>Mägi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.R.E.</ce:given-name>
+                                 <ce:surname>Lamont</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.F.</ce:given-name>
+                                 <ce:surname>Roelens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Eggleton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>660</sb:first-page>
+                              <sb:last-page>662</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0050">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="bib35s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Thielen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Shaw</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sanghera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Aggarwal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Express</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3248</sb:first-page>
+                              <sb:last-page>3253</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0060">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="bib36s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Trolès</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Coulombier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Canat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Duhant</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Renard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Toupin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Calvez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Renversez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Smektala</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>El Amraoui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Adam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Chartier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Mechin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Brilland</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Express</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>26647</sb:first-page>
+                              <sb:last-page>26654</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0070">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="bib37s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>El-Amraoui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Fatome</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Jules</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Kibler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Gadret</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Fortier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Smektala</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Skripatchev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.F.</ce:given-name>
+                                 <ce:surname>Polacchini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Messaddeq</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Trolès</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Brilland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Szpulak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Renversez</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Express</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4547</sb:first-page>
+                              <sb:last-page>4556</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0080">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="bib38s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Knight</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Birks</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.S.J.</ce:given-name>
+                                 <ce:surname>Russell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Atkin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1547</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0090">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="bib39s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.M.</ce:given-name>
+                                 <ce:surname>Monro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.D.</ce:given-name>
+                                 <ce:surname>West</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Hewak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.G.R.</ce:given-name>
+                                 <ce:surname>Broderick</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Richardson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electron. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1998</sb:first-page>
+                              <sb:last-page>2000</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0100">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="bib3130s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Brilland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Smektala</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Renversez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Chartier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Trolès</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.N.</ce:given-name>
+                                 <ce:surname>Nguyen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Traynor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Monteville</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Express</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1280</sb:first-page>
+                              <sb:last-page>1285</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0110">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="bib3131s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Coulombier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Brilland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Houizot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Chartier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.N.</ce:given-name>
+                                 <ce:surname>Nguyen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Smektala</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Renversez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Monteville</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Méchin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Pain</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Orain</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-C.</ce:given-name>
+                                 <ce:surname>Sangleboeuf</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Trolès</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Express</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9107</sb:first-page>
+                              <sb:last-page>9112</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0120">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="bib3132s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Brilland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Trolès</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Houizot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Desevedavy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Coulombier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Renversez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Chartier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.N.</ce:given-name>
+                                 <ce:surname>Nguyen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Adam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Traynor</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Ceram. Soc. Jpn.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>116</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1024</sb:first-page>
+                              <sb:last-page>1027</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0130">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="bib3133s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Desevedavy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Renversez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Brilland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Houizot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Trolès</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Coulombier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Smektala</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Traynor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-L.</ce:given-name>
+                                 <ce:surname>Adam</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Opt.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6014</sb:first-page>
+                              <sb:last-page>6021</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0140">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="bib3134s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Fatome</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Fortier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.N.</ce:given-name>
+                                 <ce:surname>Nguyen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Chartier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Smektala</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Messaad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Kibler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Pitois</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Gadret</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Finot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Trolès</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Desevedavy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Houizot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Renversez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Brilland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Traynor</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Lightwave Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1707</sb:first-page>
+                              <sb:last-page>1715</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0150">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="bib3135s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Nguyen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Le</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Lengle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Mechin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Thual</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Chartier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Coulombier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Trolès</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Bramerie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Brilland</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Photonics Technol. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1844</sb:first-page>
+                              <sb:last-page>1846</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0160">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="bib3136s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Le</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Bramerie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Chartier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Thual</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Simon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Brilland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Mechin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Toupin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Trolès</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electron. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>136</sb:first-page>
+                              <sb:last-page>137</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0170">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="bib3137s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Tow</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Leguillon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Fresnel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Besnard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Brilland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Mechin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Tregoat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Trolès</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Toupin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Express</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>B104</sb:first-page>
+                              <sb:last-page>B109</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0180">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="bib3138s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Møller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Kubat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Petersen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Gai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Brilland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Méchin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Caillaud</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Trolès</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Luther-Davies</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Bang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Express</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3282</sb:first-page>
+                              <sb:last-page>3291</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0190">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="bib3139s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Keirsse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Boussard-Pledel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Loreal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Sire</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Bureau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Leroyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Turlin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lucas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Vib. Spectrosc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>23</sb:first-page>
+                              <sb:last-page>32</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0200">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="bib3230s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Boussard-Plédel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Trolès</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Bureau</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Mater. Express</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>971</sb:first-page>
+                              <sb:last-page>978</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0210">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="bib3231s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ortigosa-Blanch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Knight</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Wadsworth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Arriaga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Mangan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Birks</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.S.J.</ce:given-name>
+                                 <ce:surname>Russell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1325</sb:first-page>
+                              <sb:last-page>1327</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0220">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="bib3232s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Kai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Jin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>469</sb:first-page>
+                              <sb:last-page>471</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0230">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="bib3233s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Schreiber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Röser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Schmidt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Limpert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Iliew</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Lederer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Petersson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Jacobsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.P.</ce:given-name>
+                                 <ce:surname>Hansen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Broeng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Tünnermann</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Express</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7621</sb:first-page>
+                              <sb:last-page>7630</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0240">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="bib3234s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kikuchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Okoshi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>122</sb:first-page>
+                              <sb:last-page>123</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0250">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="bib3235s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Caillaud</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Gilles</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Provino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Brilland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Jouan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ferre</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Carras</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Brun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Mechin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-L.</ce:given-name>
+                                 <ce:surname>Adam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Trolès</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Express</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7977</sb:first-page>
+                              <sb:last-page>7986</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0260">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="bib3236s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Toupin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Brilland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Trolès</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-L.</ce:given-name>
+                                 <ce:surname>Adam</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Mater. Express</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1359</sb:first-page>
+                              <sb:last-page>1366</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0270">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="bib3237s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Toupin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Brilland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Boussard-Pledel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Bureau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Mechin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-L.</ce:given-name>
+                                 <ce:surname>Adam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Trolès</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>377</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>217</sb:first-page>
+                              <sb:last-page>219</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

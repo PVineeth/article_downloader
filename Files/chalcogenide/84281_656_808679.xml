@@ -1,0 +1,906 @@
+<article xsi:noNamespaceSchemaLocation="http://jats.nlm.nih.gov/publishing/1.1/xsd/JATS-journalpublishing1-mathml3.xsd" dtd-version="1.1" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">IJO</journal-id>
+      <journal-title-group>
+        <journal-title>International Journal of Optics</journal-title></journal-title-group>
+      <issn pub-type="epub">1687-9392</issn>
+      <issn pub-type="ppub">1687-9384</issn>
+      <publisher>
+        <publisher-name>Hindawi Publishing Corporation</publisher-name></publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">808679</article-id>
+      <article-id pub-id-type="doi">10.1155/2012/808679</article-id>
+      <article-id pub-id-type="publisher-id">808679</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject></subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Modeling of Mid-IR Amplifier Based on an Erbium-Doped Chalcogenide Microsphere</article-title></title-group>
+      <contrib-group>
+        <contrib contrib-type="author" id="U90365681">
+          <name>
+            <surname>Bia</surname>
+            <given-names>P.</given-names></name>
+          <xref ref-type="aff" rid="I1" /></contrib>
+        <contrib contrib-type="author" id="U48985740">
+          <name>
+            <surname>Di Tommaso</surname>
+            <given-names>A.</given-names></name>
+          <xref ref-type="aff" rid="I1" /></contrib>
+        <contrib contrib-type="author" id="U90973071" corresp="yes">
+          <name>
+            <surname>De Sario</surname>
+            <given-names>M.</given-names></name>
+          
+          <xref ref-type="aff" rid="I1" /></contrib>
+        <contrib contrib-type="Academic Editor" id="U47129373">
+          <name>
+            <surname>Prudenzano</surname>
+            <given-names>Francesco</given-names></name>
+        </contrib></contrib-group>
+      <aff id="I1">
+        <addr-line>Dipartimento di Elettrotecnica ed Elettronica, Politecnico di Bari</addr-line>
+        <addr-line>Via E. Orabona, 4-70125 Bari</addr-line>
+        <country>Italy</country>
+        <ext-link ext-link-type="domain-name">poliba.it</ext-link></aff>
+      <pub-date pub-type="publication-year">
+        <year>2012</year></pub-date>
+      <pub-date pub-type="archival-date">
+        <day>15</day>
+        <month>7</month>
+        <year>2012</year></pub-date>
+      <volume>2012</volume>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>03</month>
+          <year>2012</year></date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>05</month>
+          <year>2012</year></date>
+      </history>
+      <permissions>
+        <copyright-year>2012</copyright-year>
+        <copyright-holder>Copyright &#xa9; 2012 P. Bia et al.</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license>
+      </permissions>
+      <abstract>
+        <p>An optical amplifier based on a tapered fiber and an Er<sup>3+</sup>-doped chalcogenide microsphere is designed and optimized. A dedicated 3D numerical model, which exploits the coupled mode theory and the rate equations, is used. The main transitions among the erbium energy levels, the amplified spontaneous emission, and the most important secondary transitions pertaining to the ion-ion interactions have been considered. Both the pump and signal beams are efficiently injected and obtained by a suitable design of the taper angle and the fiber-microsphere gap. Moreover, a good overlapping between the optical signals and the rare-earth-doped region is also obtained. In order to evaluate the amplifier performance in reduced computational time, the doped area is partitioned in sectors. The obtained simulation results highlight that a high-efficiency midinfrared amplification can be obtained by using a quite small microsphere.</p></abstract>
+      <counts>
+        <ref-count count="16" />
+        <page-count count="5" /></counts></article-meta>
+  </front>
+  <body>
+    <sec id="sec1">
+      <title>1. Introduction</title>
+      <p>In recent years, the micro- and nanospherical resonators have attracted great interest for their high quality Q-factor, material versatility, manufacturing easiness, and dopant hosting flexibility for active devices. In rare-earth-doped microspheres, Whispering Gallery Modes (WGMs) can strongly enhance the light-matter interaction, because of their very high Q-factor and small mode volume. A number of application fields could exploit the intriguing WGM properties, such as those involving polarization transmission, coupled-resonator-induced transparency, biosensor analysis [<xref ref-type="bibr" rid="B1">1</xref>, <xref ref-type="bibr" rid="B2">2</xref>], nonlinear optics, cavity quantum electrodynamics (QED), and quantum information processing [<xref ref-type="bibr" rid="B3">3</xref>].</p>
+      <p>Rare-earth-doped microspheres based on silica, phosphate, tellurite, and ZBLAN glass host materials [<xref ref-type="bibr" rid="B3">3</xref>&#x2013;<xref ref-type="bibr" rid="B7">7</xref>] show ultralow lasing thresholds and very narrow emission linewidths. Chalcogenide glass has recently attracted significant interest as a material for the manufacturing of active microsphere resonators. In fact, they exhibit lower modal volumes, higher refractive indices, and high absorption and emission cross-sections [<xref ref-type="bibr" rid="B8">8</xref>]. Moreover, these glasses allow realizing efficient mid-IR amplifiers, thanks to their low phonon energy and to their high capability to host rare earth ions.</p>
+      <p>In this work, the mathematical model of a microsphere amplifier is described. The signal wavelength is <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M1"><mml:msub><mml:mrow><mml:mi>&#x3bb;</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn mathvariant="normal">2.76</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mi>&#x3bc;</mml:mi><mml:mtext>m</mml:mtext></mml:math></inline-formula> and the pump wavelength is <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M2"><mml:msub><mml:mrow><mml:mi>&#x3bb;</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>980</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>nm</mml:mtext></mml:math></inline-formula>. The model appears more complete than those reported in the literature for active [<xref ref-type="bibr" rid="B9">9</xref>&#x2013;<xref ref-type="bibr" rid="B11">11</xref>] and passive [<xref ref-type="bibr" rid="B12">12</xref>, <xref ref-type="bibr" rid="B13">13</xref>] devices and it improves the previous work [<xref ref-type="bibr" rid="B14">14</xref>]. It involves the coupled mode theory and the rate equations and it allows the simulation of a tapered fiber coupled to the rare-earth-doped chalcogenide glass microsphere. The following features are considered: (i) the radiative and nonradiative rates, at both pump and signal wavelengths, (ii) the stimulated emission at the signal wavelength, (iii) the amplified spontaneous emission noise (ASE), (iv) the lifetime of the considered energy levels, and (v) the ion-ion energy transfers. The model is implemented with a homemade 3D numerical code and the numerical results are shown.</p>
+      <p>The paper is structured as follows: Section <xref ref-type="sec" rid="sec2">2</xref> includes the mathematical model, Section <xref ref-type="sec" rid="sec3">3</xref> the numerical results, and finally Section <xref ref-type="sec" rid="sec4">4</xref> the conclusions.</p></sec>
+    <sec id="sec2">
+      <title>2. Mathematical Model</title>
+      <p>A sketch of the considered system is shown in Figure <xref ref-type="fig" rid="fig1">1</xref>. It consists of a microsphere and a tapered fiber both in <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M3"><mml:mtext>G</mml:mtext><mml:msub><mml:mrow><mml:mtext>a</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">5</mml:mn></mml:mrow></mml:msub><mml:mtext>G</mml:mtext><mml:msub><mml:mrow><mml:mtext>e</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">20</mml:mn></mml:mrow></mml:msub><mml:mtext>S</mml:mtext><mml:msub><mml:mrow><mml:mtext>b</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">10</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mtext>S</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">65</mml:mn></mml:mrow></mml:msub></mml:math></inline-formula> chalcogenide glass. <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M4"><mml:mrow><mml:msubsup><mml:mrow><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow><mml:mrow><mml:mtext>in</mml:mtext></mml:mrow></mml:msubsup></mml:mrow></mml:math></inline-formula> and <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M5"><mml:mrow><mml:msubsup><mml:mrow><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow><mml:mrow><mml:mtext>in</mml:mtext></mml:mrow></mml:msubsup></mml:mrow></mml:math></inline-formula> stand for the input pump and signal powers, respectively, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M6"><mml:mrow><mml:msubsup><mml:mrow><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow><mml:mrow><mml:mtext>out</mml:mtext></mml:mrow></mml:msubsup></mml:mrow></mml:math></inline-formula> and <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M7"><mml:mrow><mml:msubsup><mml:mrow><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow><mml:mrow><mml:mtext>out</mml:mtext></mml:mrow></mml:msubsup></mml:mrow></mml:math></inline-formula> for the output pump and signal powers, respectively, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M8"><mml:mrow><mml:mi>&#x3b4;</mml:mi></mml:mrow></mml:math></inline-formula> is the angle of the taper, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M9"><mml:mrow><mml:mi>g</mml:mi></mml:mrow></mml:math></inline-formula> is the gap between the cavity and the fiber, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M10"><mml:mrow><mml:msub><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mrow><mml:mn mathvariant="normal">0</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> is the sphere radius, and <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M11"><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:math></inline-formula> is the waist fiber radius and <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M12"><mml:mrow><mml:mi>S</mml:mi></mml:mrow></mml:math></inline-formula> is the thickness of doped area.</p>
+      <fig id="fig1">
+        <label>Figure 1</label>
+        <caption>
+          <p>Schematic of a microsphere coupled to a tapered fiber.</p></caption>
+        <graphic xlink:href="808679.fig.001" /></fig>
+      <p>By assuming that the input signals are narrowband, each one gives rise to a single <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M13"><mml:mrow><mml:mi>l</mml:mi></mml:mrow></mml:math></inline-formula>, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M14"><mml:mrow><mml:mi>m</mml:mi></mml:mrow></mml:math></inline-formula>, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M15"><mml:mrow><mml:mi>n</mml:mi></mml:mrow></mml:math></inline-formula> WGM within the microsphere. Moreover, on the assumption that the microsphere is only doped in the outer layer, the most amplified WGM is the fundamental one (<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M16"><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:math></inline-formula>).</p>
+      <p>Figure <xref ref-type="fig" rid="fig2">2</xref> shows the transitions among the energy levels considered in the developed numerical code. In particular, the population inversion is possible between <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M17"><mml:msup><mml:mrow /><mml:mrow><mml:mn mathvariant="normal">4</mml:mn></mml:mrow></mml:msup><mml:msub><mml:mrow><mml:mtext>I</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">11</mml:mn><mml:mo>/</mml:mo><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msub></mml:math></inline-formula> and <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M18"><mml:msup><mml:mrow /><mml:mrow><mml:mn mathvariant="normal">4</mml:mn></mml:mrow></mml:msup><mml:msub><mml:mrow><mml:mtext>I</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">13</mml:mn><mml:mo>/</mml:mo><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msub></mml:math></inline-formula> energy levels, by pumping at the wavelength <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M19"><mml:msub><mml:mrow><mml:mi>&#x3bb;</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn mathvariant="normal">980</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>nm</mml:mtext></mml:math></inline-formula>. As a consequence, the amplification can occur at the signal wavelength <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M20"><mml:msub><mml:mrow><mml:mi>&#x3bb;</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn mathvariant="normal">2760</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>nm</mml:mtext></mml:math></inline-formula>. Moreover, the energy transitions due to cross-relaxation and cooperative upconversion effects have also to be considered in the simulations, because of the high dopant concentration and the comparable lifetime of <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M21"><mml:msup><mml:mrow /><mml:mrow><mml:mn mathvariant="normal">4</mml:mn></mml:mrow></mml:msup><mml:msub><mml:mrow><mml:mtext>I</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">13</mml:mn><mml:mo>/</mml:mo><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msub></mml:math></inline-formula>, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M22"><mml:msup><mml:mrow /><mml:mrow><mml:mn mathvariant="normal">4</mml:mn></mml:mrow></mml:msup><mml:msub><mml:mrow><mml:mtext>I</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">11</mml:mn><mml:mo>/</mml:mo><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msub></mml:math></inline-formula>, and <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M23"><mml:msup><mml:mrow /><mml:mrow><mml:mn mathvariant="normal">4</mml:mn></mml:mrow></mml:msup><mml:msub><mml:mrow><mml:mtext>I</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">9</mml:mn><mml:mo>/</mml:mo><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msub></mml:math></inline-formula> energy levels. The numerical values of absorption, emission cross-sections, upconversion, and cross-relaxation coefficients as well as the energy level lifetimes are reported in Table <xref ref-type="table" rid="tab1">1</xref>.</p>
+      <table-wrap id="tab1">
+        <label>Table 1</label>
+        <caption>
+          <p>Spectroscopic parameters of <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M24"><mml:mrow><mml:msup><mml:mrow><mml:mtext>Er</mml:mtext></mml:mrow><mml:mrow><mml:mn>3</mml:mn><mml:mo>+</mml:mo></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula>-doped <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M25"><mml:msub><mml:mrow><mml:mtext>Ga</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">5</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mtext>Ge</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">20</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mtext>Sb</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">10</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mtext>S</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">65</mml:mn></mml:mrow></mml:msub></mml:math></inline-formula> chalcogenide glass.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="left">Parameters</th>
+              <th align="center">Values</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left">
+                <inline-formula>
+                  <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M26">
+                    <mml:mrow>
+                      <mml:msub>
+                        <mml:mrow>
+                          <mml:mi>&#x3c3;</mml:mi></mml:mrow>
+                        <mml:mrow>
+                          <mml:mn>13</mml:mn></mml:mrow>
+                      </mml:msub></mml:mrow>
+                  </mml:math></inline-formula> at 980&#x2009;nm</td>
+              <td align="center">
+                <inline-formula>
+                  <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M27">
+                    <mml:mn>1.32</mml:mn>
+                    <mml:mi />
+                    <mml:mo>&#xd7;</mml:mo>
+                    <mml:mi />
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:mn>10</mml:mn></mml:mrow>
+                      <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>24</mml:mn></mml:mrow>
+                    </mml:msup>
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:mtext>m</mml:mtext></mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>2</mml:mn></mml:mrow>
+                    </mml:msup></mml:math>
+                </inline-formula></td>
+            </tr>
+            <tr>
+              <td align="left">
+                <inline-formula>
+                  <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M28">
+                    <mml:mrow>
+                      <mml:msub>
+                        <mml:mrow>
+                          <mml:mi>&#x3c3;</mml:mi></mml:mrow>
+                        <mml:mrow>
+                          <mml:mn>32</mml:mn></mml:mrow>
+                      </mml:msub></mml:mrow>
+                  </mml:math></inline-formula> at 2760&#x2009;nm</td>
+              <td align="center">
+                <inline-formula>
+                  <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M29">
+                    <mml:mn>1.60</mml:mn>
+                    <mml:mi />
+                    <mml:mo>&#xd7;</mml:mo>
+                    <mml:mi />
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:mn>10</mml:mn></mml:mrow>
+                      <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>24</mml:mn></mml:mrow>
+                    </mml:msup>
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:mtext>m</mml:mtext></mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>2</mml:mn></mml:mrow>
+                    </mml:msup></mml:math>
+                </inline-formula></td>
+            </tr>
+            <tr>
+              <td align="left">
+                <inline-formula>
+                  <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M30">
+                    <mml:mrow>
+                      <mml:msub>
+                        <mml:mrow>
+                          <mml:mi>C</mml:mi></mml:mrow>
+                        <mml:mrow>
+                          <mml:mn>33</mml:mn></mml:mrow>
+                      </mml:msub></mml:mrow>
+                  </mml:math></inline-formula>
+              </td>
+              <td align="center">
+                <inline-formula>
+                  <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M31">
+                    <mml:mn>20</mml:mn>
+                    <mml:mi />
+                    <mml:mo>&#xd7;</mml:mo>
+                    <mml:mi />
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:mn>10</mml:mn></mml:mrow>
+                      <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>24</mml:mn></mml:mrow>
+                    </mml:msup>
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:mtext>m</mml:mtext></mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>2</mml:mn></mml:mrow>
+                    </mml:msup>
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:mtext>s</mml:mtext></mml:mrow>
+                      <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>1</mml:mn></mml:mrow>
+                    </mml:msup></mml:math>
+                </inline-formula></td>
+            </tr>
+            <tr>
+              <td align="left">
+                <inline-formula>
+                  <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M32">
+                    <mml:mrow>
+                      <mml:msub>
+                        <mml:mrow>
+                          <mml:mi>C</mml:mi></mml:mrow>
+                        <mml:mrow>
+                          <mml:mn>22</mml:mn></mml:mrow>
+                      </mml:msub></mml:mrow>
+                  </mml:math></inline-formula>
+              </td>
+              <td align="center">
+                <inline-formula>
+                  <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M33">
+                    <mml:mn>30</mml:mn>
+                    <mml:mi />
+                    <mml:mo>&#xd7;</mml:mo>
+                    <mml:mi />
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:mn>10</mml:mn></mml:mrow>
+                      <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>24</mml:mn></mml:mrow>
+                    </mml:msup>
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:mtext>m</mml:mtext></mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>2</mml:mn></mml:mrow>
+                    </mml:msup>
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:mtext>s</mml:mtext></mml:mrow>
+                      <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>1</mml:mn></mml:mrow>
+                    </mml:msup></mml:math>
+                </inline-formula></td>
+            </tr>
+            <tr>
+              <td align="left">
+                <inline-formula>
+                  <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M34">
+                    <mml:mrow>
+                      <mml:msub>
+                        <mml:mrow>
+                          <mml:mi>C</mml:mi></mml:mrow>
+                        <mml:mrow>
+                          <mml:mn>41</mml:mn></mml:mrow>
+                      </mml:msub></mml:mrow>
+                  </mml:math></inline-formula>
+              </td>
+              <td align="center">
+                <inline-formula>
+                  <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M35">
+                    <mml:mn>5</mml:mn>
+                    <mml:mi />
+                    <mml:mo>&#xd7;</mml:mo>
+                    <mml:mi />
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:mn>10</mml:mn></mml:mrow>
+                      <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>24</mml:mn></mml:mrow>
+                    </mml:msup>
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:mtext>m</mml:mtext></mml:mrow>
+                      <mml:mrow>
+                        <mml:mn>2</mml:mn></mml:mrow>
+                    </mml:msup>
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:mtext>s</mml:mtext></mml:mrow>
+                      <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>1</mml:mn></mml:mrow>
+                    </mml:msup></mml:math>
+                </inline-formula></td>
+            </tr>
+            <tr>
+              <td align="left">
+                <inline-formula>
+                  <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M36">
+                    <mml:mrow>
+                      <mml:msub>
+                        <mml:mrow>
+                          <mml:mi>&#x3c4;</mml:mi></mml:mrow>
+                        <mml:mrow>
+                          <mml:mn>21</mml:mn></mml:mrow>
+                      </mml:msub></mml:mrow>
+                  </mml:math></inline-formula>
+              </td>
+              <td align="center">
+                <inline-formula>
+                  <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M37">
+                    <mml:mn>1.83</mml:mn>
+                    <mml:mi />
+                    <mml:mo>&#xd7;</mml:mo>
+                    <mml:mi />
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:mn>10</mml:mn></mml:mrow>
+                      <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>3</mml:mn></mml:mrow>
+                    </mml:msup>
+                    <mml:mtext>s</mml:mtext></mml:math>
+                </inline-formula></td>
+            </tr>
+            <tr>
+              <td align="left">
+                <inline-formula>
+                  <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M38">
+                    <mml:mrow>
+                      <mml:msub>
+                        <mml:mrow>
+                          <mml:mi>&#x3c4;</mml:mi></mml:mrow>
+                        <mml:mrow>
+                          <mml:mn>32</mml:mn></mml:mrow>
+                      </mml:msub></mml:mrow>
+                  </mml:math></inline-formula>
+              </td>
+              <td align="center">
+                <inline-formula>
+                  <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M39">
+                    <mml:mn>1.37</mml:mn>
+                    <mml:mi />
+                    <mml:mo>&#xd7;</mml:mo>
+                    <mml:mi />
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:mn>10</mml:mn></mml:mrow>
+                      <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>3</mml:mn></mml:mrow>
+                    </mml:msup>
+                    <mml:mtext>s</mml:mtext>
+                    <mml:mi /></mml:math></inline-formula>
+              </td></tr>
+            <tr>
+              <td align="left">
+                <inline-formula>
+                  <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M40">
+                    <mml:mrow>
+                      <mml:msub>
+                        <mml:mrow>
+                          <mml:mi>&#x3c4;</mml:mi></mml:mrow>
+                        <mml:mrow>
+                          <mml:mn>43</mml:mn></mml:mrow>
+                      </mml:msub></mml:mrow>
+                  </mml:math></inline-formula>
+              </td>
+              <td align="center">
+                <inline-formula>
+                  <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M41">
+                    <mml:mn>1.08</mml:mn>
+                    <mml:mi />
+                    <mml:mo>&#xd7;</mml:mo>
+                    <mml:mi />
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:mn>10</mml:mn></mml:mrow>
+                      <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>3</mml:mn></mml:mrow>
+                    </mml:msup>
+                    <mml:mtext>s</mml:mtext>
+                    <mml:mi /></mml:math></inline-formula>
+              </td></tr>
+            <tr>
+              <td align="left">
+                <inline-formula>
+                  <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M42">
+                    <mml:mrow>
+                      <mml:msub>
+                        <mml:mrow>
+                          <mml:mi>&#x3c4;</mml:mi></mml:mrow>
+                        <mml:mrow>
+                          <mml:mn>54</mml:mn></mml:mrow>
+                      </mml:msub></mml:mrow>
+                  </mml:math></inline-formula>
+              </td>
+              <td align="center">
+                <inline-formula>
+                  <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M43">
+                    <mml:mn>0.13</mml:mn>
+                    <mml:mi />
+                    <mml:mo>&#xd7;</mml:mo>
+                    <mml:mi />
+                    <mml:msup>
+                      <mml:mrow>
+                        <mml:mn>10</mml:mn></mml:mrow>
+                      <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>3</mml:mn></mml:mrow>
+                    </mml:msup>
+                    <mml:mtext>s</mml:mtext>
+                    <mml:mi /></mml:math></inline-formula>
+              </td></tr>
+          </tbody></table>
+      </table-wrap>
+      <fig id="fig2">
+        <label>Figure 2</label>
+        <caption>
+          <p>Diagram of energy levels.</p></caption>
+        <graphic xlink:href="808679.fig.002" /></fig>
+      <p>The active behavior is modeled by calculating the coupling coefficients, the quality factor, the mode volume, the transition rates. These parameters are obtained with an accurate evaluation of electromagnetic field mode properties in both fiber and microsphere [<xref ref-type="bibr" rid="B15">15</xref>]. The following conditions are considered:<list><list-item><label>(i)</label><p>the energy gaps between the Stark levels of each manifold are small when compared to the energy separation between different manifolds; </p></list-item><list-item><label>(ii)</label><p>the rates between the Stark levels are much faster than those between two different manifolds; </p></list-item><list-item><label>(iii)</label><p>the population in any manifold is in local thermal equilibrium with the glass lattice. </p></list-item></list></p>
+      <p>The following differential equations describe the time-variation of the field amplitude <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M44"><mml:mrow><mml:msub><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> (signal) and <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M45"><mml:mrow><mml:msub><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> (pump) inside the microsphere, considering both the dopant ions and the fiber coupling:
+						<disp-formula><mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M46"><mml:mtable><mml:mlabeledtr id="EEq1"><mml:mtd rowspan="2"><mml:mtext>(1)</mml:mtext></mml:mtd><mml:mtd><mml:maligngroup /><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:msub><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:mo class="left">(</mml:mo><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mo class="right">)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo id="EGAABAAABBATAA">=</mml:mo><mml:malignmark /><mml:mo>-</mml:mo><mml:mfrac><mml:mrow><mml:mn mathvariant="normal">1</mml:mn></mml:mrow><mml:mrow><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:mfrac><mml:mrow><mml:mo class="left">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mn mathvariant="normal">1</mml:mn></mml:mrow><mml:mrow><mml:msubsup><mml:mrow><mml:mi>&#x3c4;</mml:mi></mml:mrow><mml:mrow><mml:mtext>ext</mml:mtext></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msubsup></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:mn mathvariant="normal">1</mml:mn></mml:mrow><mml:mrow><mml:msubsup><mml:mrow><mml:mi>&#x3c4;</mml:mi></mml:mrow><mml:mrow><mml:mn mathvariant="normal">0</mml:mn></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msubsup></mml:mrow></mml:mfrac></mml:mrow><mml:mo class="right">)</mml:mo></mml:mrow><mml:msub><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:mo class="left">(</mml:mo><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mo class="right">)</mml:mo></mml:mrow><mml:mo linebreak="newline" indentalign="id" indenttarget="EGAABAAABBATAA" /><mml:mo>+</mml:mo><mml:mi>j</mml:mi><mml:msqrt><mml:mfrac><mml:mrow><mml:mn mathvariant="normal">1</mml:mn></mml:mrow><mml:mrow><mml:msubsup><mml:mrow><mml:mi>&#x3c4;</mml:mi></mml:mrow><mml:mrow><mml:mtext>ext</mml:mtext></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msubsup><mml:msubsup><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msubsup></mml:mrow></mml:mfrac></mml:msqrt><mml:msubsup><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow><mml:mrow><mml:mtext>in</mml:mtext></mml:mrow></mml:msubsup><mml:mrow><mml:mo class="left">(</mml:mo><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mo class="right">)</mml:mo></mml:mrow><mml:mo>-</mml:mo><mml:mi>j</mml:mi><mml:mi>&#x394;</mml:mi><mml:msup><mml:mrow><mml:mi>&#x3c9;</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msup><mml:msub><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:mo class="left">(</mml:mo><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mo class="right">)</mml:mo></mml:mrow><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi>g</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:mo class="left">(</mml:mo><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mo class="right">)</mml:mo></mml:mrow><mml:mo>,</mml:mo></mml:mtd></mml:mlabeledtr><mml:mtr><mml:mtd><mml:maligngroup /><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:msub><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:mo class="left">(</mml:mo><mml:mi>t</mml:mi><mml:mo class="right">)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo id="EGAABAAAAAATAA">=</mml:mo><mml:malignmark /><mml:mo>-</mml:mo><mml:mfrac><mml:mrow><mml:mn mathvariant="normal">1</mml:mn></mml:mrow><mml:mrow><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:mfrac><mml:mrow><mml:mo class="left">(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mn mathvariant="normal">1</mml:mn></mml:mrow><mml:mrow><mml:msubsup><mml:mrow><mml:mi>&#x3c4;</mml:mi></mml:mrow><mml:mrow><mml:mtext>ext</mml:mtext></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msubsup></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:mn mathvariant="normal">1</mml:mn></mml:mrow><mml:mrow><mml:msubsup><mml:mrow><mml:mi>&#x3c4;</mml:mi></mml:mrow><mml:mrow><mml:mn mathvariant="normal">0</mml:mn></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msubsup></mml:mrow></mml:mfrac></mml:mrow><mml:mo class="right">)</mml:mo></mml:mrow><mml:msub><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:mo class="left">(</mml:mo><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mo class="right">)</mml:mo></mml:mrow><mml:mo linebreak="newline" indentalign="id" indenttarget="EGAABAAAAAATAA" /><mml:mo>+</mml:mo><mml:mi>j</mml:mi><mml:msqrt><mml:mfrac><mml:mrow><mml:mn mathvariant="normal">1</mml:mn></mml:mrow><mml:mrow><mml:msubsup><mml:mrow><mml:mi>&#x3c4;</mml:mi></mml:mrow><mml:mrow><mml:mtext>ext</mml:mtext></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msubsup><mml:msubsup><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msubsup></mml:mrow></mml:mfrac></mml:msqrt><mml:msubsup><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow><mml:mrow><mml:mtext>in</mml:mtext></mml:mrow></mml:msubsup><mml:mrow><mml:mo class="left">(</mml:mo><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mo class="right">)</mml:mo></mml:mrow><mml:mo>-</mml:mo><mml:mi>j</mml:mi><mml:mi>&#x394;</mml:mi><mml:msup><mml:mrow><mml:mi>&#x3c9;</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msup><mml:msub><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:mo class="left">(</mml:mo><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mo class="right">)</mml:mo></mml:mrow><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi>g</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:mo class="left">(</mml:mo><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mo class="right">)</mml:mo></mml:mrow><mml:mo>,</mml:mo></mml:mtd></mml:mtr></mml:mtable></mml:math></disp-formula>
+					where <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M47"><mml:mrow><mml:msubsup><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow><mml:mrow><mml:mtext>in</mml:mtext></mml:mrow></mml:msubsup></mml:mrow></mml:math></inline-formula> and <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M48"><mml:mrow><mml:msubsup><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow><mml:mrow><mml:mtext>in</mml:mtext></mml:mrow></mml:msubsup></mml:mrow></mml:math></inline-formula> are the field amplitudes at the input end of the optical fiber; being <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M49"><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:mo stretchy="false">{</mml:mo><mml:mi>s</mml:mi><mml:mo>,</mml:mo><mml:mi>p</mml:mi><mml:mo stretchy="false">}</mml:mo></mml:math></inline-formula>, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M50"><mml:mi mathvariant="normal">&#x394;</mml:mi><mml:msup><mml:mrow><mml:mi>&#x3c9;</mml:mi></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msup><mml:mo>=</mml:mo><mml:msubsup><mml:mrow><mml:mi>&#x3c9;</mml:mi></mml:mrow><mml:mrow><mml:mtext>WGM</mml:mtext></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msubsup><mml:mo>-</mml:mo><mml:msubsup><mml:mrow><mml:mi>&#x3c9;</mml:mi></mml:mrow><mml:mrow><mml:mtext>in</mml:mtext></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msubsup></mml:math></inline-formula> is the frequency detuning of the fiber input signal from the WGM frequency <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M51"><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x3c9;</mml:mi></mml:mrow><mml:mrow><mml:mtext>WGM</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M52"><mml:msubsup><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msubsup><mml:mo>=</mml:mo><mml:mn mathvariant="normal">2</mml:mn><mml:mi>&#x3c0;</mml:mi><mml:msub><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mrow><mml:mn mathvariant="normal">0</mml:mn></mml:mrow></mml:msub><mml:msubsup><mml:mrow><mml:mi>n</mml:mi></mml:mrow><mml:mrow><mml:mtext>eff</mml:mtext></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msubsup><mml:mo>/</mml:mo><mml:mi>c</mml:mi></mml:math></inline-formula> is the circulating time inside the microsphere (round trip time), <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M53"><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:math></inline-formula> is the speed of light in vacuum, and <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M54"><mml:mrow><mml:msubsup><mml:mrow><mml:mi>n</mml:mi></mml:mrow><mml:mrow><mml:mtext>eff</mml:mtext></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msubsup></mml:mrow></mml:math></inline-formula> is the WGM effective refractive index. More precisely, the effective index is almost constant in the resonance bandwidth, because of its narrowness. As a consequence, the modal dispersion can be neglected, and the group index results are almost equal to the effective index. The intrinsic lifetime is <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M55"><mml:msub><mml:mrow><mml:mi>&#x3c4;</mml:mi></mml:mrow><mml:mrow><mml:mn mathvariant="normal">0</mml:mn></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn mathvariant="normal">1</mml:mn><mml:mo>/</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:msubsup><mml:mrow><mml:mi>&#x3ba;</mml:mi></mml:mrow><mml:mrow><mml:mn mathvariant="normal">0</mml:mn></mml:mrow><mml:mrow><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msubsup><mml:mi>&#x2009;&#x2009;</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi>Q</mml:mi></mml:mrow><mml:mrow><mml:mn mathvariant="normal">0</mml:mn></mml:mrow></mml:msub><mml:mo>/</mml:mo><mml:msub><mml:mrow><mml:mi>&#x3c9;</mml:mi></mml:mrow><mml:mrow><mml:mtext>WGM</mml:mtext></mml:mrow></mml:msub><mml:mi>&#x2009;&#x2009;</mml:mi></mml:math></inline-formula>, where <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M56"><mml:mrow><mml:msub><mml:mrow><mml:mi>Q</mml:mi></mml:mrow><mml:mrow><mml:mn mathvariant="normal">0</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> is the intrinsic quality factor. <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M57"><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x3ba;</mml:mi></mml:mrow><mml:mrow><mml:mn mathvariant="normal">0</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> is the intrinsic cavity decay rate, which depends on the total losses due to material absorption, surface scattering losses, radiative losses, and whispering gallery losses. Both the radiative and surface scattering losses can be neglected in the microspheres having the diameter around a few tens of microns and a perfect surface. The coupling lifetime <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M58"><mml:msub><mml:mrow><mml:mi>&#x3c4;</mml:mi></mml:mrow><mml:mrow><mml:mtext>ext</mml:mtext></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn mathvariant="normal">1</mml:mn><mml:mo>/</mml:mo><mml:msubsup><mml:mrow><mml:mi>&#x3ba;</mml:mi></mml:mrow><mml:mrow><mml:mtext>ext</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msubsup><mml:mo>=</mml:mo><mml:mi>m</mml:mi><mml:mi>&#x3c0;</mml:mi><mml:mo>/</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x3c9;</mml:mi><mml:msup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msup><mml:mo stretchy="false">)</mml:mo></mml:math></inline-formula>, where <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M59"><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x3ba;</mml:mi></mml:mrow><mml:mrow><mml:mtext>ext</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> is the cavity decay rate or coupling coefficient, denotes the coupling phenomenon between microsphere and optical fiber. The field overlapping, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M60"><mml:mrow><mml:mi>K</mml:mi></mml:mrow></mml:math></inline-formula>, is calculated according to the overlap integral [<xref ref-type="bibr" rid="B15">15</xref>]:
+						<disp-formula><mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M61"><mml:mtable><mml:mlabeledtr id="EEq2"><mml:mtd><mml:mtext>(2)</mml:mtext></mml:mtd><mml:mtd><mml:mi>K</mml:mi><mml:mo>=</mml:mo><mml:mrow><mml:msub><mml:mo stretchy="false">&#x222b;</mml:mo><mml:mrow><mml:mi>V</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:mi>&#x200d;</mml:mi></mml:mrow></mml:mrow><mml:mfrac><mml:mrow><mml:msubsup><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mn mathvariant="normal">0</mml:mn></mml:mrow><mml:mrow><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msubsup><mml:mrow><mml:mo class="left">(</mml:mo><mml:mrow><mml:msubsup><mml:mrow><mml:mi>n</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow><mml:mrow><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msubsup><mml:mo>-</mml:mo><mml:msubsup><mml:mrow><mml:mi>n</mml:mi></mml:mrow><mml:mrow><mml:mn mathvariant="normal">0</mml:mn></mml:mrow><mml:mrow><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo class="right">)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mn mathvariant="normal">2</mml:mn><mml:msub><mml:mrow><mml:mi>&#x3b2;</mml:mi></mml:mrow><mml:mrow><mml:mi>f</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:msub><mml:mrow><mml:mi mathvariant="bold-italic">E</mml:mi></mml:mrow><mml:mrow><mml:mi>f</mml:mi></mml:mrow></mml:msub><mml:mo>&#x22c5;</mml:mo><mml:msubsup><mml:mrow><mml:mi mathvariant="bold-italic">E</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x2a;</mml:mi></mml:mrow></mml:msubsup><mml:mi>&#x2009;&#x2009;</mml:mi><mml:mi>&#x2009;&#x2009;</mml:mi><mml:mi>d</mml:mi><mml:mi>V</mml:mi><mml:mo>,</mml:mo></mml:mtd></mml:mlabeledtr></mml:mtable></mml:math></disp-formula>
+					where <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M62"><mml:msub><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mn mathvariant="normal">0</mml:mn></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn mathvariant="normal">2</mml:mn><mml:mi>&#x3c0;</mml:mi><mml:mo>/</mml:mo><mml:mi>&#x3bb;</mml:mi></mml:math></inline-formula>; <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M63"><mml:mrow><mml:msub><mml:mrow><mml:mi>n</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> and <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M64"><mml:mrow><mml:msub><mml:mrow><mml:mi>n</mml:mi></mml:mrow><mml:mrow><mml:mn mathvariant="normal">0</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> are, respectively, the wave vector in the vacuum, the microsphere, and background refractive indices; <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M65"><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x3b2;</mml:mi></mml:mrow><mml:mrow><mml:mi>f</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> is the fiber propagation constant; <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M66"><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="bold-italic">E</mml:mi></mml:mrow><mml:mrow><mml:mi>f</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> is the electric field of the fiber fundamental mode; <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M67"><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="bold-italic">E</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> is the WGM field both normalized on the <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M68"><mml:mover accent="true"><mml:mrow><mml:mi>r</mml:mi></mml:mrow><mml:mo>^</mml:mo></mml:mover><mml:mo>&#x000B7;</mml:mo><mml:mover accent="true"><mml:mrow><mml:mi>&#x3b8;</mml:mi></mml:mrow><mml:mo>^</mml:mo></mml:mover></mml:math></inline-formula> plane. Moreover, in (<xref ref-type="disp-formula" rid="EEq1">1</xref>) the gain/attenuation due to the dopant ions, evaluated over a round-trip, is defined as follows:
+						<disp-formula><mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M69"><mml:mtable><mml:mlabeledtr id="EEq3"><mml:mtd><mml:mtext>(3)</mml:mtext></mml:mtd><mml:mtd><mml:mrow><mml:maligngroup /><mml:msub><mml:mrow><mml:mi>g</mml:mi></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi>c</mml:mi></mml:mrow><mml:mrow><mml:mn mathvariant="normal">2</mml:mn><mml:msubsup><mml:mrow><mml:mi>n</mml:mi></mml:mrow><mml:mrow><mml:mtext>eff</mml:mtext></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msubsup></mml:mrow></mml:mfrac><mml:msub><mml:mrow><mml:mi>&#x393;</mml:mi></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:munderover><mml:mo stretchy="false">&#x2211;</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">2</mml:mn></mml:mrow><mml:mrow><mml:mn mathvariant="normal">5</mml:mn></mml:mrow></mml:munderover><mml:mrow><mml:mi>&#x200d;</mml:mi></mml:mrow></mml:mrow><mml:mrow><mml:munderover><mml:mo stretchy="false">&#x2211;</mml:mo><mml:mrow><mml:mi>j</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">1</mml:mn></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mo>-</mml:mo><mml:mn mathvariant="normal">1</mml:mn></mml:mrow></mml:munderover><mml:mrow><mml:mi>&#x200d;</mml:mi></mml:mrow></mml:mrow><mml:mrow><mml:mo class="left">(</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>&#x3c3;</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>j</mml:mi></mml:mrow></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mi>j</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>&#x3c3;</mml:mi></mml:mrow><mml:mrow><mml:mi>j</mml:mi><mml:mi>i</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo class="right">)</mml:mo></mml:mrow><mml:mo>&#x2003;</mml:mo><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:mrow><mml:mo class="left">{</mml:mo><mml:mrow><mml:mi>s</mml:mi><mml:mo>,</mml:mo><mml:mi>p</mml:mi></mml:mrow><mml:mo class="right">}</mml:mo></mml:mrow><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mlabeledtr></mml:mtable></mml:math></disp-formula>
+					where <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M70"><mml:mrow><mml:msub><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> is ion population of the <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M71"><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:math></inline-formula>-th energy level, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M72"><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x3c3;</mml:mi></mml:mrow><mml:mrow><mml:mi>j</mml:mi><mml:mi>i</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> is the absorption cross-section, and <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M73"><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x3c3;</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>j</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> is the emission cross-section, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M74"><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">&#x393;</mml:mi></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> is the overlap factor of each WGM with the rare-earth-doped region. The <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M75"><mml:mrow><mml:msub><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> values are obtained by using the rate equation model, arising from the energy level diagrams in Figure <xref ref-type="fig" rid="fig2">2</xref> and reported in [<xref ref-type="bibr" rid="B14">14</xref>].</p>
+      <p>The evolution of both the pump and signal field amplitudes at the fiber output end is given by:
+						<disp-formula><mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M76"><mml:mtable><mml:mlabeledtr id="eq4"><mml:mtd><mml:mtext>(4)</mml:mtext></mml:mtd><mml:mtd><mml:msubsup><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow><mml:mrow><mml:mtext>out</mml:mtext></mml:mrow></mml:msubsup><mml:mrow><mml:mo class="left">(</mml:mo><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mo class="right">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:msqrt><mml:mn mathvariant="normal">1</mml:mn><mml:mo>-</mml:mo><mml:mfrac><mml:mrow><mml:msubsup><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msubsup></mml:mrow><mml:mrow><mml:msubsup><mml:mrow><mml:mi>&#x3c4;</mml:mi></mml:mrow><mml:mrow><mml:mtext>ext</mml:mtext></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msubsup></mml:mrow></mml:mfrac></mml:msqrt><mml:msubsup><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow><mml:mrow><mml:mtext>in</mml:mtext></mml:mrow></mml:msubsup><mml:mrow><mml:mo class="left">(</mml:mo><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mo class="right">)</mml:mo></mml:mrow><mml:mo>+</mml:mo><mml:mi>j</mml:mi><mml:msqrt><mml:mfrac><mml:mrow><mml:msubsup><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msubsup></mml:mrow><mml:mrow><mml:msubsup><mml:mrow><mml:mi>&#x3c4;</mml:mi></mml:mrow><mml:mrow><mml:mtext>ext</mml:mtext></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msubsup></mml:mrow></mml:mfrac></mml:msqrt><mml:msub><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:mo class="left">(</mml:mo><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mo class="right">)</mml:mo></mml:mrow><mml:mo>&#x2003;</mml:mo><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:mrow><mml:mo class="left">{</mml:mo><mml:mrow><mml:mi>s</mml:mi><mml:mo>,</mml:mo><mml:mi>p</mml:mi></mml:mrow><mml:mo class="right">}</mml:mo></mml:mrow><mml:mo>,</mml:mo></mml:mtd></mml:mlabeledtr></mml:mtable></mml:math></disp-formula>
+					where <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M77"><mml:mrow><mml:msub><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> is evaluated at the nearest point between the microsphere and the optical fiber (<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M78"><mml:mi>r</mml:mi><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mrow><mml:mn mathvariant="normal">0</mml:mn></mml:mrow></mml:msub></mml:math></inline-formula>, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M79"><mml:mi>&#x3b8;</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">0</mml:mn></mml:math></inline-formula>, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M80"><mml:mi>&#x3d5;</mml:mi><mml:mo>=</mml:mo><mml:mi>&#x3c0;</mml:mi><mml:mo>/</mml:mo><mml:mn mathvariant="normal">2</mml:mn></mml:math></inline-formula>). Finally, the overall gain (transmittance) of the amplifier, is calculated by using [<xref ref-type="bibr" rid="B16">16</xref>]:
+						<disp-formula><mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M81"><mml:mtable><mml:mlabeledtr id="eq5"><mml:mtd><mml:mtext>(5)</mml:mtext></mml:mtd><mml:mtd><mml:mi>G</mml:mi><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mrow><mml:mo class="left">&#x007C;</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msubsup><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow><mml:mrow><mml:mtext>out</mml:mtext></mml:mrow></mml:msubsup></mml:mrow><mml:mrow><mml:msubsup><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow><mml:mrow><mml:mtext>in</mml:mtext></mml:mrow></mml:msubsup></mml:mrow></mml:mfrac></mml:mrow><mml:mo class="right">&#x007C;</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msup><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mrow><mml:mo class="left">&#x007C;</mml:mo><mml:mrow><mml:msqrt><mml:mn mathvariant="normal">1</mml:mn><mml:mo>-</mml:mo><mml:mfrac><mml:mrow><mml:msubsup><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msubsup></mml:mrow><mml:mrow><mml:msubsup><mml:mrow><mml:mi>&#x3c4;</mml:mi></mml:mrow><mml:mrow><mml:mtext>ext</mml:mtext></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msubsup></mml:mrow></mml:mfrac></mml:msqrt><mml:mo>+</mml:mo><mml:mi>j</mml:mi><mml:msqrt><mml:mfrac><mml:mrow><mml:msubsup><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msubsup></mml:mrow><mml:mrow><mml:msubsup><mml:mrow><mml:mi>&#x3c4;</mml:mi></mml:mrow><mml:mrow><mml:mtext>ext</mml:mtext></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msubsup></mml:mrow></mml:mfrac></mml:msqrt><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msubsup><mml:mrow><mml:mi>A</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow><mml:mrow><mml:mtext>in</mml:mtext></mml:mrow></mml:msubsup></mml:mrow></mml:mfrac></mml:mrow><mml:mo class="right">&#x007C;</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msup><mml:mo>.</mml:mo></mml:mtd></mml:mlabeledtr></mml:mtable></mml:math></disp-formula></p>
+    </sec>
+    <sec id="sec3">
+      <title>3. Numerical Results</title>
+      <p> The developed numerical code has a low computational cost (reduced computational time and memory) compared with FDTD and FEM-based algorithms. Moreover, it is flexible and it can be easily used to evaluate the amplifier performance in several configurations. In fact, the geometrical parameters (e.g., <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M82"><mml:mrow><mml:msub><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mrow><mml:mn mathvariant="normal">0</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M83"><mml:mrow><mml:mi>&#x3b4;</mml:mi></mml:mrow></mml:math></inline-formula>, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M84"><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:math></inline-formula>, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M85"><mml:mrow><mml:mi>g</mml:mi></mml:mrow></mml:math></inline-formula>), the operational ones (e.g., modulation, frequency, power of the input signals) as well as the physical ones (the rare earth concentration, the thickness of the doped region, and the refractive indices) can be varied. Moreover, the numerical code can be easily extended to the analysis of more complex rare earth and lasing systems.</p>
+      <p>A number of simulations have been performed to demonstrate the feasibility of <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M86"><mml:mn mathvariant="normal">2760</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>nm</mml:mtext></mml:math></inline-formula> signal amplification. In particular, a parametric investigation is carried out to evaluate the amplifier performances. In the simulations, the following parameters are used: input signal power <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M87"><mml:msubsup><mml:mrow><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow><mml:mrow><mml:mtext>in</mml:mtext></mml:mrow></mml:msubsup><mml:mo>=</mml:mo><mml:mn mathvariant="normal">10</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>nW</mml:mtext></mml:math></inline-formula>, input pump power <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M88"><mml:msubsup><mml:mrow><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow><mml:mrow><mml:mtext>in</mml:mtext></mml:mrow></mml:msubsup><mml:mo>=</mml:mo><mml:mn mathvariant="normal">100</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>mW</mml:mtext></mml:math></inline-formula>, thickness of doped region <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M89"><mml:mi>S</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">3</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mi>&#x3bc;</mml:mi><mml:mtext>m</mml:mtext></mml:math></inline-formula>, for which the corresponding overlap factors are <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M90"><mml:msub><mml:mrow><mml:mi mathvariant="normal">&#x393;</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn mathvariant="normal">0.89</mml:mn></mml:math></inline-formula> for the signal and <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M91"><mml:msub><mml:mrow><mml:mi mathvariant="normal">&#x393;</mml:mi></mml:mrow><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn mathvariant="normal">0.99</mml:mn></mml:math></inline-formula> for the pump. </p>
+      <p>Figure <xref ref-type="fig" rid="fig3">3</xref> depicts the signal gain as a function of fiber-microsphere gap <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M92"><mml:mrow><mml:mi>g</mml:mi></mml:mrow></mml:math></inline-formula>, for three different microsphere radii <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M93"><mml:msub><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>20</mml:mn></mml:math></inline-formula>&#x2009;<italic>&#x3bc;</italic>m, 30&#x2009;<italic>&#x3bc;</italic>m and 40&#x2009;<italic>&#x3bc;</italic>m, with the taper angle <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M94"><mml:mi>&#x3b4;</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">0.03</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>rad</mml:mtext></mml:math></inline-formula>, and dopant concentration equal to <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M95"><mml:mn mathvariant="normal">0.5</mml:mn><mml:mi>&#x25;</mml:mi></mml:math></inline-formula> in weight percentage (<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M96"><mml:msub><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mtext>tot</mml:mtext></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn mathvariant="normal">5.77</mml:mn><mml:mo>&#xd7;</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mn mathvariant="normal">25</mml:mn></mml:mrow></mml:msup><mml:mo>&#x2009;</mml:mo><mml:mtext>ions</mml:mtext><mml:mo>/</mml:mo><mml:msup><mml:mrow><mml:mtext>m</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">3</mml:mn></mml:mrow></mml:msup></mml:math></inline-formula>). It can be observed that the gain increases with the gap until a value beyond which the transmittance drastically decreases. This is caused by the undercoupling condition for the power signal, being low the power coupled to the microsphere. Undercoupling condition occurs for smaller gap by increasing the microsphere radius, since the structure better confines the evanescent wave.</p>
+      <fig id="fig3">
+        <label>Figure 3</label>
+        <caption>
+          <p>Signal amplification as a function of fiber-microsphere gap <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M97"><mml:mrow><mml:mi>g</mml:mi></mml:mrow></mml:math></inline-formula> for three different microsphere radii.</p>
+        </caption>
+        <graphic xlink:href="808679.fig.003" /></fig>
+      <p>Figure <xref ref-type="fig" rid="fig4">4</xref> illustrates the signal gain as a function of the taper angle <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M98"><mml:mrow><mml:mi>&#x3b4;</mml:mi></mml:mrow></mml:math></inline-formula>, for three different fiber radii <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M99"><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">500</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>nm</mml:mtext></mml:math></inline-formula>, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M100"><mml:mn mathvariant="normal">650</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>nm</mml:mtext></mml:math></inline-formula>, and <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M101"><mml:mn mathvariant="normal">800</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>nm</mml:mtext></mml:math></inline-formula>. The choice of the range of the taper angle takes into account the structure durability. The geometrical and physical parameters are <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M102"><mml:msub><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mrow><mml:mn mathvariant="normal">0</mml:mn></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn mathvariant="normal">30</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mi>&#x3bc;</mml:mi><mml:mtext>m</mml:mtext></mml:math></inline-formula>, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M103"><mml:mi>g</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">540</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>nm</mml:mtext></mml:math></inline-formula>, and <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M104"><mml:msub><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mtext>tot</mml:mtext></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn mathvariant="normal">5.77</mml:mn><mml:mo>&#xd7;</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mn mathvariant="normal">25</mml:mn></mml:mrow></mml:msup><mml:mo>&#x2009;</mml:mo><mml:mtext>ions</mml:mtext><mml:mo>/</mml:mo><mml:msup><mml:mrow><mml:mtext>m</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">3</mml:mn></mml:mrow></mml:msup></mml:math></inline-formula>. If the fiber radius <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M105"><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">500</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>nm</mml:mtext></mml:math></inline-formula>, the gain increases by decreasing the taper angle and also the decreasing of the coupling factor occurs. Moreover, the amplification occurs for high coupling factor values, corresponding to high taper angle values. In particular, the minimum <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M106"><mml:mrow><mml:mi>&#x3b4;</mml:mi></mml:mrow></mml:math></inline-formula> value required for the signal amplification depends on the fiber radius. In fact, by using a small fiber radius, the increasing of the coupling factor occurs due to the enhancement of the output evanescent wave. In Figure <xref ref-type="fig" rid="fig4">4</xref>, the undercoupling condition is not occurring for the whole <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M107"><mml:mrow><mml:mi>&#x3b4;</mml:mi></mml:mrow></mml:math></inline-formula> range, if <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M108"><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">500</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>nm</mml:mtext></mml:math></inline-formula>; whereas the undercoupling condition occurs for <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M109"><mml:mi>&#x3b4;</mml:mi><mml:mo>&#x3c;</mml:mo><mml:mn mathvariant="normal">0.035</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>rad</mml:mtext></mml:math></inline-formula>, if <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M110"><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">800</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>nm</mml:mtext></mml:math></inline-formula>. </p>
+      <fig id="fig4">
+        <label>Figure 4</label>
+        <caption>
+          <p>Signal amplification as a function of the taper angle for three different values of the waist fiber radius. </p></caption>
+        <graphic xlink:href="808679.fig.004" /></fig>
+      <p>Figure <xref ref-type="fig" rid="fig5">5</xref> depicts the signal gain as a function of <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M111"><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:math></inline-formula> fiber radius, for three microsphere radii <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M112"><mml:msub><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mrow><mml:mn mathvariant="normal">0</mml:mn></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn mathvariant="normal">20</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mi>&#x3bc;</mml:mi><mml:mtext>m</mml:mtext><mml:mo>,</mml:mo><mml:mn mathvariant="normal">30</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mi>&#x3bc;</mml:mi><mml:mtext>m</mml:mtext><mml:mo>,</mml:mo><mml:mn mathvariant="normal">40</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mi>&#x3bc;</mml:mi><mml:mtext>m</mml:mtext></mml:math></inline-formula>, with taper angle <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M113"><mml:mi>&#x3b4;</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">0.03</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>rad</mml:mtext></mml:math></inline-formula>, and dopant concentration <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M114"><mml:msub><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mtext>tot</mml:mtext></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn mathvariant="normal">5.77</mml:mn><mml:mo>&#xd7;</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mn mathvariant="normal">25</mml:mn></mml:mrow></mml:msup><mml:mo>&#x2009;</mml:mo><mml:mtext>ions</mml:mtext><mml:mo>/</mml:mo><mml:msup><mml:mrow><mml:mtext>m</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">3</mml:mn></mml:mrow></mml:msup></mml:math></inline-formula>. These fiber radii have been considered because lower values determine a signal leakage due to the low confinement strength at the signal wavelength. Whereas, the greater radii induce a multimodal propagation at the pump wavelength. The maximum gain value occurs for the microsphere radius <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M115"><mml:msub><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mrow><mml:mn mathvariant="normal">0</mml:mn></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn mathvariant="normal">40</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mi>&#x3bc;</mml:mi><mml:mtext>m</mml:mtext></mml:math></inline-formula> and fiber radius <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M116"><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">500</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>nm</mml:mtext></mml:math></inline-formula>. Moreover, by increasing the fiber radius, the coupling decreases leading to the undercoupling condition and reducing the amplifier performances. </p>
+      <fig id="fig5">
+        <label>Figure 5</label>
+        <caption>
+          <p>Signal amplification as a function of the taper angle for three different values of the waist fiber radius. </p></caption>
+        <graphic xlink:href="808679.fig.005" /></fig>
+      <p>Figure <xref ref-type="fig" rid="fig6">6</xref> shows the signal gain as a function of the erbium concentration <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M117"><mml:mrow><mml:msub><mml:mrow><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mtext>Er</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>, for three different microsphere-fiber gaps <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M118"><mml:mi>g</mml:mi><mml:mo>=</mml:mo><mml:mn>500</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>mm</mml:mtext></mml:math></inline-formula>, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M119"><mml:mn mathvariant="normal">550</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>mm</mml:mtext></mml:math></inline-formula>, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M120"><mml:mn mathvariant="normal">600</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>mm</mml:mtext></mml:math></inline-formula>, with <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M121"><mml:mi>&#x3b4;</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">0.03</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>rad</mml:mtext></mml:math></inline-formula>, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M122"><mml:msub><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mrow><mml:mn mathvariant="normal">0</mml:mn></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn mathvariant="normal">30</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mi>&#x3bc;</mml:mi><mml:mtext>m</mml:mtext></mml:math></inline-formula>, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M123"><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">700</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>nm</mml:mtext></mml:math></inline-formula>. By increasing the ion concentration, the enhancement of the signal amplification occurs until a threshold value. In fact, if high erbium concentrations are used, the population inversion occurs as long as the available power is sufficient. The threshold value can be suitably increased by enhancing the coupling (e.g., by reducing the gap) or decreased by reducing the coupling (e.g., by increasing the gap). Low gap values induce the cavity power reduction, reaching the value not allowing the doped ion population inversion, thus limiting the amplifier performances.</p>
+      <fig id="fig6">
+        <label>Figure 6</label>
+        <caption>
+          <p>Signal amplification as a function of the erbium concentration for three different values of fiber gap.</p></caption>
+        <graphic xlink:href="808679.fig.006" /></fig></sec>
+    <sec id="sec4">
+      <title>4. Conclusions</title>
+      <p> In this paper, an <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M124"><mml:mtext>E</mml:mtext><mml:msup><mml:mrow><mml:mtext>r</mml:mtext></mml:mrow><mml:mrow><mml:mn mathvariant="normal">3</mml:mn><mml:mo>+</mml:mo></mml:mrow></mml:msup></mml:math></inline-formula>-doped chalcogenide microsphere amplifier evanescently coupled with a tapered optical fiber has been designed by means of a homemade 3D numerical code. It includes both the rate equation and coupled mode theory models. Spherical coordinates are used to find the solution of the scalar Helmholtz equation needed for the electromagnetic analysis of the microsphere. The homemade numerical code allows to evaluate the amplifier performance by changing several parameters: fiber-microsphere gap, thickness of erbium doped region, fiber taper angle, erbium concentration, and operative parameters such as pump and signal power.</p>
+      <p>The microsphere resonator shows low threshold power (<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M125"><mml:mo>&#x2248;</mml:mo><mml:mn mathvariant="normal">80</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>mW</mml:mtext></mml:math></inline-formula>) and high gain (<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M126"><mml:mo>&#x2248;</mml:mo><mml:mn mathvariant="normal">8</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>dB</mml:mtext></mml:math></inline-formula>) at the signal wavelength <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M127"><mml:msub><mml:mrow><mml:mi>&#x3bb;</mml:mi></mml:mrow><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn mathvariant="normal">2760</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>nm</mml:mtext></mml:math></inline-formula>. Moreover the total size of the device is few tens of microns. As future developments, slow light phenomenon could be obtained, exploiting the coherent population oscillations in order to realize buffers for optical telecommunications and optical logic gates. In addition, this device could be used to generate low threshold pump powers. Finally, the model can be easily extended to take into account both the mode degeneracy and the multimodal pump and signal, in order to match the simulation dynamics with the realistic device one. As a drawback, a more complete calculation will require more computational time.</p>
+    </sec></body>
+  <back>
+    <ref-list>
+      <ref id="B1" content-type="article">
+        <label>1</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ren</surname>
+              <given-names>H. C.</given-names></name>
+            <name>
+              <surname>Vollmer</surname>
+              <given-names>F.</given-names></name>
+            <name>
+              <surname>Arnold</surname>
+              <given-names>S.</given-names></name>
+            <name>
+              <surname>Libchaber</surname>
+              <given-names>A.</given-names></name>
+          </person-group>
+          <article-title>High-Q microsphere biosensor&#x2014;analysis for adsorption of rodlike bacteria</article-title>
+          <source>
+            <italic>Optics Express</italic></source>
+          <year>2007</year>
+          <volume>15</volume>
+          <issue>25</issue>
+          <fpage>17410</fpage>
+          <lpage>17423</lpage>
+          <pub-id pub-id-type="other">2-s2.0-37149042564</pub-id></nlm-citation>
+      </ref>
+      <ref id="B2" content-type="article">
+        <label>2</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vollmer</surname>
+              <given-names>F.</given-names></name>
+            <name>
+              <surname>Arnold</surname>
+              <given-names>S.</given-names></name>
+          </person-group>
+          <article-title>Whispering-gallery-mode biosensing: label-free detection down to single molecules</article-title>
+          <source>
+            <italic>Nature Methods</italic></source>
+          <year>2008</year>
+          <volume>5</volume>
+          <issue>7</issue>
+          <fpage>591</fpage>
+          <lpage>596</lpage>
+          <pub-id pub-id-type="other">2-s2.0-46249089703</pub-id>
+          <pub-id pub-id-type="doi">10.1038/nmeth.1221</pub-id></nlm-citation>
+      </ref>
+      <ref id="B3" content-type="article">
+        <label>3</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>L.</given-names></name>
+            <name>
+              <surname>Vahala</surname>
+              <given-names>K. J.</given-names></name>
+          </person-group>
+          <article-title>Gain functionalization of silica microresonators</article-title>
+          <source>
+            <italic>Optics Letters</italic></source>
+          <year>2003</year>
+          <volume>28</volume>
+          <issue>8</issue>
+          <fpage>592</fpage>
+          <lpage>594</lpage>
+          <pub-id pub-id-type="other">2-s2.0-0037447127</pub-id></nlm-citation>
+      </ref>
+      <ref id="B4" content-type="article">
+        <label>4</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murugan</surname>
+              <given-names>G. S.</given-names></name>
+            <name>
+              <surname>Zervas</surname>
+              <given-names>M. N.</given-names></name>
+            <name>
+              <surname>Panitchob</surname>
+              <given-names>Y.</given-names></name>
+            <name>
+              <surname>Wilkinson</surname>
+              <given-names>J. S.</given-names></name>
+          </person-group>
+          <article-title>Integrated Nd-doped borosilicate glass microsphere laser</article-title>
+          <source>
+            <italic>Optics Letters</italic></source>
+          <year>2011</year>
+          <volume>36</volume>
+          <issue>1</issue>
+          <fpage>73</fpage>
+          <lpage>75</lpage>
+          <pub-id pub-id-type="other">2-s2.0-79251567678</pub-id></nlm-citation>
+      </ref>
+      <ref id="B5" content-type="article">
+        <label>5</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>S. Y.</given-names></name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>T.</given-names></name>
+            <name>
+              <surname>Grattan</surname>
+              <given-names>K. T. V.</given-names></name>
+            <name>
+              <surname>Annapurna</surname>
+              <given-names>K.</given-names></name>
+            <name>
+              <surname>Sen</surname>
+              <given-names>R.</given-names></name>
+          </person-group>
+          <article-title>Characteristics of Er and Er-Yb-Cr doped phosphate microsphere fibre lasers</article-title>
+          <source>
+            <italic>Optics Communications</italic></source>
+          <year>2009</year>
+          <volume>282</volume>
+          <issue>18</issue>
+          <fpage>3765</fpage>
+          <lpage>3769</lpage>
+          <pub-id pub-id-type="other">2-s2.0-67651160856</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.optcom.2009.06.019</pub-id></nlm-citation>
+      </ref>
+      <ref id="B6" content-type="article">
+        <label>6</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>F&#xe9;ron</surname>
+              <given-names>P.</given-names></name>
+          </person-group>
+          <article-title>Whispering gallery mode lasers in erbium doped fluoride glasses</article-title>
+          <source>
+            <italic>Annales de la Fondation Louis de Broglie</italic></source>
+          <year>2004</year>
+          <volume>29</volume>
+          <issue>1-2</issue>
+          <fpage>317</fpage>
+          <lpage>329</lpage>
+          <pub-id pub-id-type="other">2-s2.0-17144439673</pub-id></nlm-citation>
+      </ref>
+      <ref id="B7" content-type="article">
+        <label>7</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nunzi Conti</surname>
+              <given-names>G.</given-names></name>
+            <name>
+              <surname>Chiasera</surname>
+              <given-names>A.</given-names></name>
+            <name>
+              <surname>Ghisa</surname>
+              <given-names>L.</given-names></name>
+            <name>
+              <surname>Berneschi</surname>
+              <given-names>S.</given-names></name>
+            <name>
+              <surname>Brenci</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Dumeige</surname>
+              <given-names>Y.</given-names></name>
+            <name>
+              <surname>Pelli</surname>
+              <given-names>S.</given-names></name>
+            <name>
+              <surname>Sebastiani</surname>
+              <given-names>S.</given-names></name>
+            <name>
+              <surname>Feron</surname>
+              <given-names>P.</given-names></name>
+            <name>
+              <surname>Ferrari</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Righini</surname>
+              <given-names>G. C.</given-names></name>
+          </person-group>
+          <article-title>Spectroscopic and lasing properties of Er<sup>3+</sup>-doped glass microspheres</article-title>
+          <source>
+            <italic>Journal of Non-Crystalline Solids</italic></source>
+          <year>2006</year>
+          <volume>352</volume>
+          <issue>23-25</issue>
+          <fpage>2360</fpage>
+          <lpage>2363</lpage>
+          <pub-id pub-id-type="other">2-s2.0-33745672743</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.jnoncrysol.2006.01.089</pub-id></nlm-citation>
+      </ref>
+      <ref id="B8" content-type="article">
+        <label>8</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Elliott</surname>
+              <given-names>G. R.</given-names></name>
+            <name>
+              <surname>Hewak</surname>
+              <given-names>D. W.</given-names></name>
+            <name>
+              <surname>Murugan</surname>
+              <given-names>G. S.</given-names></name>
+            <name>
+              <surname>Wilkinson</surname>
+              <given-names>J. S.</given-names></name>
+          </person-group>
+          <article-title>Chalcogenide glass microspheres; their production, characterization and potential</article-title>
+          <source>
+            <italic>Optics Express</italic></source>
+          <year>2007</year>
+          <volume>15</volume>
+          <issue>26</issue>
+          <fpage>17542</fpage>
+          <lpage>17553</lpage>
+          <pub-id pub-id-type="other">2-s2.0-37549006457</pub-id>
+          <pub-id pub-id-type="doi">10.1364/OE.15.017542</pub-id></nlm-citation>
+      </ref>
+      <ref id="B9" content-type="article">
+        <label>9</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mescia</surname>
+              <given-names>L.</given-names></name>
+            <name>
+              <surname>Prudenzano</surname>
+              <given-names>F.</given-names></name>
+            <name>
+              <surname>De Sario</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Palmisano</surname>
+              <given-names>T.</given-names></name>
+            <name>
+              <surname>Ferrari</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Righini</surname>
+              <given-names>G. C.</given-names></name>
+          </person-group>
+          <article-title>Design of rare-earth-doped microspheres</article-title>
+          <source>
+            <italic>IEEE Photonics Technology Letters</italic></source>
+          <year>2010</year>
+          <volume>22</volume>
+          <issue>6</issue>
+          <fpage>422</fpage>
+          <lpage>424</lpage>
+          <pub-id pub-id-type="other">2-s2.0-77955455588</pub-id>
+          <pub-id pub-id-type="doi">10.1109/LPT.2009.2039932</pub-id></nlm-citation>
+      </ref>
+      <ref id="B10" content-type="article">
+        <label>10</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Totsuka</surname>
+              <given-names>K.</given-names></name>
+            <name>
+              <surname>Tomita</surname>
+              <given-names>M.</given-names></name>
+          </person-group>
+          <article-title>Optical microsphere amplification system</article-title>
+          <source>
+            <italic>Optics Letters</italic></source>
+          <year>2007</year>
+          <volume>32</volume>
+          <issue>21</issue>
+          <fpage>3197</fpage>
+          <lpage>3199</lpage>
+          <pub-id pub-id-type="other">2-s2.0-40149101173</pub-id>
+          <pub-id pub-id-type="doi">10.1364/OL.32.003197</pub-id></nlm-citation>
+      </ref>
+      <ref id="B11" content-type="article">
+        <label>11</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boucher</surname>
+              <given-names>Y. G.</given-names></name>
+            <name>
+              <surname>F&#xe9;ron</surname>
+              <given-names>P.</given-names></name>
+          </person-group>
+          <article-title>Generalized transfer function: a simple model applied to active single-mode microring resonators</article-title>
+          <source>
+            <italic>Optics Communications</italic></source>
+          <year>2009</year>
+          <volume>282</volume>
+          <issue>19</issue>
+          <fpage>3940</fpage>
+          <lpage>3947</lpage>
+          <pub-id pub-id-type="other">2-s2.0-68549117151</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.optcom.2009.06.048</pub-id></nlm-citation>
+      </ref>
+      <ref id="B12" content-type="article">
+        <label>12</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gorodetsky</surname>
+              <given-names>M. L.</given-names></name>
+            <name>
+              <surname>Ilchenko</surname>
+              <given-names>V. S.</given-names></name>
+          </person-group>
+          <article-title>Optical microsphere resonators: optimal coupling to high-Q whispering-gallery modes</article-title>
+          <source>
+            <italic>Journal of the Optical Society of America B</italic></source>
+          <year>1999</year>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>147</fpage>
+          <lpage>154</lpage>
+          <pub-id pub-id-type="other">2-s2.0-0007233641</pub-id></nlm-citation>
+      </ref>
+      <ref id="B13" content-type="article">
+        <label>13</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zou</surname>
+              <given-names>C. L.</given-names></name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>Y.</given-names></name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>C. H.</given-names></name>
+            <name>
+              <surname>Xiao</surname>
+              <given-names>Y. F.</given-names></name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>X. W.</given-names></name>
+            <name>
+              <surname>Han</surname>
+              <given-names>Z. F.</given-names></name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>G. C.</given-names></name>
+          </person-group>
+          <article-title>Taper-microsphere coupling with numerical calculation of coupled-mode theory</article-title>
+          <source>
+            <italic>Journal of the Optical Society of America B</italic></source>
+          <year>2008</year>
+          <volume>25</volume>
+          <issue>11</issue>
+          <fpage>1895</fpage>
+          <lpage>1898</lpage>
+          <pub-id pub-id-type="other">2-s2.0-59949087016</pub-id>
+          <pub-id pub-id-type="doi">10.1364/JOSAB.25.001895</pub-id></nlm-citation>
+      </ref>
+      <ref id="B14" content-type="article">
+        <label>14</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mescia</surname>
+              <given-names>L.</given-names></name>
+            <name>
+              <surname>Bia</surname>
+              <given-names>P.</given-names></name>
+            <name>
+              <surname>De Sario</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Di Tommaso</surname>
+              <given-names>A.</given-names></name>
+            <name>
+              <surname>Prudenzano</surname>
+              <given-names>F.</given-names></name>
+          </person-group>
+          <article-title>Design of mid-infrared amplifiers based on fiber taper coupling to erbium-dopedmicrospherical resonator</article-title>
+          <source>
+            <italic>Optics Express</italic></source>
+          <year>2012</year>
+          <volume>20</volume>
+          <issue>7</issue>
+          <fpage>7616</fpage>
+          <lpage>7629</lpage>
+          <pub-id pub-id-type="other">2-s2.0-84859394501</pub-id>
+          <pub-id pub-id-type="doi">10.1364/OE.20.007616</pub-id></nlm-citation>
+      </ref>
+      <ref id="B15" content-type="article">
+        <label>15</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Little</surname>
+              <given-names>B. E.</given-names></name>
+            <name>
+              <surname>Laine</surname>
+              <given-names>J. P.</given-names></name>
+            <name>
+              <surname>Haus</surname>
+              <given-names>H. A.</given-names></name>
+          </person-group>
+          <article-title>Analytic theory of coupling from tapered fibers and half-blocks into microsphere resonators</article-title>
+          <source>
+            <italic>Journal of Lightwave Technology</italic></source>
+          <year>1999</year>
+          <volume>17</volume>
+          <issue>4</issue>
+          <fpage>704</fpage>
+          <lpage>715</lpage>
+          <pub-id pub-id-type="other">2-s2.0-0032672283</pub-id>
+          <pub-id pub-id-type="doi">10.1109/50.754802</pub-id></nlm-citation>
+      </ref>
+      <ref id="B16" content-type="book">
+        <label>16</label>
+        <nlm-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vahala</surname>
+              <given-names>K.</given-names></name>
+          </person-group>
+          <source>
+            <italic>Optical Microcavities</italic></source>
+          <year>2004</year>
+          <publisher-loc>Singapore</publisher-loc>
+          <publisher-name>World Scientific Publishing</publisher-name></nlm-citation>
+      </ref></ref-list>
+  </back></article>

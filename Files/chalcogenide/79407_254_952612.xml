@@ -1,0 +1,1185 @@
+<article xsi:noNamespaceSchemaLocation="http://jats.nlm.nih.gov/publishing/1.1/xsd/JATS-journalpublishing1-mathml3.xsd" dtd-version="1.1" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">ISRN.POLYMER.SCIENCE</journal-id>
+      <journal-title-group>
+        <journal-title>ISRN Polymer Science</journal-title></journal-title-group>
+      <issn pub-type="epub">2090-8733</issn>
+      <publisher>
+        <publisher-name>Hindawi Publishing Corporation</publisher-name></publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="other">952612</article-id>
+      <article-id pub-id-type="doi">10.1155/2013/952612</article-id>
+      <article-id pub-id-type="publisher-id">952612</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject></subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Temperature Dependent Mechanical Analysis of Chalcogenide (CdS, ZnS) Coated PET Films</article-title></title-group>
+      <contrib-group>
+        <contrib contrib-type="author" id="U56420948" corresp="yes">
+          <name>
+            <surname>Gupta</surname>
+            <given-names>Sandhya</given-names></name>
+          
+          <xref ref-type="aff" rid="I1">
+            <sup>1</sup></xref>
+        </contrib>
+        <contrib contrib-type="author" id="U61868272">
+          <name>
+            <surname>Sharma</surname>
+            <given-names>Kananbala</given-names></name>
+          <xref ref-type="aff" rid="I2">
+            <sup>2</sup></xref>
+        </contrib>
+        <contrib contrib-type="author" id="U48212901" corresp="yes">
+          <name>
+            <surname>Saxena</surname>
+            <given-names>N. S.</given-names></name>
+          
+          <xref ref-type="aff" rid="I2">
+            <sup>2</sup></xref>
+        </contrib>
+        <contrib contrib-type="Academic Editor" id="U36808736">
+          <name>
+            <surname>Chow</surname>
+            <given-names>W. S.</given-names></name>
+        </contrib>
+        <contrib contrib-type="Academic Editor" id="U21076296">
+          <name>
+            <surname>Hashidzume</surname>
+            <given-names>A.</given-names></name>
+        </contrib>
+        <contrib contrib-type="Academic Editor" id="U41296531">
+          <name>
+            <surname>Puiggali</surname>
+            <given-names>J.</given-names></name>
+        </contrib></contrib-group>
+      <aff id="I1">
+        <sup>1</sup>
+        <addr-line>Kautilya Institute of Technology &#x26; Engineering</addr-line>
+        <addr-line>Sitapura, Jaipur 302022</addr-line>
+        <country>India</country></aff>
+      <aff id="I2">
+        <sup>2</sup>
+        <addr-line>Semiconductor and Polymer Science Laboratory</addr-line>
+        <addr-line>Department of Physics</addr-line>
+        <addr-line>University of Rajasthan</addr-line>
+        <addr-line>Jaipur 302004</addr-line>
+        <country>India</country>
+        <ext-link ext-link-type="domain-name">uniraj.ac.in</ext-link></aff>
+      <pub-date pub-type="publication-year">
+        <year>2013</year></pub-date>
+      <pub-date pub-type="archival-date">
+        <day>3</day>
+        <month>4</month>
+        <year>2013</year></pub-date>
+      <volume>2013</volume>
+      <history>
+        <date date-type="received">
+          <day>18</day>
+          <month>02</month>
+          <year>2013</year></date>
+        <date date-type="accepted">
+          <day>12</day>
+          <month>03</month>
+          <year>2013</year></date>
+      </history>
+      <permissions>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Copyright &#xa9; 2013 Sandhya Gupta et al.</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license>
+      </permissions>
+      <abstract>
+        <p>Commercial polyethylene terephthalate (PET) film has been used as flexible substrate, and chalcogenide materials such as CdS, ZnS have been coated separately on PET film using vacuum thermal evaporation method. The structural characterisation of CdS-PET and ZnS-PET films has been performed by X-ray diffraction (XRD) pattern and Fourier transforms infrared (FTIR) spectroscopy. The surface morphology of CdS-PET and ZnS-PET films has also been investigated using scanning electron microscope (SEM). Temperature dependent mechanical study of chalcogenide-PET films has been carried out using Dynamic Mechanical Analyser (DMA). The stress-strain curves of chalcogenide coated PET films at room and elevated temperatures explain the mechanical response of these films under the different temperature.</p></abstract>
+      <counts>
+        <ref-count count="29" />
+        <page-count count="7" /></counts></article-meta>
+  </front>
+  <body>
+    <sec id="sec1">
+      <title>1. Introduction</title>
+      <p>Metal chalcogenides (sulfides, tellurides, and selenides) are of great importance for researchers because they are potential candidates for optoelectronic applications such as photodetectors, solar cells, and thin film transistor [<xref ref-type="bibr" rid="B1a">1</xref>&#x2013;<xref ref-type="bibr" rid="B5">6</xref>]. CdS thin films are regarded as one of the most promising materials for heterojunction thin film solar cells. Wide band CdS <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M1"><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mrow><mml:mi>E</mml:mi></mml:mrow><mml:mrow><mml:mi>g</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn mathvariant="normal">2.4</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mtext>eV</mml:mtext><mml:mo stretchy="false">)</mml:mo></mml:math></inline-formula> has been used as the window material together with several semiconductors such as CdTe, Cu<sub>2</sub>S, InP, and CuInSe<sub>2</sub> with 14&#x2013;16&#x25; efficiency [<xref ref-type="bibr" rid="B6">7</xref>, <xref ref-type="bibr" rid="B7">8</xref>]. ZnS thin film has also potential applications in optoelectronic devices such as blue light emitting diodes [<xref ref-type="bibr" rid="B8">9</xref>], electroluminescence devices, and photovoltaic cells which enable wide application in the field of displays [<xref ref-type="bibr" rid="B9">10</xref>, <xref ref-type="bibr" rid="B10">11</xref>], sensors, and lasers [<xref ref-type="bibr" rid="B11">12</xref>].</p>
+      <p>As the metallized polymer films are used in flexible optoelectronic devices, it is proved by Gupta et al. [<xref ref-type="bibr" rid="B12">13</xref>] that most of the metals show excellent adhesion with PET film with the help of stress-strain curves of metalized polymer film for a wide range of temperatures; therefore in the same way an effort has been made to see the effect of wide range of temperatures on chalcogenide (CdS, ZnS) coated polymer film. The change in mechanical stability, stiffness, and elasticity of chalcogenide coated polymer films with temperature is also important issue of study for the application point of view. The mechanical studies of CdS and ZnS coated polymer systems at elevated temperatures are very important for the development of light weight optoelectronic devices. In the present work polyethylene terephthalate (PET) film is used as flexible substrate because of its high mechanical strength.</p>
+      <p>Many techniques have been reported for the deposition of CdS and ZnS thin films. These include evaporation, sputtering, chemical bath deposition spray pyrolysis, metal organic chemical vapour deposition (MOCVD), molecular beam epitaxy (MBE) technique, electrodeposition, and photochemical deposition [<xref ref-type="bibr" rid="B13">14</xref>&#x2013;<xref ref-type="bibr" rid="B17">18</xref>]. In the present work, thermal evaporation technique has been used for deposition of CdS and ZnS thin films on PET substrate, as it is simple compared with other new and sophisticated techniques. Here the temperature dependent mechanical studies of these films have been carried out, which help in fabrication of flexible optoelectronic devices.</p></sec>
+    <sec id="sec2">
+      <title>2. Experimental</title>
+      <sec id="sec2.1">
+        <title>2.1. Thin Film Preparation</title>
+        <p>CdS and ZnS thin films were prepared on PET substrate by evaporation of CdS and ZnS powder (99.999&#x25; pure, from Alfa Aesar) separately at a residual pressure of 10<sup>&#x2212;5</sup> Torr.  Cleaned PET film of 20&#x2009;<italic>&#x3bc;</italic>m (from Good Fellow Cambridge Limited, England) was used as substrate, and molybdenum was used as boat source. The thickness of CdS and ZnS films is same, of the order of 200&#x2009;nm, which was measured by quartz crystal thickness monitor (Model CTM 200).</p>
+        <p />
+        <p />
+        <p /></sec>
+      <sec id="sec2.2">
+        <title>2.2. Characterization Study</title>
+        <p>Structural study of PET, CdS-PET, and ZnS-PET films was done using X-ray analysis performed with Philips X&#x2019;Pert X-ray diffractometer at a scanning rate of 3&#xb0; per minute between 10 and 60&#xb0;. The source used throughout this study was Cu, K<italic>&#x3b1;</italic>&#x2009;&#x2009;<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M2"><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x3bb;</mml:mi><mml:mi /><mml:mo>=</mml:mo><mml:mi /><mml:mn>1.5406</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mover accent="true"><mml:mrow><mml:mi>&#x212b;</mml:mi></mml:mrow><mml:mo>&#xb4;</mml:mo></mml:mover><mml:mo stretchy="false">)</mml:mo></mml:math></inline-formula> operated at 40&#x2009;mA and 45&#x2009;kV. The FTIR absorption spectra of these films have been recorded in the frequency region 4000&#x2013;400&#x2009;cm<sup>&#x2212;1</sup>, using IR spectrophotometer. The accuracy of the measurement is &#xb1;4&#x2009;cm<sup>&#x2212;1</sup> in 4000 to 2000&#x2009;cm<sup>&#x2212;1</sup> region and &#xb1;2&#x2009;cm<sup>&#x2212;1</sup> in 2000 to 400&#x2009;cm<sup>&#x2212;1</sup> region. Scanning electron microscopy (SEM) of PET, CdS-PET, and ZnS-PET films has been performed using FEI Quanta 200&#x2009;F equipment. </p>
+      </sec>
+      <sec id="sec2.3">
+        <title>2.3. Mechanical Study</title>
+        <p>The mechanical properties of CdS-PET and ZnS-PET films have been studied by Dynamic Mechanical Analyser (DMA), a sensitive technique that characterizes the mechanical response of materials by monitoring property change with respect to the temperature and frequency of applied sinusoidal stress [<xref ref-type="bibr" rid="B18">19</xref>&#x2013;<xref ref-type="bibr" rid="B20">21</xref>]. Samples to be used in DMA were cut into the size between 3&#x2013;5&#x2009;mm in width and 8&#x2009;mm in length to conform to the dimensional limits for clamp fixtures in tension mode. The average thickness for each sample was based on separate measurements, taken at the two ends. After mounting the sample in clamp, the furnace was sealed off, scanned over a temperature range from room temperature to 180&#xb0;C. The heating/ramp rate was 2&#xb0;C/min for all temperature scan tests. Frequency of oscillations was fixed at 1&#x2009;Hz and strain amplitude 0.01&#x2009;mm within the linear viscoelastic region. The storage modulus <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M3"><mml:mrow><mml:msup><mml:mrow><mml:mi>E</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x2032;</mml:mi></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula>, loss modulus <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M4"><mml:mrow><mml:msup><mml:mrow><mml:mi>E</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x2032;</mml:mi><mml:mi>&#x2032;</mml:mi></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula>, and mechanical loss factor (Tan&#x2009;<italic>&#x3b4;</italic>) have been determined during the test as a function of increasing temperature.</p>
+        <p>The stress-strain scans for PET, CdS-PET, and ZnS-PET films are taken at room and different elevated temperatures (range from room temperature to 180&#xb0;C) with constant strain rate of 2&#x2009;min<sup>&#x2212;1</sup>.</p></sec>
+    </sec>
+    <sec id="sec3">
+      <title>3. Results and Discussion</title>
+      <sec id="sec3.1">
+        <title>3.1. Structural Study</title>
+        <sec id="sec3.1.1">
+          <title>3.1.1. X-Ray Analysis</title>
+          <p>Figure <xref ref-type="fig" rid="fig1">1</xref> shows the X-ray diffraction patterns of PET, CdS-PET, and ZnS-PET films. X-ray pattern of PET shows the presence of the intense and broader peak in the range of 2<italic>&#x3b8;</italic> from 20 to 30&#xb0;, which can be assigned to the semicrystalline structure of PET polymer [<xref ref-type="bibr" rid="B21">22</xref>, <xref ref-type="bibr" rid="B22">23</xref>]. This observed effect seems to be related to extrusion process (lateral stretching) employed in the production of PET films. When lateral stretching process is not employed, amorphous PET is produced [<xref ref-type="bibr" rid="B23">24</xref>]. </p>
+          <fig id="fig1">
+            <label>Figure 1</label>
+            <caption>
+              <p>X-ray diffraction pattern of PET, CdS-PET, and ZnS-PET films.</p></caption>
+            <graphic xlink:href="952612.fig.001" /></fig>
+          <p>The XRD pattern of CdS-PET film shows a peak at 47.89&#xb0;. It indicates that CdS is in hexagonal structure with primitive lattice having cell parameter of <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M5"><mml:mi>a</mml:mi><mml:mi /><mml:mo>=</mml:mo><mml:mi /><mml:mn>4.136</mml:mn><mml:mi /><mml:mo>&#x2009;</mml:mo><mml:mi>&#x212b;</mml:mi><mml:mo>,</mml:mo><mml:mi /><mml:mi>&#x2009;&#x2009;</mml:mi><mml:mi>c</mml:mi><mml:mi /><mml:mo>=</mml:mo><mml:mi /><mml:mn>6.713</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mi>&#x212b;</mml:mi></mml:math></inline-formula>, and preferred (103) orientation of microcrystallites. Similarly the XRD pattern of ZnS-PET film shows a peak at 28.63&#xb0;, which reveals that ZnS is also in hexagonal structure with primitive lattice having cell parameter of <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M6"><mml:mi>a</mml:mi><mml:mi /><mml:mo>=</mml:mo><mml:mi /><mml:mn>3.800</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mi>&#x212b;</mml:mi><mml:mo>,</mml:mo><mml:mi /><mml:mi>&#x2009;&#x2009;</mml:mi><mml:mi>c</mml:mi><mml:mi /><mml:mo>=</mml:mo><mml:mi /><mml:mi /><mml:mn>6.230</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mi>&#x212b;</mml:mi></mml:math></inline-formula>, and preferred (002) orientation of microcrystallites. The grain size <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M7"><mml:mo stretchy="false">(</mml:mo><mml:mi>G</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:math></inline-formula> of CdS and ZnS crystallites has been estimated using the following relation [<xref ref-type="bibr" rid="B24">25</xref>]:
+                                        <disp-formula><mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M8"><mml:mtable><mml:mlabeledtr id="EEq1"><mml:mtd><mml:mtext>(1)</mml:mtext></mml:mtd><mml:mtd><mml:mi>G</mml:mi><mml:mi>&#x2009;&#x2009;</mml:mi><mml:mo>=</mml:mo><mml:mi>&#x2009;&#x2009;</mml:mi><mml:mi>k</mml:mi><mml:mi>&#x2009;&#x2009;</mml:mi><mml:mfrac><mml:mrow><mml:mi>&#x3bb;</mml:mi></mml:mrow><mml:mrow><mml:mrow><mml:mo class="left">(</mml:mo><mml:mrow><mml:mi>&#x3b2;</mml:mi><mml:mo>&#x2009;</mml:mo><mml:mi>cos</mml:mi><mml:mo /><mml:mi>&#x3b8;</mml:mi></mml:mrow><mml:mo class="right">)</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mtd></mml:mlabeledtr></mml:mtable></mml:math></disp-formula>
+                                    where <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M9"><mml:mrow><mml:mi>k</mml:mi></mml:mrow></mml:math></inline-formula>(<italic>&#x2248;</italic>1) is shape factor, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M10"><mml:mrow><mml:mi>&#x3bb;</mml:mi></mml:mrow></mml:math></inline-formula> is the wavelength of X-ray used, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M11"><mml:mrow><mml:mi>&#x3b8;</mml:mi></mml:mrow></mml:math></inline-formula> is Bragg&#x2019;s angle, and <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M12"><mml:mrow><mml:mi>&#x3b2;</mml:mi></mml:mrow></mml:math></inline-formula> is the FWHM of the peak. The grain size of CdS and ZnS particles has been found to be of the order of 17&#x2009;nm and 15&#x2009;nm, respectively.</p>
+          <p>The degree of crystallinity, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M13"><mml:mrow><mml:msub><mml:mrow><mml:mi>X</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>, and amorphous content, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M14"><mml:mrow><mml:msub><mml:mrow><mml:mi>X</mml:mi></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>, have been calculated [<xref ref-type="bibr" rid="B25">26</xref>] using the following relationship:
+                                        <disp-formula><mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M15"><mml:mtable><mml:mlabeledtr id="EEq2"><mml:mtd><mml:mtext>(2)</mml:mtext></mml:mtd><mml:mtd><mml:msub><mml:mrow><mml:mi>X</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>I</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mrow><mml:mo class="left">(</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi>I</mml:mi></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi>I</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo class="right">)</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mo>,</mml:mo><mml:mo>&#x2003;</mml:mo><mml:mo>&#x2003;</mml:mo><mml:msub><mml:mrow><mml:mi>X</mml:mi></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>I</mml:mi></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mrow><mml:mo class="left">(</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi>I</mml:mi></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi>I</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo class="right">)</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mtd></mml:mlabeledtr></mml:mtable></mml:math></disp-formula>
+                                    where <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M16"><mml:mrow><mml:msub><mml:mrow><mml:mi>I</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> and <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M17"><mml:mrow><mml:msub><mml:mrow><mml:mi>I</mml:mi></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> are the integrated intensities of the crystalline and the amorphous phase, respectively, which can be determined by drawing the line of demarcation in such a manner as to be congruent with the spectrum profile of the films. In this usual method, the area above the demarcation curve has been taken to be proportional to the intensity of crystalline scattering, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M18"><mml:mrow><mml:msub><mml:mrow><mml:mi>I</mml:mi></mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>, and the area between the baseline and the demarcation curve has been taken to be proportional to the intensity of amorphous scattering, <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M19"><mml:mrow><mml:msub><mml:mrow><mml:mi>I</mml:mi></mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>. The <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M20"><mml:mn>2</mml:mn><mml:mi>&#x3b8;</mml:mi></mml:math></inline-formula> values between 10 and 60&#xb0; have been considered for crystallinity measurements.  Percentage crystallinity of PET, CdS-PET, and ZnS-PET films has been found to be 15.85&#x25;, 16.63&#x25;, and 17.08&#x25; respectively, which indicates that the crystallinity of PET film increases after the deposition of films of metal chalcogenides (CdS, ZnS) on it.</p>
+        </sec>
+        <sec id="sec3.1.2">
+          <title>3.1.2. FTIR Measurement</title>
+          <p>The FTIR spectra of PET and metal chalcogenide (CdS, ZnS)-PET samples in absorption mode have been shown in Figures <xref ref-type="fig" rid="fig2a">2(a)</xref> and <xref ref-type="fig" rid="fig2b">2(b)</xref>, respectively. On comparing the FTIR spectra of PET film to metal chalcogenide-PET films, several new peaks which indicated chemical interaction between PET and chalcogenide (CdS, ZnS) have been observed.</p>
+          <fig-group id="fig2">
+            <caption>
+              <p> (a)  FTIR spectrum of PET film. (b)  FTIR spectra of CdS-PET and ZnS-PET films.</p></caption>
+            <fig id="fig2a">
+              <label>(a)</label>
+              <graphic xlink:href="952612.fig.002a" /></fig>
+            <fig id="fig2b">
+              <label>(b)</label>
+              <graphic xlink:href="952612.fig.002b" /></fig></fig-group>
+          <p>The absorption peak at 420&#x2009;cm<sup>&#x2212;1</sup> is attributed to the vibration of Zn<sup>2+</sup> and Cd<sup>2+</sup> cations [<xref ref-type="bibr" rid="B26">27</xref>]. A sharp band at 1390&#x2009;cm<sup>&#x2212;1</sup> in FTIR spectra of CdS-PET and ZnS-PET films is attributed to C&#x2013;S stretching [<xref ref-type="bibr" rid="B27">28</xref>]. A sharp band at 405&#x2009;cm<sup>&#x2212;1</sup> in FTIR spectrum of CdS-PET film could be assigned to Cd&#x2013;S stretching [<xref ref-type="bibr" rid="B28">29</xref>]. These bondings confirm that ions of CdS and ZnS material have been attached to the polymer chain of PET, hence altering its mechanical behaviour.</p></sec>
+        <sec id="sec3.1.3">
+          <title>3.1.3. SEM Analysis</title>
+          <p>Figures <xref ref-type="fig" rid="fig3a">3(a)</xref>, <xref ref-type="fig" rid="fig3b">3(b)</xref>, and <xref ref-type="fig" rid="fig3c">3(c)</xref> show the SEM images of PET, CdS-PET, and ZnS-PET films. The CdS-PET, and ZnS-PET films show a globular structure of CdS and ZnS molecules of different sizes on surface, while the PET film presents a planner sheet structure. Here it is seen that surface of chalcogenide coated PET film is not as homogeneous as PET film. These images also show the diffusion of CdS/ZnS molecules into the PET base film which are responsible for improving mechanical properties of PET film. It is found that bright chalcogenide particles of the order of 17&#x2009;nm of CdS and 15&#x2009;nm of ZnS are dispersed on the polymer surfaces as confirmed by X-ray analysis.</p>
+          <fig-group id="fig3">
+            <caption>
+              <p>SEM images of (a) PET, (b) CdS-PET, and (c) ZnS-PET films.</p></caption>
+            <fig id="fig3a">
+              <label>(a)</label>
+              <graphic xlink:href="952612.fig.003a" /></fig>
+            <fig id="fig3b">
+              <label>(b)</label>
+              <graphic xlink:href="952612.fig.003b" /></fig>
+            <fig id="fig3c">
+              <label>(c)</label>
+              <graphic xlink:href="952612.fig.003c" /></fig></fig-group>
+        </sec></sec>
+      <sec id="sec3.2">
+        <title>3.2. Mechanical Study</title>
+        <sec id="sec3.2.1">
+          <title>3.2.1. Glass Transition Temperature <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M21"><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>g</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:math></inline-formula></title>
+          <p>Variation in mechanical loss factor with temperature for PET, CdS-PET, and ZnS-PET films has been shown in Figure <xref ref-type="fig" rid="fig4">4</xref>. This figure indicates that the glass transition temperature of CdS-PET and ZnS-PET films is 118.3&#xb0;C and 117.4&#xb0;C, whereas the <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M22"><mml:mrow><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>g</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> of PET film is 89.7&#xb0;C. Thus an increase in the value of <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M23"><mml:mrow><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>g</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> has been observed after coating of CdS and ZnS material on PET film. During the coating process ions of CdS and ZnS material have been attached with PET matrix and make a compact structure; therefore CdS-PET and ZnS-PET films take more heat to transform from solid phase to rubbery phase, and glass transition temperature shifts towards the higher temperature. The <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M24"><mml:mrow><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>g</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> of CdS-PET film is greater than ZnS-PET film because the size of CdS particle is lower than ZnS particle as confirmed by XRD results. </p>
+          <fig id="fig4">
+            <label>Figure 4</label>
+            <caption>
+              <p>Variation in Tan <italic>&#x3b4;</italic> with temperature for PET, CdS-PET, and ZnS-PET films.</p></caption>
+            <graphic xlink:href="952612.fig.004" /></fig></sec>
+        <sec id="sec3.2.2">
+          <title>3.2.2. Storage Modulus and Tensile Properties</title>
+          <p>Variation in storage modulus with temperature for PET, CdS-PET, and ZnS-PET films has been shown in Figure <xref ref-type="fig" rid="fig5">5</xref>. From this figure it has been observed that the storage modulus <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M25"><mml:mo stretchy="false">(</mml:mo><mml:msup><mml:mrow><mml:mi>E</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x2032;</mml:mi></mml:mrow></mml:msup><mml:mo stretchy="false">)</mml:mo></mml:math></inline-formula> decreases with increasing temperature due to the softening of these films. The value of storage modulus for PET decreases from <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M26"><mml:mn>9.98</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mo>&#xd7;</mml:mo><mml:mo>&#x2009;</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mn>8</mml:mn></mml:mrow></mml:msup></mml:math></inline-formula> to <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M27"><mml:mn>1.37</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mo>&#xd7;</mml:mo><mml:mo>&#x2009;</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mn>8</mml:mn></mml:mrow></mml:msup></mml:math></inline-formula>&#x2009;Pa, as temperature increases from room temperature to 160&#xb0;C, whereas the value of storage modulus for CdS-PET and ZnS-PET decreases from <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M28"><mml:mn>5.18</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mo>&#xd7;</mml:mo><mml:mo>&#x2009;</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mn>9</mml:mn></mml:mrow></mml:msup></mml:math></inline-formula> to <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M29"><mml:mn>3.2</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mo>&#xd7;</mml:mo><mml:mo>&#x2009;</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mn>8</mml:mn></mml:mrow></mml:msup></mml:math></inline-formula> Pa and from <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M30"><mml:mn>4.21</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mo>&#xd7;</mml:mo><mml:mo>&#x2009;</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mn>9</mml:mn></mml:mrow></mml:msup></mml:math></inline-formula> to <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M31"><mml:mn>3.79</mml:mn><mml:mo>&#x2009;</mml:mo><mml:mo>&#xd7;</mml:mo><mml:mo>&#x2009;</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mn>8</mml:mn></mml:mrow></mml:msup></mml:math></inline-formula> Pa, respectively, within the same temperature range. It has been found that the value of storage modulus increases after coating of CdS/ZnS on PET film. The reason for the increased value of storage modulus can be assigned to the fact that the ions of CdS and ZnS material have been attached to the polymer chain of PET as confirmed by FTIR results and make more compact structure. Hence coating of CdS/ZnS film increases the stiffness of PET sheet.</p>
+          <fig id="fig5">
+            <label>Figure 5</label>
+            <caption>
+              <p>Variation of storage modulus with temperature for PET, CdS-PET, and ZnS-PET films.</p></caption>
+            <graphic xlink:href="952612.fig.005" /></fig>
+          <p>The stress-strain behaviour of PET, CdS-PET, and ZnS-PET films at room and elevated temperatures has been shown in Figures <xref ref-type="fig" rid="fig6">6</xref>, <xref ref-type="fig" rid="fig7">7</xref>, and <xref ref-type="fig" rid="fig8">8</xref>, respectively. These figures show two characteristic regions and one phase transition for each film. The first region is characterised by an initial linear increase. The second one is characterised by the increase in the strain with a very slow increase of the stress, which is specific for plastic deformation. In this region, the specimen exhibits &#x201c;irreversible&#x201d; plastic deformations with increasing strain. The stress in the plastic deformation region varies very little with the strain and is often lower than the yield strength. The transition is indicated as the yield point that corresponds to the onset of plastic deformation events in polymer. The slope of initial linear region of stress-strain curve gives the value of stiffness or Young&#x2019;s modulus of the polymer.</p>
+          <fig id="fig6">
+            <label>Figure 6</label>
+            <caption>
+              <p>Stress-strain curves of PET at room temperature and elevated temperatures.</p></caption>
+            <graphic xlink:href="952612.fig.006" /></fig>
+          <fig id="fig7">
+            <label>Figure 7</label>
+            <caption>
+              <p>Stress-strain curves of CdS-PET film at room temperature and elevated temperatures. </p></caption>
+            <graphic xlink:href="952612.fig.007" /></fig>
+          <fig id="fig8">
+            <label>Figure 8</label>
+            <caption>
+              <p>Stress-strain curves of ZnS-PET film at room temperature and elevated temperatures.</p></caption>
+            <graphic xlink:href="952612.fig.008" /></fig>
+          <p>The tensile strength of a polymer is usually defined as the maximum stress reached during the stress-strain test, and the yield strength <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M32"><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mrow><mml:mi>&#x3c3;</mml:mi></mml:mrow><mml:mrow><mml:mi>y</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:math></inline-formula> is the point where deviation from linearity occurs in the stress-strain curve. The total area under the stress-strain curve represents the fracture energy or toughness of the sample, and the elongation at break is the maximum strain reached during the stress-strain curve or the value of strain when the sample breaks. The values of Young&#x2019;s modulus <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M33"><mml:mo stretchy="false">(</mml:mo><mml:mi>Y</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:math></inline-formula>, tensile strength <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M34"><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x3c3;</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:math></inline-formula>, yield strength <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M35"><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mrow><mml:mi>&#x3c3;</mml:mi></mml:mrow><mml:mrow><mml:mi>y</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:math></inline-formula>, fracture energy, and elongation at break for PET, CdS-PET, and ZnS-PET films at room and elevated temperatures have been surmised in Tables <xref ref-type="table" rid="tab1">1</xref>, <xref ref-type="table" rid="tab2">2</xref>, and <xref ref-type="table" rid="tab3">3</xref>.</p>
+          <table-wrap id="tab1">
+            <label>Table 1</label>
+            <caption>
+              <p>Temperature dependent mechanical properties of PET film.</p></caption>
+            <table>
+              <thead>
+                <tr>
+                  <th align="left">Temperature <break />(&#xb0;C)</th>
+                  <th align="center">Young&#x2019;s modulus <break />(GPa)</th>
+                  <th align="center">Tensile strength <break />(MPa)</th>
+                  <th align="center">Yield strength <break />(MPa)</th>
+                  <th align="center">Fracture energy <break />(&#xd7;10<sup>&#x2212;3</sup>&#x2009;J)</th>
+                  <th align="center">Elongation at break <break />(&#x25;)</th></tr></thead>
+              <tbody>
+                <tr>
+                  <td align="left">27</td>
+                  <td align="center">2.25</td>
+                  <td align="center">48.9</td>
+                  <td align="center">28.85</td>
+                  <td align="center">3.18</td>
+                  <td align="center">10.52</td></tr>
+                <tr>
+                  <td align="left">60</td>
+                  <td align="center">1.61</td>
+                  <td align="center">46</td>
+                  <td align="center">18.95</td>
+                  <td align="center">2.82</td>
+                  <td align="center">10.73</td></tr>
+                <tr>
+                  <td align="left">100</td>
+                  <td align="center">1.07</td>
+                  <td align="center">38.6</td>
+                  <td align="center">12.69</td>
+                  <td align="center">2.38</td>
+                  <td align="center">11.08</td></tr>
+                <tr>
+                  <td align="left">140</td>
+                  <td align="center">0.36</td>
+                  <td align="center">22.3</td>
+                  <td align="center">4.17</td>
+                  <td align="center">1.15</td>
+                  <td align="center">11.57</td></tr>
+                <tr>
+                  <td align="left">180</td>
+                  <td align="center">0.15</td>
+                  <td align="center">13.5</td>
+                  <td align="center">1.98</td>
+                  <td align="center">0.61</td>
+                  <td align="center">12.03</td></tr>
+              </tbody></table>
+          </table-wrap>
+          <table-wrap id="tab2">
+            <label>Table 2</label>
+            <caption>
+              <p>Temperature dependent mechanical properties of CdS-PET film.</p></caption>
+            <table>
+              <thead>
+                <tr>
+                  <th align="left">Temperature <break />(&#xb0;C)</th>
+                  <th align="center">Young&#x2019;s modulus <break />(GPa)</th>
+                  <th align="center">Tensile strength  <break />(MPa)</th>
+                  <th align="center">Yield strength <break />(MPa)</th>
+                  <th align="center">Fracture energy <break />(&#xd7;10<sup>&#x2212;3</sup> J)</th>
+                  <th align="center">Elongation at break <break />(&#x25;)</th></tr></thead>
+              <tbody>
+                <tr>
+                  <td align="left">27</td>
+                  <td align="center">2.82</td>
+                  <td align="center">31.31</td>
+                  <td align="center">21.55</td>
+                  <td align="center">0.78</td>
+                  <td align="center">1.26</td></tr>
+                <tr>
+                  <td align="left">60</td>
+                  <td align="center">1.05</td>
+                  <td align="center">24.62</td>
+                  <td align="center">15.91</td>
+                  <td align="center">0.71</td>
+                  <td align="center">5.22</td></tr>
+                <tr>
+                  <td align="left">100</td>
+                  <td align="center">0.65</td>
+                  <td align="center">21.91</td>
+                  <td align="center">11.55</td>
+                  <td align="center">0.53</td>
+                  <td align="center">7.80</td></tr>
+                <tr>
+                  <td align="left">140</td>
+                  <td align="center">0.35</td>
+                  <td align="center">19.22</td>
+                  <td align="center">9.36</td>
+                  <td align="center">0.36</td>
+                  <td align="center">9.03</td></tr>
+                <tr>
+                  <td align="left">180</td>
+                  <td align="center">0.11</td>
+                  <td align="center">10.41</td>
+                  <td align="center">7.01</td>
+                  <td align="center">0.16</td>
+                  <td align="center">10.31</td></tr>
+              </tbody></table>
+          </table-wrap>
+          <table-wrap id="tab3">
+            <label>Table 3</label>
+            <caption>
+              <p>Temperature dependent mechanical properties of ZnS-PET film.</p></caption>
+            <table>
+              <thead>
+                <tr>
+                  <th align="left">Temperature <break />(&#xb0;C)</th>
+                  <th align="center">Young&#x2019;s modulus <break />(GPa)</th>
+                  <th align="center">Tensile strength  <break />(MPa)</th>
+                  <th align="center">Yield strength <break />(MPa)</th>
+                  <th align="center">Fracture energy <break />(&#xd7;10<sup>&#x2212;3</sup>&#x2009;J)</th>
+                  <th align="center">Elongation at break <break />(&#x25;)</th></tr></thead>
+              <tbody>
+                <tr>
+                  <td align="left">27</td>
+                  <td align="center">3.27</td>
+                  <td align="center">79.23</td>
+                  <td align="center">61.38</td>
+                  <td align="center">1.24</td>
+                  <td align="center">2.60</td></tr>
+                <tr>
+                  <td align="left">60</td>
+                  <td align="center">2.16</td>
+                  <td align="center">51.32</td>
+                  <td align="center">31.26</td>
+                  <td align="center">1.18</td>
+                  <td align="center">4.45</td></tr>
+                <tr>
+                  <td align="left">100</td>
+                  <td align="center">1.21</td>
+                  <td align="center">24.61</td>
+                  <td align="center">15.47</td>
+                  <td align="center">0.96</td>
+                  <td align="center">6.01</td></tr>
+                <tr>
+                  <td align="left">140</td>
+                  <td align="center">0.62</td>
+                  <td align="center">12.63</td>
+                  <td align="center">10.54</td>
+                  <td align="center">0.45</td>
+                  <td align="center">8.07</td></tr>
+                <tr>
+                  <td align="left">180</td>
+                  <td align="center">0.38</td>
+                  <td align="center">10.87</td>
+                  <td align="center">8.06</td>
+                  <td align="center">0.38</td>
+                  <td align="center">10.01</td></tr>
+              </tbody></table>
+          </table-wrap>
+          <p>The results of Tables <xref ref-type="table" rid="tab1">1</xref>&#x2013;<xref ref-type="table" rid="tab3">3</xref> show the variation of mechanical properties of PET, CdS-PET, and ZnS-PET films with temperature, which indicate the mechanical properties that is Young modulus, tensile strength, yield strength, and fracture energy decrease with increasing temperature, whereas the elongation at break shows increasing behavior with temperature. It is seen that after the coating of CdS/ZnS on PET film the value of Young&#x2019;s modulus has been increased, and elongation at break has been decreased. This increase in Young&#x2019;s modulus and decrease in elongation at break of CdS-PET and ZnS-PET films are due to the increase in crystallinity of these films because CdS/ZnS is polycrystalline material, and when it diffuse in amorphous PET film, it increases crystallinity of PET film. </p>
+          <p>Tensile and yield strength of ZnS-PET film have also been increased in comparison of PET film due to increase in stiffness or modulus. But it is observed that the tensile and yield strength of CdS-PET film have been decreased in comparison of PET film. This behaviour can be understood on the basis of fracture energy of CdS-PET film. The fracture energy of CdS-PET film is very low in comparison of PET film therefore very less energy is required to break the sample. Hence CdS-PET film shows hard and brittle nature, whereas ZnS-PET film shows hard and ductile nature.</p></sec>
+      </sec></sec>
+    <sec id="sec4">
+      <title>4. Conclusions</title>
+      <p>A systematic study of structural and mechanical characterization of PET and chalcogenide (CdS, ZnS) coated PET films leads to the following conclusions.<list><list-item><label>(1)</label><p>The structural study of PET and chalcogenide (CdS, ZnS) coated PET films indicates that metal and chalcogenide coated PET films are more mechanically and thermally stable in comparison to PET film due to their compact structure.</p></list-item><list-item><label>(2)</label><p>An increase in glass transition temperature <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M36"><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mrow><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>g</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:math></inline-formula> of PET film after deposition of chalcogenide semiconductor (CdS, ZnS) that is due to increase in crystallinity indicates that the stability of these films increases. </p></list-item><list-item><label>(3)</label><p>Due to increase in modulus and strength of PET film after deposition of chalcogenide semiconductor (CdS, ZnS), these films can survive up to higher temperature and load in comparison to PET film, when used as a substrate in light weight optoelectronic devices.</p></list-item><list-item><label>(4)</label><p>It is seen that the mechanical viability of PET film has been increased after chalcogenide coating over it. </p></list-item></list></p>
+    </sec></body>
+  <back>
+    <ref-list>
+      <ref id="B1a" content-type="inproceedings">
+        <label>1</label>
+        <nlm-citation publication-type="confproc">
+          <person-group person-group-type="author">
+            <name>
+              <surname>DeHart</surname>
+              <given-names>P. C.</given-names></name>
+            <name>
+              <surname>Albin</surname>
+              <given-names>D. S.</given-names></name>
+            <name>
+              <surname>Duda</surname>
+              <given-names>A.</given-names></name>
+            <name>
+              <surname>Gessert</surname>
+              <given-names>T. A.</given-names></name>
+            <name>
+              <surname>Asher</surname>
+              <given-names>S.</given-names></name>
+            <name>
+              <surname>Levi</surname>
+              <given-names>D. H.</given-names></name>
+            <name>
+              <surname>Sheldon</surname>
+              <given-names>P.</given-names></name>
+          </person-group>
+          <conf-name>Proceedings of the 17th European Photovoltaic Solar Energy Conference</conf-name>
+          <conf-date>October 2001</conf-date>
+          <conf-loc>Munich, Germany</conf-loc></nlm-citation>
+      </ref>
+      <ref id="B1b" content-type="article">
+        <label>2</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nair</surname>
+              <given-names>K.</given-names></name>
+            <name>
+              <surname>Nair</surname>
+              <given-names>M. T. S.</given-names></name>
+            <name>
+              <surname>Fernandez</surname>
+              <given-names>A.</given-names></name>
+            <name>
+              <surname>Ocampo</surname>
+              <given-names>M.</given-names></name>
+          </person-group>
+          <article-title>Prospects of chemically deposited metal chalcogenide thin films for solar control applications</article-title>
+          <source>
+            <italic>Journal of Physics D</italic></source>
+          <year>1989</year>
+          <volume>22</volume>
+          <issue>6</issue>
+          <fpage>829</fpage>
+          <pub-id pub-id-type="doi">10.1088/0022-3727/22/6/021</pub-id></nlm-citation>
+      </ref>
+      <ref id="B2" content-type="article">
+        <label>3</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ueno</surname>
+              <given-names>Y.</given-names></name>
+            <name>
+              <surname>Minoura</surname>
+              <given-names>H.</given-names></name>
+            <name>
+              <surname>Nishikawa</surname>
+              <given-names>T.</given-names></name>
+            <name>
+              <surname>Tsuiki</surname>
+              <given-names>M.</given-names></name>
+          </person-group>
+          <article-title>Electrophoretically deposited CdS and CdSe anodes for photoelectrochemical cells</article-title>
+          <source>
+            <italic>Journal of the Electrochemical Society</italic></source>
+          <year>1983</year>
+          <volume>130</volume>
+          <issue>1</issue>
+          <fpage>43</fpage>
+          <lpage>47</lpage>
+          <pub-id pub-id-type="doi">10.1149/1.2119680</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-0020632569</pub-id></nlm-citation>
+      </ref>
+      <ref id="B3" content-type="article">
+        <label>4</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Na&#x15f;cu</surname>
+              <given-names>C.</given-names></name>
+            <name>
+              <surname>Pop</surname>
+              <given-names>I.</given-names></name>
+            <name>
+              <surname>Ionescu</surname>
+              <given-names>V.</given-names></name>
+            <name>
+              <surname>Indrea</surname>
+              <given-names>E.</given-names></name>
+            <name>
+              <surname>Bratu</surname>
+              <given-names>I.</given-names></name>
+          </person-group>
+          <article-title>Spray pyrolysis deposition of CuS thin films</article-title>
+          <source>
+            <italic>Materials Letters</italic></source>
+          <year>1997</year>
+          <volume>32</volume>
+          <issue>2-3</issue>
+          <fpage>73</fpage>
+          <lpage>77</lpage>
+          <pub-id pub-id-type="other">2-s2.0-0031211375</pub-id></nlm-citation>
+      </ref>
+      <ref id="B4" content-type="article">
+        <label>5</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Touskova</surname>
+              <given-names>J.</given-names></name>
+            <name>
+              <surname>Kindl</surname>
+              <given-names>D.</given-names></name>
+            <name>
+              <surname>Tousek</surname>
+              <given-names>J.</given-names></name>
+          </person-group>
+          <article-title>Photovoltaic cells on CdS/CdTe heterojunctions</article-title>
+          <source>
+            <italic>Physica Status Solidi (A) Applied Research</italic></source>
+          <year>1994</year>
+          <volume>142</volume>
+          <issue>2</issue>
+          <fpage>539</fpage>
+          <lpage>549</lpage>
+          <pub-id pub-id-type="other">2-s2.0-0028407694</pub-id></nlm-citation>
+      </ref>
+      <ref id="B5" content-type="article">
+        <label>6</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hasse</surname>
+              <given-names>M. A.</given-names></name>
+            <name>
+              <surname>Qiu</surname>
+              <given-names>J.</given-names></name>
+            <name>
+              <surname>DePuydt</surname>
+              <given-names>J. M.</given-names></name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>H.</given-names></name>
+          </person-group>
+          <article-title>Blue-green laser diodes</article-title>
+          <source>
+            <italic>Applied Physics Letters</italic></source>
+          <year>1991</year>
+          <volume>59</volume>
+          <issue>11</issue>
+          <fpage>1272</fpage>
+          <pub-id pub-id-type="doi">10.1063/1.105472</pub-id></nlm-citation>
+      </ref>
+      <ref id="B6" content-type="article">
+        <label>7</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Su</surname>
+              <given-names>B.</given-names></name>
+            <name>
+              <surname>Choy</surname>
+              <given-names>K. L.</given-names></name>
+          </person-group>
+          <article-title>Microstructure and properties of the CdS thin films prepared by electrostatic spray assisted vapour deposition (ESAVD) method</article-title>
+          <source>
+            <italic>Thin Solid Films</italic></source>
+          <year>2000</year>
+          <volume>359</volume>
+          <issue>2</issue>
+          <fpage>160</fpage>
+          <lpage>164</lpage>
+          <pub-id pub-id-type="other">2-s2.0-0033889920</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0040-6090(99)00733-6</pub-id></nlm-citation>
+      </ref>
+      <ref id="B7" content-type="inproceedings">
+        <label>8</label>
+        <nlm-citation publication-type="confproc">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wu</surname>
+              <given-names>X.</given-names></name>
+            <name>
+              <surname>Keane</surname>
+              <given-names>J. C.</given-names></name>
+            <name>
+              <surname>Dhere</surname>
+              <given-names>R. G.</given-names></name>
+            <name>
+              <surname>DeHart</surname>
+              <given-names>C.</given-names></name>
+            <name>
+              <surname>Albin</surname>
+              <given-names>D. S.</given-names></name>
+            <name>
+              <surname>Duda</surname>
+              <given-names>A.</given-names></name>
+            <name>
+              <surname>Gessert</surname>
+              <given-names>T. A.</given-names></name>
+            <name>
+              <surname>Asher</surname>
+              <given-names>S.</given-names></name>
+            <name>
+              <surname>Levi</surname>
+              <given-names>D. H.</given-names></name>
+            <name>
+              <surname>Sheldon</surname>
+              <given-names>P.</given-names></name>
+          </person-group>
+          <article-title>16.5&#x25; efficient CdS/CdTe polycrystalline thin-film solar cell</article-title>
+          <conf-name>Proccedings of the 17th European Photovoltaic Solar Energy Conference</conf-name>
+          <conf-date>October 2001</conf-date>
+          <conf-loc>Munich, Germany</conf-loc>
+          <fpage>995</fpage>
+          <lpage>1000</lpage></nlm-citation>
+      </ref>
+      <ref id="B8" content-type="article">
+        <label>9</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Coe</surname>
+              <given-names>S.</given-names></name>
+            <name>
+              <surname>Woo</surname>
+              <given-names>W. K.</given-names></name>
+            <name>
+              <surname>Bawendi</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Bulovi&#x107;</surname>
+              <given-names>V.</given-names></name>
+          </person-group>
+          <article-title>Electroluminescence from single monolayers of nanocrystals in molecular organic devices</article-title>
+          <source>
+            <italic>Nature</italic></source>
+          <year>2002</year>
+          <volume>420</volume>
+          <issue>6917</issue>
+          <fpage>800</fpage>
+          <lpage>803</lpage>
+          <pub-id pub-id-type="other">2-s2.0-0347579846</pub-id>
+          <pub-id pub-id-type="doi">10.1038/nature01217</pub-id></nlm-citation>
+      </ref>
+      <ref id="B9" content-type="article">
+        <label>10</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Beard</surname>
+              <given-names>M. C.</given-names></name>
+            <name>
+              <surname>Turner</surname>
+              <given-names>G. M.</given-names></name>
+            <name>
+              <surname>Schmuttenmaer</surname>
+              <given-names>C. A.</given-names></name>
+          </person-group>
+          <article-title>Size-dependent photoconductivity in CdSe nanoparticles as measured by time-resolved terahertz spectroscopy</article-title>
+          <source>
+            <italic>Nano Letters</italic></source>
+          <year>2002</year>
+          <volume>2</volume>
+          <issue>9</issue>
+          <fpage>983</fpage>
+          <lpage>987</lpage>
+          <pub-id pub-id-type="other">2-s2.0-0142006223</pub-id>
+          <pub-id pub-id-type="doi">10.1021/nl0256210</pub-id></nlm-citation>
+      </ref>
+      <ref id="B10" content-type="article">
+        <label>11</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Raffaelle</surname>
+              <given-names>R. P.</given-names></name>
+            <name>
+              <surname>Castro</surname>
+              <given-names>S. L.</given-names></name>
+            <name>
+              <surname>Hepp</surname>
+              <given-names>A. F.</given-names></name>
+            <name>
+              <surname>Bailey</surname>
+              <given-names>S. G.</given-names></name>
+          </person-group>
+          <article-title>Quantum dot solar cells</article-title>
+          <source>
+            <italic>Progress in Photovoltaics: Research and Applications</italic></source>
+          <year>2002</year>
+          <volume>10</volume>
+          <issue>6</issue>
+          <fpage>433</fpage>
+          <lpage>439</lpage>
+          <pub-id pub-id-type="other">2-s2.0-0036736560</pub-id>
+          <pub-id pub-id-type="doi">10.1002/pip.452</pub-id></nlm-citation>
+      </ref>
+      <ref id="B11" content-type="article">
+        <label>12</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Klimov</surname>
+              <given-names>V. I.</given-names></name>
+            <name>
+              <surname>Mikhailovsky</surname>
+              <given-names>A. A.</given-names></name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>S.</given-names></name>
+            <name>
+              <surname>Malko</surname>
+              <given-names>A.</given-names></name>
+            <name>
+              <surname>Hollingsworth</surname>
+              <given-names>J. A.</given-names></name>
+            <name>
+              <surname>Leatherdale</surname>
+              <given-names>C. A.</given-names></name>
+            <name>
+              <surname>Eisler</surname>
+              <given-names>H. J.</given-names></name>
+            <name>
+              <surname>Bawendi</surname>
+              <given-names>M. G.</given-names></name>
+          </person-group>
+          <article-title>Optical gain and stimulated emission in nanocrystal quantum dots</article-title>
+          <source>
+            <italic>Science</italic></source>
+          <year>2000</year>
+          <volume>290</volume>
+          <issue>5490</issue>
+          <fpage>314</fpage>
+          <lpage>317</lpage>
+          <pub-id pub-id-type="other">2-s2.0-0034644601</pub-id>
+          <pub-id pub-id-type="doi">10.1126/science.290.5490.314</pub-id></nlm-citation>
+      </ref>
+      <ref id="B12" content-type="article">
+        <label>13</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gupta</surname>
+              <given-names>S.</given-names></name>
+            <name>
+              <surname>Dixit</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>K.</given-names></name>
+            <name>
+              <surname>Saxena</surname>
+              <given-names>N. S.</given-names></name>
+          </person-group>
+          <article-title>Mechanical study of metallized polyethylene terephthalate (PET) films</article-title>
+          <source>
+            <italic>Surface and Coatings Technology</italic></source>
+          <year>2009</year>
+          <volume>204</volume>
+          <issue>5</issue>
+          <fpage>661</fpage>
+          <lpage>666</lpage>
+          <pub-id pub-id-type="other">2-s2.0-71749085613</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.surfcoat.2009.08.051</pub-id></nlm-citation>
+      </ref>
+      <ref id="B13" content-type="article">
+        <label>14</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gupta</surname>
+              <given-names>S.</given-names></name>
+            <name>
+              <surname>Patidar</surname>
+              <given-names>D.</given-names></name>
+            <name>
+              <surname>Saxena</surname>
+              <given-names>N. S.</given-names></name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>K.</given-names></name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>T. P.</given-names></name>
+          </person-group>
+          <article-title>Electrical study of Cu-CdS and Zn-CdS schottky junctions</article-title>
+          <source>
+            <italic>Optoelectronics and Advanced Materials, Rapid Communications</italic></source>
+          <year>2008</year>
+          <volume>2</volume>
+          <issue>4</issue>
+          <fpage>205</fpage>
+          <lpage>208</lpage>
+          <pub-id pub-id-type="other">2-s2.0-69249107405</pub-id></nlm-citation>
+      </ref>
+      <ref id="B14" content-type="article">
+        <label>15</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uda</surname>
+              <given-names>H.</given-names></name>
+            <name>
+              <surname>Yonezawa</surname>
+              <given-names>H.</given-names></name>
+            <name>
+              <surname>Ohtsubo</surname>
+              <given-names>Y.</given-names></name>
+            <name>
+              <surname>Kosaka</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Sonomura</surname>
+              <given-names>H.</given-names></name>
+          </person-group>
+          <article-title>Thin CdS films prepared by metalorganic chemical vapor deposition</article-title>
+          <source>
+            <italic>Solar Energy Materials and Solar Cells</italic></source>
+          <year>2003</year>
+          <volume>75</volume>
+          <issue>1-2</issue>
+          <fpage>219</fpage>
+          <lpage>226</lpage>
+          <pub-id pub-id-type="other">2-s2.0-0037209956</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0927-0248(02)00163-0</pub-id></nlm-citation>
+      </ref>
+      <ref id="B15" content-type="article">
+        <label>16</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Anuar</surname>
+              <given-names>K.</given-names></name>
+            <name>
+              <surname>Zulkarnain</surname>
+              <given-names>Z.</given-names></name>
+            <name>
+              <surname>Saravanan</surname>
+              <given-names>N.</given-names></name>
+            <name>
+              <surname>Nazri</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Sharin</surname>
+              <given-names>R.</given-names></name>
+          </person-group>
+          <article-title>Effects of electrodeposition periods and solution temperatures towards theproperties of CdS thin films prepared in the presence of sodium Tartrate</article-title>
+          <source>
+            <italic>Materials Science</italic></source>
+          <year>2005</year>
+          <volume>11</volume>
+          <issue>2</issue>
+          <fpage>101</fpage>
+          <lpage>104</lpage></nlm-citation>
+      </ref>
+      <ref id="B16" content-type="article">
+        <label>17</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>J. H.</given-names></name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>D. J.</given-names></name>
+          </person-group>
+          <article-title>Effects of CdCl<sub>2</sub> treatment on the properties of CdS films prepared by r.f. magnetron sputtering</article-title>
+          <source>
+            <italic>Thin Solid Films</italic></source>
+          <year>2007</year>
+          <volume>515</volume>
+          <issue>15</issue>
+          <fpage>6055</fpage>
+          <lpage>6059</lpage>
+          <pub-id pub-id-type="other">2-s2.0-34247387879</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.tsf.2006.12.069</pub-id></nlm-citation>
+      </ref>
+      <ref id="B17" content-type="article">
+        <label>18</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sahay</surname>
+              <given-names>P. P.</given-names></name>
+            <name>
+              <surname>Nath</surname>
+              <given-names>R. K.</given-names></name>
+            <name>
+              <surname>Tewari</surname>
+              <given-names>S.</given-names></name>
+          </person-group>
+          <article-title>Optical properties of thermally evaporated CdS thin films</article-title>
+          <source>
+            <italic>Crystal Research and Technology</italic></source>
+          <year>2007</year>
+          <volume>42</volume>
+          <issue>3</issue>
+          <fpage>275</fpage>
+          <lpage>280</lpage>
+          <pub-id pub-id-type="doi">10.1002/crat.200610812</pub-id></nlm-citation>
+      </ref>
+      <ref id="B18" content-type="article">
+        <label>19</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gupta</surname>
+              <given-names>S.</given-names></name>
+            <name>
+              <surname>Shaktawat</surname>
+              <given-names>V.</given-names></name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>K.</given-names></name>
+            <name>
+              <surname>Saxena</surname>
+              <given-names>N. S.</given-names></name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>T. P.</given-names></name>
+          </person-group>
+          <article-title>Mechanical property of CdS coated PET and mica films</article-title>
+          <source>
+            <italic>AIP Conference Proceedings</italic></source>
+          <volume>1004</volume>
+          <issue>1</issue>
+          <fpage>328</fpage>
+          <lpage>333</lpage></nlm-citation>
+      </ref>
+      <ref id="B19" content-type="article">
+        <label>20</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dixit</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Shaktawat</surname>
+              <given-names>V.</given-names></name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>K.</given-names></name>
+            <name>
+              <surname>Saxena</surname>
+              <given-names>N. S.</given-names></name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>T. P.</given-names></name>
+          </person-group>
+          <article-title>Mechanical characterization of polymethyl methacrylate and polycarbonate blends</article-title>
+          <source>
+            <italic>AIP Conference Proceedings</italic></source>
+          <volume>1004</volume>
+          <issue>1</issue>
+          <fpage>311</fpage>
+          <lpage>315</lpage></nlm-citation>
+      </ref>
+      <ref id="B20" content-type="book">
+        <label>21</label>
+        <nlm-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Menard</surname>
+              <given-names>K.</given-names></name>
+          </person-group>
+          <source>
+            <italic>Dynamic Mechanical Analysis: A Practical Introduction</italic></source>
+          <year>1999</year>
+          <publisher-loc>Boca Raton, Fla, USA</publisher-loc>
+          <publisher-name>CRC Press</publisher-name></nlm-citation>
+      </ref>
+      <ref id="B21" content-type="incollection">
+        <label>22</label>
+        <nlm-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Callister</surname>
+              <given-names>W. D. J.</given-names></name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Callister</surname>
+              <given-names>W. D. J.</given-names></name>
+            <name>
+              <surname>Rethwisch</surname>
+              <given-names>D. G.</given-names></name>
+          </person-group>
+          <article-title>Characteristics, applications and processing of polymers</article-title>
+          <source>
+            <italic>Materials Science and Engineering: An Introduction</italic></source>
+          <year>2000</year>
+          <publisher-name>John Wiley &#x26; Sons</publisher-name></nlm-citation>
+      </ref>
+      <ref id="B22" content-type="article">
+        <label>23</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martins</surname>
+              <given-names>C. R.</given-names></name>
+            <name>
+              <surname>De Almeida</surname>
+              <given-names>Y. M.</given-names></name>
+            <name>
+              <surname>Do Nascimento</surname>
+              <given-names>G. C.</given-names></name>
+            <name>
+              <surname>De Azevedo</surname>
+              <given-names>W. M.</given-names></name>
+          </person-group>
+          <article-title>Metal nanoparticles incorporation during the photopolymerization of polypyrrole</article-title>
+          <source>
+            <italic>Journal of Materials Science</italic></source>
+          <year>2006</year>
+          <volume>41</volume>
+          <issue>22</issue>
+          <fpage>7413</fpage>
+          <lpage>7418</lpage>
+          <pub-id pub-id-type="other">2-s2.0-33751531977</pub-id>
+          <pub-id pub-id-type="doi">10.1007/s10853-006-0795-z</pub-id></nlm-citation>
+      </ref>
+      <ref id="B23" content-type="article">
+        <label>24</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ziegler</surname>
+              <given-names>P.</given-names></name>
+            <name>
+              <surname>Vallat</surname>
+              <given-names>M. F.</given-names></name>
+            <name>
+              <surname>Haidara</surname>
+              <given-names>H.</given-names></name>
+            <name>
+              <surname>Schultz</surname>
+              <given-names>J.</given-names></name>
+          </person-group>
+          <article-title>Polyester/aluminium adhesion: improvement by heat treatments</article-title>
+          <source>
+            <italic>Journal of Materials Science</italic></source>
+          <year>1997</year>
+          <volume>32</volume>
+          <issue>7</issue>
+          <fpage>1809</fpage>
+          <lpage>1813</lpage>
+          <pub-id pub-id-type="other">2-s2.0-0031121267</pub-id></nlm-citation>
+      </ref>
+      <ref id="B24" content-type="article">
+        <label>25</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lalitha</surname>
+              <given-names>S.</given-names></name>
+            <name>
+              <surname>Sathyamoorthy</surname>
+              <given-names>R.</given-names></name>
+            <name>
+              <surname>Senthilarasu</surname>
+              <given-names>S.</given-names></name>
+            <name>
+              <surname>Subbarayan</surname>
+              <given-names>A.</given-names></name>
+            <name>
+              <surname>Natarajan</surname>
+              <given-names>K.</given-names></name>
+          </person-group>
+          <article-title>Characterization of CdTe thin film&#x2014;dependence of structural and optical properties on temperature and thickness</article-title>
+          <source>
+            <italic>Solar Energy Materials and Solar Cells</italic></source>
+          <year>2004</year>
+          <volume>82</volume>
+          <issue>1-2</issue>
+          <fpage>187</fpage>
+          <lpage>199</lpage>
+          <pub-id pub-id-type="other">2-s2.0-1942473117</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.solmat.2004.01.017</pub-id></nlm-citation>
+      </ref>
+      <ref id="B25" content-type="article">
+        <label>26</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baboo</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Dixit</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>K.</given-names></name>
+            <name>
+              <surname>Saxena</surname>
+              <given-names>N. S.</given-names></name>
+          </person-group>
+          <article-title>The Structure and thermomechanical properties of blends of trans-polyisoprene with cis-polyisopren</article-title>
+          <source>
+            <italic>International Journal of Polymeric Materials</italic></source>
+          <year>2009</year>
+          <volume>58</volume>
+          <issue>12</issue>
+          <fpage>636</fpage>
+          <lpage>646</lpage>
+          <pub-id pub-id-type="other">2-s2.0-70349649483</pub-id>
+          <pub-id pub-id-type="doi">10.1080/00914030903146704</pub-id></nlm-citation>
+      </ref>
+      <ref id="B26" content-type="article">
+        <label>27</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Singh</surname>
+              <given-names>D.</given-names></name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>K.</given-names></name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>G.</given-names></name>
+            <name>
+              <surname>Manupriya</surname></name>
+            <name>
+              <surname>Mohan</surname>
+              <given-names>S.</given-names></name>
+            <name>
+              <surname>Arora</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>G.</given-names></name>
+          </person-group>
+          <article-title>Optical and structural properties of ZnO-PbO-B<sub>2</sub>O<sub>3</sub> and ZnO-PbO-B<sub>2</sub>O<sub>3</sub>-SiO<sub>2</sub> glasses</article-title>
+          <source>
+            <italic>Journal of Physics: Condensed Matter</italic></source>
+          <year>2008</year>
+          <volume>20</volume>
+          <issue>7</issue>
+          <pub-id pub-id-type="doi">10.1088/0953-8984/20/7/075228</pub-id>
+          <pub-id pub-id-type="publisher-id">075228</pub-id></nlm-citation>
+      </ref>
+      <ref id="B27" content-type="article">
+        <label>28</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Singh</surname>
+              <given-names>R. R.</given-names></name>
+            <name>
+              <surname>Kaushik</surname>
+              <given-names>D.</given-names></name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>M.</given-names></name>
+            <name>
+              <surname>Gupta</surname>
+              <given-names>D. K.</given-names></name>
+            <name>
+              <surname>Pandey</surname>
+              <given-names>R. K.</given-names></name>
+          </person-group>
+          <article-title>Studies on surface processing and passivation of p-Hg<sub>1&#x2212;x</sub>Cd<sub>x</sub>Te</article-title>
+          <source>
+            <italic>Semiconductor Science and Technology</italic></source>
+          <year>2008</year>
+          <volume>23</volume>
+          <issue>1</issue>
+          <pub-id pub-id-type="publisher-id">015016</pub-id>
+          <pub-id pub-id-type="doi">10.1088/0268-1242/23/1/015016</pub-id></nlm-citation>
+      </ref>
+      <ref id="B28" content-type="article">
+        <label>29</label>
+        <nlm-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sun</surname>
+              <given-names>Z. B.</given-names></name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>X. Z.</given-names></name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>W. Q.</given-names></name>
+            <name>
+              <surname>Shoji</surname>
+              <given-names>S.</given-names></name>
+            <name>
+              <surname>Duan</surname>
+              <given-names>X. M.</given-names></name>
+            <name>
+              <surname>Kawata</surname>
+              <given-names>S.</given-names></name>
+          </person-group>
+          <article-title>Two- and three-dimensional micro/nanostructure patterning of CdS-polymer nanocomposites with a laser interference technique and in situ synthesis</article-title>
+          <source>
+            <italic>Nanotechnology</italic></source>
+          <year>2008</year>
+          <volume>19</volume>
+          <issue>3</issue>
+          <pub-id pub-id-type="other">2-s2.0-38649127267</pub-id>
+          <pub-id pub-id-type="doi">10.1088/0957-4484/19/03/035611</pub-id>
+          <pub-id pub-id-type="publisher-id">035611</pub-id></nlm-citation>
+      </ref></ref-list>
+  </back></article>
