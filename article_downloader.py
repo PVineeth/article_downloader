@@ -14,7 +14,7 @@ from datetime import datetime
 
 # http://api.crossref.org/works?query=%22sulphide%22&rows=1&filter=has-full-text:true,license.url:http://creativecommons.org/licenses/by/4.0/
 
-query = "chalcogenide"
+query = "water splitting"
 rows = 5000
 filters = ["has-full-text:true", "license.url"]
 licenses = list()
@@ -56,8 +56,8 @@ def main():
         else:
             writeLogs("Not running downloader!")
     
-    print("\nTotal No. Of Articles Retrieved: " + totalNoOfArticlesRetrieved)
-    writeLogs("\nTotal No. Of Articles Retrieved: " + totalNoOfArticlesRetrieved)
+    print("\nTotal No. Of Articles Retrieved: " + str(totalNoOfArticlesRetrieved))
+    writeLogs("\nTotal No. Of Articles Retrieved: " + str(totalNoOfArticlesRetrieved))
     print("\n\nCompleted!")
     writeLogs("\n\nCompleted!")
     writeLogs("\n----------------------------------------------")
@@ -141,7 +141,7 @@ def saveFile(url):
 
 def parallelDownloader():
     # Download Files Parallely
-    pool = ThreadPool(6)
+    pool = ThreadPool(12)
     results = pool.map(saveFile, ftURLList)
     start = timer()
     for r in results:
