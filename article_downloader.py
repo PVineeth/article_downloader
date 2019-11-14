@@ -14,7 +14,7 @@ from datetime import datetime
 
 # http://api.crossref.org/works?query=%22sulphide%22&rows=1&filter=has-full-text:true,license.url:http://creativecommons.org/licenses/by/4.0/
 
-query = "water splitting"
+query = "chemical"
 rows = 5000
 filters = ["has-full-text:true", "license.url"]
 licenses = list()
@@ -92,9 +92,17 @@ def jsonParser():
     links = list()
     global totalNoOfArticlesRetrieved
     global ftURLList
-    jsonContent = json.loads(jsonFile.content)
-    jsonMessage = jsonContent.get(("message"))
-    jsonItem = jsonMessage.get(("items"))
+    jsonContent = None
+    jsonItem = []
+    try:
+        jsonContent = json.loads(jsonFile.content)
+    except json.decoder.JSONDecodeError:
+        writeLogs("\nError reading JSON file. Maybe it's empty!\n Server is wack!")
+
+    if jsonContent != None:
+        jsonMessage = jsonContent.get(("message"))
+        jsonItem = jsonMessage.get(("items"))
+    
     #print(jsonItem)
     for item in jsonItem or []:
         links.append(item['link'])
@@ -135,13 +143,13 @@ def saveFile(url):
                 for data in getContent:
                     f.write(data)
         return url
-    except requests.exceptions.SSLError as errh:
-        writeLogs("Server Problem!\n")
+    except Exception as errh:
+        writeLogs(" -> Server Problem!\n")
 
 
 def parallelDownloader():
     # Download Files Parallely
-    pool = ThreadPool(12)
+    pool = ThreadPool()
     results = pool.map(saveFile, ftURLList)
     start = timer()
     for r in results:
@@ -161,7 +169,7 @@ def writeLogs(logStr):
     logWriter.write(logStr)
 
 # Print iterations progress
-def printProgressBar (iteration, total, prefix = '', suffix = '', decimals = 1, length = 100, fill = '█', printEnd = "\r"):
+def printProgressBar (iteration, total, prefix = '', suffix = '', decimals = 1, length = 100, fill = '█', printEnd = "\r",):
     """
     Call in a loop to create terminal progress bar
     @params:
@@ -174,6 +182,7 @@ def printProgressBar (iteration, total, prefix = '', suffix = '', decimals = 1, 
         fill        - Optional  : bar fill character (Str)
         printEnd    - Optional  : end character (e.g. "\r", "\r\n") (Str)
     """
+
     percent = ("{0:." + str(decimals) + "f}").format(100 * (iteration / float(total)))
     filledLength = int(length * iteration // total)
     bar = fill * filledLength + '-' * (length - filledLength)
